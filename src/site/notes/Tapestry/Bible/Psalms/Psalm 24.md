@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"dg-enable-search":true,"dg-showbacklinks":false,"dg-show-file-tree":false,"dg-home-link":true,"dg-show-toc":false,"dg-pinned":false,"dg-hide":false,"dg-note-icons":null,"title":"Psalm 24","aliases":["Psalm 24"],"translation":"New International Version","type":["reference"],"tags":["bible-verse","bible-verse"],"link":"https://www.biblegateway.com/passage/?search=Psalm%2024&version=NIV","created":"Tue, Nov 12, 2024, 1:48 pm (13:48)","last modified":"Tue, Nov 12, 2024, 1:50 pm (13:50)","status":null,"cssclasses":null,"permalink":"/tapestry/bible/psalms/psalm-24/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/psalms/psalm-24/","title":"Psalm 24","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 The earth is the Lord’s, and everything in it, the world, and all who live in it; for he founded it on the seas and established it on the waters.
