@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/test/","dgShowFileTree":true}
+{"dg-publish":true,"permalink":"/tapestry/test/","tags":["gardenEntry"],"dgShowFileTree":true}
 ---
 
 
