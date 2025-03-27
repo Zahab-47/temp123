@@ -1615,7 +1615,7 @@ God wants us to be clean before entering His Presence. In the Old Testament, thi
 
 *“…for the accuser of our brethren, who accused them before our God day and night, has been cast down. And they overcame him by the blood of the Lamb and by the word of their testimony...” [[Tapestry/Bible/Revelation/Revelation 12_10b-11a\|Revelation 12:10b–11a]]* #bible-verse 
 
-*“Receive the Holy Spirit. If you forgive anyone of their sins, they are forgiven; if you do not forgive them, they are not forgiven.”* *[[Tapestry/Bible/John/John  20_22b-23\|John 20:22b–23]]* #bible-verse 
+*“Receive the Holy Spirit. If you forgive anyone of their sins, they are forgiven; if you do not forgive them, they are not forgiven.”* *[[John  20_22b-23\|John 20:22b–23]]* #bible-verse 
 
 
 How do you nullify an accusation in a courtroom? The answer is simple, to be found “not guilty” of the crime. How then do those who are guilty cast down the accuser? The accuser (plaintiff) stands before God (Judge) in the throne room (courtroom) and points out the sins (offenses) of mankind (defendant) day and night. His objective is to present the times that we truly fell short of the glory of God, thus giving satan power or the “right to manifest on earth.”
