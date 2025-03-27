@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"dg-enable-search":true,"dg-showbacklinks":false,"dg-show-file-tree":false,"dg-home-link":true,"dg-show-toc":false,"dg-pinned":false,"dg-hide":false,"dg-note-icons":null,"title":"Ezekiel 33:7–9","aliases":["Ezekiel 33:7–9"],"translation":"New Living Version","type":["reference"],"tags":["bible-verse","bible-verse"],"link":"https://www.biblegateway.com/passage/?search=Ezekiel%2033%3A7-9&version=NIV","created":"Thu, Nov 07, 2024, 2:10 pm (14:10)","last modified":"Wed, Jan 08, 2025, 1:34 pm (13:34)","status":null,"cssclasses":null,"permalink":"/tapestry/bible/ezekiel/ezekiel-33-7-9/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/ezekiel/ezekiel-33-7-9/","title":"Ezekiel 33:7–9","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

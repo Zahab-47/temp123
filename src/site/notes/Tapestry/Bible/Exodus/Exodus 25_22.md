@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"dg-enable-search":true,"dg-showbacklinks":false,"dg-show-file-tree":false,"dg-home-link":true,"dg-show-toc":false,"dg-pinned":false,"dg-hide":false,"dg-note-icons":null,"title":"Exodus 25:22","aliases":["Exodus 25:22"],"translation":"New International Version","type":["reference"],"tags":["bible-verse","bible-verse"],"link":"https://www.biblegateway.com/passage/?search=Exodus%2025%3A22&version=NIV","created":"Mon, Nov 18, 2024, 4:40 pm (16:40)","last modified":"Mon, Nov 18, 2024, 4:41 pm (16:41)","status":null,"cssclasses":null,"permalink":"/tapestry/bible/exodus/exodus-25-22/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/exodus/exodus-25-22/","title":"Exodus 25:22","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

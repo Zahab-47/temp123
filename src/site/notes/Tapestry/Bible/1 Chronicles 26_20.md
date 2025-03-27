@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"dg-enable-search":true,"dg-showbacklinks":false,"dg-show-file-tree":false,"dg-home-link":true,"dg-show-toc":false,"dg-pinned":false,"dg-hide":false,"dg-note-icons":null,"title":"1 Chronicles 26:20","aliases":"1 Chronicles 26:20","translation":"New International Version","type":"reference","tags":["bible"],"link":"https://www.biblegateway.com/passage/?search=1%20Chronicles%2026%3A20&version=NIV","created":"Mon, Jan 13, 2025, 9:31 am (09:31)","last modified":"Mon, Jan 13, 2025, 9:32 am (09:32)","status":null,"cssclasses":null,"permalink":"/tapestry/bible/1-chronicles-26-20/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/1-chronicles-26-20/","title":"1 Chronicles 26:20","tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"dg-enable-search":true,"dg-showbacklinks":false,"dg-show-file-tree":false,"dg-home-link":true,"dg-show-toc":false,"dg-pinned":false,"dg-hide":false,"dg-note-icons":null,"title":"Jeremiah 16:18","aliases":["Jeremiah 16:18"],"translation":"New International Version","type":["reference"],"tags":["bible-verse","bible-verse"],"link":"https://www.biblegateway.com/passage/?search=Jeremiah%2016%3A18&version=NIV","created":"Tue, Dec 03, 2024, 3:18 pm (15:18)","last modified":"Tue, Dec 03, 2024, 3:18 pm (15:18)","status":null,"cssclasses":null,"permalink":"/tapestry/bible/jeremiah/jeremiah-16-18/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/jeremiah/jeremiah-16-18/","title":"Jeremiah 16:18","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 
