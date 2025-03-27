@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/genesis-8-21/","title":"Genesis 8:21","tags":["bible","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"dg-show-local-graph":true,"dg-enable-search":true,"dg-showbacklinks":false,"dg-show-file-tree":false,"dg-home-link":true,"dg-show-toc":false,"dg-pinned":false,"dg-hide":false,"dg-note-icons":null,"title":"Genesis 8:21","aliases":["Genesis 8:21"],"translation":"New International Version","type":["reference"],"tags":["bible","bible-verse"],"link":"https://www.biblegateway.com/passage/?search=Genesis%208%3A21&version=NIV","created":"Tue, Dec 17, 2024, 4:37 pm (16:37)","last modified":"Tue, Dec 17, 2024, 4:38 pm (16:38)","status":null,"cssclasses":null,"permalink":"/tapestry/bible/genesis-8-21/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgPassFrontmatter":true}
 ---
 
 

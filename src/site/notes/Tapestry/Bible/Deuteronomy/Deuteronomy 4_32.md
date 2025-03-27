@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/deuteronomy/deuteronomy-4-32/","title":"Deuteronomy 4:32","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"dg-show-local-graph":true,"dg-enable-search":true,"dg-showbacklinks":false,"dg-show-file-tree":false,"dg-home-link":true,"dg-show-toc":false,"dg-pinned":false,"dg-hide":false,"dg-note-icons":null,"title":"Deuteronomy 4:32","aliases":["Deuteronomy 4:32"],"translation":"New International Version","type":["reference"],"tags":["bible-verse","bible-verse"],"link":"https://www.biblegateway.com/passage/?search=Deuteronomy%204%3A32&version=NIV","created":"Tue, Nov 12, 2024, 3:38 pm (15:38)","last modified":"Wed, Jan 08, 2025, 4:51 pm (16:51)","status":null,"cssclasses":null,"permalink":"/tapestry/bible/deuteronomy/deuteronomy-4-32/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgPassFrontmatter":true}
 ---
 
 

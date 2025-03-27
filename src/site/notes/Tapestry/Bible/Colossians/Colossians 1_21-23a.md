@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/colossians/colossians-1-21-23a/","title":"Colossians 1:21-23a","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"dg-show-local-graph":true,"dg-enable-search":true,"dg-showbacklinks":false,"dg-show-file-tree":false,"dg-home-link":true,"dg-show-toc":false,"dg-pinned":false,"dg-hide":false,"dg-note-icons":null,"title":"Colossians 1:21-23a","aliases":"Colossians 1:21-23a","translation":"New International Version","type":"reference","tags":["bible-verse","bible-verse"],"link":"https://www.biblegateway.com/passage/?search=Colossians%201%3A21-23a&version=NIV","created":"Tue, Nov 19, 2024, 2:11 pm (14:11)","last modified":"Tue, Nov 19, 2024, 2:13 pm (14:13)","status":null,"cssclasses":null,"permalink":"/tapestry/bible/colossians/colossians-1-21-23a/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgPassFrontmatter":true}
 ---
 
  
