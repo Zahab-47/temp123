@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/books/4-res-toration-raw-text/","tags":["book/terraforming/kingdom"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/books/4-res-toration-raw-text/","tags":["book/terraforming/kingdom","complete-book"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 
@@ -5604,11 +5604,34 @@ SPIRITUAL SONS AND DAUGHTERS (pg. 61–67)
 
 ---
 
- SPIRITUAL MOTHERS AND FATHERS (pg. 61–67) 
 
-*You have called me to be a spiritual parent to others. I ask You to reveal to me every place of wounding in my life and every hard spot in my heart. I want to be free of pain and dysfunction so I can become the parent You made me to be. I repent for every time I’ve reacted from those soul wounds and sinned. I also forgive every person who wounded me, my forefathers, and all those my family has been in covenant with. I sprinkle us with the blood of Jesus so we are purified, redeemed, and restored. I hurl down the accuser with the blood of the Lamb and the word of our testimony. The memory of these sins is erased from creation.* 
+MOTHERS AND FATHERS
+Now that You have called me to be a spiritual parent to others, I
+ask You to reveal to me every place of wounding in my life and
+every hard spot in my heart so I can be free of the pain and
+dysfunction and become the parent that You want me to be. I
+repent for every time I have reacted to life through these soul
+wounds and sinned. I also forgive every person who wounded
+me, my forefathers, and all those we’ve been in covenant with. I
 
-*Father, I ask You to bring me a spiritual womb, an environment filled with You, so my spiritual children are safe and Loved while they grow up. I ask You to teach me how to steward this valuable resource in the Kingdom. I ask You to teach me Your will for disciplining spiritual children in this corporate adulthood of the Church. I ask You to reveal to and through me how discipline is Love. I ask You sharpen my discernment and bring me all the revelation I need to impart to these children. I ask You to bless these children so they can mature in Your timing, produce great fruit for the Kingdom, and one day become parents themselves, blessing me with spiritual grandchildren. I ask you to show me when and how to release my children so they can go and multiply. You are our God. You are our King. To You be the glory and honor forever. Amen.*
+sprinkle us with the Blood of Jesus that we are purified,
+redeemed, and restored. I hurl down the accuser with the Blood
+of the Lamb and the word of our testimony. The memory of these
+sins is erased from creation.
+Father, I ask You to bring to me a womb for my spiritual children
+to be safe and Loved while they grow up. I ask You to teach me
+how to steward this valuable resource in the Kingdom. I ask You
+to teach me Your will for disciplining spiritual children in the
+corporate adulthood of the church. I ask You to reveal to me
+and through me how discipline is Love. I ask that You sharpen
+my discernment and to bring to me all revelation that I will need
+to impart to these children. I ask You to bless these children that
+they would mature in Your timing, produce great fruit for the
+Kingdom, and one-day become parents themselves, blessing me
+with spiritual grandchildren. I ask you to show me when and
+how to release my children that they could go forth and multiply.
+You are our God. You are our King. To You be the glory, and
+honor forever. Amen.
 
 ---
 <p style="text-align:center;">
@@ -5624,18 +5647,13 @@ Sample Prayer - Chapter 6: Helen Keller
 
 RELEASING IRREVOCABLE GIFTS (pg. 69–75) 
 
-KEY 1-2: 
-God’s Light & Daily Bread
+KEY 1-2: God’s Light & Daily Bread
 
 Father, I ask You to shine the Light of Your Presence to reveal any hidden sins prohibiting me from operating in the fullness of my gifts. I ask You for daily bread of the revelation of Your design for these gifts. I ask for daily bread of the anointing being released for me to use them. I want them today, but I lay my agendas at Your feet. Come Holy Spirit, and lead me to the Father’s will in everything I do! 
 
-KEY 3: 
-The Blood of Jesus 
-Father, I repent of misunderstanding my own gifting and reacting out of my flesh. I repent for hurting my brothers and sisters in the process. I repent of hurting myself. I realize You have a design for these gifts that is better than good; it’s the best! I repent for using these gifts for my will done instead of Yours. I repent of any vows I made never to use my gifts again because they caused me pain. I receive the blood of Jesus. 
+KEY 3: The Blood of Jesus Father, I repent of misunderstanding my own gifting and reacting out of my flesh. I repent for hurting my brothers and sisters in the process. I repent of hurting myself. I realize You have a design for these gifts that is better than good; it’s the best! I repent for using these gifts for my will done instead of Yours. I repent of any vows I made never to use my gifts again because they caused me pain. I receive the blood of Jesus. 
 
-KEY 4: 
-The Authority of Jesus 
-Father, I forgive anyone You called who failed to nurture and develop me in my gifts. I forgive those who assessed, judged, and accused me of evil things when I was unknowingly operating in the gifts You gave me. I forgive anyone who used their authority to shut down my gifts. I forgive them all, our forefathers, those we’ve been in covenant with, and any who’ve trespassed against us. I wash us all with Jesus’ blood, and we are now purified, redeemed, and restored back to You. I hurl down the accuser with the blood of the Lamb and the word of our testimony.
+KEY 4: The Authority of Jesus Father, I forgive anyone You called who failed to nurture and develop me in my gifts. I forgive those who assessed, judged, and accused me of evil things when I was unknowingly operating in the gifts You gave me. I forgive anyone who used their authority to shut down my gifts. I forgive them all, our forefathers, those we’ve been in covenant with, and any who’ve trespassed against us. I wash us all with Jesus’ blood, and we are now purified, redeemed, and restored back to You. I hurl down the accuser with the blood of the Lamb and the word of our testimony.
 
 ---
 <p style="text-align:center;">
@@ -5647,70 +5665,63 @@ Father, I forgive anyone You called who failed to nurture and develop me in my g
 
 ---
 
-*The memory of these sins is erased. The curses are undone. All defilement, especially idolatry, is washed away. All lies, accusations, theft, and destruction are revealed in the Light, forgiven, and washed away. The victims are set free. Every vow or declaration of evil is dissolved. All Christian prayers and commands outside of the will of the Father, manipulation, control, and witchcraft are dismantled, unraveled, undone, and rendered powerless. The conspiracies against me are thwarted. No weapons formed against me will prosper. The gates into my life are off-limits to the enemy camp.*
-
-*Every demon interfering with Your will that has lost its rights is bound, and I cast them to the feet of Jesus, never to return. In the mighty name of Yeshua, I pray. Amen.*
-
-
----
-<p style="text-align:center;">
-- 279 -
-
-</p> 
-{ #p279}
-
-
----
-
-
-<u>Sample Prayers - Chapter 7: Driver’s Education</u>
-
-HEART AND MOTIVES (pg. 81–82) 
-
-*Father, we thank You for the privilege of operating in the Kingdom of God with the Keys You’ve given us. We desire to stay on the road that leads to life. We repent for every time we have veered from Your will. We receive the blood of Jesus and are purified, redeemed, and restored back to You. We hurl down the accuser. We choose to concentrate and not become distracted by the lure of the world’s riches or pleasures. We also choose not to bow down to fear, anger, or the false need to control. You are our source of everything. Amen.* 
-
-ACCOUNTABILITY (pg. 82–85) 
-
-*Father, we are grateful to have turned down a one-way street. There’s no going back for us. We want You and no other god. We freely choose to yield to Your heat and pressure to see any selfish behavior changed to Love. We trust You to mold the integrated parts of our soul that were healed by the blood of the Lamb and the word of our testimony. We choose to become vulnerable to Your Light and any person You’ve placed in our lives for the process of accountability. We choose to decline any demonic offer of becoming self-focused. We choose to stay on the narrow road of Your will done. We choose selflessness. Amen.*
-
-YES, NOW! (pg. 85–86) 
-
-*Heavenly Father, we recognize You will call us to do things we’re not capable of by ourselves. We also recognize that the timing of our obedience is critical and any delays could result in harm to individuals or the Kingdom. Therefore, we ask You to prepare us for what You will call us too soon. We ask You to intervene with Your grace so that when the invitation comes, we can say “Yes!” immediately and quickly do what You’ve called us to. We ask You to mold us so that when our training is over, we’re ready. We don’t accept excuses for not saying yes immediately. We choose You in every moment from this moment on! Jesus is Lord! Amen.*
-
-
----
-<p style="text-align:center;">
-- 280 -
-
-</p> 
-{ #p280}
-
-
----
-
-<u>Appendix Sample Prayers - Chapter 7: Driver’s Education (cont.) </u>
-
-SHIP’S COMPLEMENT (pg. 86–88) 
-
-Women - Steering with Discernment 
-
-Father, as women, we choose to accept Your call to operate the helm of the ship, the Church in its adult season. We receive the wheel while recognizing that we’re not steering for our will to be done. We choose to continue listening to Jesus’ voice as the captain and will turn the ship when He calls us to without hesitation. We forgive any men who have kept us from our true calling as discerners, moving on Earth according to what we hear in Heaven. We repent for any way we haven’t seen men for what they were called to be. 
-
-Men - Building with Heaven’s Blueprint 
-
-Father, as men, we choose to accept Your call to be the engineers of the ship, the Church in its adult season. We receive the blueprints of Your design and will build this ship according to Your plans. We accept our call to fix the ship and perform preventative maintenance. We forgive any women who didn’t allow us to fix things. We repent for not releasing them to steer the ship and not validating their spiritual discernment. We are all washed with the blood of Jesus and are purified, redeemed, and restored back to You. The accuser is hurled down. Amen.
-
----
-<p style="text-align:center;">
-- 281 -
-
-</p> 
-{ #p281}
-
-
----
-
-
+Sample Prayers from DRIVER’S EDUCATION
+HEART / MOTIVES
+Father, we thank You for the privilege of operating in the
+Kingdom of God with the Keys you’ve given us. It is our desire
+to stay on the road that leads to life. We repent for every time we
+have veered from Your will. We receive the Blood of Jesus and
+are now purified, redeemed, and restored back to You. We hurl
+down the accuser. We choose to concentrate and to not become
+distracted by the lures of the world in riches or pleasures. We
+also choose not to bow down to fear, anger, or the false need to
+control. You are our source of everything. Amen.
+ACCOUNTABILITY
+Father, we are grateful to have turned down a one way street.
+There is no going back for us. We want You and no other god.
+We freely choose to yield to the heat and pressure required to see
+the parts of our soul that have been healed and integrated by the
+Blood of the Lamb and the word of our testimony. We choose to
+become vulnerable to Your Light and to the person you have
+placed in our lives for the process of accountability. We choose
+to decline every demonic offer of becoming self-focused. We
+choose to stay on the narrow road of Your will done. We choose
+selflessness. Amen.
+YES, NOW!
+Heavenly Father, we recognize that there are things You will call
+us to that we are not capable of doing through ourselves. We
+also recognize that the timing of our obedience is critical and
+that any delays could result in harm to the Kingdom, or
+individual sons and daughters. We therefore ask You to prepare
+us now for those things that You will call us to soon. We ask You
+to intervene with Your grace now so that when the invitation
+comes, we can say YES immediately, and immediately do what
+You’ve called us to. We ask You to mold us now so when the
+training is over, we are ready. We don’t accept excuses for not
+saying ‘yes’ immediately. We choose to choose You in every
+moment from this moment on! Jesus is Lord! Amen.
+SHIP’S COMPLEMENT
+Father, as women, we choose to accept Your call of operating the
+helm of the ship. We receive the steering wheel, while
+Appendix
+279
+recognizing that it is not for our will done. We choose to
+continue listening to Jesus’ voice and turning the ship when He
+calls us to, without hesitation. We forgive the men for keeping us
+from our true calling as discerners who move on earth according
+to what we hear in heaven. We repent for not seeing the men for
+what they were called to be.
+Father, as men, we choose to accept Your call of being the
+engineers of the ship. We receive the blueprints of design from
+the Father and will build the ship according to Your plans. We
+accept our call to fix the ship and to perform preventative
+maintenance. We forgive the women for not allowing us to fix
+things. We repent for not releasing them to steer, and for not
+validating their spiritual discernment. We are all washed with
+the Blood of Jesus, and are now purified, redeemed, and restored
+back to You. The accuser is hurled down. Amen.
+Terraforming RESToration
+280
 Sample Prayer Template: PURE HEART PART ONE -
 KINGDOM DNA
 Customize these by changing the gender, splinters, root of

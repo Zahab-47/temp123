@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/books/1-kingdom/terraforming-for-the-kingdom/","tags":["book/terraforming/kingdom"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/books/1-kingdom/terraforming-for-the-kingdom/","tags":["book/terraforming/kingdom","complete-book"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 
@@ -763,36 +763,40 @@ Jesus Christ is King, SJN
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tapestry/books/1-kingdom/chapters/chapter-0-what-is-terraforming/#what-is-terraforming" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-## What is Terraforming?
+### What is Terraforming?
 
-Power and authority are given to [[Tapestry/WIKI/Articles/satan\|satan]] and [[kingdom of darkness\|his kingdom]] every time we freely choose to [[sin\|sin]]. This is the motivation for the evil one to lie, steal, kill, and destroy to get humans to believe that their choices are founded in [[Truth\|Truth]], when they are not. These sins are presented in heaven (court room) by the [[Tapestry/WIKI/Articles/satan\|accuser]] (plaintiff) against all of mankind (defendant) day and night. #sin #satan #accuser #kingdom-of-darkness #power #authority #choice #court-room #legal-right #heaven
+Power and authority are given to [[Tapestry/WIKI/Articles/satan\|satan]] and [[kingdom of darkness\|his kingdom]] every time we freely choose to [[sin\|sin]]. This is the motivation for the evil one to lie, steal, kill, and destroy to get humans to believe that their choices are founded in [[Truth\|Truth]], when they are not. These sins are presented in heaven (court room) by the [[accuser\|accuser]] (plaintiff) against all of mankind (defendant) day and night. #sin #satan #accuser #kingdom-of-darkness #power #authority #choice #court-room #legal-right #heaven
 
-As the [[Tapestry/WIKI/Articles/Light of Jesus\|Light of Jesus]] reveals the root sin, [[Tapestry/WIKI/Articles/royal priests\|royal priests]] strip evil of these rights by [[Full Forgiveness\|fully forgiving]] the person who sinned, sprinkling them with the [[Tapestry/WIKI/Articles/blood of Jesus\|Tapestry/WIKI/Articles/blood of Jesus]]. The accuser is then hurled down by the [[word of their testimony\|word of their testimony]], which describes what the blood of Jesus did for the sinner: they are [[Full Forgiveness\|purified of all unrighteousness, redeemed of every debt, and restored near to God]]. #sin #satan #accuser #kingdom-of-darkness #light-of-jesus #word-of-testimony #sin #root #royal-priest #legal-right #full-forgiveness #purification #redemption #restoration #authority-of-christ #freedom #reconciliation 
+As the [[Tapestry/WIKI/Articles/Light of Jesus\|Light of Jesus]] reveals the root sin, [[Tapestry/WIKI/Articles/royal priests\|royal priests]] strip evil of these rights by [[Full Forgiveness\|fully forgiving]] the person who sinned, sprinkling them with the [[Tapestry/WIKI/Articles/blood of Jesus\|blood of Jesus]]. The accuser is then hurled down by the [[word of their testimony\|word of their testimony]], which describes what the blood of Jesus did for the sinner: they are [[Full Forgiveness\|purified of all unrighteousness, redeemed of every debt, and restored near to God]]. #sin #satan #accuser #kingdom-of-darkness #light-of-jesus #word-of-testimony #sin #root #royal-priest #legal-right #full-forgiveness #purification #redemption #restoration #authority-of-christ #freedom #reconciliation 
 
 It is with this [[Authority of Christ\|authority of Jesus]] that royal priests dismantle the kingdom of darkness, thereby setting the captives free. The people of God can then gather these newly freed disciples (learners), impart to them the [[Gospel\|Gospel of Jesus Christ]], and then release them into their [[irrevocable gifts and callings\|irrevocable gifts and callings]] for which Christ Jesus took ahold of them. When this happens across the entire world, creation will be reformed, or (“_terra”_ - _Latin :_ _earth_) (“_forma”_ - _Latin :_ _molded_), Terraformed for the Kingdom of God. #kingdom-of-darkness #authority-of-christ #terraforming #royal-priest #freedom #discipleship #creation #gospel
 
 As royal priests, we are preparing creation (people, places, things) for His [[God's Presence\|Presence]] through His Light ([[Tapestry/Bible/Psalms/Psalm 43_3\|Psalm 43:3]]), His Blood ([[Tapestry/Bible/Hebrews/Hebrews 10_19\|Hebrews 10:19]]), and His Authority ([[Tapestry/Bible/John/John 20_21\|John 20:21]]). #bible-verse #royal-priest #creation #presence-of-god #blood-of-Jesus #light-of-jesus #authority-of-christ #terraforming 
 
 ---
+
 ###### References: 
 
 [[Tapestry/Bible/Luke/Luke 4_6\|Luke 4:6]], [[Tapestry/Bible/Acts/Acts 26_17–18\|Acts 26:17-18]], [[Tapestry/Bible/Romans/Romans 6_23\|Romans 6:23]], [[Tapestry/Bible/John/John 10_10\|John 10:10]], [[Tapestry/Bible/John/John 8_44\|John 8:44]], [[Tapestry/Bible/Revelation/Revelation 12_10-11\|Revelation 12:10-11]], [[Tapestry/Bible/John/John 8_12\|John 8:12]], [[Tapestry/Bible/Psalms/Psalm 90_8\|Psalm 90:8]], [[Tapestry/Bible/1 Peter/1 Peter 2_9\|1 Peter 2:9]], [[Tapestry/Bible/John/John 20_23\|John 20:23]], [[Tapestry/Bible/Hebrews/Hebrews 9_22\|Hebrews 9:22]], [[Tapestry/Bible/John/John 13_10-16\|John 13:10-16]], [[Tapestry/Bible/1 John/1 John 1_7\|1 John 1:7]], [[Tapestry/Bible/Ephesians/Ephesians 1_7\|Ephesians 1:7]], [[Tapestry/Bible/Ephesians/Ephesians 2_13\|Ephesians 2:13]], [[Tapestry/Bible/Luke/Luke 10_19\|Luke 10:19]], [[Tapestry/Bible/Micah/Micah 5_10-15\|Micah 5:10-15]], [[Tapestry/Bible/Isaiah/Isaiah 61_1\|Isaiah 61:1]], [[Tapestry/Bible/Matthew/Matthew 28_19-20\|Matthew 28:19-20]], [[Tapestry/Bible/1 Corinthians/1 Corinthians 12\|1 Corinthians 12]], [[Tapestry/Bible/Romans/Romans 11_29\|Romans 11:29]], and [[Tapestry/Bible/Philippians/Philippians 3_12\|Philippians 3:12]]. #bible-verse
-
-
-</div></div>
-^l8qst7
 
 ---
 <p style="text-align:center;">
 - 9 -
 
 </p> 
-{ #p9}
 
+
+---
+
+##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents#Table of Contents\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1: Creation\|Next ►]]
+
+
+</div></div>
+^l8qst7
 
 ---
 
@@ -994,7 +998,8 @@ God called it the “tree of the knowledge of good and evil.” By eating the fr
 
 For good and evil to exist without chaos, there had to be consequence, implication, and result. These are mandatory to the completion of love. From this came the concepts of benefit and detriment. As God has defined it, love is good. As such, “benefit” was assigned to choices of good and “detriment” was assigned to choices of evil. God is directing His creation towards Love. That is where His plan is heading.
 
-*“He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away.” [[Revelation 21_4 \| Revelation 21:4]]* #bible-verse 
+> [!quote]+ 
+> *“He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away.” [[Revelation 21_4 \| Revelation 21:4]]* #bible-verse 
 
 Just as we are capable with effort to comprehend the concept of “never ending,” so too are we able to grasp “Heaven.” The idea of incomprehensible peace, joy, happiness, and above all love is like thinking of winning the lottery. We dream of Heaven with 
 
@@ -1010,7 +1015,8 @@ Just as we are capable with effort to comprehend the concept of “never ending,
 
 ear-to-ear grins. The more we get to know our God, the more we want to spend all of our time with Him. Heaven is the culmination of creation: God the Lover and us the Loved. #heaven #love #heart-of-God #creation #never-ending 
 
-*“They will be tormented with burning sulfur in the presence of the holy angels and of the Lamb. And the smoke of their torment rises for ever and ever.”[[Tapestry/Bible/Revelation/Revelation 14_10b-11a\| Revelation 14:10b –11a]]* #bible-verse 
+> [!quote]+ 
+> *“They will be tormented with burning sulfur in the presence of the holy angels and of the Lamb. And the smoke of their torment rises for ever and ever.” [[Tapestry/Bible/Revelation/Revelation 14_10b-11a\| Revelation 14:10b –11a]]* #bible-verse 
 
 Along the lines of “never beginning,” the horrors of hell are beyond any nightmare we’ve ever encountered. The idea of being alone, in pain, suffering with unquenchable thirst is enough to make anyone tremble. Hell is real. It is the ultimate detriment that results from choosing “not love.” We are free to make whatever choice we want to, and we receive the consequence of those choices just the same. #not-love #never-beginning #choice 
 
@@ -1032,11 +1038,13 @@ We are created singular, that is one person. In this state, we find ourselves we
 
 ### Savior
 
-*“For God so loved the world that he gave his one and only Son, that whoever believes in Him shall not perish but have eternal life.”[[John 3_16 \| John 3:16]]* #bible-verse 
+> [!quote]+ 
+>*“For God so loved the world that he gave his one and only Son, that whoever believes in Him shall not perish but have eternal life.”[[John 3_16 \| John 3:16]]* #bible-verse 
 
 All of this presented our need for a savior. God knew that we needed a change in nature to be able to meet the qualifications of love. Therefore, He elevated us up to His level by sending His only Son into the world to live as one of us and die innocent. His blood brought about the ultimate change in condition: Redemption. We have become worthy of being called the Lover and Loved of God through the fullness of Christ within us who is our righteousness and makes us Holy and Blameless in the eyes of our Father. #blood-of-Jesus #forgiveness #redemption #restoration 
 
-*“And if anyone does not have the Spirit of Christ, he does not belong to Christ. But if Christ is in you, your body is dead because of sin, yet your spirit is alive because of righteousness.” [[Romans 8_9b-10 \| Romans 8:9b-10]]* #bible-verse #change #spirit-of-God #redemption 
+> [!quote]+ 
+>*“And if anyone does not have the Spirit of Christ, he does not belong to Christ. But if Christ is in you, your body is dead because of sin, yet your spirit is alive because of righteousness.” [[Romans 8_9b-10 \| Romans 8:9b-10]]* #bible-verse #change #spirit-of-God #redemption 
 
 The author of life loved us so much that He died so we could be free and have real life. We were created in His image so we could be called His sons and daughters and not His slaves. But that meant our having the freedom to choose Love or not-love. This is required for Love to be fulfilled, but hard for the Author of Life because He must watch as we make choices that harm ourselves and his other children. Jesus died for us so we could become the worthy Lover and Loved of God. Now with His Light, Blood, and Authority, we are able to live as His children, bringing the gospel of Jesus Christ and the Will of the Father to earth as it is in Heaven. There is much to do. While we’ve been distracted with other things, the evil one has infested the earth with darkness. #jesus #heaven #love #not-love #sons-and-daughters #relationship #inheritance #distraction #evil-one 
 
@@ -1079,7 +1087,8 @@ The Father wants the chosen, grown-up children to have His Heart, a heart of sel
 
 ### Listeners Who Learn
 
-*“But when he, the Spirit of truth, comes, he will guide you into all truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come.” [[John 16_13 \| John 16:13]]* #bible-verse 
+> [!quote]+ 
+>*“But when he, the Spirit of truth, comes, he will guide you into all truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come.” [[John 16_13 \| John 16:13]]* #bible-verse 
 
 The Father is very wise. He needs His children to trust His Wisdom and to listen to Him speak. He knows us better than we will ever know ourselves. He wants us to trust Him to teach us how to become the men and women we were created to be. He also knows where His lost daughter is and how to get her.  He
 
@@ -1099,7 +1108,8 @@ The Father has sent us out with His Helper, the Holy Spirit, who leads us to His
 
 The key to successful listening is being baptized in the Holy Spirit ([[Tapestry/Bible/Acts/Acts 1_5\| Acts 1:5]], [[Tapestry/Bible/Romans/Romans 8_10\| Rom. 8:10]]) and having an ever-shrinking list of things that distract us from hearing. As the world’s demand for convenience grows, the list of distractions in our lives is rising like a rocket. As with all things, we must deal with modern conveniences using great wisdom. Two key examples are the television set and the internet-ready computer. The goal of the enemy is to rob us of time with our God, and that makes us ineffective children. We start to win the war when more of our time is spent soaking in the Presence of our Father.
 
-*“Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of men in their deceitful scheming. Instead, speaking the truth in love, we will in all things grow up into Him who is the Head, that is, Christ.” [[Ephesians 4_14-15 \| Ephesians 4:14-15]]* #bible-verse #holy-spirit #His-will #wisdom #maturity 
+> [!quote]+ 
+>*“Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of men in their deceitful scheming. Instead, speaking the truth in love, we will in all things grow up into Him who is the Head, that is, Christ.” [[Ephesians 4_14-15 \| Ephesians 4:14-15]]* #bible-verse #holy-spirit #His-will #wisdom #maturity 
 
 Mature children know to only listen to their Father’s report. When the Israelites were about to enter the land Canaan that was promised by God, Moses sent spies to ascertain the lay of the land. They brought back good news; the land was full of milk and honey. They also brought back an evil report; the land was full of giants that needed to be conquered before they could take it. To the demise of that generation, they listened to the evil report and faltered. They should have listened to neither. The only thing that mattered was that God promised the land.
 
@@ -1115,17 +1125,20 @@ Mature children know to only listen to their Father’s report. When the Israeli
 
 ### Responsible
 
-*“The tongue has the power of life and death, and those who love it will eat its fruit.” [[Proverbs 18_21 \|Proverbs 18:21]]* #bible-verse 
+> [!quote]+ 
+>*“The tongue has the power of life and death, and those who love it will eat its fruit.” [[Proverbs 18_21 \|Proverbs 18:21]]* #bible-verse 
 
 The Father is sending us off as His Representatives. We carry His authority with us as His Children. Mature sons and daughters of the King know that their words have great power. It is imperative that we speak out the Truth that God speaks to our hearts and nothing else. We have been given great authority through the Holy Spirit and great power through the Blood of Jesus. The Lord is teaching us daily to make us mature in Him so we can be good stewards of this. It should never be taken lightly. #truth #holy-spirit #heaven #steward #legacy #trust #authority 
 
-*“I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.” [[Tapestry/Bible/Matthew/Matthew 16_19\| Matthew 16:19]]* #bible-verse 
+> [!quote]+ 
+>*“I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.” [[Tapestry/Bible/Matthew/Matthew 16_19\| Matthew 16:19]]* #bible-verse 
 
 Sons and daughters with strength of character do not allow evil words to leave their mouths. There is a concept in American vernacular today known as “venting,” which is short for ventilation or, the release of something that has been contained under pressure (my definition). More specifically, “spewing words of frustration about how the actions of a person affected MY agenda.” This is fruit of demonic lies that try to get us to judge the actions of another person. Over time, it builds up within us with great pressure. The enemy wants to get us to speak this out in a public setting to destroy our credibility or to cause an offense in another person. “Venting” has no purpose in the Kingdom of God (See  [[Matthew 12_33-37 \|Matt. 12:33-37]]). It is a good example of how we have been misled into using the power God gave us for ill. #bible-verse #selfishness #self-sourcing #self-protection 
 
 ##### Kingdom Focused
 
-*“Once, having been asked by the Pharisees when the kingdom of God would come, Jesus replied, "The kingdom of God does not come with your careful observation, nor will people say, 'Here it is,' or 'There it is,' because the kingdom of God is within you.’” [[Luke 17_20-21 \| Luke 17:20-21]]
+> [!quote]+ 
+>*“Once, having been asked by the Pharisees when the kingdom of God would come, Jesus replied, "The kingdom of God does not come with your careful observation, nor will people say, 'Here it is,' or 'There it is,' because the kingdom of God is within you.’” [[Luke 17_20-21 \| Luke 17:20-21]]
 
 ---
 <p style="text-align:center;">
@@ -1142,7 +1155,8 @@ Our Father is not just a wealthy and powerful man, He is the King. That makes us
 
 The Father wants to teach us to become men and women of character. The fruit of this is love. By spending intimate time with Him, we learn to hear His voice and grow closer to Him. It is here in this place that God reveals the mysteries of His Heart to us. True joy is being in the Presence of the Lord. *“You have made known to me the path of life; you will fill me with joy in your presence, with eternal pleasures at your right hand.”* [[Tapestry/Bible/Psalms/Psalm 16_11\|Ps. 16:11]]  #bible-verse 
 
-“But you are a chosen people, a royal priesthood, a holy nation, a people belonging to God, that you may declare the praises of Him who called you out of darkness into His wonderful light.” [[Tapestry/Bible/1 Peter/1 Peter 2_9\|1 Peter 2:9]] #bible-verse 
+> [!quote]+ 
+>“But you are a chosen people, a royal priesthood, a holy nation, a people belonging to God, that you may declare the praises of Him who called you out of darkness into His wonderful light.” [[Tapestry/Bible/1 Peter/1 Peter 2_9\|1 Peter 2:9]] #bible-verse 
 
 A **royal priest ** is a son of man (human), filled with the Holy Spirit, and commissioned by the King of Kings, Jesus Christ. The Lamb that was slain redeemed us to God and made us to have the authority to rule a kingdom and to be priests that reign on the earth ( [[Tapestry/Bible/Revelation/Revelation 5_9-10\|Rev. 5:9-10]]). As priests, we prepare the environment in advance of God’s coming, usher in His Presence, and minister to His Heart through praise and worship. As kings, we move with the authority of the High King to defeat the enemies of God and establish His Will on the earth. This combination of privileges defines our Kingdom identity and destiny. #bible-verse #love #heart-of-God #intimacy #royal-priest #His-will #destiny 
 
@@ -1158,7 +1172,8 @@ A **royal priest ** is a son of man (human), filled with the Holy Spirit, and co
 
 ### Mission
 
-*“I tell you the truth, anyone who has faith in me will do what I have been doing. He will do even greater things than these, because I am going to the Father.” [[John 14_12 \|John 14:12]]* #bible-verse 
+> [!quote]+ 
+>*“I tell you the truth, anyone who has faith in me will do what I have been doing. He will do even greater things than these, because I am going to the Father.” [[John 14_12 \|John 14:12]]* #bible-verse 
 
 Jesus emulated for us everything we will do on this mission. He brought Light and Truth everywhere He went. He healed the sick, raised the dead, performed miracles and supernatural signs and wonders. He Loved. His Blood empowers us and His Holy Spirit authorizes us to do the same and more.
 
@@ -1207,11 +1222,13 @@ Terraformers change conditions (atmospheres) to reform earth. Using “Terraform
 
 ### His Presence
 
-*“There, above the cover between the two cherubim that are over the ark of the Testimony, I will meet with you and give you all my commands for the Israelites.” [[Exodus 25_22 \| Exodus 25:22]]* #bible-verse 
+> [!quote]+ 
+>*“There, above the cover between the two cherubim that are over the ark of the Testimony, I will meet with you and give you all my commands for the Israelites.” [[Exodus 25_22 \| Exodus 25:22]]* #bible-verse 
 
 God is everywhere ([[Psalm 139_7-8 \| Ps. 139:7-8]]). He has no beginning and no end. He is all-powerful ([[Tapestry/Bible/Luke/Luke 1_37\| Luke 1:37]]) and all knowing ([[Tapestry/Bible/Hebrews/Hebrews 4_13\|Heb. 4:13]]). That being said, God also chooses to dwell with His people in an intimate way. He gives us more of Him so we can detect His Presence, and receive from Him in a direct way. We receive revelation, healing, comfort, joy, and euphoria in this place of love and affection. We also give to Him as we minister to His Heart through our thanksgiving, praise, and worship. The Presence of the Lord is priceless and above all value. When David felt distant from It, he cried out for It (Psalm 13).  #heart-of-God #kingdom #royal-priest  #revelation 
 
-*“You have made them to be a kingdom *[royal power to rule over a kingdom] *and priests to serve our God, and they will reign on the earth.” [[Tapestry/Bible/Revelation/Revelation 5_10\|Revelation 5:10]]* #bible-verse
+> [!quote]+ 
+>*“You have made them to be a kingdom *[royal power to rule over a kingdom] *and priests to serve our God, and they will reign on the earth.” [[Tapestry/Bible/Revelation/Revelation 5_10\|Revelation 5:10]]* #bible-verse
 
 God is holy. There is no chance of Him doing evil. Before welcoming the Lord to dwell among us in this intimate setting, we must prepare for Him as priests. This role includes washing the area of all evil so our Lord is not welcomed into an unholy environment. Terraforming is changing the environment of a person, place, or thing from unclean to clean, from evil to good. We destroy demonic strongholds and establish a stronghold for the Kingdom of God.
 
@@ -1232,7 +1249,8 @@ Any person, place, or thing is Terraformed when we pray over them. The first par
 
 ##### People
 
-*“Who may ascend into the hill of the LORD? Or who may stand in His holy place? He who has clean hands and a pure heart…” [[Tapestry/Bible/Psalms/Psalm 24_3-4a\| Psalm 24:3-4a]]* #bible-verse
+> [!quote]+ 
+>*“Who may ascend into the hill of the LORD? Or who may stand in His holy place? He who has clean hands and a pure heart…” [[Tapestry/Bible/Psalms/Psalm 24_3-4a\| Psalm 24:3-4a]]* #bible-verse
 
 God was clear in His instructions to the Israelites that they were to be clean before entering His presence or witnessing His move. The people of God were commanded to wash their clothes before the cloud came to them to demonstrate the Fire / power of God just prior to the giving of the Ten Commandments ([[Exodus 19_10 \|Ex. 19:10]]). #bible-verse 
 
@@ -1256,7 +1274,8 @@ Many times we pray for people that are not in the room with us while we are pray
 
 ### Places
 
-*“And so they will cleanse the land.” [[Tapestry/Bible/Ezekiel/Ezekiel 39_16\| Ezekiel 39:16]]* #bible-verse 
+> [!quote]+ 
+>*“And so they will cleanse the land.” [[Tapestry/Bible/Ezekiel/Ezekiel 39_16\| Ezekiel 39:16]]* #bible-verse 
 
 God has also referred to the cleansing of the land. This can be seen when God speaks through the prophet Ezekiel about the future downfall of Gog, probably the king of Magog – a land north of the Black Sea and east of the Aral Sea. After God draws the armies of Magog to the mountains of Israel, He slaughters them there. God tells His people to bury the dead to cleanse the land. It is critical to recognize the significance of what God is saying here. 
 
@@ -1297,7 +1316,8 @@ Another excellent example is a hotel room. We advise that you do not sleep in a 
 
 ### Things
 
-*"See!" he said to all the people. "This stone will be a witness against us. It has heard all the words the LORD has said to us. It will be a witness against you if you are untrue to your God." [[Tapestry/Bible/Joshua/Joshua 24_27\| Joshua 24:27]]* #bible-verse 
+> [!quote]+ 
+>*"See!" he said to all the people. "This stone will be a witness against us. It has heard all the words the LORD has said to us. It will be a witness against you if you are untrue to your God." [[Tapestry/Bible/Joshua/Joshua 24_27\| Joshua 24:27]]* #bible-verse 
 
 The stone *heard *all the words that the Lord said??? How is this possible? Joshua demonstrates in this verse that matter has God- given memory and testifies to the words of the Lord. So too, our words, actions, and choices remain as a testimony that will either be for us or against us ([[Tapestry/Bible/Matthew/Matthew 12_36-37\| Matt. 12:36-37]]). If a person commits a sin in a room, the materials in that room will remember the sin. These include the wood in the floor or furniture, the paint on the walls, and the metals in the fixtures. When entering this room for Kingdom work, these memories must be washed, or erased, through forgiveness with the Blood of Jesus. #bible-verse #forgiveness #terraforming 
 
@@ -1332,10 +1352,10 @@ The Lord is holy. He wants us to be clean before entering His presence. He does 
 ## Chapter 4: The Light of Jesus
 #light-of-jesus
 
-*“You have set our iniquities before You, our secret sins in the Light of Your Presence.”*
-*[[Tapestry/Bible/Psalms/Psalm 90_8\| Psalm 90:8]]* #bible-verse 
-
-*“I am the Light of the world. Whoever follows Me will never walk in darkness, but will have the Light of life.” [[Tapestry/Bible/John/John 8_12b\| John 8:12b]]* #bible-verse 
+> [!quote]+ 
+>*“You have set our iniquities before You, our secret sins in the Light of Your Presence.”* *[[Tapestry/Bible/Psalms/Psalm 90_8\| Psalm 90:8]]* #bible-verse 
+>
+>*“I am the Light of the world. Whoever follows Me will never walk in darkness, but will have the Light of life.” [[Tapestry/Bible/John/John 8_12b\| John 8:12b]]* #bible-verse 
 
 Light is just not a good thing for the devil. When the foundation of your power is in your success as a liar, light is entirely inconvenient. Since Jesus took the keys of death and hades away, where does satan’s power come from? It comes from the choices and actions of the men and women on this earth that are created in the image of God. Being in His image, we have the power to choose, the power to create or destroy, the power to make judgments, and the power to forgive. And to get those choices to go his way, satan lies. If the lie is believed, he steals ( [[Tapestry/Bible/Matthew/Matthew 13_19\|Matt. 13:19]]). And once he has stolen from us, he has power to kill and destroy ([[Tapestry/Bible/John/John 10_10\|John 10:10]]). #light-of-jesus #bible-verse #power 
 
@@ -1355,13 +1375,16 @@ In every sense this goes against all that Jesus bought and paid for at a very hi
 
 ### REVELATION
 
-*“Jesus answered and said to him, “Blessed are you, Simon Bar-Jonah, for flesh and blood has not revealed this to you, but My Father who is in heaven. And I also say to you that you are Peter, and on this rock *[of revelation] *I will build My church, and the gates of Hades shall not prevail against it.” [[Tapestry/Bible/Matthew/Matthew 16_17-18\|Matthew 16:17-18]]* #bible-verse 
+> [!quote]+ 
+>*“Jesus answered and said to him, “Blessed are you, Simon Bar-Jonah, for flesh and blood has not revealed this to you, but My Father who is in heaven. And I also say to you that you are Peter, and on this rock *[of revelation] *I will build My church, and the gates of Hades shall not prevail against it.” [[Tapestry/Bible/Matthew/Matthew 16_17-18\|Matthew 16:17-18]]* #bible-verse 
 
-*“But I make known to you, brethren, that the gospel which was preached by me is not according to man. For I neither received it from man, nor was I taught it, but it came through the revelation of Jesus Christ.” [[Tapestry/Bible/Galatians/Galatians 1_11-12\|Galatians 1:11-12]]* #bible-verse 
+> [!quote]+ 
+>*“But I make known to you, brethren, that the gospel which was preached by me is not according to man. For I neither received it from man, nor was I taught it, but it came through the revelation of Jesus Christ.” [[Tapestry/Bible/Galatians/Galatians 1_11-12\|Galatians 1:11-12]]* #bible-verse 
 
 Jesus spoke of revelation from the Father as being the foundation of His church. Paul experienced this firsthand as the wealth of understanding that was within him could only be attributed to revelation. This revelation comes from seeing and hearing the Truth as God speaks it into our hearts. The Lord wants to reveal to us all that is in our hearts, including all evil ([[Tapestry/Bible/Matthew/Matthew 12_34\|Matt. 12:34]]), so we can be purified by the Blood of Jesus and made free. Our sins were never meant to be a secret, either from us or from our siblings in Christ ([[Tapestry/Bible/James/James 5_16\|James 5:16]]). *“But if we walk in the light, as He is in the light, we have fellowship with one another, and the blood of Jesus, His Son, purifies us from all sin.” [[Tapestry/Bible/1 John/1 John 1_7\|1 John 1:7]]* #bible-verse 
 
-*“No more shall every man teach his neighbor, and every man his brother, saying, ‘Know the LORD,’ for they all shall know Me, from the least of them to the greatest of them, says the LORD.” [[Tapestry/Bible/Jeremiah/Jeremiah 31_34a\| Jeremiah 31:34a]]* #bible-verse 
+> [!quote]+ 
+>*“No more shall every man teach his neighbor, and every man his brother, saying, ‘Know the LORD,’ for they all shall know Me, from the least of them to the greatest of them, says the LORD.” [[Tapestry/Bible/Jeremiah/Jeremiah 31_34a\| Jeremiah 31:34a]]* #bible-verse 
 
 God’s decision to demonstrate His power through revelation is wondrous to behold. No matter where you are or in what state of being you find yourself, God is able to miraculously reach you through revelation. It is His way of calling to the lost, no matter where they are. He can do this. He is God. 
 
@@ -1377,11 +1400,13 @@ God’s decision to demonstrate His power through revelation is wondrous to beho
 
 I know of examples where God has supernaturally healed children stricken with disease that greatly impaired their mind and body. They have spoken clearly about what God said to them while they were sick. This says to me that there is no prison that can separate us from our Lord and Savior. God is merciful in His love for us. He knows His children and does not forsake them ever ([[Tapestry/Bible/Isaiah/Isaiah 41_17\|Isa 41:17]]). #bible-verse 
 
-*“Eye has not seen, nor ear heard, nor have entered into the heart of man the things which God has prepared for those who love Him.” [[Tapestry/Bible/1 Corinthians/1 Corinthians 2_9\|1 Corinthians 2:9]] / [[Isaiah 64_4 \| Isaiah 64:4]]* #bible-verse 
+> [!quote]+ 
+>*“Eye has not seen, nor ear heard, nor have entered into the heart of man the things which God has prepared for those who love Him.” [[Tapestry/Bible/1 Corinthians/1 Corinthians 2_9\|1 Corinthians 2:9]] / [[Isaiah 64_4 \| Isaiah 64:4]]* #bible-verse 
 
 ### TRUTH
 
-*“Then Jesus said to those Jews who believed Him, “If you abide in My word, you are My disciples indeed. And you shall know the truth, and the truth shall make you free.”  [[Tapestry/Bible/John/John 8_31-32\|John 8:31-32]]* #bible-verse
+> [!quote]+ 
+>*“Then Jesus said to those Jews who believed Him, “If you abide in My word, you are My disciples indeed. And you shall know the truth, and the truth shall make you free.”  [[Tapestry/Bible/John/John 8_31-32\|John 8:31-32]]* #bible-verse
 
 When we follow the Truth, we never walk in darkness. The lie says that if we are discovered, we will endure punishment or ramifications that will imprison us. As such, we should avoid the consequences by hiding what we’ve done. The lie wants us to have a worldly mentality that misses eternity. The Truth is that Jesus paid for all eternal punishment and consequence. Even if our actions on earth require physical punishment now (the imprisoned criminal that has just received the Lord), the eternal Truth is that we have been set free in Christ Jesus ([[Hebrews 9_15 \|Heb. 9:15]]). Our life on earth is a dot next to eternity in Heaven. The enemy does not want us to remember this. #bible-verse 
 
@@ -1399,7 +1424,8 @@ Jesus said that HE IS the Light ([[Tapestry/Bible/John/John 8_12\| John 8:12]]),
 
 ### HIDDEN SINS
 
-*“I am sending you to them to open their eyes and turn them from darkness to light, and from the power of satan to God, so that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.'” [[Tapestry/Bible/Acts/Acts 26_17b-18\|Acts 26:17b-18]]* #bible-verse 
+> [!quote]+ 
+>*“I am sending you to them to open their eyes and turn them from darkness to light, and from the power of satan to God, so that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.'” [[Tapestry/Bible/Acts/Acts 26_17b-18\|Acts 26:17b-18]]* #bible-verse 
 
 The enemy likes hidden sins. As long as the sins remains hidden, it cannot be dealt with through forgiveness. Satan does not want to lose any power and therefore is extremely motivated to keep the existence of sins in the dark. This can be through generational sins of forefathers long gone, or the sins that we have received shame for and have freely chosen to hide in the dark to prevent exposure. Our decision to place these sins in the Light of His Presence or to submit to His spirit of revelation, will greatly weaken the power of the enemy. #hidden #darkness #light 
 
@@ -1419,7 +1445,8 @@ As soon as we prayed in the Light, that person began to speak out to us many sin
 
 ### DAILY BREAD
 
-*“Give us today our daily bread.” [[Tapestry/Bible/Matthew/Matthew 6_11\| Matthew 6:11]]* #bible-verse 
+> [!quote]+ 
+>*“Give us today our daily bread.” [[Tapestry/Bible/Matthew/Matthew 6_11\| Matthew 6:11]]* #bible-verse 
 
 The next thing the Lord showed us was that the Light would reveal ALL hidden sins. This sounds like a good thing, but turned out to be overwhelming. There were so many sins being presented that we were unable to deal with them all before the person being prayed for was exhausted. The Lord showed us that there is a perfect sequence and a safe quantity that He knows to work in. We just need to yield to Him so we can receive it. #light-of-jesus #hidden #revelation #trust 
 
@@ -1451,9 +1478,10 @@ We want to avoid “prophetic haywire” whereby we see or hear all things in th
 
 ### FIRST KEY
 
-“God reveals the hidden sins in the Light of His Presence so we can have safe and loving freedom, deliverance, and healing as we yield to Him, receiving our daily bread portions of His will done.”
-
-*“Oh, send out Your light and Your truth! Let them lead me; let them bring me to Your holy hill and to Your tabernacle.”  [[Tapestry/Bible/Psalms/Psalm 43_3\|Psalm 43:3]]* #bible-verse 
+> [!quote]+ 
+>“God reveals the hidden sins in the Light of His Presence so we can have safe and loving freedom, deliverance, and healing as we yield to Him, receiving our daily bread portions of His will done.”
+>
+>*“Oh, send out Your light and Your truth! Let them lead me; let them bring me to Your holy hill and to Your tabernacle.”  [[Tapestry/Bible/Psalms/Psalm 43_3\|Psalm 43:3]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -1468,11 +1496,10 @@ We want to avoid “prophetic haywire” whereby we see or hear all things in th
 ## Chapter 5: The Blood of Jesus
 #chapter #blood #jesus #heaven #priest 
 
-
-
-*[Christ] did not enter by means of the blood of goats and calves; but he entered the Most Holy Place once and for all by His own Blood, having obtained eternal redemption. [[Tapestry/Bible/Hebrews/Hebrews 9_12\| Hebrews 9:12]]* #bible-verse 
-
-*“Jesus answered, ‘A person who has had a bath needs only to wash his feet; his whole body is clean.’ [[Tapestry/Bible/John/John 13_10\| John 13:10]]* #bible-verse 
+> [!quote]+ 
+>*[Christ] did not enter by means of the blood of goats and calves; but he entered the Most Holy Place once and for all by His own Blood, having obtained eternal redemption. [[Tapestry/Bible/Hebrews/Hebrews 9_12\| Hebrews 9:12]]* #bible-verse 
+>
+>*“Jesus answered, ‘A person who has had a bath needs only to wash his feet; his whole body is clean.’ [[Tapestry/Bible/John/John 13_10\| John 13:10]]* #bible-verse 
 
 It is difficult to fathom the power of the Blood of Jesus. It is above all history, actions, and deeds. The Blood impacts reality both on Earth and in Heaven. All of the requirements for entering the Presence of God are met with the Blood. Instead of cleansing ourselves through the sacrifice of animals, we can receive the Blood of Jesus and be totally clean. Instead of washing our hands and feet at the laver ([[Tapestry/Bible/Exodus/Exodus 40_30-31\|Ex. 40:30-31]]), we are washed by the Blood. When we first believed, God gave our entire body a bath by crucifying our sinful nature ([[Tapestry/Bible/Galatians/Galatians 5_24\|Gal. 5:24]]). From that day forward ([[Tapestry/Bible/Luke/Luke 9_23\|Luke 9:23]]), we must continue to diligently wash our feet ([[Tapestry/Bible/John/John 13_10\|John 13:10]]), that is, be cleansed of the daily impurities that get on us. In Terraforming, that means preparing our lives as priests by washing with the Blood of Jesus every day. #bible-verse 
 
@@ -1507,28 +1534,19 @@ The Blood of Jesus is the literal representation of the new covenant with the Lo
 
 ---
 
-Jesus Christ paid this price for us, that by His body that was bruised, we are healed. By His Blood we are saved from being eternally separated from Love, and from being cast into a lake of burning sulfur for ever and ever  ([[Tapestry/Bible/Revelation/Revelation 21_8\|Rev. 21:8]]). #bible-verse 
- #blood #jesus #heaven #priest 
+Jesus Christ paid this price for us, that by His body that was bruised, we are healed. By His Blood we are saved from being eternally separated from Love, and from being cast into a lake of burning sulfur for ever and ever  ([[Tapestry/Bible/Revelation/Revelation 21_8\|Rev. 21:8]]). #bible-verse #blood #jesus #heaven #priest 
 
-
-The Blood also provides us with freedom in our lives here on earth. Jesus referred to this time as a harvest ([[Tapestry/Bible/Matthew/Matthew 9_37-38\|Matthew 9:37-38]])  #bible-verse 
-
-> [! ]-
-<<<<<<< HEAD
->  #rejected #relationship #sin #redemption #covenant #legal-right #sin #inheritance #blood  #love #heart #His-will #truth
-=======
-> Page 44:  #bible-verse  #rejected #relationship #sin #redemption #covenant #legal-right #sin #inheritance #blood #jesus #love #heart #His-will #truth
->>>>>>> origin/main
-
-where seeds are planted in the hearts of people and the children of God are called as His servants for the work of reaping. For this work, we must be free, that is, healed from all iniquity in our bodies, our minds, and our souls. In chapter four we learned that the Light reveals the Truth and it is the Truth that sets us free. We stay free with the Blood of Jesus. We see this manifest through three properties of the Blood: purification, redemption, and restoration.
+The Blood also provides us with freedom in our lives here on earth. Jesus referred to this time as a harvest ([[Tapestry/Bible/Matthew/Matthew 9_37-38\|Matthew 9:37-38]]) where seeds are planted in the hearts of people and the children of God are called as His servants for the work of reaping. For this work, we must be free, that is, healed from all iniquity in our bodies, our minds, and our souls. In chapter four we learned that the Light reveals the Truth and it is the Truth that sets us free. We stay free with the Blood of Jesus. We see this manifest through three properties of the Blood: purification, redemption, and restoration.
 
 ### PURIFICATION
 
-*“But if we walk in the light, as He is in the light, we have fellowship with one another, and the blood of Jesus, His Son, purifies us from all sin.” [[Tapestry/Bible/1 John/1 John 1_7\|1 John 1:7]]* #bible-verse 
+> [!quote]+ 
+>*“But if we walk in the light, as He is in the light, we have fellowship with one another, and the blood of Jesus, His Son, purifies us from all sin.” [[Tapestry/Bible/1 John/1 John 1_7\|1 John 1:7]]* #bible-verse 
 
 Purification is the process of ridding someone of anything harmful, such as sin. Sin represents both the exterior dirt that Aaron and his sons washed from their hands in [[Tapestry/Bible/Exodus/Exodus 29_4\|Ex. 29:4]], and also the inner impurity that required the blood of goats. As being clean is a prerequisite of receiving the Presence of the Lord as He intends for us to, purification is a critical objective of Terraforming. Only the Blood of Jesus can do this for us. What a privilege to have this priceless gift from our God! #bible-verse #terraforming #purification #blood #jesus #light #redemption #restoration #sin 
 
-*“For I will forgive their wickedness and will remember their sins no more.” [[Jeremiah 31_34c \| Jeremiah 31:34c]]* #bible-verse 
+> [!quote]+ 
+>*“For I will forgive their wickedness and will remember their sins no more.” [[Jeremiah 31_34c \| Jeremiah 31:34c]]* #bible-verse 
 
 There is power in the memory of sin. In our minds it manifests as regret, shame, fear, anger, hurt, bitterness, grief, sorrow, and pain. In the spiritual realm, it serves as a legal right for the evil one to torment and afflict us. To be free from this torment, we must be washed with the Blood of Jesus. Here the power of the Blood once again astounds us. #blood-of-Jesus 
 
@@ -1544,18 +1562,20 @@ There is power in the memory of sin. In our minds it manifests as regret, shame,
 
 We are washed so clean, it is as if the history has been rewritten and the sin never occurred in the first place. God will remember our sins no more. He has no memory of it. God is God. When God doesn’t remember something, it isn’t denial. It is because that thing doesn’t exist anymore, not even in His memory!  #restoration  #legal-right #blood #jesus #sin #shame #fear #grief #purification #grace 
 
-*“As far as the east is from the west, so far has He removed our transgressions from us.”[[Psalm 103_12 \|Psalm 103:12]]* #bible-verse 
+> [!quote]+ 
+>*“As far as the east is from the west, so far has He removed our transgressions from us.”[[Psalm 103_12 \|Psalm 103:12]]* #bible-verse 
 
 This is a reason for great celebration. The Truth, who is Christ Jesus, truly did set us free. His Blood bought us separation from our sin so that the power of the sin is broken and we can now die to the sin ([[Tapestry/Bible/Colossians/Colossians 3_5\|Col. 3:5]]) for good. Abstaining from sin is futile effort without the Blood of Jesus. With the power of sin intact, the evil one comes with temptation that is nearly impossible to resist for long. With the power broken, it is like breaking a habit you haven’t formed yet. It is like quitting something that is addicting, when you’ve never been addicted to it. The addiction / habit are removed so that you feel like you never had them in the first place. Praise be to our Lord for setting us free indeed! #bible-verse #truth #jesus #temptation #blood #freedom  
 
 ### REDEMPTION
 
-*“In Him we have redemption through His blood, the forgiveness of sins, in accordance with the riches of God's grace.” [[Ephesians 1_7 \|Ephesians 1:7]]* #bible-verse 
+> [!quote]+ 
+>*“In Him we have redemption through His blood, the forgiveness of sins, in accordance with the riches of God's grace.” [[Ephesians 1_7 \|Ephesians 1:7]]* #bible-verse 
 
-Redemption can be defined as the removal of an obligation such as a debt, or in this case, the consequence of sin, which is death ([[Tapestry/Bible/Romans/Romans 6_23\|Rom. 6:23]]). Using “deliverance” as a synonym, we can refer to redemption as being rescued from captivity, hardship, or domination by evil. The Blood of Jesus literally cancels the debt of sin while simultaneously freeing us from the legal right of satan to torment us and afflict us. The removal of these rights is critical to preparing us for the Presence of God. More will be discussed in the chapter, “The Authority of Jesus.” 
- #redemption #rescue #blood #jesus #choice #sin #authority #generational-sins 
+Redemption can be defined as the removal of an obligation such as a debt, or in this case, the consequence of sin, which is death ([[Tapestry/Bible/Romans/Romans 6_23\|Rom. 6:23]]). Using “deliverance” as a synonym, we can refer to redemption as being rescued from captivity, hardship, or domination by evil. The Blood of Jesus literally cancels the debt of sin while simultaneously freeing us from the legal right of satan to torment us and afflict us. The removal of these rights is critical to preparing us for the Presence of God. More will be discussed in the chapter, “The Authority of Jesus.” #redemption #rescue #blood #jesus #choice #sin #authority #generational-sins 
 
-*“For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your forefathers, but with the precious blood of Christ, a lamb without blemish or defect.”* [[Tapestry/Bible/1 Peter/1 Peter 1_18-19\|1 Pet. 1:18-19]]* 
+> [!quote]+ 
+>*“For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your forefathers, but with the precious blood of Christ, a lamb without blemish or defect.”* [[Tapestry/Bible/1 Peter/1 Peter 1_18-19\|1 Pet. 1:18-19]]* 
 
 ---
 <p style="text-align:center;">
@@ -1598,7 +1618,8 @@ The end result of receiving the Blood of Jesus is that we are presented holy and
 
 God wants us to be clean before entering His Presence. In the Old Testament, this was accomplished by a laver ([[Tapestry/Bible/Exodus/Exodus 29_4\|Ex. 29:4]]) and through the blood of animals ([[Tapestry/Bible/Exodus/Exodus 29_21\|Ex. 29:21]]). In the New Covenant, Jesus washes our entire body when we first come to Him. But on a daily bases, we need to have our feet washed. Jesus knows that we will sin, maybe not intentionally, but it will happen. Just as the feet will get dirty from walking in Israel with sandals on, we will get dirty from walking in this world. He and only He can wash us clean.
 
-*“We have confidence to enter the Most Holy Place by the blood of Jesus” [[Tapestry/Bible/Hebrews/Hebrews 10-19b\|Hebrews 10:19b]]* #bible-verse #blood #water #purification #sin #jesus 
+> [!quote]+ 
+>*“We have confidence to enter the Most Holy Place by the blood of Jesus” [[Tapestry/Bible/Hebrews/Hebrews 10-19b\|Hebrews 10:19b]]* #bible-verse #blood #water #purification #sin #jesus 
 
 ---
 <p style="text-align:center;">
@@ -1613,9 +1634,12 @@ God wants us to be clean before entering His Presence. In the Old Testament, thi
 ## Chapter 6: Fully Forgiving
 #chapter #forgiveness #jesus #blood #holy-spirit 
 
-*“…for the accuser of our brethren, who accused them before our God day and night, has been cast down. And they overcame him by the blood of the Lamb and by the word of their testimony...” [[Tapestry/Bible/Revelation/Revelation 12_10b-11a\|Revelation 12:10b–11a]]* #bible-verse 
-
-*“Receive the Holy Spirit. If you forgive anyone of their sins, they are forgiven; if you do not forgive them, they are not forgiven.”* *[[John  20_22b-23\|John 20:22b–23]]* #bible-verse 
+> [!quote]+ 
+>*“…for the accuser of our brethren, who accused them before our God day and night, has been cast down. And they overcame him by the blood of the Lamb and by the word of their testimony...” 
+>[[Tapestry/Bible/Revelation/Revelation 12_10b-11a\|Revelation 12:10b–11a]]* #bible-verse 
+>
+>*“Receive the Holy Spirit. If you forgive anyone of their sins, they are forgiven; if you do not forgive them, they are not forgiven.”* 
+>*[[Tapestry/Bible/John/John  20_22b-23\|John 20:22b–23]]* #bible-verse 
 
 
 How do you nullify an accusation in a courtroom? The answer is simple, to be found “not guilty” of the crime. How then do those who are guilty cast down the accuser? The accuser (plaintiff) stands before God (Judge) in the throne room (courtroom) and points out the sins (offenses) of mankind (defendant) day and night. His objective is to present the times that we truly fell short of the glory of God, thus giving satan power or the “right to manifest on earth.”
@@ -1634,7 +1658,8 @@ So if mankind is guilty of these sins, how is this accusation hurled down? The o
 
 Restoration) as led by the Holy Spirit. This triggers the Fullness of Forgiveness, and it is found in [[Tapestry/Bible/Revelation/Revelation 12_10-11\|Revelation 12:10-11]]. #bible-verse 
 
-*“Let the redeemed of the LORD say this—those he redeemed from the hand of the foe...” [[Tapestry/Bible/Psalms/Psalm 107_2\|Psalm 107:2]]*  #bible-verse 
+> [!quote]+ 
+>*“Let the redeemed of the LORD say this—those he redeemed from the hand of the foe...” [[Tapestry/Bible/Psalms/Psalm 107_2\|Psalm 107:2]]*  #bible-verse 
 
 You can’t imagine how desperately the evil one wants you to NOT know this. He will do anything to keep you from praying this way for he knows what happens to him when we do (he is hurled down). His first tactic is to keep you from the Blood of Jesus. It is critical to understand that all forgiveness must come from the power of the Blood of Jesus. This is true because nothing else can change you from “guilty” to “not guilty.” We must go to Jesus to be washed clean.
 
@@ -1653,7 +1678,8 @@ We must speak these things out to fully cast down the accuser, and he does not w
 
 ---
 
-*“...without the shedding of blood there is no forgiveness.” [[Tapestry/Bible/Hebrews/Hebrews 9_22b\|Hebrews 9:22b]]* #bible-verse 
+> [!quote]+ 
+>*“...without the shedding of blood there is no forgiveness.” [[Tapestry/Bible/Hebrews/Hebrews 9_22b\|Hebrews 9:22b]]* #bible-verse 
 
 Many Christians believe that only Jesus can forgive sins. The truth in this is that all forgiveness must come from the Blood of Jesus as its source. The two are inseparable; without the Blood, there is no true forgiveness. Ever since Jesus uttered the words, “It is finished!” ([[Tapestry/Bible/John/John 19_30\|John 19:30]]) and gave up His Spirit, the power of forgiveness has been continuously offered by the Lord through the Blood of Jesus. We only have to receive it. #bible-verse #blood-of-Jesus 
 
@@ -1673,11 +1699,13 @@ This is not to say that those who ask for forgiveness without speaking out the w
 
 ---
 
-*“Then Peter came to Him and said, ‘Lord, how often shall my brother sin against me, and I forgive him? Up to seven times?’ Jesus said to him, ‘I do not say to you, up to seven times, but up to seventy times seven.’” [[Tapestry/Bible/Matthew/Matthew 18_21-22\|Matthew 18:21-22]]* #bible-verse 
+> [!quote]+ 
+>*“Then Peter came to Him and said, ‘Lord, how often shall my brother sin against me, and I forgive him? Up to seven times?’ Jesus said to him, ‘I do not say to you, up to seven times, but up to seventy times seven.’” [[Tapestry/Bible/Matthew/Matthew 18_21-22\|Matthew 18:21-22]]* #bible-verse 
 
 In every definition of “justice,” we earn punishment and consequence when we sin. It is both fair and reasonable to expect to receive “what’s coming to us” when we do what is unjust in the eyes of the Lord. We don’t deserve the forgiveness that we receive when we repent, yet we are forgiven. That forgiveness is too good to be true, but it is. It is the perfect Truth. How can we possibly withhold forgiveness from those who trespass against us?  #sin #forgiveness #truth #justice 
 
-*“For all have sinned and fall short of the glory of God…” [[Tapestry/Bible/Romans/Romans 3_23\|Romans 3:23]]* #bible-verse 
+> [!quote]+ 
+>*“For all have sinned and fall short of the glory of God…” [[Tapestry/Bible/Romans/Romans 3_23\|Romans 3:23]]* #bible-verse 
 
 
 In light of this, we begin to understand how we want to be forgiven by God. The second greatest commandment is, *“You shall love your neighbor as yourself ([[Tapestry/Bible/Matthew/Matthew 22_39\|Matt. 22:39]]).” *This is God’s version of empathy, which is a beautiful picture of love and selflessness. *“For whoever shall keep the whole law, and yet stumble in one point, he is guilty of all ([[Tapestry/Bible/James/James 2_10\|James 2:10]]).” *When we realize that we are guilty of sin and that God views all sins as being the same, we cannot possibly refuse the fullness of forgiveness to another person. We deserve just punishment (death and hades) for our sins, yet God has forgiven us with the Blood of Jesus. We must do the same for our neighbors. See [[Tapestry/Bible/Matthew/Matthew 18_21-35\|Matt. 18:21-35]]. #bible-verse 
@@ -1694,7 +1722,8 @@ Forgiveness is not the act of accepting an apology. There is no mention of apolo
 
 ---
 
-*“For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you.”* [[Tapestry/Bible/Matthew/Matthew 7_2\|Matthew 7:2]]* #bible-verse 
+> [!quote]+ 
+>*“For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you.”* [[Tapestry/Bible/Matthew/Matthew 7_2\|Matthew 7:2]]* #bible-verse 
 
 How does God forgive our sins? He sent His only son into the world as a Lamb without blemish to be slain for our iniquities. We are now offered the free gift of receiving the Blood of Jesus to cleanse us of our sins. We should offer the same to those who trespass against us. In [[Tapestry/Bible/Matthew/Matthew 6_12\|Matt. 6:12]], Jesus taught us to pray *“And forgive us our debts, AS WE forgive our debtors.” *In the Lord’s prayer, we ask God to forgive us in the same way we forgive others. How do you want the Lord to forgive you? The only answer can be with the unconditional sprinkling of the Blood of Jesus. #bible-verse 
 
@@ -1704,7 +1733,8 @@ We are therefore carriers of the Blood of Jesus for forgiveness in the Body of C
 
 ### FORGIVING ANYONE
 
-*“Which is easier: to say, 'Your sins are forgiven,’ or to say, ‘Get up and walk?’ But so that you may know that the Son of Man has authority on earth to forgive sins.’ Then he said to the paralytic, ‘Get up, take your mat and go home.’” [[Tapestry/Bible/Matthew/Matthew 9_5–6\|Matthew 9:5–6]]*
+> [!quote]+ 
+>*“Which is easier: to say, 'Your sins are forgiven,’ or to say, ‘Get up and walk?’ But so that you may know that the Son of Man has authority on earth to forgive sins.’ Then he said to the paralytic, ‘Get up, take your mat and go home.’” [[Tapestry/Bible/Matthew/Matthew 9_5–6\|Matthew 9:5–6]]*
 
 ---
 <p style="text-align:center;">
@@ -1718,20 +1748,21 @@ We are therefore carriers of the Blood of Jesus for forgiveness in the Body of C
 
 Jesus forgave people who had not trespassed against Him. He did so at the leading of the Holy Spirit ([[Tapestry/Bible/John/John 6_38\|John 6:38]]). We will do the same. Some people struggle with the ramifications of this kind of forgiveness. Knowing the power of the Blood, they are deeply concerned about stripping the world of justice. It is critical that we understand whose role this is. We are not Judges of our brothers and sisters. That belongs to God alone. Our job is to forgive them with the same standard of measure that we want to be forgiven. Then let God take care of vengeance, justice, and judgment. #bible-verse #holy-spirit #judgment #justice #forgiveness 
 
-*“Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven.” [[Tapestry/Bible/Luke/Luke 6_37\|Luke 6:37]]* 
-#bible-verse 
+> [!quote]+ 
+>*“Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven.” [[Tapestry/Bible/Luke/Luke 6_37\|Luke 6:37]]* #bible-verse 
 
 Jesus was very clear that there is a difference between judgement, condemnation, and forgiveness. His teaching was always based upon Love, which includes forgiveness. As a Hebrew, Jesus knew that blood is for the atonement ([[Tapestry/Bible/Leviticus/Leviticus 17_11\|Lev. 17:11]]) and that the two are inseparable ([[Tapestry/Bible/Hebrews/Hebrews 9_22\|Heb. 9:22]]). When Jesus used the word “forgive” He knew full well that one day the church would hurl down the accuser through forgiveness with His own Blood. #bible-verse 
 
 ### BREAKING THE POWER OF SIN
 
-*“Since you died with Christ to the basic principles of this world, why, as though you still belonged to it, do you submit to its rules? Such regulations...lack any value in restraining sensual indulgence.”  [[Tapestry/Bible/Colossians/Colossians 2_20,23b\|Colossians 2:20, 23b]]* 
+> [!quote]+ 
+>*“Since you died with Christ to the basic principles of this world, why, as though you still belonged to it, do you submit to its rules? Such regulations...lack any value in restraining sensual indulgence.”  [[Tapestry/Bible/Colossians/Colossians 2_20,23b\|Colossians 2:20, 23b]]* 
 #bible-verse 
-
-*“Put to death, therefore, whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry.”  [[Tapestry/Bible/Colossians/Colossians 3_5\|Colossians 3:5]]* 
+>
+>*“Put to death, therefore, whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry.”  [[Tapestry/Bible/Colossians/Colossians 3_5\|Colossians 3:5]]* 
 #bible-verse 
-
-*“He himself bore our sins in his body on the tree, so that we might die to sins and live for righteousness; by his wounds *[puncture that produces a trickle of Blood] *you have been healed.” [[Tapestry/Bible/1 Peter/1 Peter 2_24\|1 Peter 2:24]]* 
+>
+>*“He himself bore our sins in his body on the tree, so that we might die to sins and live for righteousness; by his wounds *[puncture that produces a trickle of Blood] *you have been healed.” [[Tapestry/Bible/1 Peter/1 Peter 2_24\|1 Peter 2:24]]* 
 #bible-verse 
 
 The Blood of Jesus strips sin of all power. It is this power that causes us to stumble. The temptation is not just a choice, it is a
@@ -1770,15 +1801,17 @@ It is important to note that forgiving others as a royal priest is a significant
 ## Chapter 7: The Authority of Jesus
 #chapter #angels #prayer #purification #holy-spirit 
 
-*“I have given you authority to trample on snakes and scorpions and to overcome all power of the enemy; nothing will harm you.”[[Tapestry/Bible/Luke/Luke 10_19\| Luke 10:19]]* #bible-verse 
-
-*“. . . Resist the devil and he will flee from you.” [[Tapestry/Bible/James/James 4_7b\|James 4:7b]]* #bible-verse  
+> [!quote]+ 
+>*“I have given you authority to trample on snakes and scorpions and to overcome all power of the enemy; nothing will harm you.”[[Tapestry/Bible/Luke/Luke 10_19\| Luke 10:19]]* #bible-verse 
+>
+>*“. . . Resist the devil and he will flee from you.” [[Tapestry/Bible/James/James 4_7b\|James 4:7b]]* #bible-verse  
 
 Status check: we have welcomed the Light of Jesus. All hidden evil, iniquities, and sins that the Lord wants us to deal with have been revealed. We have forgiven the people’s sins with the Blood of Jesus and the word of the testimony, canceling the rights of evil to fester. It is as if we have sprayed disinfectant cleaner on our bathtub to soak. The germs are now dead. They have lost all power of life to multiply, corrode, and stink. They have detached from the surface and are floating in a pool of the chemicals we have sprayed there. The last step is to scrub and wipe the scum away. Our tub will look bright, white, and shiny, as if we just got a new one!
 
 ### STRONGHOLDS OF DARKNESS
 
-*“For the weapons of our warfare are not carnal but mighty in God for pulling down strongholds…” [[Tapestry/Bible/2 Corinthians/2 Corinthians 10_4\|2 Corinthians 10:4]]* #bible-verse 
+> [!quote]+ 
+>*“For the weapons of our warfare are not carnal but mighty in God for pulling down strongholds…” [[Tapestry/Bible/2 Corinthians/2 Corinthians 10_4\|2 Corinthians 10:4]]* #bible-verse 
 
 We are at war. The enemy has power and is fighting a secret battle to deceive, divide, and destroy the people of God. Strongholds of darkness are built when the actions of humans are outside of the Will of the Father (sin). The evil one obtains the
 
@@ -1796,12 +1829,14 @@ right to steal the seeds of life sown into us by our Lord ([[Tapestry/Bible/Matt
 
 We have already won this war ([[Tapestry/Bible/John/John 19_30\|John 19:30]]). When the sons and daughters of the King come with the Light, the prisoners are rescued and set free. All rights of the evil one are stripped through forgiveness by the Blood of Jesus. Accusation is cast down with the word of the testimony. They overcome the power of the enemy with the authority given to them by Jesus through the Holy Spirit. They resist the devil and he flees from them. The stronghold of darkness is shattered. #truth #blood #holy-spirit #maturity #testimony #authority #sons-and-daughters #royal-priest 
 
-*“But if I cast out demons by the Spirit of God, surely the kingdom of God has come upon you. Or how can one enter a strong man’s house and plunder his goods, unless he first binds the strong man? And then he will plunder his house.”* *[[Tapestry/Bible/Matthew/Matthew 12_28-29\|Matthew 12:28–29]]* #bible-verse 
+> [!quote]+ 
+>*“But if I cast out demons by the Spirit of God, surely the kingdom of God has come upon you. Or how can one enter a strong man’s house and plunder his goods, unless he first binds the strong man? And then he will plunder his house.”* *[[Tapestry/Bible/Matthew/Matthew 12_28-29\|Matthew 12:28–29]]* #bible-verse 
 
 Next we remove all demons from the person, place, or thing by casting them out and commanding them to go under our feet. The Lord commanded Aaron and his sons to wash themselves physically and spiritually before entering His Presence. We are spiritually washed clean by the Blood of Jesus. Physical washing comes when we remove the demons that are symbolized by dirt, bacteria, and viruses that make our bodies impure. When this is accomplished, we are done. The bathtub is clean. #authority #purification #forgiveness #blood-of-Jesus  #demon 
 
-*“When Jesus saw that the people came running together, He rebuked the unclean spirit, saying to it, ‘Deaf and dumb spirit, I command you, come out of him and enter him no more!’”*
-*[[Tapestry/Bible/Mark/Mark 9_25\| Mark 9:25]]* #bible-verse 
+> [!quote]+ 
+>*“When Jesus saw that the people came running together, He rebuked the unclean spirit, saying to it, ‘Deaf and dumb spirit, I command you, come out of him and enter him no more!’”*
+>*[[Tapestry/Bible/Mark/Mark 9_25\| Mark 9:25]]* #bible-verse 
 
 Jesus commanded demons not to ever return to the person he was freeing. He is teaching us that we have the authority to keep an unclean spirit from returning to the person that it has left. Our strategy for overcoming the power of the evil one is through forgiveness. When we forgive ([[Tapestry/Bible/Revelation/Revelation 12_10-11\|Rev. 12:10-11]]), all rights of evil are stripped. The unclean spirit cannot return and bring "*with* 
 
@@ -1823,7 +1858,8 @@ This throws the enemy into confusion as the demons that have been at work on thi
 
 ### SEEDS OF EVIL
 
-*“The kingdom of heaven is like a man who sowed good seed in his field. But while everyone was sleeping, his enemy came and sowed weeds among the wheat, and went away. When the wheat sprouted and formed heads, then the weeds also appeared.” [[Tapestry/Bible/Matthew/Matthew 13_24-26\|Matthew 13:24-26]]* #bible-verse 
+> [!quote]+ 
+>*“The kingdom of heaven is like a man who sowed good seed in his field. But while everyone was sleeping, his enemy came and sowed weeds among the wheat, and went away. When the wheat sprouted and formed heads, then the weeds also appeared.” [[Tapestry/Bible/Matthew/Matthew 13_24-26\|Matthew 13:24-26]]* #bible-verse 
 
 We have removed all demons from the person, place, or thing, but this does not mean that their influence is fully removed. Demons leave behind their excrement, their slime, and their seeds of evil that prevent cleanliness. The seeds are meant to grow and produce weeds that choke out the good wheat sown by our Father. All such impurities must be removed before they multiply like bacteria and begin to rot. This is critical to establish the clean environment that the Lord desires for His Presence. It is also a proactive strategy to prevent the long-term destruction of well-rooted, fruit-bearing implantations of evil. #demon #seed #purification 
 
@@ -1843,13 +1879,15 @@ We welcome the Holy Spirit to come as of fire and sanctify the area by burning t
 
 ### OFF-LIMIT ZONES
 
-*“The kings of the earth did not believe, nor did any of the world's people, that enemies and foes could enter the gates of Jerusalem. But it happened because of the sins of her prophets and the iniquities of her priests...” [[Tapestry/Bible/Lamentations/Lamentations 4_12-13\|Lamentations 4:12-13]]* #bible-verse 
+> [!quote]+ 
+>*“The kings of the earth did not believe, nor did any of the world's people, that enemies and foes could enter the gates of Jerusalem. But it happened because of the sins of her prophets and the iniquities of her priests...” [[Tapestry/Bible/Lamentations/Lamentations 4_12-13\|Lamentations 4:12-13]]* #bible-verse 
 
 Demons want to sneak into our lives through the gates and doors that the Lord has established. When we sin, they obtain the right to do this. Through forgiveness with the Blood of the Lamb and the word of our testimony, these rights are stripped. We can then declare that these gates are now off-limits to the enemy camp and that no demon may enter through them or spy on us from outside. #gate #legal-right #sin #forgiveness #blood #jesus 
 
 ### STRONGHOLDS OF THE KINGDOM OF GOD
 
-*“Thus Joshua took all this land: the mountain country, all the South, all the land of Goshen, the lowland, and the Jordan plain*
+> [!quote]+ 
+>*“Thus Joshua took all this land: the mountain country, all the South, all the land of Goshen, the lowland, and the Jordan plain*
 *—the mountains of Israel and its lowlands, from Mount Halak and the ascent to Seir, even as far as Baal Gad in the Valley of Lebanon below Mount Hermon. He captured all their kings, and struck them down and killed them.” [[Tapestry/Bible/Joshua/Joshua 11_16-17\|Joshua 11:16-17]]* #bible-verse 
 
 We have captured an enemy stronghold. In an aerial assault, the Blood of Jesus destroyed the power of the enemy. We must now convert the stronghold to one of ours. In the “mop up” phase, we sent in troops to shine the Light in all the dark places. Every enemy soldier we found was captured and subdued. We must now bring the rest of our Father’s army in to establish and hold
@@ -1866,11 +1904,13 @@ We have captured an enemy stronghold. In an aerial assault, the Blood of Jesus d
 
 the new stronghold for the Kingdom of God. The King’s soldiers do not take orders from the King’s younger children. But they will take orders from those who have grown up and are walking in the authority given to them by the King. They will follow all of those whom they have been posted to by the King and who are fulfilling the King’s Will. #light #dark #His-will #maturity #authority #kingdom 
 
-*“Are not all angels ministering spirits sent to serve those who will inherit salvation?” [[Tapestry/Bible/Hebrews/Hebrews 1_14\|Hebrews 1:14]]* #bible-verse 
+> [!quote]+ 
+>*“Are not all angels ministering spirits sent to serve those who will inherit salvation?” [[Tapestry/Bible/Hebrews/Hebrews 1_14\|Hebrews 1:14]]* #bible-verse 
 
 The next step in Terraforming is to ask our Father for angels to support us. We do this as Jesus could have done in the garden of Gethsemane ([[Tapestry/Bible/Matthew/Matthew 26_53\|Matt. 26:53]]). We set a perimeter around the outpost. We post sentry and sentinel angels at the gates or doors. We post guardian angels to each person and warring angels to fortify the stronghold. We establish a “demon-free zone” where no agents of evil may enter or obtain any information that can be used against the Kingdom of God. We place bindings in the angel’s hands and proclaim that all demons that interfere with the Will of the Father must be “left at the door.” We also welcome angels to minister to the hearts of the people that we will pray for. These we post just inside the entrance, after the sentry angels. This has a soothing effect on the people as they walk in the door. #bible-verse #angel #His-will #heart-of-God #terraforming  #authority 
 
-*“The angel of the LORD encamps around those who fear Him, and He delivers them.” [[Tapestry/Bible/Psalms/Psalm 34_7\|Psalm 34:7]]* #bible-verse 
+> [!quote]+ 
+>*“The angel of the LORD encamps around those who fear Him, and He delivers them.” [[Tapestry/Bible/Psalms/Psalm 34_7\|Psalm 34:7]]* #bible-verse 
 
 The Lord has brought confirmation to us of times that we have posted these angels through brethren that have discerned them in the spirit. One time we posted both a sentry and sentinel angel outside of a hospital room after praying over it, forgiving the previous occupants with the Blood of the Lamb and the word of their testimony. After we left the patient’s Pastor came to visit. Walking in with a wide open mouth and a white complexion, the Pastor said, “There are two of the tallest angels I’ve ever seen standing right outside of your door!” The patient was very excited to hear this, realizing that the pastor could not have known that we posted these. #prayer #community #spirit #blood-of-Jesus #angel #testimony #discernment 
 
@@ -1890,7 +1930,8 @@ One day we posted four angels in a room where we were praying.  The Lord gave us
 
 Another time we posted four warring angels around a building where we were holding a meeting. A man came and told us that he saw the angels at each corner of the property holding swords straight up into the sky! Where ever we go, we always ask the Lord about whether to establish a stronghold for the Kingdom of God through posting the angels He assigns us. The answer is usually, “yes!” and we do just that at His leading. #angel #authority #testimony 
 
-*“Unless the LORD guards the city, the watchman stays awake in vain.” [[Tapestry/Bible/Psalms/Psalm 127_1b\|Psalm 127:1b]]* #bible-verse 
+> [!quote]+ 
+>*“Unless the LORD guards the city, the watchman stays awake in vain.” [[Tapestry/Bible/Psalms/Psalm 127_1b\|Psalm 127:1b]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -1905,7 +1946,8 @@ Another time we posted four warring angels around a building where we were holdi
 ## Chapter 8: Upper Hand
  #chapter #jesus #blood #prayer 
 
-*“You broaden the path beneath me, so that my ankles do not turn..”* [[Tapestry/Bible/2 Samuel/2 Samuel 22_37\|2 Samuel 22:37]]*  #bible-verse 
+> [!quote]+ 
+>*“You broaden the path beneath me, so that my ankles do not turn..”* [[Tapestry/Bible/2 Samuel/2 Samuel 22_37\|2 Samuel 22:37]]*  #bible-verse 
 
 American football is a great sport. People in the U.S. spend a significant amount of time investing in it. I myself, for example, have repented of an overindulgence in this game that resulted in fits of rage unbecoming of a pit bull with its nose hairs on fire. Much less a man of God. But there are several excellent analogies that you can glean from the sport, one of which I will notate here both to illustrate my point and to bring redemption to my previous personal admonishment.
 
@@ -1934,7 +1976,8 @@ With the Light of Jesus we see all plans of the enemy. We are able to overcome t
 
 ### LEGAL MATTERS
 
-*“For the accuser of our brothers, who accuses them before our God day and night, has been hurled down.” [[Tapestry/Bible/Revelation/Revelation 12_10b\|Revelation 12:10b]]* #bible-verse 
+> [!quote]+ 
+>*“For the accuser of our brothers, who accuses them before our God day and night, has been hurled down.” [[Tapestry/Bible/Revelation/Revelation 12_10b\|Revelation 12:10b]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -1955,7 +1998,8 @@ There is no time in heaven. And we know that most all sin can include the tempta
 
 ### NO DISCERNMENT ZONE
 
-*“hide me in the shadow of your wings.” [[Tapestry/Bible/Psalms/Psalm 17_8b\|Psalm 17:8b]]* #bible-verse 
+> [!quote]+ 
+>*“Hide me in the shadow of your wings.” [[Tapestry/Bible/Psalms/Psalm 17_8b\|Psalm 17:8b]]* #bible-verse 
 
 It always bothered me that demons have the ability to listen in on our conversations with our brothers and sisters, not to mention our prayers to the Lord. These are private and meant to be family business, not public. Because of this we now set up “No Discernment Zones” for the enemy camp. Through the authority given to us by the Lord, we exercise the principle of upper hand by commanding all demons to stop stealing information from us.
 { #rnkqbp}
@@ -1975,11 +2019,13 @@ Demons only have the right to eavesdrop when we sin. When we are communicating i
 
 ### INCUBATOR OF GRACE
 
-*“If anyone would come after me, he must deny himself and take up his cross daily and follow me.” [[Tapestry/Bible/Luke/Luke 9_23b\|Luke 9:23b]]* #bible-verse 
+> [!quote]+ 
+>*“If anyone would come after me, he must deny himself and take up his cross daily and follow me.” [[Tapestry/Bible/Luke/Luke 9_23b\|Luke 9:23b]]* #bible-verse 
 
 Terraforming is not a formula. It is a lifestyle, a process of turning to God and receiving each day our daily bread of revelation, freedom, and healing. Although it is true to say that there are points of completion, especially with Terraforming places or things, most of the time the prayers are ongoing. A person will often times receive revelation of evil manifesting due to past sins for days, weeks, months, or even years after first asking the Lord to shine His Light on their lives. #terraforming #god #revelation #light #prayers #daily-bread 
 
-*“We believe it is through the grace of our Lord Jesus that we are saved, just as they are.” [[Tapestry/Bible/Acts/Acts 15_11\|Acts 15:11]]* #bible-verse 
+> [!quote]+ 
+>*“We believe it is through the grace of our Lord Jesus that we are saved, just as they are.” [[Tapestry/Bible/Acts/Acts 15_11\|Acts 15:11]]* #bible-verse 
 
 Yielding to our Father’s allotment of daily bread will often times result in periods of time between prayer when the job is only half done. This is a necessary part of the process and can result in a person being exposed to enemy exploitation. To combat this, we ask our Father for the blessing of His Grace to cover and protect them while we continue the process. We call this the “Incubator of Grace.” An incubator is a contained environment used to protect endangered babies while they grow and heal. Equally, we ask the Lord to provide this same kind of shelter. #wait #grace #rest 
 
@@ -2003,7 +2049,8 @@ bring retaliation or revenge. Unfortunately, we learned this lesson the hard way
 
 Creation was made by God to work in the favor of Love. Because of this, His children have the most potent weapon on earth: forgiveness with the Blood of Jesus. The advantage for not-Love is operating in the dark. When we walk as God designed us to in the Light the power of evil dissolves. This is not a level playing field.  #love #creation #light #forgiveness #blood #jesus 
 
-*“‘As the Father has sent me, I am sending you.’” [[Tapestry/Bible/John/John 20_21\|John 20:21]]*  #bible-verse
+> [!quote]+ 
+>*“‘As the Father has sent me, I am sending you.’” [[Tapestry/Bible/John/John 20_21\|John 20:21]]*  #bible-verse
 
 
 ---
@@ -2021,17 +2068,20 @@ Creation was made by God to work in the favor of Love. Because of this, His chil
  #chapter #demons #authority #legal-right #prayer #generational-sins  
 
 
- *“but deliver us from the evil one...”[[Matthew 6_13b \|Matthew 6:13b]]*  #bible-verse
+> [!quote]+ 
+>*“But deliver us from the evil one...”[[Matthew 6_13b \|Matthew 6:13b]]*  #bible-verse
 
 ### CHARACTER
 
-*“Bold and arrogant, these men are not afraid to slander celestial beings; yet even angels, although they are stronger and more powerful, do not bring slanderous accusations against such beings in the presence of the Lord.”  [[Tapestry/Bible/2 Peter/2 Peter 2_10-11a\| 2 Peter 2:10-11a]]* #bible-verse
+> [!quote]+ 
+>*“Bold and arrogant, these men are not afraid to slander celestial beings; yet even angels, although they are stronger and more powerful, do not bring slanderous accusations against such beings in the presence of the Lord.”  [[Tapestry/Bible/2 Peter/2 Peter 2_10-11a\| 2 Peter 2:10-11a]]* #bible-verse
 
 Before we can deliver we must understand who we are and what we are empowered to do. We are a people of love. As such we speak with love and humility in all of our dealings. Understanding and walking in the upper hand that we’ve been given is important to our task, but it is imperative that we do not extend this to become arrogant in our warfare. Yelling at demons, mocking them, or cursing them is not needed to defeat them. In many cases you are only harming the person being delivered, and yourself. Always pray as if the Lord Himself were in the room with you: with fear and humility. Because after all, He is in the room with you!  #love #demons #pray #alignment #god #identity #destiny 
 
 ### HOOKS AND LOOPS
 
-*“The wicked foe pulls all of them up with hooks, he catches them in his net, he gathers them up in his dragnet.” [[Tapestry/Bible/Habakkuk/Habakkuk 1_15a\|Habakkuk 1:15a]]* #bible-verse 
+> [!quote]+ 
+>*“The wicked foe pulls all of them up with hooks, he catches them in his net, he gathers them up in his dragnet.” [[Tapestry/Bible/Habakkuk/Habakkuk 1_15a\|Habakkuk 1:15a]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -2051,7 +2101,8 @@ Demons are motivated. They obtain their legal rights to manifest from our sin, t
 
 ### ELECTRIC ONION
 
-*“For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.” [[Tapestry/Bible/Ephesians/Ephesians 6_12\|Ephesians 6:12]]* #bible-verse 
+> [!quote]+ 
+>*“For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.” [[Tapestry/Bible/Ephesians/Ephesians 6_12\|Ephesians 6:12]]* #bible-verse 
 
 Once a single demon has locked onto us, more try to join that demon to create strength in numbers. The resulting strongholds can best be described as “electric onions.” There is a nucleus, which is a tiny demon, but has the most authority in the hierarchy. Each layer that covers the nucleus is a larger demon
 
@@ -2090,13 +2141,15 @@ root sin is due to the person not forgiving a trespasser. While this will cause 
 
 ### RENDERING DEMONS HOMELESS
 
-*“When an unclean spirit goes out of a man, he goes through dry places, seeking rest, and finds none. Then he says, ‘I will return to my house from which I came.’ And when he comes, he finds it empty, swept, and put in order. Then he goes and takes with him seven other spirits more wicked than himself, and they enter and dwell there; and the last state of that man is worse than the first.” [[Tapestry/Bible/Matthew/Matthew 12_43-45\|Matthew 12:43-45]]* #bible-verse 
+> [!quote]+ 
+>*“When an unclean spirit goes out of a man, he goes through dry places, seeking rest, and finds none. Then he says, ‘I will return to my house from which I came.’ And when he comes, he finds it empty, swept, and put in order. Then he goes and takes with him seven other spirits more wicked than himself, and they enter and dwell there; and the last state of that man is worse than the first.” [[Tapestry/Bible/Matthew/Matthew 12_43-45\|Matthew 12:43-45]]* #bible-verse 
 
 The former house of an unclean spirit is the legal right that allows the demon to be there in the first place. Royal priests destroy these houses when they forgive with the Blood of Jesus and the word of their testimony. Because of this, the rights of the unclean spirits to return to the house from which they came are stripped, and the accuser is cast down. Simply stated, there is no longer a house for them to return to. They are now homeless. #legal-right #royal-priest #forgiveness #blood #jesus #accuser 
 
 ### WIPING THE BATHTUB CLEAN
 
-*“I have given you authority to...overcome all the power of the enemy.” [[Tapestry/Bible/Luke/Luke 10_19\|Luke 10:19]]* #bible-verse 
+> [!quote]+ 
+>*“I have given you authority to...overcome all the power of the enemy.” [[Tapestry/Bible/Luke/Luke 10_19\|Luke 10:19]]* #bible-verse 
 
 There is not always time to neutralize the nucleus first. Sometimes you will find a person in bad shape, manifesting demons right on the spot. When this happens, you need to shut down the manifestation so you can get to the roots. Dealing with the outer layers first is a long and painful process, so you are always better off getting the manifestation to stop and then working from the inside out. This will mean either casting out the demon or stripping them of their ability to interfere with God’s work while you are praying. #root #demon #layer #prayer #authority 
 
@@ -2179,7 +2232,8 @@ The mind especially needs to be healed of this trauma. There are many ways that 
 ## Chapter 10: Adulthood
  #chapter #adult-season #transition #sons-and-daughters #maturity 
 
-*“She gave birth to a son, a male child *[adult son]*, who will rule all the nations with an iron scepter.”* *“...they did not love their lives so much as to shrink from death.” [[Tapestry/Bible/Revelation/Revelation 12_5a,11b\|Revelation 12:5a,11b]]* #bible-verse  
+> [!quote]+ 
+>*“She gave birth to a son, a male child *[adult son]*, who will rule all the nations with an iron scepter.”* *“...they did not love their lives so much as to shrink from death.” [[Tapestry/Bible/Revelation/Revelation 12_5a,11b\|Revelation 12:5a,11b]]* #bible-verse  
 
 Some people may ask, “why are we able to hurl down the accuser now and not for the last 2,000 years?” The answer is that something amazing has happened in the church. All creation has been groaning for this day when the sons (adult sons) of God are revealed ([[Tapestry/Bible/Romans/Romans 8_19\|Rom. 8:19]]). The Spirit of the Lord is testifying that in this day God has given five talents ([[Tapestry/Bible/Matthew/Matthew 25_14-30\|Matt. 25:14-30]]) to His sons all across the world and they have said “yes” to their calling. They have accepted the invitation. They are fulfilling all that God expects of them. They have laid all that they have on the altar. They have sold all of their possessions to follow Jesus ([[Tapestry/Bible/Matthew/Matthew 19_21\|Matt. 19:21]]). They do not love their lives so much as to shrink from death. #bible-verse #sons-and-daughters #maturity #relationship #invitation 
 
@@ -2201,11 +2255,13 @@ The fruit of this Church age will be seeing the saints attain fullness in Christ
 
 ### TWO HOUSES
 
-*“Your house and your kingdom will endure forever before me; your throne will be established forever.” [[Tapestry/Bible/2 Samuel/2 Samuel 7_16\|2 Samuel 7:16]]* #bible-verse
+> [!quote]+ 
+>*“Your house and your kingdom will endure forever before me; your throne will be established forever.” [[Tapestry/Bible/2 Samuel/2 Samuel 7_16\|2 Samuel 7:16]]* #bible-verse
 
 The Lord really likes David. He is a man after His own heart. While it is true that David made mistakes, he never betrayed the Lord. He had an intimate relationship with God that grew deeper and deeper as his life went on. David displayed the love and mercy of God everywhere he went. He was a fierce warrior, but tender as a lamb. Because of his heart, the Lord made David’s house permanent. Jesus was a direct descendent of David; the Kingdom of God comes from his loins.#heart-of-God #relationship #jesus #David #love #heart #intimacy 
 
-*“You acted foolishly," Samuel said. "You have not kept the command the LORD your God gave you; if you had, he would have established your kingdom over Israel for all time. But now your kingdom will not endure; the LORD has sought out a man after his own heart and appointed him leader of his people, because you have not kept the LORD's command.”* [[Tapestry/Bible/1 Samuel/1 Samuel 13_13-14\|1 Samuel 13:13-14]]*  #bible-verse 
+> [!quote]+ 
+>*“You acted foolishly," Samuel said. "You have not kept the command the LORD your God gave you; if you had, he would have established your kingdom over Israel for all time. But now your kingdom will not endure; the LORD has sought out a man after his own heart and appointed him leader of his people, because you have not kept the LORD's command.”* [[Tapestry/Bible/1 Samuel/1 Samuel 13_13-14\|1 Samuel 13:13-14]]*  #bible-verse 
 
 Saul did not have an intimate relationship with the Lord. Samuel did. As such, when Saul needed to know whether Israel should turn left or right, he had to ask Samuel. The house of Saul was plagued with failure. It was never God’s intent for His government to be lead through the will of man. The Lord wants
 
@@ -2223,13 +2279,15 @@ us to be intimate with Him so we can operate out of His Will. Once Saul was anoi
 
 God is calling His people to make a choice. Will we align ourselves with the house of Saul or the house of David? The answer is so obvious to the modern Christian that it makes the question seem rhetorical. Of course we all choose the house of David! Everything that we believe in rests in the Lord Jesus Christ who Himself is of the house of David. Would we choose different from our Lord? But if we are ready for the fruit of this choice (kingdom endures forever), are we ready for the cost (crucifixion)? #choice #david #kingdom #jesus
 
-*“Then Jesus said to his disciples, ‘If anyone would come after me, he must deny himself and take up his cross and follow me. For whoever wants to save his life will lose it, but whoever loses his life for me will find it.’” [[Tapestry/Bible/Matthew/Matthew 16_24-25\|Matthew 16:24-25]]*  #bible-verse
+> [!quote]+ 
+>*“Then Jesus said to his disciples, ‘If anyone would come after me, he must deny himself and take up his cross and follow me. For whoever wants to save his life will lose it, but whoever loses his life for me will find it.’” [[Tapestry/Bible/Matthew/Matthew 16_24-25\|Matthew 16:24-25]]*  #bible-verse
 
 In the original covenants (old testament), tithing was a first fruit offering to God of 10%. In the fulfilling covenant (new testament), Jesus wants everything. That is, 100% of us belongs to God. By giving Him everything that we are in full submission, we are preparing ourselves for our wedding. This intimate relationship of dependency for protection, sustenance, health, and understanding is critical to our developing into the fullness of our calling. Knowing that all Hebrew covenants among family cannot be ended, it is important to add that the Lord still honors His call for a tithe, which is why many people can attest to its benefits. But the fullness of God is realized when we give Him everything we have.  #choice #kingdom #covenant #relationship #intimacy #wedding #bride #bride-covenant #trust 
 
 ### DAVID’S COVENANT
 
-*“I will be his father, and he will be my son. When he does wrong, I will punish him with the rod of men, with floggings inflicted by men.” [[Tapestry/Bible/2 Samuel/2 Samuel 7_14\|2 Samuel 7:14]]* #bible-verse 
+> [!quote]+ 
+>*“I will be his father, and he will be my son. When he does wrong, I will punish him with the rod of men, with floggings inflicted by men.” [[Tapestry/Bible/2 Samuel/2 Samuel 7_14\|2 Samuel 7:14]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -2265,7 +2323,8 @@ benefit of having learned was far greater than the cost of learning.
 
 When I was a kid, time moved so slowly. A school year felt like a school DECADE. Growing up from the age of 6 to the age of 16 (driver’s license) seemed to take forever. Learning to play guitar chords starting at age 10 was a long and painful process. Then as an adult, the years seem to fly by! What made the difference? There is an acceleration that occurs when we are adults due to the maturity of our minds. I can learn to do new things very quickly. Time is the same, but I have changed dramatically. #change #transition #adult-season 
 
-*“Anyone who lives on milk, being still an infant, is not acquainted with the teaching about righteousness. But solid food is for the mature, who by constant use have trained themselves to distinguish good from evil.” [[Tapestry/Bible/Hebrews/Hebrews 5_13-14\|Hebrews 5:13-14]]* #bible-verse
+> [!quote]+ 
+>*“Anyone who lives on milk, being still an infant, is not acquainted with the teaching about righteousness. But solid food is for the mature, who by constant use have trained themselves to distinguish good from evil.” [[Tapestry/Bible/Hebrews/Hebrews 5_13-14\|Hebrews 5:13-14]]* #bible-verse
 
 When I was a kid, I strongly disliked mushrooms. I wasn’t all that excited about vegetables either. Broccoli and spinach were never on the menu and you did not even think about feeding me lima beans. I would not have eaten sushi if you had paid me a thousand dollars. Then as an adult, everything changed. Sushi is my favorite food, I love vegetables, and only eat mushroom pizza. What made the difference? As an adult my taste buds have changed. My pallet desires more than just sweet and salty. I want flavors and the more the merrier.  #seasons #change #adult-season #maturity #transition 
 
@@ -2289,7 +2348,8 @@ This reality can be very difficult for some people to come to terms with. In som
 
 Adult sons and daughters of the King have been sent by Jesus to do everything He was sent to do by the Father. Jesus was the prototype who replicated Himself through His multi-audience teachings. He taught to the infants in Christ, the toddlers, the pre-schoolers, middle childhoods, the pre-pubescent, adolescents, and the adults. But it was to the adult children that He taught to replace Him once He was gone. As individuals, this is an important part of understanding how our gifts will work to their full potential. But corporately, this means that the Church must get ready to be Christ on earth. We are to do everything that He did. By Himself, Jesus fulfilled [[Tapestry/Bible/Isaiah/Isaiah 61_1-2a\|Isa. 61:1-2a]]. The adult Church of Jesus Christ will finish this corporately: #sons-and-daughters #change #seasons #gifts 
 
-*“...and the day of vengeance of our God, to comfort all who mourn, and provide for those who grieve in Zion— to bestow on them a crown of beauty instead of ashes, the oil of gladness instead of mourning, and a garment of praise instead of a spirit of despair. They will be called oaks of righteousness, a planting of the LORD for the display of his splendor. They will rebuild the ancient ruins and restore the places long devastated; they will renew the ruined cities that have been devastated for generations. Aliens will shepherd your flocks; foreigners will work your fields and vineyards. And you will be called priests of the LORD, you will be named ministers of our God. You will*
+> [!quote]+ 
+>*“And the day of vengeance of our God, to comfort all who mourn, and provide for those who grieve in Zion— to bestow on them a crown of beauty instead of ashes, the oil of gladness instead of mourning, and a garment of praise instead of a spirit of despair. They will be called oaks of righteousness, a planting of the LORD for the display of his splendor. They will rebuild the ancient ruins and restore the places long devastated; they will renew the ruined cities that have been devastated for generations. Aliens will shepherd your flocks; foreigners will work your fields and vineyards. And you will be called priests of the LORD, you will be named ministers of our God. You will*
 
 ---
 <p style="text-align:center;">
@@ -2301,9 +2361,10 @@ Adult sons and daughters of the King have been sent by Jesus to do everything He
 
 ---
 
-*feed on the wealth of nations, and in their riches you will boast. Instead of their shame my people will receive a double portion, and instead of disgrace they will rejoice in their inheritance; and so they will inherit a double portion in their land, and everlasting joy will be theirs.” [[Tapestry/Bible/Isaiah/Isaiah 61_2b-7\|Isaiah 61:2b-7]]* #bible-verse 
-
-*“Blessed and holy are those who have part in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ and will reign with him for a thousand years.” [[Tapestry/Bible/Revelation/Revelation 20_6\|Revelation 20:6]]* #bible-verse
+> [!quote]+ 
+>*feed on the wealth of nations, and in their riches you will boast. Instead of their shame my people will receive a double portion, and instead of disgrace they will rejoice in their inheritance; and so they will inherit a double portion in their land, and everlasting joy will be theirs.” [[Tapestry/Bible/Isaiah/Isaiah 61_2b-7\|Isaiah 61:2b-7]]* #bible-verse 
+>
+>*“Blessed and holy are those who have part in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ and will reign with him for a thousand years.” [[Tapestry/Bible/Revelation/Revelation 20_6\|Revelation 20:6]]* #bible-verse
 
   
 ---
@@ -2319,7 +2380,8 @@ Adult sons and daughters of the King have been sent by Jesus to do everything He
 ## Chapter 11: The Commission
  #chapter #His-will #authority 
 
-*“‘As the Father has sent me, I am sending you.’” [[Tapestry/Bible/John/John 20_21b\|John 20:21b]]* #bible-verse 
+> [!quote]+ 
+>*“‘As the Father has sent me, I am sending you.’” [[Tapestry/Bible/John/John 20_21b\|John 20:21b]]* #bible-verse 
 
 So, how did the Father send Jesus? For us to realize our calling as adult sons and daughters of God, we must advance our mindsets past that of the servant. Servants have no authority beyond what they’ve been told to do by their masters. When walking out these instructions, the servant is like a police officer, carrying the badge of his master’s authority. Outside of this, a servant has no authority of his own. Additionally, we must go well past the mindset of a friend. Friends have credibility when speaking on behalf of a person, but no real authority. As family, however, we embody the authority of our Father. What we say, He says. What we do, He does. #sons-and-daughters #servant-covenant #relationship #authority #jesus
 
@@ -2344,13 +2406,15 @@ When Jesus delegated authority to them, we see Him having the right to do this b
 
 ### THREE TYPES OF AUTHORITY
 
-*“These twelve Jesus sent out with the following instructions: Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons.” [[Tapestry/Bible/Matthew/Matthew 10_5a,8a\| Matthew 10:5a,8a]]* #bible-verse 
-
-*“The seventy-two returned with joy and said, ‘Lord, even the demons submit to us in your name.’” [[Tapestry/Bible/Luke/Luke 10_17\|Luke 10:17]]* #bible-verse 
+> [!quote]+ 
+>*“These twelve Jesus sent out with the following instructions: Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons.” [[Tapestry/Bible/Matthew/Matthew 10_5a,8a\| Matthew 10:5a,8a]]* #bible-verse 
+>
+>*“The seventy-two returned with joy and said, ‘Lord, even the demons submit to us in your name.’” [[Tapestry/Bible/Luke/Luke 10_17\|Luke 10:17]]* #bible-verse 
 
 There are three (3) types of authority released by the Father through the ministry of His Son, Jesus Christ. The first is the name of Jesus (Hebrew “*Yeshua*”). Commissioned with this authority before Jesus was crucified, the twelve disciples were able to bring a dramatic change in the condition of those they prayed for. People were healed, resurrected, cleansed, and delivered. Today, many Christians attribute these powers with being baptized with the Holy Spirit. In the gospels, however, it was only the commission from Jesus and His Name that empowered His followers to operate with God’s supernatural power. #yeshua #hebrew/word/yeshua #authority #father #jesus #miracles #holy-spirit 
 
-*‘Receive the Holy Spirit. If you forgive anyone his sins, they are forgiven; if you do not forgive them, they are not forgiven.’” [[Tapestry/Bible/John/John 20_22b-23\|John 20:22b-23]]* #bible-verse
+> [!quote]+ 
+>*‘Receive the Holy Spirit. If you forgive anyone his sins, they are forgiven; if you do not forgive them, they are not forgiven.’” [[Tapestry/Bible/John/John 20_22b-23\|John 20:22b-23]]* #bible-verse
 
   
 
@@ -2366,7 +2430,8 @@ There are three (3) types of authority released by the Father through the minist
 
 The second authority also comes from the commission of Jesus, but requires that we receive the Holy Spirit. After His resurrection, Jesus extended this to His followers who had been promoted to Apostles. He does this today for those who believe in Him ([[Tapestry/Bible/Ephesians/Ephesians 1_13-14\|Eph. 1:13-14]]). We have this authority as royal priests ([[Tapestry/Bible/1 Peter/1 Peter 2_9\|1 Pet. 2:9]]) who have been called to prepare the way of the Lord. The fruit of this authority is setting the captives free and hurling down the accuser through the forgiveness of sins with the Blood of the Lamb and the word of our testimony. #bible-verse #holy-spirit #resurrection #royal-priest #rescue #authority #accuser #forgiveness #blood #jesus #testimony 
 
-*“They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit and began to speak in other tongues [*languages*] as the Spirit enabled them.” [[Tapestry/Bible/Acts/Acts 2_3-4\|Acts 2:3-4]]* #bible-verse 
+> [!quote]+ 
+>*“They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit and began to speak in other tongues [*languages*] as the Spirit enabled them.” [[Tapestry/Bible/Acts/Acts 2_3-4\|Acts 2:3-4]]* #bible-verse 
 
 
 The third and final authority released by the Father through the ministry of Jesus was when He anointed them with Fire through the Holy Spirit. This was prophesied by John the Baptist ([[Tapestry/Bible/Matthew 3_11\|Matt. 3:11]]) and was a part of the instructions Jesus gave them when He told them to wait before leaving Jerusalem ([[Tapestry/Bible/Acts/Acts 1_4-5\|Acts 1:4-5]]). Those given this authority will be refined by the Fire of God ([[Tapestry/Bible/Zechariah/Zechariah 13_9\|Zech. 13:9]]). The fruit of this authority is to draw His people together in unity ([[Tapestry/Bible/John/John 17_21\|John 17:21]] / [[Tapestry/Bible/Acts/Acts 2_5-11\|Acts 2:5-11]]), to shorten timeframes required for work to be completed ([[Tapestry/Bible/Acts/Acts 8_39-40\|Acts 8:39-40]]), and to magnify the impact of Kingdom work to greater areas of influence. #bible-verse   #holy-spirit #authority #unity #connection 
@@ -2375,7 +2440,8 @@ This anointing is equivalent to the position held by Moses. The Lord anointed an
 
 ### WILL OF GOD
 
-*“Not everyone who says to Me, 'Lord, Lord,' will enter the kingdom of heaven, but only he who does the will of My Father who is in heaven. Many will say to Me on that day, 'Lord, Lord,*
+> [!quote]+ 
+>*“Not everyone who says to Me, 'Lord, Lord,' will enter the kingdom of heaven, but only he who does the will of My Father who is in heaven. Many will say to Me on that day, 'Lord, Lord,*
 
 ---
 <p style="text-align:center;">
@@ -2387,7 +2453,8 @@ This anointing is equivalent to the position held by Moses. The Lord anointed an
 
 ---
 
-*did we not prophesy in Your name, and in Your name drive out demons and perform many miracles?' Then I will tell them plainly, 'I never knew you. Away from Me, you evildoers!'” [[Tapestry/Bible/Matthew/Matthew 7_21-23\|Matthew 7:21-23]]* #bible-verse 
+> [!quote]+ 
+>*did we not prophesy in Your name, and in Your name drive out demons and perform many miracles?' Then I will tell them plainly, 'I never knew you. Away from Me, you evildoers!'” [[Tapestry/Bible/Matthew/Matthew 7_21-23\|Matthew 7:21-23]]* #bible-verse 
 
 Jesus was adamant about the importance of the Will of His Father when teaching His Disciples about The Way. He would only do what He saw the Father doing ([[Tapestry/Bible/John/John 5_19\|John 5:19]]) while equally noting how the power of His Name is of no eternal value if spoken outside of His Father’s Will ([[Tapestry/Bible/Matthew/Matthew 7_21-23\|Matt. 7:21-23]]). When we are sent under Jesus’ commission, we not only produce the same output He produced, but we are fed from the same input as well. The output will be miracles, signs and wonders, healing, deliverance, resurrections, forgiveness of sins, hurling down the accuser, and setting the captives free. The input will be the Father’s Will. Before we do all of those things, we listen to the still small voice within us that leads us to His Will. We learn to get the “green light” from God before moving in His power. #bible-verse #miracles #His-will 
 
@@ -2395,9 +2462,10 @@ The Will of God is not only the “desire” of the Lord, i.e., what He wants, b
 
 ### WORD OF GOD
 
-*“For nothing is impossible with God *[and His word]*.”*[[Tapestry/Bible/Luke/Luke 1_37\|Luke 1:37]]* #bible-verse 
-
-*“So is my word that goes out from my mouth: It will not return to me empty, but will accomplish what I desire and achieve the purpose for which I sent it.” [[Tapestry/Bible/Isaiah/Isaiah 55_11\|Isaiah 55:11]]* #bible-verse 
+> [!quote]+ 
+>*“For nothing is impossible with God *[and His word]*.”*[[Tapestry/Bible/Luke/Luke 1_37\|Luke 1:37]]* #bible-verse 
+>
+>*“So is my word that goes out from my mouth: It will not return to me empty, but will accomplish what I desire and achieve the purpose for which I sent it.” [[Tapestry/Bible/Isaiah/Isaiah 55_11\|Isaiah 55:11]]* #bible-verse 
 
 When the Will of God is spoken (uttered) on earth, it literally becomes the Word of God (greek “*rhema*”). For us to do this, we need to be filled with the Holy Spirit, that these words are expressed to our spirits and released from our mouths. Once God speaks His Will to us and we speak it on earth, it will stand 
 
@@ -2413,13 +2481,15 @@ When the Will of God is spoken (uttered) on earth, it literally becomes the Word
 
 forever. It is powerful and complete. It will accomplish what He intended for it. These words can be spoken at any point in time as a current reality even if it has not manifested in our time yet. Jesus did this several times. #greek #rhema #His-will #holy-spirit 
 
-*“...because the prince of this world now stands condemned.”* [[Tapestry/Bible/John/John 16_11\|John 16:11]]* #bible-verse 
-
-*“...I have overcome the world.” [[Tapestry/Bible/John/John 16_33c\|John 16:33c]]* #bible-verse 
+> [!quote]+ 
+>*“...because the prince of this world now stands condemned.” [[Tapestry/Bible/John/John 16_11\|John 16:11]]* #bible-verse 
+>
+>*“I have overcome the world.” [[Tapestry/Bible/John/John 16_33c\|John 16:33c]]* #bible-verse 
 
 In both of these testimonies, Jesus is quoted as speaking of things yet to come as if they have already happened. These “past-tense prophesies” are easy to miss if you are not looking for them. They can also be hard to grasp as intended, but once you do, they change your life. Jesus was able to speak of His success on the cross three chapters before it happens! This is the Word of God. Later in his letters, Paul identifies this prince as being “*now at work in those who are disobedient*” ([[Tapestry/Bible/Ephesians/Ephesians 2_2\|Eph. 2:2]]), yet Jesus describes him as being condemned years earlier. So which of them is correct? They both are. Paul was speaking within the context of the time of his writing, Jesus was speaking out the Word of God which is timeless. #bible-verse 
 
-*“And God raised us up with Christ and seated us with Him in the heavenly realms in Christ Jesus, in order that in the coming ages He might show the incomparable riches of His grace, expressed in His kindness to us in Christ Jesus.” [[Tapestry/Bible/Ephesians/Ephesians 2_6-7\|Ephesians 2:6-7]]* #bible-verse 
+> [!quote]+ 
+>*“And God raised us up with Christ and seated us with Him in the heavenly realms in Christ Jesus, in order that in the coming ages He might show the incomparable riches of His grace, expressed in His kindness to us in Christ Jesus.” [[Tapestry/Bible/Ephesians/Ephesians 2_6-7\|Ephesians 2:6-7]]* #bible-verse 
 
 We consist of a body, soul, and spirit. Our spirits are seated in the heavenly realms right now. In this realm, a day is like a thousand years and a thousand years is like a day ([[Tapestry/Bible/Psalms/Psalm 90_4\|Ps. 90:4]]). So for us, part of our being is confined within time (body, soul) while the rest of us is not confined within time (spirit). It is because of this that we are able to recognize what is true in the timeless realm of heaven on earth which is confined by time. Some of the things that we proclaim on earth may not be a reality at that particular point in time, but can be professed nonetheless. #bible-verse 
 
@@ -2454,11 +2524,13 @@ Every human being alive on earth today is invited to believe in Jesus, receive t
 ## Chapter 12: Healing a Person
 #chapter #legal-right #blood #jesus #generational-sins #generational-forgiveness 
 
-*“Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received, freely give.” [[Tapestry/Bible/Matthew/Matthew 10_8\|Matthew 10:8]]* #bible-verse 
+> [!quote]+ 
+>*“Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received, freely give.” [[Tapestry/Bible/Matthew/Matthew 10_8\|Matthew 10:8]]* #bible-verse 
 
 The Father sent Jesus with the power and authority to heal the sick. Now Jesus has sent us to do the same. Throughout the last 100 years, this understanding has been restored to the Church and most believers agree that healing is within the Will of God. The question that arises is why are some healed while others are not. Is it the Will of God for everyone to be healed? We know that by His wounds that trickled with Blood (*greek : molops*), we are healed ([[Tapestry/Bible/1 Peter/1 Peter 2_24\|1 Pet. 2:24]]). So why do people still suffer from cancer? #bible-verse #greek #molops #His-will 
 
-*“Some men brought to Him a paralytic, lying on a mat. When Jesus saw their faith, He said to the paralytic, ‘Take heart, son; your sins are forgiven.’ At this, some of the teachers of the law said to themselves, ‘This fellow is blaspheming!’”* [[Tapestry/Bible/Matthew/Matthew 9_2-3\|Matthew 9:2-3]]* #bible-verse 
+> [!quote]+ 
+>*“Some men brought to Him a paralytic, lying on a mat. When Jesus saw their faith, He said to the paralytic, ‘Take heart, son; your sins are forgiven.’ At this, some of the teachers of the law said to themselves, ‘This fellow is blaspheming!’”* [[Tapestry/Bible/Matthew/Matthew 9_2-3\|Matthew 9:2-3]]* #bible-verse 
 
 Jesus demonstrated two basic types of healing while He was on earth. The first was based upon forgiveness. We call this a “**Matthew 9**” type healing. When Jesus came to the paralytic, He saw that they had faith and then declared that the sins of the man were forgiven. This was quite a bold statement made by the man from Nazareth. The Jewish pharisees of the time were in shock, and although they said nothing, Jesus knew their thoughts. Jesus’ response that “*the Son of Man has authority on*   
 
@@ -2474,7 +2546,8 @@ Jesus demonstrated two basic types of healing while He was on earth. The first w
 
 *earth to forgive sins*” was equally as brazen. Let’s break down this type of healing into smaller parts for better understanding. #His-will #blood #jesus #healed #healing #forgiveness 
 
-*“I tell you the truth, I have not found anyone in Israel with such great faith.” [[Tapestry/Bible/Matthew/Matthew 8_10\|Matthew 8:10]]* #bible-verse 
+> [!quote]+ 
+>*“I tell you the truth, I have not found anyone in Israel with such great faith.” [[Tapestry/Bible/Matthew/Matthew 8_10\|Matthew 8:10]]* #bible-verse 
 
 First, Jesus saw that they had faith. Almost every specific healing mentioned in the gospels references the presence of, or lack of faith in the people. There are two sides to faith, the first is __belief__ that comes from divine revelation. Jesus saw this kind of faith in the centurion. The man was a Gentile (hence Jesus’ reference to people coming from the east and west) and knew little about the God of Abraham, Isaac, and Jacob. Yet he knew the power of Jesus with divine insight. The Canaanite woman from Tyre and Sidon ([[Tapestry/Bible/Matthew/Matthew 15_21-28\|Matt. 15:21-28]]) had the same faith. She believed through divine revelation, Jesus recognized it, and her daughter was delivered. #bible-verse #faith #power #jesus 
 
@@ -2500,7 +2573,8 @@ I led her through forgiving her grandfather by sprinkling him with the Blood of 
 
 When we stopped praying she began to make a fist out of her left hand and stare at it with shock. Not understanding, I asked if everything was OK. She said that she had arthritis and that she had not been able to make a fist for ten years! God had healed the arthritis in her left hand while she was declaring the forgiveness of her grandfather. Later that week she went to the doctor for a test. When the results came back, there was a problem. They could find no trace of cancer in her body! This is a Matthew 9 healing. The root sin was revealed in the Light of His Presence. With the authority of the Holy Spirit within us, the sinner was forgiven and the sin washed away. All rights of the evil one to torment her with cancer were stripped. She was healed completely. #forgiveness #healing #healed #root #sin #light #testimony #prayer 
 
-*“As he went along, he saw a man blind from birth. His disciples asked him, ‘Rabbi, who sinned, this man or his parents, that he*
+> [!quote]+ 
+>*“As he went along, he saw a man blind from birth. His disciples asked him, ‘Rabbi, who sinned, this man or his parents, that he*
 
 ---
 <p style="text-align:center;">
@@ -2512,7 +2586,8 @@ When we stopped praying she began to make a fist out of her left hand and stare 
 
 ---
 
-*was born blind?’ ‘Neither this man nor his parents sinned,’ said Jesus, ‘but this happened so that the work of God might be displayed in his life.’”  [[Tapestry/Bible/John/John 9_1-3\|John 9:1-3]]* #bible-verse 
+> [!quote]+ 
+>*was born blind?’ ‘Neither this man nor his parents sinned,’ said Jesus, ‘but this happened so that the work of God might be displayed in his life.’”  [[Tapestry/Bible/John/John 9_1-3\|John 9:1-3]]* #bible-verse 
 
 The second type of healing has nothing to do with forgiveness. We call this a **John 9 **type healing. This type is a supernatural miracle that occurs so the work of God will be displayed in a person’s life. The disciples asked Jesus whose sin caused the illness not because of their mistaken theology, but because that was why everyone else they had seen healed was sick in the first place!
 
@@ -2552,15 +2627,18 @@ Both the lady with the painful knee, and the lady with the varicose vein were he
 
 ### KINSMAN-REDEEMERS
 
-*"The LORD bless him!" Naomi said to her daughter-in-law. "He has not stopped showing his kindness to the living and the dead." She added, "That man is our close relative; he is one of our kinsman-redeemers. [[Tapestry/Bible/Ruth/Ruth 2_20\|Ruth 2:20]]* #bible-verse
+> [!quote]+ 
+>*"The LORD bless him!" Naomi said to her daughter-in-law. "He has not stopped showing his kindness to the living and the dead." She added, "That man is our close relative; he is one of our kinsman-redeemers. [[Tapestry/Bible/Ruth/Ruth 2_20\|Ruth 2:20]]* #bible-verse
 
 With the release of the authority to hurl down the accuser, the Church has been given a great gift from God. For thousands of years the human race has been paying the price for the sins of our forefathers. Modern scientists recognized this as hereditary or genetic illness (mental or physical) that is passed through the DNA from parent to child. In the Kingdom of God, we know that these are the result of sins that are punishable for three to four generations. #authority #accuser #generational-sins #kingdom #gift 
 
-*“'The LORD is slow to anger, abounding in love and forgiving sin and rebellion. Yet he does not leave the guilty unpunished; he punishes the children for the sin of the fathers to the third and fourth generation.'” [[Tapestry/Bible/Numbers/Numbers 14_18\|Numbers 14:18]]* #bible-verse
+> [!quote]+ 
+>*“'The LORD is slow to anger, abounding in love and forgiving sin and rebellion. Yet he does not leave the guilty unpunished; he punishes the children for the sin of the fathers to the third and fourth generation.'” [[Tapestry/Bible/Numbers/Numbers 14_18\|Numbers 14:18]]* #bible-verse
 
 Generational sins, iniquities, and memories are passed down to children from their forefathers. The impact to these children can be devastating in the form of behavioral sins, physical illness, mental illness, and demonic oppression. The worst of these come from sins of defilement which include bloodshed, broken covenant, idolatry (witchcraft has the worst impact), and sexual immorality (incest has the worst impact). The children grow up and find themselves struggling with issues such as anger, fear, torment, lust, depression, and a laundry list of ailments. #generational-sins #defilement #broken-covenant #witchcraft #anger #fear #lust 
 
-*“For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your forefathers, but with the precious blood of Christ, a lamb without blemish or defect.”* [[Tapestry/Bible/1 Peter/1 Peter 1_18-19\|1 Peter 1:18-19]]* #bible-verse
+> [!quote]+ 
+>*“For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your forefathers, but with the precious blood of Christ, a lamb without blemish or defect.”* [[Tapestry/Bible/1 Peter/1 Peter 1_18-19\|1 Peter 1:18-19]]* #bible-verse
 
 The Blood of Jesus brings redemption to the world to strip evil of its rights to manifest from these sins. When we forgive our forefathers by sprinkling them with the Blood of Jesus, they are purified and they are redeemed. So then are their children.  #covenant #redemption #blood #jesus #purified 
 
@@ -2576,7 +2654,8 @@ The Blood of Jesus brings redemption to the world to strip evil of its rights to
 
 When we speak out the word of this testimony, the accuser is hurled down and the legal rights are stripped.
 
-*“No Ammonite or Moabite or any of his descendants may enter the assembly of the LORD, even down to the tenth generation.” [[Tapestry/Bible/Deuteronomy/Deuteronomy 23_3\|Deuteronomy 23:3]]* #bible-verse 
+> [!quote]+ 
+>*“No Ammonite or Moabite or any of his descendants may enter the assembly of the LORD, even down to the tenth generation.” [[Tapestry/Bible/Deuteronomy/Deuteronomy 23_3\|Deuteronomy 23:3]]* #bible-verse 
 
 As with all Terraforming, the prayer is led by the Holy Spirit. We ask Him which generation of forefathers to start with and then go down from there to the person we are praying for. Under extreme cases we have started at the 20th generation, and found sins that gave rights to demons to afflict them. In a few cases we have prayed, “all the way back to Adam.” But with most cases, the Lord leads us to start at the fourth (4th) generation. The prayer essentially looks like this:  #terraforming #legal-right #holy-spirit #generational-sins #demons
 
@@ -2600,13 +2679,15 @@ Continue on to each generation. Note that the third (3rd) generation is their gr
 
 ### SOUL TIES
 
-*“After David had finished talking with Saul, Jonathan became one in spirit with David, and he loved him as himself.”* [[Tapestry/Bible/1 Samuel/1 Samuel 18_1\|1 Samuel 18:1]]* #bible-verse
+> [!quote]+ 
+>*“After David had finished talking with Saul, Jonathan became one in spirit with David, and he loved him as himself.”* [[Tapestry/Bible/1 Samuel/1 Samuel 18_1\|1 Samuel 18:1]]* #bible-verse
 
 Many Christians today are familiar with the concept of a “soul tie” or the knitting of two souls together as a result of a love bond. Within the context of marriage, these are intended and beautiful. Parents can have healthy soul ties with their children, called “bonding.” For the most part, these are manifestations of the Love that God created between two people and should be honored. When soul ties result from sin (fornication, idolatry, manipulation, etc.), they can be very damaging. It is possible to see the sins of one person become a stronghold of another person due to an unhealthy soul tie.   #soul-tie #love #sin  #redemption #defilement #idolatry 
 
 The best way to break these is first to repent of your sin and forgive the other person involved with the soul tie. By hurling down the accuser with the Blood of the Lamb and the word of your testimony, you break the power of the tie so it can be undone. Next you return the other persons soul, washed with the Blood of Jesus. Equally, you call back your own soul, also washed with the Blood of Jesus. This last step is often overlooked and is critical to returning each person to the state of wholeness they were in before, and with the redemption of the Blood in full effect. #forgiveness  #accuser #soul-tie #blood-of-Jesus 
 
-*“Drink water from your own cistern, running water from your own well. Should your springs overflow in the streets, your streams of water in the public squares? Let them be yours alone, never to be shared with strangers. May your fountain be blessed, and may you rejoice in the wife of your youth.* [[Tapestry/Bible/Proverbs/Proverbs 5_15-18\|Proverbs 5:15-18]]* #bible-verse
+> [!quote]+ 
+>*“Drink water from your own cistern, running water from your own well. Should your springs overflow in the streets, your streams of water in the public squares? Let them be yours alone, never to be shared with strangers. May your fountain be blessed, and may you rejoice in the wife of your youth.* [[Tapestry/Bible/Proverbs/Proverbs 5_15-18\|Proverbs 5:15-18]]* #bible-verse
 
 
 
@@ -2657,7 +2738,8 @@ As such He heals us over time giving us each day what we can handle until the jo
 ## Chapter 13: The Final Frontier
  #chapter #rescue #freewill #love #not-love #forgiveness 
 
-*“Jesus said, "Father, forgive them, for they do not know what they are doing."”[[Tapestry/Bible/Luke 23_34a\|Luke 23:34a]]* #bible-verse 
+> [!quote]+ 
+>*“Jesus said, "Father, forgive them, for they do not know what they are doing."”[[Tapestry/Bible/Luke 23_34a\|Luke 23:34a]]* #bible-verse 
 
 We know our bodies. They have been with us since we were born and our memories began. As we mature mentally, our bodies do the same growing from a small stature to a larger one. Our body is on earth, it is visible, and we can tangibly see when something goes wrong with it through symptoms. Our spirit is another matter altogether. Our spirit is invisible (by the natural eye) and is seated in heavenly places in Christ Jesus ([[Tapestry/Bible/Ephesians/Ephesians 2_6\|Eph. 2:6]]). Learning to operate out of our spirit primarily is a topic for another time. For now, let’s suffice to say that the part of us that is seated with God is receiving from God, and therefore should be leading our being. #bible-verse #spirit 
 
@@ -2678,11 +2760,13 @@ The final frontier for the people of God is our freewill which is constantly bei
 
 ### PREDESTINATION
 
-*“Again, it will be like a man going on a journey, who called his servants and entrusted his property to them. To one he gave five talents of money, to another two talents, and to another one talent, each according to his ability. Then he went on his journey.” [[Tapestry/Bible/Matthew/Matthew 25_14-15\|Matt. 25:14-15]]* #bible-verse 
+> [!quote]+ 
+>*“Again, it will be like a man going on a journey, who called his servants and entrusted his property to them. To one he gave five talents of money, to another two talents, and to another one talent, each according to his ability. Then he went on his journey.” [[Tapestry/Bible/Matthew/Matthew 25_14-15\|Matt. 25:14-15]]* #bible-verse 
 
 God created each of us to be unique and different, but He loves us all the same. To say that we are created the same, however, is not correct. When we were created, the Lord predestined us for a specific calling that is different from our neighbor’s. To some He gives more gifting. To others, less, each according to the calling that the person was created for. The perversion of this truth of the Lord is when the enemy deceives people into believing that entire races of humans are superior or inferior and justify any kind of behavior that is “not love” under this lie. The truth is that each individual is loved the same, but gifted quite differently. #love #gift #truth #not-love #choice #journey 
 
-*“But indeed, O man, who are you to reply against God? Will the thing formed say to him who formed it, ‘Why have you made me like this?’ Does not the potter have power over the clay, from the same lump to make one vessel for honor and another for dishonor?” [[Tapestry/Bible/Romans/Romans 9_20-21\|Romans 9:20-21]]* #bible-verse 
+> [!quote]+ 
+>*“But indeed, O man, who are you to reply against God? Will the thing formed say to him who formed it, ‘Why have you made me like this?’ Does not the potter have power over the clay, from the same lump to make one vessel for honor and another for dishonor?” [[Tapestry/Bible/Romans/Romans 9_20-21\|Romans 9:20-21]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -2696,16 +2780,15 @@ God created each of us to be unique and different, but He loves us all the same.
 
 It is so important that we remember our responsibility to avoid judgement, that is, avoid deciding the eternal fate of any human being for benefit (heaven) or detriment (hell). That is not our job, it belongs to Jesus. When Paul discusses honor and dishonor, or mercy and wrath, or noble and common purposes, he is talking about a person’s role on earth within time and what fruit is produced for the overall benefit of the Kingdom of God. Just as the Lord gave ten talents to one person but only one talent to another, each according to their ability. It is contrary to the teaching of Jesus to judge that Pharaoh and Esau (all from Romans 9) are in hell just because “Esau I hated” and because the purpose of Pharaoh’s birth was to show the power of God. #heaven #hell #jesus #kingdom #journey #fruit #judgment 
 
-*“...for God's gifts and his call are irrevocable.” [[Tapestry/Bible/Romans/Romans 11_29\|Romans 11:29]]* #bible-verse
+> [!quote]+ 
+>*“...for God's gifts and his call are irrevocable.” [[Tapestry/Bible/Romans/Romans 11_29\|Romans 11:29]]* #bible-verse
 
 A person must choose from their own freewill to obey God, accept His invitation, fulfill that which is expected, and respond to the proposal with “I do.” In short, we must say “yes” to God when He calls or we will miss our destiny. Jonah was predestined to minister to the people of Nineveh. Until he changed his answer from “no” to “yes” he did not walk in this destiny. Due to the impact of his calling, the Lord went out of His way to push the issue, but Jonah still made a free choice. So must we all. #choice #freewill #invitation #heart-of-God 
 
 Our will is not predestined to say “yes” to God. We are free to choose Love or not love. Certainly it is correct that God knows what choices we will make. It is His prerogative to invest more into the lives of those persons that will choose well. But that does not influence our freedom to choose. Only His calling on our lives and the gifts He gives us to accomplish this calling are predestined and irrevocable. That is, we can operate with these gifts for their intended purposes regardless of whether we operate within the Will of the Father or not. It is imperative that we do ([[Matthew 7_21-23 \|Matt. 7:21-23]]) for eternal fruit to be produced for the Kingdom of God, but if we do not, God will not revoke the gift or the call. #bible-verse #love #not-love #invitation  #journey   #fruit #kingdom #father #gift #choice  #heart-of-God 
 
-*“It does not, therefore, depend on man's desire or effort, but on God's mercy.” [[Tapestry/Bible/Romans/Romans 9_16\|Romans 9:16]]* #bible-verse
-
-> [! ]-
-> Page 103:    
+> [!quote]+ 
+>*“It does not, therefore, depend on man's desire or effort, but on God's mercy.” [[Tapestry/Bible/Romans/Romans 9_16\|Romans 9:16]]* #bible-verse
 
 ---
 <p style="text-align:center;">
@@ -2720,17 +2803,18 @@ Our will is not predestined to say “yes” to God. We are free to choose Love 
 Nonetheless, we cannot identify our will as being the source of our salvation. We are not saved by works, they are a byproduct of the Holy Spirit within us. The one and only source of our salvation is Christ Jesus who fully met the requirements of the law of God on our behalf ([[Tapestry/Bible/Romans 8_3-4\|Rom. 8:3-4]]). If our will makes the eternal choice of Love, we still must give God the glory for having access to eternal life through the Lamb of God. #bible-verse #identity #salvation #holy-spirit #jesus #choice #glory 
 
 
-*“Then the man who had received the one talent came. 'Master,' he said, 'I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed. So I was afraid and went out and hid your talent in the ground.* *See, here is what belongs to you.' His master replied, 'You wicked, lazy servant!’” [[Tapestry/Bible/Matthew/Matthew 25_24-26a\|Matthew 25:24-26a]]*  #bible-verse 
+> [!quote]+ 
+>*“Then the man who had received the one talent came. 'Master,' he said, 'I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed. So I was afraid and went out and hid your talent in the ground.* *See, here is what belongs to you.' His master replied, 'You wicked, lazy servant!’” [[Tapestry/Bible/Matthew/Matthew 25_24-26a\|Matthew 25:24-26a]]*  #bible-verse 
 
  
-A strategy of the evil one is to deceive men and women of God into burying their gifts in the ground to avoid entering into heresy. This fear of error has paralyzed many in the Body of Christ in this day. While it is good practice to watch for any and all deception, sons and daughters of God who have received the Holy Spirit and have submitted all to God will trust Him for everything, including protection from heresy. Our intimate relationship with the Lord gives us the reassurance that we can walk down any path, no matter how it looks from our standpoint. The question is, did the Lord ask you to walk down the path? If so, say “yes” and go. 
- #evil-one #sons-and-daughters #shame #fear #gift #church #holy-spirit #intimacy #relationship #trust 
+A strategy of the evil one is to deceive men and women of God into burying their gifts in the ground to avoid entering into heresy. This fear of error has paralyzed many in the Body of Christ in this day. While it is good practice to watch for any and all deception, sons and daughters of God who have received the Holy Spirit and have submitted all to God will trust Him for everything, including protection from heresy. Our intimate relationship with the Lord gives us the reassurance that we can walk down any path, no matter how it looks from our standpoint. The question is, did the Lord ask you to walk down the path? If so, say “yes” and go. #evil-one #sons-and-daughters #shame #fear #gift #church #holy-spirit #intimacy #relationship #trust 
 
 ##### ALL
 
-*“Isaiah cries out concerning Israel: "Though the number of the Israelites be like the sand by the sea, only the remnant will be saved.” [[Tapestry/Bible/Romans/Romans 9_27\|Romans 9:27]]* #bible-verse 
-
-*“Even so it is not the will of your Father who is in heaven that one of these little ones should perish.” [[Tapestry/Bible/Matthew/Matthew 18_14\|Matthew 18:14]]* #bible-verse 
+> [!quote]+ 
+>*“Isaiah cries out concerning Israel: "Though the number of the Israelites be like the sand by the sea, only the remnant will be saved.” [[Tapestry/Bible/Romans/Romans 9_27\|Romans 9:27]]* #bible-verse 
+>
+>*“Even so it is not the will of your Father who is in heaven that one of these little ones should perish.” [[Tapestry/Bible/Matthew/Matthew 18_14\|Matthew 18:14]]* #bible-verse 
 
 
 The Lord is desperate for the remnant to become a sea again. He wants every person on earth to choose Love over not love. The theology that God has predetermined who goes to heaven and who does not fails to reflect the heart of God. Our Lord cries out for the lost sheep. Jesus was adamant in His communication with Peter about feeding His lambs.  He died for the sins of all
@@ -2749,7 +2833,8 @@ that none should perish. If a single human spirit is lost to the Kingdom simply 
 
 When we understand the heart of the Father, we remember that He rejoices at the return of the prodigal sons. He also wants the prodigal’s brother to share His heart and rejoice as well. We are a family, and so everything that belongs to our Father also belongs to us. Without our lost siblings we are less than what we were created to be. As adult children, we begin to see creation with the eyes of our Father. It is not His creation that we are fighting for a position of status or a quantity / quality of possessions. It is OUR creation that we share with our family. When the family loses, we lose. When the family gains, we gain. #heart-of-God #His-will #jesus #father #spirit #kingdom #creation #rescue #calling 
 
-*“The Lord is not slack concerning His promise...but is long- suffering toward us, not willing that any should perish but that all should come to repentance.” [[Tapestry/Bible/2 Peter/2 Peter 3_9\|2 Peter 3:9]]* #bible-verse 
+> [!quote]+ 
+>*“The Lord is not slack concerning His promise...but is long- suffering toward us, not willing that any should perish but that all should come to repentance.” [[Tapestry/Bible/2 Peter/2 Peter 3_9\|2 Peter 3:9]]* #bible-verse 
 
 All of this is to say that our mindset must be focused on realizing that what is done in heaven may not be done on earth in our time. We cannot allow our decisions and actions to be influenced towards laziness just because something is done in heaven, is the Will of God, and has been proclaimed as truth on the earth. The journey from Egypt to the Promised Land should have been 40 days. It took 40 years. Equally, the maturing of the Church of Jesus Christ from infancy to adulthood could have taken 20 years. It has taken 2,000 years. We are the generation that will fulfill the prophesy of Jesus that the prince of this world will be defeated, his prisoners released, and the Kingdom of God established. We have a vested interested in this happening. It is our family. We are the Kingdom of God on earth. #heaven #earth #His-will #seasons #maturing #jesus #kingdom #god 
 
@@ -2769,7 +2854,8 @@ All of this is to say that our mindset must be focused on realizing that what is
 
 Needless to say, it is the evil one’s full time job to deceive the Body of Christ into believing ANYTHING but the truth. Why? Because his kingdom depends upon it. As long as the children of God never grow up, there is nothing to replace him. Through the power of our tongues as children of God created in His image, we can become his drones that build and maintain his empire indefinitely. He wants his kingdom to last forever ([[Tapestry/Bible/Isaiah/Isaiah 47_7\|Isa. 47:7]]), which is possible ([[Tapestry/Bible/Isaiah/Isaiah 47_12\|Isa. 47:12]]), but will not happen ([[Tapestry/Bible/Isaiah/Isaiah 47_15\|Isa. 47:15]]). He wants to tempt the humans of earth with sweetness of sugar-coated, harmful choices. Once the sugar has melted away with digestion, what is left is the revelation of the lie: the choice was not truly sweet, but terribly bitter. When the ultimate revelation of truth comes at death, the devil discards the dead battery in the trash and replaces them with a living vessel that can be deceived until their death. There is no Love whatsoever in the kingdom of darkness. We are used, abused, and then thrown away. #bible-verse #evil-one #truth #god #not-love #kingdom #deception #choice #kingdom-of-darkness 
 
-*“He answered, 'Then I beg you, father, send Lazarus to my father's house, for I have five brothers. Let him warn them, so that they will not also come to this place of torment.'”* [[Tapestry/Bible/Luke/Luke 16_27-28\|Luke 16:27-28]]* #bible-verse  
+> [!quote]+ 
+>*“He answered, 'Then I beg you, father, send Lazarus to my father's house, for I have five brothers. Let him warn them, so that they will not also come to this place of torment.'”* [[Tapestry/Bible/Luke/Luke 16_27-28\|Luke 16:27-28]]* #bible-verse  
 
 This is where we make our stand. We are fighting for the freewill choices of our siblings who are deceived and lost. Our job is not to disrupt their freedom of choice, but to remove the deception of the enemy that influences them towards harmful choices that seem beneficial. By bringing Truth to them now, they have the best opportunity of avoiding “*this place of torment*” when the Truth is ultimately revealed in death. #deception #rescue #freedom #choice #truth #freewill 
 
@@ -2796,7 +2882,8 @@ No matter what the reason why their heart has become hardened, they are still hi
 
 ### INTERCEDING FOR THE FREEWILL
 
-*“Later Jesus found him at the temple and said to him, ‘See, you are well again. Stop sinning or something worse may happen to you.” [[Tapestry/Bible/John/John 5_14\|John 5:14]]* #bible-verse 
+> [!quote]+ 
+>*“Later Jesus found him at the temple and said to him, ‘See, you are well again. Stop sinning or something worse may happen to you.” [[Tapestry/Bible/John/John 5_14\|John 5:14]]* #bible-verse 
 
 When Jesus delegated to us the authority to forgive sins through the Holy Spirit within us, He did not replace the need for repentance in the lives of those we forgive. Without repentance, their condition could end up being worse than it was before we forgave them. This did not stop Jesus from setting the captives free, but it is an important consideration as we learn to move in the commission that Jesus has sent us with. This authority was
 
@@ -2827,13 +2914,15 @@ See chapter 18 on Dismantling for details on how to pray for a person with a har
 ## Chapter 14: Bread Crumbs
  #chapter #His-will #journey #hebrew 
 
-*“It is the glory of God to conceal a matter;* *to search out a matter is the glory of kings.” [[Tapestry/Bible/Proverbs/Proverbs 25_2\|Proverbs 25:2]]*   #bible-verse 
+> [!quote]+ 
+>*“It is the glory of God to conceal a matter;* *to search out a matter is the glory of kings.” [[Tapestry/Bible/Proverbs/Proverbs 25_2\|Proverbs 25:2]]*   #bible-verse 
 
 In the summer of 2006, the Lord began stretching Shari and me greatly. We had both grown up with Christian values that were based upon love and focused upon sanctification through repentance (a very good thing). Yet the Lord was taking us to a place deeper within His heart. This place was outside of our understanding of how God moved. As such we were very concerned that the supernatural events occurring around us were not God and could be an attempt of the enemy to get us to stray from the Truth.  #heart-of-God #supernatural #truth #trust #His-will #journey 
 
 We attended a conference that July where a significant amount of gold was appearing out of nowhere. Not seeing the point of this within our belief system (no one was repenting), we were ready to walk out when the Lord said to us both, “*Trust Me*.” We did not know the person speaking who was calling for this gold to appear, but we did know the Lord. When we agreed to trust Him, it made room for Him to show us something we had never seen before. And that is exactly what happened. From that day forward the Lord was free to do anything He wanted in our lives. We trusted Him with all that we were. #trust #His-will 
 
-*“Trust in the LORD with all your heart and lean not on your own understanding; in all your ways acknowledge him, and he will make your paths straight.” [[Tapestry/Bible/Proverbs/Proverbs 3_5-6\|Prov 3:5-6]]* #bible-verse 
+> [!quote]+ 
+>*“Trust in the LORD with all your heart and lean not on your own understanding; in all your ways acknowledge him, and he will make your paths straight.” [[Tapestry/Bible/Proverbs/Proverbs 3_5-6\|Prov 3:5-6]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -2870,7 +2959,8 @@ For example, the Hebrew letter for “D” (pronounced *[[dalet\|dalet]]*) and r
 
 Larry Palmer and I went on a trip in June (2009) to Colorado as directed by the Lord. We had no idea why we were going, and were given less than 24 hours advance notice before leaving. On our first day there I took a digital picture of Larry in front of a massive outcropping of rocks on the land where our former house is. I noticed on my camera that it was picture #147 and that the time I took it was 10:47 am. I told Larry this and he said, “Wow. You took the 147th picture of a man born in 1947 at 10:47 am.” The brand of pants I was wearing that day was “Element 47.” We then continued on our day for a few hours, sang a few songs, and then headed back to the town where our hotel was for dinner. In the car I noticed that the temperature outside was 47 degrees. When we got to the hotel there was a building next door that housed the corporate headquarters of a radio station, “104.7 FM.” The Lord had our undivided attention...
 
-*"Have you entered the storehouses of the snow or seen the storehouses of the hail, which I reserve for times of trouble, for days of war and battle?” [[Job 38_22-23\|Job 38:22-23]]* #bible-verse 
+> [!quote]+ 
+>*"Have you entered the storehouses of the snow or seen the storehouses of the hail, which I reserve for times of trouble, for days of war and battle?” [[Tapestry/Bible/Job/Job 38_22-23\|Job 38:22-23]]* #bible-verse 
 
 The first song we sang up on the mountain was called “Hail.” My son and I wrote it in April (2009). The words are a quotation of [[Tapestry/Bible/Job/Job 38_22\|Job 38:22]]. We pulled into the parking lot of the restaurant next to our hotel and there in the grass was freshly fallen hail. After dinner we had an email from one of our intercessors in the Oklahoma City area.   She told us to look at Psalm 147, #bible-verse 
 
@@ -2886,11 +2976,13 @@ The first song we sang up on the mountain was called “Hail.” My son and I wr
 
 especially verse 17. The scripture is cross-referenced to [[Tapestry/Bible/Job/Job 38_22\|Job 38:22]]. #bible-verse 
 
-*“He hurls down his hail like pebbles. Who can withstand his icy blast?” [[Tapestry/Bible/Psalms/Psalm 147_17\|Psalm 147:17]]* #bible-verse 
+> [!quote]+ 
+>*“He hurls down his hail like pebbles. Who can withstand his icy blast?” [[Tapestry/Bible/Psalms/Psalm 147_17\|Psalm 147:17]]* #bible-verse 
 
 There are times when the Lord puts pieces together in such a way that it “blows our minds.” We literally had no idea why we went to Colorado, but so many things were falling into place and so quickly. Sometimes this happens so fast, you don’t have time to chronicle all that He is doing. But we know it is Him and we get to trust Him to complete the picture being drawn by the joining of the jigsaw puzzle pieces in His timing. So we rested in what He was doing and watched as the pieces came together.
 
-*“I will give you the treasures of darkness, riches stored in secret places, so that you may know that I am the LORD, the God of Israel, who summons you by name.” [[Tapestry/Bible/Isaiah/Isaiah 45_3\|Isaiah 45:3]]* #bible-verse 
+> [!quote]+ 
+>*“I will give you the treasures of darkness, riches stored in secret places, so that you may know that I am the LORD, the God of Israel, who summons you by name.” [[Tapestry/Bible/Isaiah/Isaiah 45_3\|Isaiah 45:3]]* #bible-verse 
 
 Back when we were in New Orleans (April 2009), one of our Tulsa based intercessors received revelation from the Lord about our accessing the storehouses mentioned in Job 38. Those that were buried by the Lord under snow and hail for times of war and battle. The scripture she received was [[Tapestry/Bible/Isaiah/Isaiah 45_3\|Isa. 45:3]]. #bible-verse 
 
@@ -2898,7 +2990,8 @@ In Hebrew the number seven (7) corresponds to the letter “Z” (pronounced *za
 
 ![image-zayin-dalet.png](/img/user/File%20Vault/images/book%20images/Kingdom/image-zayin-dalet.png)
 
-*“I am the gate; whoever enters through me will be saved. He will come in and go out, and find pasture.” [[Tapestry/Bible/John/John 10_9\|John 10:9]]* #bible-verse
+> [!quote]+ 
+>*“I am the gate; whoever enters through me will be saved. He will come in and go out, and find pasture.” [[Tapestry/Bible/John/John 10_9\|John 10:9]]* #bible-verse
 
 
 
@@ -2916,11 +3009,13 @@ The Father sent Jesus to be the gate through which all come to be saved. Jesus t
 
 He showed us how the evil one has an ancient plan to keep the human race from ever reaching the fullness of our destiny to prevent the wedding from taking place. The enemy wants to keep the Bride from being available for marriage because she is either too young, deceived into rejecting the proposal, or dead. We received the Key to dismantle this plan while on the mountain. Element 47 (the brand of my pants) is silver, which is the last impurity that comes out of gold when it is heated. The Lord has given us the final piece to remove all impurities from our being. He wants us to be fully pure so we can see the fullness of Christ manifest in our lives! This strategy is released throughout the next few chapters. Read on! #wedding #purification #deception #evil-one #rejection #dismantle #puzzle-piece 
 
-*“...until we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ.” [[Tapestry/Bible/Ephesians/Ephesians 4_13\|Ephesians 4:13]]* #bible-verse 
+> [!quote]+ 
+>*“...until we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ.” [[Tapestry/Bible/Ephesians/Ephesians 4_13\|Ephesians 4:13]]* #bible-verse 
 
 ### SNOWFLAKES IN A BLIZZARD
 
-*“No eye has seen, no ear has heard, no mind has conceived what God has prepared for those who love him” [[Tapestry/Bible/1 Corinthians/1 Corinthians 2_9\|1 Corinthians 2:9]]* #bible-verse 
+> [!quote]+ 
+>*“No eye has seen, no ear has heard, no mind has conceived what God has prepared for those who love him” [[Tapestry/Bible/1 Corinthians/1 Corinthians 2_9\|1 Corinthians 2:9]]* #bible-verse 
 
 The ability to hear God’s voice and to discern His signs is a critical skill in moving into our destiny. Yet this basic requirement is only the beginning. From here, the Lord wants to train us in handling a stream of revelations from the Throne Room (downloads) and keeping these in mind when doing His work. This boot camp stretches us until we can hear His instructions on the fly and respond without hesitation. The biggest challenge is the sheer volume of input coming from Heaven. Our spirits are ready to go, but our souls and bodies cry out, “slow down Daddy, slow down!!!” #listen #discernment #revelation 
 
@@ -2934,13 +3029,11 @@ The ability to hear God’s voice and to discern His signs is a critical skill i
 
 ---
 
-When we reach the end of our training, our capacity to operate in the Lord’s timing is staggering. Each download is unique and precious like a snowflake. Each assignment is like a blizzard. There are many revelations, much to see, and much to do. We operate in teams, representing the unified body of Christ. Yet with all of these variables, we are always in the right place at the right time. He designed each of us and then prepared us to work in this environment. With His anointing on us, we perform superhuman tasks. It should be impossible, but the burden is light.
-#bride #revelation #light #church 
+When we reach the end of our training, our capacity to operate in the Lord’s timing is staggering. Each download is unique and precious like a snowflake. Each assignment is like a blizzard. There are many revelations, much to see, and much to do. We operate in teams, representing the unified body of Christ. Yet with all of these variables, we are always in the right place at the right time. He designed each of us and then prepared us to work in this environment. With His anointing on us, we perform superhuman tasks. It should be impossible, but the burden is light. #bride #revelation #light #church 
 
 When people ask us to describe what the Lord does when we go out on assignment with Him, it is very difficult to do. Most of our trips have been over five days long with each day consisting of 20 hours of nonstop missions. We minister to people, dismantle ancient strongholds of evil in the land, teach at a conference, and sometimes lead worship to boot! We administrate last minute travel arrangements by foot, car, plane, or boat. We witness signs in the earth and sky, in the words of people we meet, and through the names of persons, places, and things. Sometimes we even get to eat! #assignment #adventure #rescue 
 
-All of this happens in one day. Over multiple days, it can be a challenge to chronicle what happened. For this reason, when people ask “what happened when you were gone,” we respond with a sampling and say, “That is just one snowflake in a blizzard.” It is the life of an adult son or daughter of God. Those who are called are created to operate at a superhuman level. This book is written to and for those who have said, “yes” to God and are ready to lay down their lives for His higher calling. It costs you everything, but it sure is worth it.
- #missions #sons-and-daughters 
+All of this happens in one day. Over multiple days, it can be a challenge to chronicle what happened. For this reason, when people ask “what happened when you were gone,” we respond with a sampling and say, “That is just one snowflake in a blizzard.” It is the life of an adult son or daughter of God. Those who are called are created to operate at a superhuman level. This book is written to and for those who have said, “yes” to God and are ready to lay down their lives for His higher calling. It costs you everything, but it sure is worth it. #missions #sons-and-daughters 
 
 ---
 <p style="text-align:center;">
@@ -2955,7 +3048,8 @@ All of this happens in one day. Over multiple days, it can be a challenge to chr
 ## Chapter 15: The Last Battle
 #chapter #choice #jesus #mental-health #forgiveness #splinter 
 
-*“But if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your forefathers served beyond the River, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD.” [[Tapestry/Bible/Joshua/Joshua 24_15\|Joshua 24:15]]*  #bible-verse 
+> [!quote]+ 
+>*“But if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your forefathers served beyond the River, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD.” [[Tapestry/Bible/Joshua/Joshua 24_15\|Joshua 24:15]]*  #bible-verse 
 
 Over the course of Terraforming, we have learned that the purpose of creation is to fulfill the Lord’s definition of Love which established the concept of a relationship between two or more objects. We the children of God are the object the Lord created to Love. But for us to Love Him back honestly, we must have freewill, and we cannot see Him in the natural. Otherwise, creation would not result in Love as He defined it.   #terraforming #love #relationship #heart-of-God 
 
@@ -2977,11 +3071,13 @@ We have learned the basic tenant that if sin gives the evil ones power, then to 
 
 ### SPLINTER SOULS
 
-*“For look, the wicked bend their bows; they set their arrows against the strings to shoot from the shadows at the upright in heart.” [[Tapestry/Bible/Psalms/Psalm 11_2\|Psalm 11:2]]*
+> [!quote]+ 
+>*“For look, the wicked bend their bows; they set their arrows against the strings to shoot from the shadows at the upright in heart.” [[Tapestry/Bible/Psalms/Psalm 11_2\|Psalm 11:2]]*
 
 Within the soul, the mind of a human being is subject to significant trauma at the hands of our brothers and sisters. The evil one learned this early on: that by having people do his dirty work for him, a person’s heart can be “broken” from the indescribable pain of betrayal, abandonment, neglect, isolation, and rejection. A broken heart results in a wounding that has crippling effects on a person’s mental state. The wounding produces fear and anger, which fuel further sins that separate us from our God and provide legal rights for the evil one to gain power.  #soul #evil-one #heart #not-love #mental-health #legal-right #wound 
 
-*“Come near to God and he will come near to you. Wash your hands, you sinners, and purify your hearts, you double-minded.” [[Tapestry/Bible/James/James 4_8\|James 4:8]]*  #bible-verse
+> [!quote]+ 
+>*“Come near to God and he will come near to you. Wash your hands, you sinners, and purify your hearts, you double-minded.” [[Tapestry/Bible/James/James 4_8\|James 4:8]]*  #bible-verse
 
 When a person’s soul is wounded, it splinters into multiple parts. These have been identified by psychiatrists as “multiple personality (MPD),” “split personality (DID),” “bipolar,” and in
 
@@ -3002,7 +3098,8 @@ The Lord gave me the first example of this with my own life. When I was a child 
 Next the Lord revealed to me the splinter that occurred at the same time as the rebel. This one was looking for self pleasure to replace the pain it was in. It was characterized as an addict and was attached to all of the usual suspects (sex, drugs, alcohol, rock and roll). The last one the Lord revealed to me did not manifest until I was in my 20’s. This was the bully whose job was that of a bodyguard. The bully protected me from further rejection, betrayal, or false accusation through using the irrevocable gift God had given me (verbal authority), to shut down any attempt to harm me (especially the little child within me). The sins were anger and self preservation. #self-sourcing #self-protection #splinter #root 
 
 
-*“So I find this law at work: When I want to do good, evil is right there with me. For in my inner being I delight in God's law; but I see another law at work in the members of my body, waging war against the law of my mind and making me a prisoner of the law of sin at work within my members. What a wretched man I am! Who will rescue me from this body of death? Thanks be to God—through Jesus Christ our Lord!” [[Tapestry/Bible/Romans/Romans 7_21-25a\|Romans 7:21-25a]]* #bible-verse 
+> [!quote]+ 
+>*“So I find this law at work: When I want to do good, evil is right there with me. For in my inner being I delight in God's law; but I see another law at work in the members of my body, waging war against the law of my mind and making me a prisoner of the law of sin at work within my members. What a wretched man I am! Who will rescue me from this body of death? Thanks be to God—through Jesus Christ our Lord!” [[Tapestry/Bible/Romans/Romans 7_21-25a\|Romans 7:21-25a]]* #bible-verse 
 
 Since the last splinter occurred, I grew mightily in the Lord. The main part of my soul grew into a massive man of God who had repented and forgiven generations of people for their sins that
 
@@ -3016,12 +3113,12 @@ Since the last splinter occurred, I grew mightily in the Lord. The main part of 
 
 ---
 
-were affecting my life. Yet when the revelation of the Lord came to me and I began to monitor the behavior of these splinters, I realized the power that was within them. When someone or some event would “trigger” a reaction from the splinter, it was as if I were a different person. When Shari did something that my soul perceived as being hurtful, I would fall into a powerful self pity and despair. Later when I came into my “right mind” I could honestly say that my behavior earlier was childish. Like a five or six year old who had never grown up. #splinter #repentance 
-  #generational-sins #generational-forgiveness
+were affecting my life. Yet when the revelation of the Lord came to me and I began to monitor the behavior of these splinters, I realized the power that was within them. When someone or some event would “trigger” a reaction from the splinter, it was as if I were a different person. When Shari did something that my soul perceived as being hurtful, I would fall into a powerful self pity and despair. Later when I came into my “right mind” I could honestly say that my behavior earlier was childish. Like a five or six year old who had never grown up. #splinter #repentance #generational-sins #generational-forgiveness
 
 I literally watched my body members operate in direct opposition to my heart’s desire. When someone made a plan that I believed was a bad move, I felt an irresistible urge to resign or sabotage them by allowing mistakes to be made. All actions perceived were irrational and contradictory to the man of God I truly was. After the fact this became quite frustrating as I tried to find victory through repentance and forgiveness of my forefathers and those who trespassed against me. Yet these “bottom of the barrel” sins continued despite my efforts to subdue them. #revelation #change #heart #god #generational-forgiveness #repentance 
 
-*“Teach me your way, O LORD, and I will walk in your truth; give me an undivided heart, that I may fear your name.” [[Tapestry/Bible/Psalms/Psalm 86_11\|Psalm 86:11]]* #bible-verse
+> [!quote]+ 
+>*“Teach me your way, O LORD, and I will walk in your truth; give me an undivided heart, that I may fear your name.” [[Tapestry/Bible/Psalms/Psalm 86_11\|Psalm 86:11]]* #bible-verse
 
 When the Lord revealed the existence of the splinters to me, and the fact that their **will **was what kept me from having victory, I saw Light in the tunnel. While I freely chose to repent and forgive, these splinters were in complete rebellion to my own decisions. Until they repented and forgave, my being was not fully free of the legal rights of the enemy. What a wretched man I was! But I knew immediately that there had to be a way in. #splinter #legal-right #revelation #will 
 
@@ -3061,11 +3158,13 @@ I found that after years of being wounded, I had learned to distrust human being
 
 ### SOUL VALVES
 
-*“Your kingdom come, your will be done, on earth as it is in heaven.” [[Tapestry/Bible/Matthew/Matthew 6_10\|Matthew 6:10]]* #bible-verse
+> [!quote]+ 
+>*“Your kingdom come, your will be done, on earth as it is in heaven.” [[Tapestry/Bible/Matthew/Matthew 6_10\|Matthew 6:10]]* #bible-verse
 
 The Father’s will is done in heaven and now He wants it to be done on earth. Heaven is the source of the will of the Father and earth is the destination. The flow of the will of the Father is therefore from Heaven to earth. It is in this flow that the Lord wants to send all things to His family: inheritance, revelation, authority, and power. This is not to say that our intimacy with Him is one-sided. We have a two way relationship with the Lord. But He is all knowing and does not need a flow to see what we are doing. We are not all-knowing, until we receive from Heaven! Then we have access to everything that He provides us without limitation! #His-will  #heaven #earth #intimacy #love #inheritance #revelation #authority
 
-*“And God raised us up with Christ and seated us with Him in the heavenly realms in Christ Jesus, in order that in the coming ages He might show the incomparable riches of His grace, expressed in His kindness to us in Christ Jesus.” [[Tapestry/Bible/Ephesians/Ephesians 2_6-7\|Ephesians 2:6-7]]* #bible-verse 
+> [!quote]+ 
+>*“And God raised us up with Christ and seated us with Him in the heavenly realms in Christ Jesus, in order that in the coming ages He might show the incomparable riches of His grace, expressed in His kindness to us in Christ Jesus.” [[Tapestry/Bible/Ephesians/Ephesians 2_6-7\|Ephesians 2:6-7]]* #bible-verse 
 
 Our spirits are seated in Heaven with Jesus right now where the Father wishes to pour into us all things that we need here on earth. From our spirit, our soul is then fed, if it is willing. The intake valve of the soul determines if, and with what quantity the soul receives from the spirit seated in Heaven. A shut or partially shut valve is literally the result of an overactive soul
 
@@ -3081,13 +3180,15 @@ Our spirits are seated in Heaven with Jesus right now where the Father wishes to
 
 that has learned to defend or uplift itself through mental understanding or emotional reactions. To turn this valve to the full open position, we must repent of *leaning on our own understanding *([[Tapestry/Bible/Proverbs/Proverbs 3_5\|Prov 3:5]]), and / or the emotions of fear, anger, and pride which led to control. We must also forgive our forefathers who most likely had the same sins. #bible-verse  #spirit #soul #generational-sins 
 
-*“Come to me, all you who are weary and burdened, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and humble in heart, and you will find rest for your souls. For My yoke is easy and My burden is light.”* [[Tapestry/Bible/Matthew/Matthew 11_28-30\|Matthew 11:28-30]]* #bible-verse 
+> [!quote]+ 
+>*“Come to me, all you who are weary and burdened, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and humble in heart, and you will find rest for your souls. For My yoke is easy and My burden is light.”* [[Tapestry/Bible/Matthew/Matthew 11_28-30\|Matthew 11:28-30]]* #bible-verse 
 
 The out-take valve of the soul is often shut or partially shut through the internalization of burdens, false responsibilities, and stress. This creates an enormous amount of pressure within a person and can lead to depression and in some cases, auto- immune disorders. The events that surround us in life can be painful and we must have the ability to allow these to flow into us and out of us like a river and not pool up like a lake. We need to hand these burdens to Jesus. To turn this valve to the full open position, we must repent and then forgive our forefathers of fear, false standards, false expectations, and in many cases, idolatry. #heart-of-God #spirit-of-God #heaven #jesus #father #choice #fruit #forgive #generational-forgiveness 
 
 ### SOUL HABITS
 
-*“I am the true vine, and My Father is the gardener. He cuts off every branch in me that bears no fruit, while every branch that does bear fruit He prunes so that it will be even more fruitful.” [[Tapestry/Bible/John/John 15_1-2\|John 15:1–2]]* #bible-verse 
+> [!quote]+ 
+>*“I am the true vine, and My Father is the gardener. He cuts off every branch in me that bears no fruit, while every branch that does bear fruit He prunes so that it will be even more fruitful.” [[Tapestry/Bible/John/John 15_1-2\|John 15:1–2]]* #bible-verse 
 
 As with deliverance, the integration of Splinter Souls through the fullness of forgiveness and repentance removes the power of the evil one to tempt, torment, or afflict us. This alone has a radical impact on our lives, especially in our ability to resist sin. Yet the years of living in these conditions creates strong personality habits, instincts, and reflexes that must be dealt with. Even though the demons are gone and the splinters are integrated, we still found ourselves automatically responding to the triggers (other humans behaving in a way that could wound or offend us) the same way we did before. It was massively different, yet the responses were there.
 
@@ -3129,7 +3230,8 @@ Each level of intimacy has its own response to the call of God. Which level are 
 
 ### SOUL DESTINY
 
-*“Therefore confess your sins to each other and pray for each other so that you may be healed.”  [[Tapestry/Bible/James/James 5_16a\|James 5:16a]]* #bible-verse 
+> [!quote]+ 
+>*“Therefore confess your sins to each other and pray for each other so that you may be healed.”  [[Tapestry/Bible/James/James 5_16a\|James 5:16a]]* #bible-verse 
 
 We know that the process created by God for learning behavior is called discipline (teaching). Each of us must submit to this process to be free of sinful habits. To be healed we are called to come together and pray for one another. I recommend an accountability partner for this process. Someone you trust that you can tell about your former splinters, what their behavior was, and your desire to be free of the bad habits that remain after integration. That person should have the authority to lovingly correct you to the extent that you are willing to be set free from these habits. The boundaries that you set must be enforced for the behavior to change. Consequences will be required in some cases. Just make sure that the process you follow is founded in Love. #trust #prayer #heart-of-God #splinter #love #accountability #journey 
 
@@ -3169,7 +3271,8 @@ soul whereby the spirit receives from Heaven, the soul is the gateway to the bod
 
 The Lord is taking us on an adventurous journey into the fullness of our calling and destiny as sons and daughters of God, unified into an adult church. We are learning that there is nothing that Jesus did that we are not called to do. In fact, He said that we would do greater works than what He did on earth! As we continue this process of identifying all things that Jesus did and seeing them in the Light of being what WE will now do, we are encouraged to push on to the fullness of Christ. We are desirous of everything that God has for us because we know that our identity in Him and our calling is far beyond our furthest expectations. It is bigger than we thought. #journey #fullness #calling #destiny #sons-and-daughters #unity #jesus #light 
 
-*“If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow me.” [[Tapestry/Bible/Matthew/Matthew 19_21\|Matthew 19:21]]*  #bible-verse 
+> [!quote]+ 
+>*“If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow me.” [[Tapestry/Bible/Matthew/Matthew 19_21\|Matthew 19:21]]*  #bible-verse 
 
 Even though Abraham had a covenant with the Lord for descendants that were as numerous as the stars, he was told to sacrifice Isaac on the altar. Isaac was the embodiment of that covenant with God, yet it was this very thing that Abraham was called to sacrifice. In the last days, we are invited to place everything that we are on this altar. The Lord is saying, “those that give Me everything will have nothing to contaminate the power that I give them.” They can be trusted with the fullness of
 
@@ -3187,7 +3290,8 @@ Christ, which is the greatest power and authority in all of creation. #heart-of-
 
 People after the heart of God give all to Him, so He uses us for His great will to be done. That means giving Him our ambitions, needs, even our very lives. Are you willing to lay everything you want at the feet of God? Are you willing to lay your basic needs at the feet of God? Are you willing to let your heart be broken for the Kingdom? Are you willing to be falsely accused for His testimony? Will you trust God with the lives of your children? Your spouse? Yourself? #heart-of-God #His-will #abandoning #trust #kingdom #invitation  #adult-season  
 
-*“they did not love their lives so much as to shrink from death.” [[Tapestry/Bible/Revelation/Revelation 12_11b\|Revelation 12:11b]]*  #bible-verse
+> [!quote]+ 
+>*“They did not love their lives so much as to shrink from death.” [[Tapestry/Bible/Revelation/Revelation 12_11b\|Revelation 12:11b]]*  #bible-verse
 
 
 
@@ -3217,13 +3321,15 @@ Does our commission from Jesus, which includes every way that the Father sent Hi
 | Said “*Receive my spirit*” | Luke 23:46 | Acts 7:59 | 
 | Forgave persecutors | Luke 23:34|Acts 7:60 | 
 
-*“Meanwhile, the witnesses laid their clothes at the feet of a young man named Saul.” [[Tapestry/Bible/Acts/Acts 7_58b\|Acts 7:58b]]*
+> [!quote]+ 
+>*“Meanwhile, the witnesses laid their clothes at the feet of a young man named Saul.” [[Tapestry/Bible/Acts/Acts 7_58b\|Acts 7:58b]]*
 
 As the Father sent Jesus to walk a righteous life, teach, preach good news, perform miracles, and to not love His life even unto death, so Jesus sent Stephen to do the same. Stephen was an example to every generation thereafter and to every age of the church of what [[Tapestry/Bible/John/John 20_21\|John 20:21]] could look like. This is not to say that we all have the destiny of martyrdom: the apostle John was not martyred. Stephen’s life serves as an example that we all should take note of.
 
 What is the effect of martyrdom? When Jesus died, the earth received the free gift of eternal salvation. When Jesus was wounded, the earth received the gift of freedom, deliverance, and healing. So what did the earth receive when Stephen died? Losing Stephen was a blow to the early church. Certainly, the Lord did not want Stephen to be stoned to death. So what benefit could possibly come from the death of this man of God? #miracles #gift #salvation 
 
-*“As he neared Damascus on his journey, suddenly a light from heaven flashed around him. He fell to the ground and heard a voice say to him, ‘Saul, Saul, why do you persecute me?’ ‘Who are you, Lord?’ Saul asked. ‘I am Jesus, whom you are*
+> [!quote]+ 
+>*“As he neared Damascus on his journey, suddenly a light from heaven flashed around him. He fell to the ground and heard a voice say to him, ‘Saul, Saul, why do you persecute me?’ ‘Who are you, Lord?’ Saul asked. ‘I am Jesus, whom you are*
 
 ---
 <p style="text-align:center;">
@@ -3235,7 +3341,8 @@ What is the effect of martyrdom? When Jesus died, the earth received the free gi
 
 ---
 
-*persecuting,’ he replied. ‘Now get up and go into the city, and you will be told what you must do.’” [[Tapestry/Bible/Acts/Acts 9_3-6\|Acts 9:3-6]]* #bible-verse
+> [!quote]+ 
+>*persecuting,’ he replied. ‘Now get up and go into the city, and you will be told what you must do.’” [[Tapestry/Bible/Acts/Acts 9_3-6\|Acts 9:3-6]]* #bible-verse
 
 The Lord appeared to Saul without an invitation. He imposed Himself onto Saul whereby there was no question in his mind that God was real, and His son was indeed Jesus. All things held equal, this is a major violation of The Rules. By presenting Himself in this way, the Lord took away Saul’s freewill and made a choice for him. He was blinded until he followed the Lord’s instructions to the letter. If the Lord did this for everyone, we would not be free to choose Love over not-Love. The very definition of Love is at stake. So why did the Lord do such a thing? #freewill #love #not-love #invitation
 
@@ -3243,7 +3350,8 @@ When a son of man, filled with the Holy Spirit, and rendered spotless by the Blo
 
 ### PAUL
 
-*“I have appeared to you to appoint you as a servant and as a witness of what you have seen of Me and what I will show you. I will rescue you from your own people and from the Gentiles. I am sending you to them to open their eyes and turn them from darkness to light, and from the power of satan to God, so that they may receive forgiveness of sins and a place among those who are sanctified by faith in Me.'” [[Tapestry/Bible/Acts/Acts 26_16-18\|Acts 26:16-18]]* #bible-verse 
+> [!quote]+ 
+>*“I have appeared to you to appoint you as a servant and as a witness of what you have seen of Me and what I will show you. I will rescue you from your own people and from the Gentiles. I am sending you to them to open their eyes and turn them from darkness to light, and from the power of satan to God, so that they may receive forgiveness of sins and a place among those who are sanctified by faith in Me.'” [[Tapestry/Bible/Acts/Acts 26_16-18\|Acts 26:16-18]]* #bible-verse 
 
 When Saul became Paul, he became the redemption of the life of Stephen. Although Stephen had great gifting and anointing on earth, the Lord replaced the loss of him with one that was given far greater responsibilities than Stephen had. Paul was commissioned to set the captives free from the deception of the evil one, and to release them into their “place” or destiny in the Kingdom of God. In the end, he wrote most of what we refer to as the “New Testament” through his letters to the churches. Paul’s writings are considered to be a road map for every person
 
@@ -3259,13 +3367,15 @@ When Saul became Paul, he became the redemption of the life of Stephen. Although
 
 seeking to grow in maturity through Christ Jesus. He has affected billions of people. #redemption #freedom #destiny 
 
-*“So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who confirmed the message of His grace by enabling them to do miraculous signs and wonders.” [[Tapestry/Bible/Acts/Acts 14_3\|Acts 14:3]]* #bible-verse 
+> [!quote]+ 
+>*“So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who confirmed the message of His grace by enabling them to do miraculous signs and wonders.” [[Tapestry/Bible/Acts/Acts 14_3\|Acts 14:3]]* #bible-verse 
 
 Paul’s ministry started very similar to Stephen’s. He traveled extensively and preached the good news of Jesus Christ. He taught on the ways of God and how to live and conduct themselves. He showed great wisdom in his dealings with every person, especially the Pharisees and the Sadducees. He demonstrated the Kingdom of God through miraculous signs and wonders, leading many to Jesus. He was hated by the teachers of the law. #redemption #destiny #kingdom #jesus 
 
 Soon Paul’s ministry transitioned to the founding of churches throughout Asia Minor and Greece. As this chapter unfolded, Paul began to take on the role of father to these church bodies. He was viewed with great authority as the person who lead many of the original church members to Christ. Paul was also the one who followed up with wisdom and instruction on how to live life as an individual and corporately in this new revelation of the Truth of God. For the Jews, this meant the fulfillment of many covenants and the introduction of a new covenant. For the Gentiles, this meant grafting-in to a Hebrew way of life of which they had little understanding. #steward #destiny #truth 
 
-*“Some of you have become arrogant, as if I were not coming to you. But I will come to you very soon, if the Lord is willing, and then I will find out not only how these arrogant people are talking, but what power they have. For the kingdom of God is not a matter of talk but of power. What do you prefer? ****Shall I come to you with a whip****, or in love and with a gentle spirit?”* *[[Tapestry/Bible/1 Corinthians/1 Corinthians 4_18-21\|1 Corinthians 4:18-21]]* #bible-verse 
+> [!quote]+ 
+>*“Some of you have become arrogant, as if I were not coming to you. But I will come to you very soon, if the Lord is willing, and then I will find out not only how these arrogant people are talking, but what power they have. For the kingdom of God is not a matter of talk but of power. What do you prefer? ****Shall I come to you with a whip****, or in love and with a gentle spirit?”* *[[Tapestry/Bible/1 Corinthians/1 Corinthians 4_18-21\|1 Corinthians 4:18-21]]* #bible-verse 
 
 Once Paul had brought the message of salvation to people and the freedom that came from the power of the name and Blood of Jesus, he next focused on the process of fathering the church into righteousness. This meant outlining the life of loving God first, and then our brothers. He had to confront the mistakes and blatant choices of members in the body to pollute The Way or
 
@@ -3282,12 +3392,12 @@ Once Paul had brought the message of salvation to people and the freedom that ca
 
 promote their own self agendas. Although less desirable, it was Paul’s calling to be the father figure in their lives. It was his job to be the final word that enforced the boundaries of conduct that kept them on the right path towards wholeness in Christ. #authority #wisdom #truth #salvation  #steward 
 
-*“This will be my third visit to you. I already gave you a warning when I was with you the second time. I now repeat it while absent: ****On my return I will not spare those who sinned earlier or any of the others****, since you are demanding proof that Christ is speaking through me. He is not weak in dealing with you, but is powerful among you.” [[Tapestry/Bible/2 Corinthians/2 Corinthians 13_1a-3\| 2 Corinthians 13:1a-3]]* #bible-verse 
+> [!quote]+ 
+>*“This will be my third visit to you. I already gave you a warning when I was with you the second time. I now repeat it while absent: ****On my return I will not spare those who sinned earlier or any of the others****, since you are demanding proof that Christ is speaking through me. He is not weak in dealing with you, but is powerful among you.” [[Tapestry/Bible/2 Corinthians/2 Corinthians 13_1a-3\| 2 Corinthians 13:1a-3]]* #bible-verse 
 
 Just as we are free to create accountability partnerships with those in the brethren that will help us to walk a straight line, our spiritual fathers have a role to play as well. The Lord is preparing many to become fathers to the church now that it has reached adulthood. Those people will give birth to new revelations, new breakthroughs, and new levels of authority for the Body of Christ to walk in. Each person who desires to achieve completeness, wholeness, or fullness in Christ will submit to these fathers for accountability and discipline. #accountability #steward #relationship #trust #change #heart-of-God 
 
-The people of God must move past the relationship of servant and friend and into the covenant of family (inheritance). Here the believer will complete the work of sanctification through complete submission to God. The Holy Spirit reveals to us those root sins that give evil its rights to tempt, torment, and afflict us. Forgiveness through the Blood of Jesus and the word of our testimony will set us free. Those called to be fathers will undergo deep levels of cleansing so they will be worthy of the responsibility of guarding the gates to the city of God (His sheep). They will then represent the father on earth to love the flock to purity through honest confrontation of those habits that remain. Our submission to these fathers is critical for the Body to attain perfection. In this place we will be trustworthy to walk in the fullness of our calling.
- #inheritance-covenant #holy-spirit #root #sin #forgiveness  #authority #wholeness #fullness #relationship #purification #blood-of-Jesus #heart-of-God 
+The people of God must move past the relationship of servant and friend and into the covenant of family (inheritance). Here the believer will complete the work of sanctification through complete submission to God. The Holy Spirit reveals to us those root sins that give evil its rights to tempt, torment, and afflict us. Forgiveness through the Blood of Jesus and the word of our testimony will set us free. Those called to be fathers will undergo deep levels of cleansing so they will be worthy of the responsibility of guarding the gates to the city of God (His sheep). They will then represent the father on earth to love the flock to purity through honest confrontation of those habits that remain. Our submission to these fathers is critical for the Body to attain perfection. In this place we will be trustworthy to walk in the fullness of our calling. #inheritance-covenant #holy-spirit #root #sin #forgiveness  #authority #wholeness #fullness #relationship #purification #blood-of-Jesus #heart-of-God 
 
 ---
 <p style="text-align:center;">
@@ -3302,7 +3412,8 @@ The people of God must move past the relationship of servant and friend and into
 ## Chapter 17: One New Man
 #chapter #jewish #hebrew 
 
-*“His purpose was to create in himself one new man out of the two *[Jew and Gentile]*, thus making peace, and in this one body to reconcile both of them to God through the cross, by which he put to death their hostility.”* [[Tapestry/Bible/Ephesians/Ephesians 2_15b-16\|Ephesians 2:15b-16]]*  #bible-verse 
+> [!quote]+ 
+>*“His purpose was to create in himself one new man out of the two *[Jew and Gentile]*, thus making peace, and in this one body to reconcile both of them to God through the cross, by which he put to death their hostility.”* [[Tapestry/Bible/Ephesians/Ephesians 2_15b-16\|Ephesians 2:15b-16]]*  #bible-verse 
 
 The early church fathers dealt with several serious issues resulting from the fact that they were Jews (as was Jesus), but the Gospel was available to all people. Should the Gentile converts have to be circumcised? Should they observe the High Holy Days? Should they observe the Sabbath? Should they follow every letter of the law? Would this overwhelm the Gentiles and keep them from Christ? Was this God’s will? 
 
@@ -3324,11 +3435,13 @@ What would happen if the adult men and women of God who recognize Jesus as the K
 
 ### BROTHERS
 
-*“Brothers, my heart's desire and prayer to God for the Israelites is that they may be saved.” [[Tapestry/Bible/Romans/Romans 10_1\|Romans 10:1]]* #bible-verse
+> [!quote]+ 
+>*“Brothers, my heart's desire and prayer to God for the Israelites is that they may be saved.” [[Tapestry/Bible/Romans/Romans 10_1\|Romans 10:1]]* #bible-verse
 
 The first people to believe that Jesus was the Messiah were Jews. The church was founded by Jews and it was the Jewish people that the church fathers preached to first. It was in the heart of every one of these elder brothers that we have in the Lord to see the Jewish people enter into the fulfillment of the covenants that God gave to them by birth. They, if anyone, had the deepest understanding of the mysteries of the God of Abraham, Isaac, Jacob, and King David. They held the big picture of what Jesus accomplished through the cross. And yet so many rejected Jesus as savior and continued to persecute the Jewish founding fathers of the church. #church #hebrew #jewish #god #jesus 
 
-*“When they had finished eating, Jesus said to Simon Peter, ‘Simon son of John, do you truly love me more than these?’ ‘Yes, Lord,’ he said, ‘you know that I love you.’ Jesus said, ‘Feed my lambs.’ Again Jesus said, ‘Simon son of John, do you truly love me?’ He answered, ‘Yes, Lord, you know that I love you.’ Jesus said, ‘Take care of my sheep.’ The third time he said to him, ‘Simon son of John, do you love me?’ Peter was hurt because Jesus asked him the third time, ‘Do you love me?’ He said, ‘Lord,*
+> [!quote]+ 
+>*“When they had finished eating, Jesus said to Simon Peter, ‘Simon son of John, do you truly love me more than these?’ ‘Yes, Lord,’ he said, ‘you know that I love you.’ Jesus said, ‘Feed my lambs.’ Again Jesus said, ‘Simon son of John, do you truly love me?’ He answered, ‘Yes, Lord, you know that I love you.’ Jesus said, ‘Take care of my sheep.’ The third time he said to him, ‘Simon son of John, do you love me?’ Peter was hurt because Jesus asked him the third time, ‘Do you love me?’ He said, ‘Lord,*
 
 ---
 <p style="text-align:center;">
@@ -3340,14 +3453,15 @@ The first people to believe that Jesus was the Messiah were Jews. The church was
 
 ---
 
-*you know all things; you know that I love you.’ Jesus said, ‘Feed my sheep.’” [[Tapestry/Bible/John/John 21_15-17\|John 21:15-17]]* #bible-verse 
+> [!quote]+ 
+>*you know all things; you know that I love you.’ Jesus said, ‘Feed my sheep.’” [[Tapestry/Bible/John/John 21_15-17\|John 21:15-17]]* #bible-verse 
 
 Peter was the apostle sent to preach to the Jews ([[Tapestry/Bible/Galatians/Galatians 2_7\|Gal. 2:7]]). Jesus knew this and so singled him out at His last visit with His apostles. The way the gospels are written, it can be difficult to read the emotion of the person talking. But rest assured, Jesus was imparting his heart to Peter in this moment. He was imploring Peter and those of us who followed Peter to not forget His brothers, who were the Jews. Yes, Jesus did mean all people, but as with all things Hebrew, this covenant He was making with Peter was also directed specifically to the Jews. They are Jesus’ brethren. They are on His heart always. They should be on ours as well. #bible-verse #heart-of-God #invitation #jewish #jesus 
 
 ### STUMBLING BLOCKS
 
-*“Then they *[Jews of the Synagogue of the Freedmen] *secretly persuaded some men to say, ‘We have heard Stephen speak words of blasphemy against Moses and against God.’ So they stirred up the people and the elders and the teachers of the law.*
-*They seized Stephen and brought him before the Sanhedrin. They produced false witnesses, who testified, ‘This fellow never stops speaking against this holy place and against the law. For we have heard him say that this Jesus of Nazareth will ****destroy this place and change the customs Moses handed down to us****.’” [[Tapestry/Bible/Acts/Acts 6_11-14\|Acts 6:11-14]]* #bible-verse 
+> [!quote]+ 
+>*“Then they *[Jews of the Synagogue of the Freedmen] *secretly persuaded some men to say, ‘We have heard Stephen speak words of blasphemy against Moses and against God.’ So they stirred up the people and the elders and the teachers of the law. They seized Stephen and brought him before the Sanhedrin. They produced false witnesses, who testified, ‘This fellow never stops speaking against this holy place and against the law. For we have heard him say that this Jesus of Nazareth will **destroy this place and change the customs Moses handed down to us**.’” [[Tapestry/Bible/Acts/Acts 6_11-14\|Acts 6:11-14]]* #bible-verse 
 
 Jewish persecution began at the time of Joseph and continues to this day. Since the enslavement by Egypt around the year 1900 BC, Jews have feared having their heritage, customs, and way of life forcibly taken from them. It is at the heart of every Jewish man or woman to fervently defend this way of life no matter the cost. Bless the Jews! They are zealous for the Lord! It is in their DNA to defend the everlasting covenants that the Lord made with their forefathers. #jewish #covenant 
 
@@ -3369,7 +3483,8 @@ In Spain, this persecution originated by the Christian, Germanic Visigoth tribes
 
 Today, Jews look at Christianity and see a religion that is steeped in pagan influences. They do not see the new covenant that God has offered them for the atonement of their sins. They see a Greek centered new testament (contract) that requires them to lose their identity that is tied to everlasting covenants with Abraham, Isaac, Jacob, and David, and lasting ordinances with Moses. With this outward appearance, the Jews will continue to reject that which has caused them much injury for thousands of years. They are rejecting the manmade religion and by default, missing the free gift of the salvation that only comes from God through Yeshua Ha’Mashiach (Jesus the messiah).  #religion #jewish #covenant #gift #salvation #jesus 
 
-*“One man's faith allows him to eat everything, but another man, whose faith is weak, eats only vegetables. The man who eats everything must not look down on him who does not, and the man who does not eat everything must not condemn the man who does, for God has accepted him. Who are you to judge someone else's servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand.” [[Tapestry/Bible/Romans/Romans 14_2-4\|Romans 14:2-4]]* #bible-verse 
+> [!quote]+ 
+>*“One man's faith allows him to eat everything, but another man, whose faith is weak, eats only vegetables. The man who eats everything must not look down on him who does not, and the man who does not eat everything must not condemn the man who does, for God has accepted him. Who are you to judge someone else's servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand.” [[Tapestry/Bible/Romans/Romans 14_2-4\|Romans 14:2-4]]* #bible-verse 
 
 There is a picture of life in Christ that is worth painting for those who pursue perfection in the Lord. On this canvas, adult men and women of God who are free to eat what we want, celebrate what we want, and worship when we want, will look at how it affects our brothers. We will question if Christmas and Easter are causing our brothers to stumble. #jesus #freedom #religion 
 
@@ -3426,7 +3541,8 @@ Each of these demonic advantages (cities, strongholds, horses, etc) are describe
 
 ### Land
 
-*“For by Him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers*
+> [!quote]+ 
+>*“For by Him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers*
 
 ---
 <p style="text-align:center;">
@@ -3438,7 +3554,8 @@ Each of these demonic advantages (cities, strongholds, horses, etc) are describe
 
 ---
 
-*or authorities; all things were created by Him and for Him.” [[Tapestry/Bible/Colossians/Colossians 1_16\|Colossians 1:16]]* #bible-verse 
+> [!quote]+ 
+>*or authorities; all things were created by Him and for Him.” [[Tapestry/Bible/Colossians/Colossians 1_16\|Colossians 1:16]]* #bible-verse 
 
 Demonic cities are similar, yet differentiated from cities in the natural. Think of old town hall meetings to get a decent picture of what these are. Demons gather together in rank from lowest to highest to discuss strategy, receive orders, and carry out missions. Please do not have a picture of organized, clean, military-like control in this environment. It looks more like a dark cavern of creepy, crawling, chaos. The city I discovered under Las Vegas, Nevada comes to mind. There are literally millions of demons in a city of this size, working together and yet not working together, if you know what I mean. They follow orders, but each has its own agenda. #demon #supernatural #discernment 
 
@@ -3487,11 +3604,13 @@ Tearing these down is easy in the Light, but you must be careful. The success of
 
 ### Government
 
-*“Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves and not be scattered over the face of the whole earth.” [[Tapestry/Bible/Genesis/Genesis 11_4\|Genesis 11:4]]* #bible-verse 
+> [!quote]+ 
+>*“Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves and not be scattered over the face of the whole earth.” [[Tapestry/Bible/Genesis/Genesis 11_4\|Genesis 11:4]]* #bible-verse 
 
 In the natural, the Assyrian empire worshiped handmade idols, pagan gods (demons) that they conducted detestable practices towards (bloodshed, sexual immorality) in their devotion. The authority that empowers this hierarchy comes from the unified sin of human community. When the government of that community and the agreeing majority of its inhabitants enter into corporate sin and makes it their religion, these demonic principalities receive a massive amount of rights, power, and authority to exist. #worship #demons #authority #religion #legal-right  
 
-*“‘Don't be afraid,’ the prophet answered. ‘Those who are with us are more than those who are with them.’ And Elisha prayed, ‘O LORD, open his eyes so he may see.’ Then the LORD opened the servant's eyes, and he looked and saw the hills full of horses and chariots of fire all around Elisha.” [[Tapestry/Bible/2 Kings/2 Kings 6_16-17\|2 Kings 6:16-17]]* #bible-verse 
+> [!quote]+ 
+>*“‘Don't be afraid,’ the prophet answered. ‘Those who are with us are more than those who are with them.’ And Elisha prayed, ‘O LORD, open his eyes so he may see.’ Then the LORD opened the servant's eyes, and he looked and saw the hills full of horses and chariots of fire all around Elisha.” [[Tapestry/Bible/2 Kings/2 Kings 6_16-17\|2 Kings 6:16-17]]* #bible-verse 
 
 
 In the natural, the Assyrian armies rode horses pulling powerful chariots. The angelic army of God rides horses, pulling chariots of fire. These horses and chariots are assigned to the angels by the Lord as a part of their calling. As such, fallen angels ride them too. The big difference is that the chariots no longer house
@@ -3508,17 +3627,20 @@ In the natural, the Assyrian armies rode horses pulling powerful chariots. The a
 
 the fire of God. These are sometimes used by the Lord for judgement ([[Tapestry/Bible/Zechariah/Zechariah 6_1-8\|Zech. 6:1-8]]). As with carved idols, these devices are symbolism of the demonic chain of command that is within the system of the kingdom of darkness. These are massive power houses that fall under the authority of countries, regions, and ultimately to the devil who is satan ([[Tapestry/Bible/Job/Job 1_7\|Job 1:7]]). #bible-verse   #angels #demons #kingdom #darkness #satan #evil-one 
 
-*“You, dear children, are from God and have overcome them, because the One who is in you is greater than the one who is in the world.” [[Tapestry/Bible/1 John/1 John 4_4\|1 John 4:4]]* #bible-verse
+> [!quote]+ 
+>*“You, dear children, are from God and have overcome them, because the One who is in you is greater than the one who is in the world.” [[Tapestry/Bible/1 John/1 John 4_4\|1 John 4:4]]* #bible-verse
 
 But do not be afraid. Those who are with us are more than those who are with them. The highest level of government within the kingdom of darkness stands upon the deception of its lying tongue. It is a house of cards. One pull and down it goes. As the body of Christ unifies in purpose, walking on the paths of our destinies with the fullness of our gifts, we see victory. The Light of Jesus reveals the hidden sins in daily portions that are the perfect quantity and sequence. We forgive the sinners, hurling down the accuser, and the hierarchy is demolished. #kingdom #darkness #deception #unity #daily-bread #revelation #light-of-jesus 
 
-*“For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.” [[Tapestry/Bible/Isaiah/Isaiah 9_6\|Isaiah 9:6]]* #bible-verse 
+> [!quote]+ 
+>*“For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.” [[Tapestry/Bible/Isaiah/Isaiah 9_6\|Isaiah 9:6]]* #bible-verse 
 
 In its place, the Lord will establish His government, a royal government that rests on the shoulders of King Jesus. This government consists of the adult sons and daughters of God who have an intimate relationship with their Father and operate out of a Kingdom heart. They are trustworthy to bring Love to those that need it most. They are servants who are not too proud to clean the toilets. Through Christ within them, they will embody all that Jesus was on earth: they will set the captives free and then release them on the path of their calling in the Kingdom.  #church #destiny #gifts #light #jesus #accuser #freedom #sons-and-daughters #intimacy #love #relationship #heart #heart-of-God 
 
 ### Witchcraft
 
-*“Like dawn spreading across the mountains a large and mighty army comes, such as never was of old nor ever will be in ages to come.”[[Tapestry/Bible/Joel/Joel 2_2b\|Joel 2:2b]]* #bible-verse 
+> [!quote]+ 
+>*“Like dawn spreading across the mountains a large and mighty army comes, such as never was of old nor ever will be in ages to come.”[[Tapestry/Bible/Joel/Joel 2_2b\|Joel 2:2b]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -3593,7 +3715,8 @@ Another example occurred during prayer. I felt a sharp pain in the sole of my ri
 
 ### Full Armor of God
 
-*“Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand.” [[Tapestry/Bible/Ephesians/Ephesians 6_13\|Ephesians 6:13]]* #bible-verse 
+> [!quote]+ 
+>*“Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand.” [[Tapestry/Bible/Ephesians/Ephesians 6_13\|Ephesians 6:13]]* #bible-verse 
 
 Pain is no fun. No one that I know likes it. But pain reveals problems in the body, and many times, problems in the soul and the spirit as well. When a headache comes, we all reach for the aspirin, acetaminophen, ibuprofen or some combination of the three. Yet does covering this God-given symptom in the darkness bring healing or hiding? Perhaps we should all take a second look at this practice and start turning to God and asking the most important part: “why?” #soul #spirit #revelation 
 
@@ -3669,7 +3792,8 @@ It is a modern example of [[Tapestry/Bible/Genesis/Genesis 6_1-4\|Gen. 6:1-4]]. 
 
 ### Memory
 
-*“The face of the LORD is against those who do evil, to cut off the memory of them from the earth.”  [[Tapestry/Bible/Psalms/Psalm 34_16\|Psalm 34:16]]* #bible-verse
+> [!quote]+ 
+>*“The face of the LORD is against those who do evil, to cut off the memory of them from the earth.”  [[Tapestry/Bible/Psalms/Psalm 34_16\|Psalm 34:16]]* #bible-verse
 
 The human mind remembers trespasses that were against us both directly and through the generations. Equally, the human body does as well. This is certainly true at the microscopic, DNA level where generational sins are passed down physically ([[Tapestry/Bible/Numbers/Numbers 14_18\|Num. 14:18]]). This memory must be removed and / or neutralized before the demolition is complete. We pray healing for this affliction as a request of the Lord and a proclamation on the earth. The Father has already lead us to set the person free through forgiveness. #bible-verse  #generational-sins 
 
@@ -3728,15 +3852,15 @@ Finally, we ask the Lord to intervene in their lives. We ask Him to enter the �
 ## Chapter 19: Restoring Land
  #chapter #defilement #restoration #rescue #authority #freedom #discernment 
 
-*“Whoever invokes a blessing in the land will do so by the God of truth; he who takes an oath in the land will swear by the God of truth. For the past troubles will be forgotten and hidden from my eyes.” [[Tapestry/Bible/Isaiah/Isaiah 65_16\|Isaiah 65:16]]* #bible-verse 
+> [!quote]+ 
+>*“Whoever invokes a blessing in the land will do so by the God of truth; he who takes an oath in the land will swear by the God of truth. For the past troubles will be forgotten and hidden from my eyes.” [[Tapestry/Bible/Isaiah/Isaiah 65_16\|Isaiah 65:16]]* #bible-verse 
 
 Creation is so much bigger than just us humans. The Lord created the heavens and the earth. He created light, time, atmosphere, gathered water (sea), dry ground (land), vegetation (plants and trees), the sun, the moon, the stars, and living creatures (in the waters, in the sky, and on the land). All of these things He called very good. Man was commissioned to subdue the earth and to rule over the living creatures.
 
-*“In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.” [[Tapestry/Bible/Genesis/Genesis 2_9c\|Genesis 2:9c]]*  #bible-verse 
+> [!quote]+ 
+>*“In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.” [[Tapestry/Bible/Genesis/Genesis 2_9c\|Genesis 2:9c]]*  #bible-verse 
 
 The Lord placed two trees in the center of the garden. These represented the choice of destinies for creation. One represented the destiny of dependency on God for everything. The other introduced the tainting that lucifer had brought to creation through the choice of self glorification and independence. So then, when the sin of disobedience was committed, Adam and Eve would know the pain of self reliance: toiling the ground for work and painful childbirth.
-
-
 
 ---
 <p style="text-align:center;">
@@ -3754,7 +3878,8 @@ When sin entered the land outside of Eden at the hands of Cain, defilement was i
 
 ### Defilement
 
-*“Men will be regularly employed to cleanse the land. Some will go throughout the land and, in addition to them, others will bury those that remain on the ground. At the end of the seven months they will begin their search. As they go through the land and one of them sees a human bone, he will set up a marker beside it until the gravediggers have buried it in the Valley of Hamon Gog. And so they will cleanse the land.” [[Tapestry/Bible/Ezekiel/Ezekiel 39_14-16\|Ezekiel 39:14-16]]* #bible-verse
+> [!quote]+ 
+>*“Men will be regularly employed to cleanse the land. Some will go throughout the land and, in addition to them, others will bury those that remain on the ground. At the end of the seven months they will begin their search. As they go through the land and one of them sees a human bone, he will set up a marker beside it until the gravediggers have buried it in the Valley of Hamon Gog. And so they will cleanse the land.” [[Tapestry/Bible/Ezekiel/Ezekiel 39_14-16\|Ezekiel 39:14-16]]* #bible-verse
 
 Land does not sin. People do. As such, when land is defiled, we do not respond by washing the land with the Blood of Jesus. We love and fully forgive those who sinned by washing their feet with the Blood of Jesus and speaking out the word of their testimony of what the Blood has done for them. They are purified of all unrighteousness. They are redeemed of every consequence. They are restored to a right relationship with God. The accuser is hurled down and the memory of these sins is erased from all matter on earth (people, places, things). Then the land is cleansed.  #sin #blood #jesus #testimony #restored #purified #relationship #accuser 
 
@@ -3768,15 +3893,18 @@ Land does not sin. People do. As such, when land is defiled, we do not respond b
 
 ---
 
-*“The LORD said, ‘What have you done? Listen! Your brother's blood cries out to me from the ground. Now you are under a curse and driven from the ground, which opened its mouth to receive your brother's blood from your hand. When you work the ground, it will no longer yield its crops for you. You will be a restless wanderer on the earth.’” [[Tapestry/Bible/Genesis/Genesis 4_10-12\|Genesis 4:10-12]]* #bible-verse
+> [!quote]+ 
+>*“The LORD said, ‘What have you done? Listen! Your brother's blood cries out to me from the ground. Now you are under a curse and driven from the ground, which opened its mouth to receive your brother's blood from your hand. When you work the ground, it will no longer yield its crops for you. You will be a restless wanderer on the earth.’” [[Tapestry/Bible/Genesis/Genesis 4_10-12\|Genesis 4:10-12]]* #bible-verse
 
 Blood shed is the first defilement of land. This can relate to the murder of innocent men or women of God ([[Tapestry/Bible/Lamentations/Lamentations 4_14\|Lam. 4:14]]) or even the corpses of the enemies of the Lord (Ezekiel 39). This can included aborted babies, torture of the innocents, practices of cutting, and other witchcraft rituals that involve the shedding of blood (sacrifices). All of these people must be fully forgiven for the land to be free of its memory of this blood. #bible-verse #defilement #bloodshed #memory 
 
-*“The earth is defiled by its people; they have disobeyed the laws, violated the statutes and broken the everlasting covenant.” [[Tapestry/Bible/Isaiah/Isaiah 24_5\|Isaiah 24:5]]* #bible-verse
+> [!quote]+ 
+>*“The earth is defiled by its people; they have disobeyed the laws, violated the statutes and broken the everlasting covenant.” [[Tapestry/Bible/Isaiah/Isaiah 24_5\|Isaiah 24:5]]* #bible-verse
 
 Broken covenant is the second defilement of land. These covenants can be with the Lord or with other persons. Saul broke covenant with the Gibeonites and stained his house with blood when he swore to spare them and then later tried to annihilate them ([[Tapestry/Bible/2 Samuel/2 Samuel 21_1-2\|2 Sam. 21:1-2]]) resulting in a famine that lasted three years. Also, swindling (stealing from those that trust you), going against your word, and false pretense (lying to build trust) are examples. #bible-verse #broken-covenant 
 
-*“I will repay them double for their wickedness and their sin, because they have defiled my land with the lifeless forms of their vile images and have filled my inheritance with their detestable idols.” [[Tapestry/Bible/Jeremiah/Jeremiah 16_18\|Jeremiah 16:18]]* #bible-verse
+> [!quote]+ 
+>*“I will repay them double for their wickedness and their sin, because they have defiled my land with the lifeless forms of their vile images and have filled my inheritance with their detestable idols.” [[Tapestry/Bible/Jeremiah/Jeremiah 16_18\|Jeremiah 16:18]]* #bible-verse
 
 Idolatry is the third defilement of the land. Since the resurrection of Jesus, when people who have chosen Him as their savior and bow to the God of Abraham, Isaac, Jacob, and King David then bow to another god, they are polluting that which is Holy. All witchcraft and occult based activities are idolatry with demons. All pagan religions are idolatry with demons in disguise. All esoteric societies that introduce ancient rituals and rites from non-Hebrew lands are idolatrous. #sacrifices #witchcraft #trust #defilement #jesus #demons #idolatry 
 
@@ -3790,7 +3918,8 @@ Idolatry is the third defilement of the land. Since the resurrection of Jesus, w
 
 ---
 
-*“But you must keep My decrees and My laws. The native-born and the aliens living among you must not do any of these detestable things *[sexual immorality]*, for all these things were done by the people who lived in the land before you, and the land became defiled. And if you defile the land, it will vomit you out as it vomited out the nations that were before you.”* [[Tapestry/Bible/Leviticus/Leviticus 18_26-28\|Lev. 18:26-28]]* #bible-verse 
+> [!quote]+ 
+>*“But you must keep My decrees and My laws. The native-born and the aliens living among you must not do any of these detestable things *[sexual immorality]*, for all these things were done by the people who lived in the land before you, and the land became defiled. And if you defile the land, it will vomit you out as it vomited out the nations that were before you.”* [[Tapestry/Bible/Leviticus/Leviticus 18_26-28\|Lev. 18:26-28]]* #bible-verse 
 
 Sexual immorality is the fourth and last defilement. In Leviticus 18, many sins are listed including sex with close relatives, women during menstruation, same-gender relations, and bestiality. Adultery is a combination of sexual immorality (fornication) and broken covenant (betrothal covenant). We are to love and forgive our brethren when they commit these sins as the Father has loved and forgiven us. Do not judge any person, but always walk in the knowledge of our own susceptibility to sin ourselves. #bethrothal-covenant  #broken-covenant #forgiveness 
 
@@ -3798,7 +3927,8 @@ Underneath all defilements is the work of the enemy to get humans to enter into 
 
 ### Bundling
 
-*“I will surely gather all of you, O Jacob; I will surely bring together the remnant of Israel. I will bring them together like sheep in a pen, like a flock in its pasture; the place will throng with people. One who breaks open the way will go up before them; they will break through the gate and go out. Their king will pass through before them, the LORD at their head.”  [[Tapestry/Bible/Micah/Micah 2_12-13\|Micah 2:12-13]]* #bible-verse 
+> [!quote]+ 
+>*“I will surely gather all of you, O Jacob; I will surely bring together the remnant of Israel. I will bring them together like sheep in a pen, like a flock in its pasture; the place will throng with people. One who breaks open the way will go up before them; they will break through the gate and go out. Their king will pass through before them, the LORD at their head.”  [[Tapestry/Bible/Micah/Micah 2_12-13\|Micah 2:12-13]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -3816,7 +3946,8 @@ In other cases He may be silent. We may not have to declare the specific sin or 
 
 ### Riches
 
-*“I will give you the treasures of darkness, riches stored in secret places, so that you may know that I am the LORD, the God of Israel, who summons you by name.” [[Tapestry/Bible/Isaiah/Isaiah 45_3\|Isaiah 45:3]]*  #bible-verse
+> [!quote]+ 
+>*“I will give you the treasures of darkness, riches stored in secret places, so that you may know that I am the LORD, the God of Israel, who summons you by name.” [[Tapestry/Bible/Isaiah/Isaiah 45_3\|Isaiah 45:3]]*  #bible-verse
 
 In Colorado, Larry and I found blessings that the Lord had stored in the land. To be honest, we had been looking for gold coins. Every prophetic word pointed to gold being found in the land, which was confirmed with scriptures emphasizing riches and storehouses ([[Tapestry/Bible/Job/Job 38_22\|Job 38:22]]) which are buried under snow and hail. We did not find gold coins in the natural. What we found was of far greater value. We found spiritual keys that unlock the fullness of our calling. We found that which would bring us to perfection and thus the fullness of authority that God wanted to impart.  #bible-verse #storehouse #spiritual-key #fullness #authority 
 
@@ -3832,7 +3963,8 @@ In Colorado, Larry and I found blessings that the Lord had stored in the land. T
 
 ---
 
-*sins against the LORD, who will intercede for him?’ His sons, however, did not listen to their father's rebuke, for it was the LORD's will to put them to death.” [[Tapestry/Bible/1 Samuel/1 Samuel 2_22-25\|1 Samuel 2:22-25]]*  #bible-verse
+> [!quote]+ 
+>*sins against the LORD, who will intercede for him?’ His sons, however, did not listen to their father's rebuke, for it was the LORD's will to put them to death.” [[Tapestry/Bible/1 Samuel/1 Samuel 2_22-25\|1 Samuel 2:22-25]]*  #bible-verse
 
 The Lord has been speaking to us about the sons of Eli for sometime now. He has shown us the importance of Eli’s priesthood and Saul’s royal house in comparison to the royal house of David and the priesthood of Zadok. Saul did not have an intimate relationship with God. Because of this, he had to turn to Samuel for direction. David did have a direct relationship with the Lord and was a man after His own heart. Equally, Zadok was loyal to the Lord’s will as manifested in his loyalty to the royal house of David (Solomon’s election for the throne). Eli was disloyal to the Lord as demonstrated in his failure to move the behavior of his sons through discipline. He rebuked them, but failed in discipline. #priest 
 
@@ -3840,7 +3972,8 @@ It was in Colorado that we found a rich spiritual river of the anointing and imp
 
 As soon as we got to Colorado, the picture came to form. We got the 4 7 revelation (perfection / completeness of the gates), we saw the hail that pictured the storehouses the Lord had buried there. He tied all the loose ends on our third day there in a vision as I woke up. He showed me how justice and discipline are meant to avoid judgement. They are tools that the Lord has given us to take us the rest of the way beyond defeating the evil one. They help us defeat ourselves: our own freewill that can make or break us in reaching the fullness of our destiny. #intimacy #relationship #church #spirit #evil-one #freewill #fullness #storehouse #gate 
 
-*“Now a man of God came to Eli and said to him, ‘This is what the LORD says: 'Did I not clearly reveal myself to your father's house when they were in Egypt under Pharaoh? Why do you honor your sons more than me by fattening yourselves on the choice parts of every offering made by my people Israel?* 
+> [!quote]+ 
+>*“Now a man of God came to Eli and said to him, ‘This is what the LORD says: 'Did I not clearly reveal myself to your father's house when they were in Egypt under Pharaoh? Why do you honor your sons more than me by fattening yourselves on the choice parts of every offering made by my people Israel?* 
 
 ---
 <p style="text-align:center;">
@@ -3852,11 +3985,13 @@ As soon as we got to Colorado, the picture came to form. We got the 4 7 revelati
 
 ---
 
-*Therefore the LORD, the God of Israel, declares: ‘I promised that your house and your father's house would minister before Me forever.’ But now the LORD declares: ‘Far be it from Me! Those who honor Me I will honor, but those who despise Me will be disdained. I will raise up for Myself a faithful priest, who will do according to what is in My heart and mind. I will firmly establish his house, and he will minister before My anointed one always.’” [[Tapestry/Bible/1 Samuel/1 Samuel 2_27,29b-30,35\|1 Samuel 2:27,29b-30,35]]*  #bible-verse
+> [!quote]+ 
+>*Therefore the LORD, the God of Israel, declares: ‘I promised that your house and your father's house would minister before Me forever.’ But now the LORD declares: ‘Far be it from Me! Those who honor Me I will honor, but those who despise Me will be disdained. I will raise up for Myself a faithful priest, who will do according to what is in My heart and mind. I will firmly establish his house, and he will minister before My anointed one always.’” [[Tapestry/Bible/1 Samuel/1 Samuel 2_27,29b-30,35\|1 Samuel 2:27,29b-30,35]]*  #bible-verse
 
 The headlines of the Denver Post that day read, “Out of Hiding, Seeking Justice.” My full name is Scott Justice Norvell (named after my mother’s grandfather, Scott Justice). The name Scott has the spiritual connotation of “Temple.” My name literally means, Temple Justice, or the justice and discipline that Eli never brought to his sons, costing them the priesthood. The priesthood was passed to Zadok and his sons. On April 1, 2008 the Lord called me a Priest in the order of Zadok and confirmed in June 2008 that I would train the sons of Zadok for the end times. All of this was brought into focus in June 2009 as the vision of the Lord came to me in Colorado. #priest 
 
-*“For what son is there whom his father does not discipline? If you are left without discipline, in which all have participated, then you are illegitimate children and not sons. For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it.” [[Tapestry/Bible/Hebrews/Hebrews 12_7b,8,11\|Hebrews 12:7b,8,11]]*  #bible-verse
+> [!quote]+ 
+>*“For what son is there whom his father does not discipline? If you are left without discipline, in which all have participated, then you are illegitimate children and not sons. For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it.” [[Tapestry/Bible/Hebrews/Hebrews 12_7b,8,11\|Hebrews 12:7b,8,11]]*  #bible-verse
 
 Terraforming was given by God to the Body of Christ to be a handbook for the royal priests in the end times. It is important beyond measure that we understand how the priesthood was taken from the house of Eli and why. We must know that the willful choices of his sons to fall short of the Glory of God were contemptuous and could not be overlooked ([[Tapestry/Bible/1 Samuel/1 Samuel 2_17\|1 Sam. 2:17]]). We must understand that even with the complete dismantling of the kingdom of darkness, we are back to square one as Adam was: we still have to choose Love over not-Love. The Lord will not make our choice for us. We must choose what is right. If our behavior conflicts with this, we are accountable to address this with God for his grace and mercy, and to submit to the provision of justice and discipline so this behavior will change.  #bible-verse #terraforming #church #royal-priest  #dismantle #kingdom-of-darkness  #love #not-love #choice #grace #provision 
 
@@ -3872,7 +4007,8 @@ Terraforming was given by God to the Body of Christ to be a handbook for the roy
 
 ### Blessings
 
-*“He who works his land will have abundant food, but the one who chases fantasies will have his fill of poverty.”* [[Tapestry/Bible/Proverbs/Proverbs 28_19\|Proverbs 28:19]]* #bible-verse 
+> [!quote]+ 
+>*“He who works his land will have abundant food, but the one who chases fantasies will have his fill of poverty.”* [[Tapestry/Bible/Proverbs/Proverbs 28_19\|Proverbs 28:19]]* #bible-verse 
 
 The destiny of the Roman empire was to mature into adulthood, receive the fullness of the authority the Lord wanted to delegate, and then bring the gospel of Jesus Christ to the world. Instead, the gospel of Jesus Christ became a religion (christianity), was combined with pagan practices, and the church was rendered impotent. After this the Lord gave Rome many chances for redemption, even after its decline. In the 800’s AD Charlemagne (my 41st-great grandfather) placed Jesus Christ at the head of the Holy Roman Empire, but failed at imparting His Love. Instead, conversions were forced upon people and nations, bringing resentment and loss where there should have been freedom and gain. #destiny #mature #fullness #authority 
 
@@ -3943,11 +4079,13 @@ As with all things in the Lord, freedom from captivity is only the beginning of 
 ## Chapter 20: Inheritance
  #chapter #fullness #invitation #calling 
 
-*“'I am to be the only inheritance the priests have. You are to give them no possession in Israel; I will be their possession.”* *[[Tapestry/Bible/Ezekiel/Ezekiel 44_28\|Ezekiel 44:28]]* #bible-verse 
+> [!quote]+ 
+>*“'I am to be the only inheritance the priests have. You are to give them no possession in Israel; I will be their possession.”* *[[Tapestry/Bible/Ezekiel/Ezekiel 44_28\|Ezekiel 44:28]]* #bible-verse 
 
 As sons and daughters of God, we have been given an inheritance from our Lord. Our Father planned who we would be, what we would be called to do, and what people, places, and things we would interact with throughout our lives. He did not plan our choices, these He fore-knew. Yet when we say “yes” to the call of God, the Lord releases this inheritance to us. We begin to walk in the amazing life that He intended for us! And what is this inheritance? It is Him. In His Presence all things fall into place. #sons-and-daughters #inheritance #father 
 
-*“Who may ascend into the hill of the LORD? Or who may stand in His holy place? He who has clean hands and a pure heart, who has not lifted up his soul to an idol, nor sworn deceitfully. He shall receive blessing from the LORD, and righteousness from the God of his salvation. This is Jacob, the generation of those who seek Him, who seek Your face. Lift up your heads, O you gates! And be lifted up, you everlasting doors! And the King of glory shall come in.” [[Tapestry/Bible/Psalms/Psalm 24_3-7\|Psalm 24:3-7]]* #bible-verse 
+> [!quote]+ 
+>*“Who may ascend into the hill of the LORD? Or who may stand in His holy place? He who has clean hands and a pure heart, who has not lifted up his soul to an idol, nor sworn deceitfully. He shall receive blessing from the LORD, and righteousness from the God of his salvation. This is Jacob, the generation of those who seek Him, who seek Your face. Lift up your heads, O you gates! And be lifted up, you everlasting doors! And the King of glory shall come in.” [[Tapestry/Bible/Psalms/Psalm 24_3-7\|Psalm 24:3-7]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -3961,15 +4099,18 @@ As sons and daughters of God, we have been given an inheritance from our Lord. O
 
 The Light of Jesus has revealed all impurities that must be dealt with. Through forgiveness, these impurities are washed away with the Blood of Jesus and the word of our testimony. All enemy agents have been detached and removed from their strongholds. The angels of God are now in place. This person, this place, this thing are now clean. Who may stand in the Presence of God? Only he who is clean and pure can. We are now ready for the Presence of the Lord. We are ready for the King of Glory to come in.
 
-*“When anyone hears the message about the kingdom and does not understand it, the evil one comes and snatches away what was sown in his heart.” [[Tapestry/Bible/Matthew/Matthew 13_19a\|Matthew 13:19a]]* #bible-verse
+> [!quote]+ 
+>*“When anyone hears the message about the kingdom and does not understand it, the evil one comes and snatches away what was sown in his heart.” [[Tapestry/Bible/Matthew/Matthew 13_19a\|Matthew 13:19a]]* #bible-verse
 
 In the Parable of the Sower we learn that seeds of the kingdom are sown in our hearts. These seeds are foundational pieces of the destiny we are called to in Christ, intended to produce fruit for the Kingdom that has eternal ramifications. These can be stolen from us by the enemy through our belief in his lies, through our faltering when persecuted, or through our worldly (non-kingdom) intentions for God’s promises.
 
-*“Yet if [a thief] is caught, he must pay sevenfold, though it costs him all the wealth of his house.” [[Tapestry/Bible/Proverbs/Proverbs 6_31\|Proverbs 6:31]]* #bible-verse
+> [!quote]+ 
+>*“Yet if [a thief] is caught, he must pay sevenfold, though it costs him all the wealth of his house.” [[Tapestry/Bible/Proverbs/Proverbs 6_31\|Proverbs 6:31]]* #bible-verse
 
 When the Light of Jesus reveals the Truth to us and we reconcile to God through the precious Blood, we see these seeds fully restored to us by demanding that the thief return what he stole. We can then ask the Holy Spirit to re-sow these back into our hearts where they belong. If they are kingdom promises, we need them and should fight for them. When the seeds are sown in good soil, we will produce fruit in some cases a hundredfold what was planted. #truth #seed #holy-spirit 
 
-*“The seed will grow well, the vine will yield its fruit, the ground will produce its crops, and the heavens will drop their dew. I will give all these things as an inheritance to the remnant of this people.”  [[Tapestry/Bible/Zechariah/Zechariah 8_12\|Zechariah 8:12]]* #bible-verse
+> [!quote]+ 
+>*“The seed will grow well, the vine will yield its fruit, the ground will produce its crops, and the heavens will drop their dew. I will give all these things as an inheritance to the remnant of this people.”  [[Tapestry/Bible/Zechariah/Zechariah 8_12\|Zechariah 8:12]]* #bible-verse
 
 ---
 <p style="text-align:center;">
@@ -3981,14 +4122,16 @@ When the Light of Jesus reveals the Truth to us and we reconcile to God through 
 
 ---
 
-Many people who have been deceived by the lies of the evil one look back after many years with deep sorrow feeling that their life was stolen from them. They believe that the hopes and dreams from their youth are gone for good and cannot be returned to them. Many feel like Job did right around chapter 3 – they have lost property, children, a spouse, their health, or their calling in God. They believe that their life has been lost forever. But through the restoration power of the Blood of Jesus, this is not so! Our lives are a net gain! Whenever the Truth is believed in place of the lie, the Blood is the power that takes us to Job chapter 42: full restoration of what was stolen – with restitution!  #revelation #restoration  #holy-spirit #heart #evil-one #fullness 
+Many people who have been deceived by the lies of the evil one look back after many years with deep sorrow feeling that their life was stolen from them. They believe that the hopes and dreams from their youth are gone for good and cannot be returned to them. Many feel like Job did right around chapter 3 – they have lost property, children, a spouse, their health, or their calling in God. They believe that their life has been lost forever. But through the restoration power of the Blood of Jesus, this is not so! Our lives are a net gain! Whenever the Truth is believed in place of the lie, the Blood is the power that takes us to Job chapter 42: full restoration of what was stolen—with restitution!  #revelation #restoration  #holy-spirit #heart #evil-one #fullness 
 
-*“The LORD blessed the latter part of Job's life more than the first. “ [[Tapestry/Bible/Job/Job 42_12a\|Job 42:12a]]* #bible-verse
+> [!quote]+ 
+>*“The LORD blessed the latter part of Job's life more than the first. “ [[Tapestry/Bible/Job/Job 42_12a\|Job 42:12a]]* #bible-verse
 
 
 ### Calling
 
-*“I press on to take hold of that for which Christ Jesus took hold of me.” [[Tapestry/Bible/Philippians/Philippians 3_12b\|Philippians 3:12b]]* #bible-verse 
+> [!quote]+ 
+>*“I press on to take hold of that for which Christ Jesus took hold of me.” [[Tapestry/Bible/Philippians/Philippians 3_12b\|Philippians 3:12b]]* #bible-verse 
 
 Early in 2005, the Lord moved Shari and me to Tulsa, Oklahoma from our mountain fortress (cabin) in Colorado. It was here that the Lord connected me with the blessings of the land in Tulsa, combined with my personal calling in the Lord and with all of the seeds of life that He had sown in my heart through my spiritual mentors on earth. From this change in our circumstances came some early fruit of the gifts God had given me. But none would compare with what happened when we abandoned all to follow Him.
 
@@ -4008,7 +4151,8 @@ By January of 2007 the Lord had shown me that He had a great call on our lives a
 
 ### Yes, However...
 
-*“Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.” [[Tapestry/Bible/Hebrews/Hebrews 4_16\|Hebrews 4:16]]* #bible-verse
+> [!quote]+ 
+>*“Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.” [[Tapestry/Bible/Hebrews/Hebrews 4_16\|Hebrews 4:16]]* #bible-verse
 
 That being said, I knew that I was unable to quit my job. It was quite a dilemma. On one hand I knew that the Lord was calling me to quit. I had to say “yes.” On the other, I knew that I was not capable of walking out that “yes,” despite the fact that it was what I wanted more than anything. These are the times in life when we must be honest with God. Tell Him the truth! I know this may come as a surprise to some, but the Lord actually wants to hear us admit when we need help. God is not judging us on how we earn His love, He is watching to see if we CHOOSE Him or not. In this case, I was able to choose Him by simply acknowledging my inability to accept His invitation to quit. #journey #faith #trust 
 
@@ -4024,19 +4168,19 @@ I needed a savior. Praise God! When I admitted it, He responding with, “I’ve
 
 ---
 
-*“Our barns will be filled with every kind of provision.” [[Tapestry/Bible/Psalms/Psalm 144_13a\|Psalm 144:13a]]* #bible-verse 
+> [!quote]+ 
+>*“Our barns will be filled with every kind of provision.” [[Tapestry/Bible/Psalms/Psalm 144_13a\|Psalm 144:13a]]* #bible-verse 
 
 On May 11, 2007 I quit my job as a Senior Vice President in banking and started our life in faith. Since that time the Lord has been faithful to meet our every need. It has not always looked the way I wanted it to, but it was according to His plan, and it was for our good. Everything exploded in our lives after that day. We have come to understand our gifts and calling in a far greater way than ever before. There are truly no words to express how our lives have changed. Since we gave God the reins in our lives, we are living the great adventure. #provision #trust #gift #adventure 
 
-*“No eye has seen, no ear has heard, no mind has conceived what God has prepared for those who love him” [[Tapestry/Bible/1 Corinthians/1 Corinthians 2_9\|1 Corinthians 2:9]]* #bible-verse 
+> [!quote]+ 
+>*“No eye has seen, no ear has heard, no mind has conceived what God has prepared for those who love him” [[Tapestry/Bible/1 Corinthians/1 Corinthians 2_9\|1 Corinthians 2:9]]* #bible-verse 
 
 I understand now that God created me with a plan in mind. He chose to assign to me a certain number of talents that would fit the life that He had designed for me. He hand picked the gifts of the Spirit that I would need to accomplish my mission. He aligned me with the people and placed me on the land that would support this mission with blessing and anointing to bring the revelation of this book to the world. That was my destiny. It has been available to me my whole life. I only had to accept the invitation and walk in it. #mission #spirit #gift #destiny #invitation #trust #journey #alignment 
 
 What has the Lord planned for you? Does He have great responsibilities for you to walk out or lesser ones? Will you minister to those who are sick? Will you evangelize the lost? Will you lead a nation to the higher calling? Will you tell the Truth even if it gets you killed? For this call, you will need to lay everything on the altar. There is nothing that can be held back. It costs you everything. #invitation #heart-of-God #calling 
 
 But it is worth it.
-
-  
 
 ---
 <p style="text-align:center;">
@@ -4050,19 +4194,23 @@ But it is worth it.
 
 ### Consecration
 
-*“So you shall put them on Aaron your brother and on his sons with him. You shall anoint them, consecrate them, and sanctify them, that they may minister to Me as priests.” [[Tapestry/Bible/Exodus/Exodus 28_41\|Exodus 28:41]]* #bible-verse
+> [!quote]+ 
+>*“So you shall put them on Aaron your brother and on his sons with him. You shall anoint them, consecrate them, and sanctify them, that they may minister to Me as priests.” [[Tapestry/Bible/Exodus/Exodus 28_41\|Exodus 28:41]]* #bible-verse
 
 Before welcoming the Presence of the Lord into the hearts of His people, we anoint them with oil. This is a statement of their being consecrated unto the Lord by the Blood of Jesus. Any oil can be used, although olive oil is our preferred choice. There is also oil you can buy for such purposes that has been prayed over and mixed with aromatic resins. A mere dab can be placed on the person’s hands and/or forehead or just about any other appropriate place with the person’s permission. Samuel did pour the oil over Saul and David’s heads, but that dramatic of a statement is usually not required for this purpose. #consecration #anointing 
 
-*“And the children of Israel and Judah, who dwelt in the cities of Judah, brought the tithe of oxen and sheep; also the tithe of holy things which were consecrated to the LORD their God they laid in heaps.” [[Tapestry/Bible/2 Chronicles/2 Chronicles 31_6\|2 Chronicles 31:6]]* #bible-verse
+> [!quote]+ 
+>*“And the children of Israel and Judah, who dwelt in the cities of Judah, brought the tithe of oxen and sheep; also the tithe of holy things which were consecrated to the LORD their God they laid in heaps.” [[Tapestry/Bible/2 Chronicles/2 Chronicles 31_6\|2 Chronicles 31:6]]* #bible-verse
 
 Places and things should also be anointed with oil. Many techniques have been developed by intercessors throughout the years for claiming a territory that are excellent and useful. These include anointing doors, windows, furniture, and even the boundary corners of a property (including larger territories such as cities or States). Cars, roads, bridges, and highway marker posts are all possible targets. Some have buried scripture verses written on paper, stakes, and rocks in the earth of a property. The list is endless, and all can be appropriate, as led by the Holy Spirit. #anointing #blood #jesus #consecration #intercessors #holy-spirit #authority 
 
 ### The Blessing of the Father
 
-*“And when David had finished offering burnt offerings and peace offerings, he blessed the people in the name of the LORD of hosts.” [[Tapestry/Bible/2 Samuel/2 Samuel 6_18\|2 Samuel 6:18]]* #bible-verse
+> [!quote]+ 
+>*“And when David had finished offering burnt offerings and peace offerings, he blessed the people in the name of the LORD of hosts.” [[Tapestry/Bible/2 Samuel/2 Samuel 6_18\|2 Samuel 6:18]]* #bible-verse
 
-*“So I will restore to you the years that the swarming locust has eaten, the crawling locust, the consuming locust, and the chewing locust, My great army which I sent among you. You*
+> [!quote]+ 
+>*“So I will restore to you the years that the swarming locust has eaten, the crawling locust, the consuming locust, and the chewing locust, My great army which I sent among you. You*
 
 ---
 <p style="text-align:center;">
@@ -4101,9 +4249,11 @@ Amen. #prayer
 
 ## Epilogue: The Diabolical Plans of diablo
 
-*“Eve was deceived by the serpent's cunning...” [[Tapestry/Bible/2 Corinthians/2 Corinthians 11_3a\|2 Corinthians 11:3a]]*  #bible-verse 
+> [!quote]+ 
+>*“Eve was deceived by the serpent's cunning...” [[Tapestry/Bible/2 Corinthians/2 Corinthians 11_3a\|2 Corinthians 11:3a]]*  #bible-verse 
 
-*“...in order that satan might not outwit us. For we are not unaware of his schemes.”* *[[Tapestry/Bible/2 Corinthians/2 Corinthians 2_11\|2 Corinthians 2:11]]*  #bible-verse 
+> [!quote]+ 
+>*“...in order that satan might not outwit us. For we are not unaware of his schemes.”* *[[Tapestry/Bible/2 Corinthians/2 Corinthians 2_11\|2 Corinthians 2:11]]*  #bible-verse 
 
 Years ago we lived in Garland, Texas in a small, brick house. In that neighborhood, all garages were in the backyard, so you would have an alley that ran between all houses that shared the same backyard property lines. The alley was white concrete and would access all of the driveways that each house had. One day we were returning from an outing at night, we turned into our alley to get to our garage. I noticed that this night, the white, concrete alley was black.
 
@@ -4127,7 +4277,8 @@ It looks like a game of chess. Both players have a strategy, which is hidden fro
 
 ### The Rules
 
-*“For the life of a creature is in the blood, and I have given it to you to make atonement for yourselves on the altar; it is the blood that makes atonement for one's life.” [[Tapestry/Bible/Leviticus/Leviticus 17_11\|Leviticus 17:11]]*  #bible-verse
+> [!quote]+ 
+>*“For the life of a creature is in the blood, and I have given it to you to make atonement for yourselves on the altar; it is the blood that makes atonement for one's life.” [[Tapestry/Bible/Leviticus/Leviticus 17_11\|Leviticus 17:11]]*  #bible-verse
 
 For Love to be fully realized in creation, rules had to be put in place. These should not be confused with the Law given to Moses on Mount Sinai. These rules are older. Much older. They are parameters that preserve the conditions required for Love to exist. The Rules include, but are not limited to: #love #boundaries 
 
@@ -4152,11 +4303,13 @@ For Love to be fully realized in creation, rules had to be put in place. These s
 
  PLAYING TO WIN
 
-*“You said, 'I will continue forever—the eternal queen!' “ [[Tapestry/Bible/Isaiah/Isaiah 47_7a\|Isaiah 47:7a]]* #bible-verse
+> [!quote]+ 
+>*“You said, 'I will continue forever—the eternal queen!' “ [[Tapestry/Bible/Isaiah/Isaiah 47_7a\|Isaiah 47:7a]]* #bible-verse
 
 There has been a common belief that the enemy has admitted defeat, expects eternal torment, and is working for the sole purpose of taking as many of God’s children down the tube with him as he can. While there is some truth in this, it is more accurate to say that the evil one is still playing to win. He is trying to beat God at His own rules and keep his kingdom for his own and as far away from Jesus as possible. Is he deceived or does he know something that we don’t?
 
-*“Perhaps you will succeed, perhaps you will cause terror.” [[Tapestry/Bible/Isaiah/Isaiah 47_12b\|Isaiah 47:12b]]*  #bible-verse
+> [!quote]+ 
+>*“Perhaps you will succeed, perhaps you will cause terror.” [[Tapestry/Bible/Isaiah/Isaiah 47_12b\|Isaiah 47:12b]]*  #bible-verse
 
 God is not sarcastic. Creation has been designed under the premise that either Love or not-love can prevail. Just as humans had to be given free will and choice, so too did creation require the feasibility of either choice to be realized. In more simple terms, not-love has the opportunity to prevail. Now don’t get me wrong, I have read the end of the book just like you have and know that Love wins the war. But we have gone on believing that our job is to only win souls and not to defeat the enemy way too long. In truth, our job is both. #not-love #love #freewill #choice #souls 
 
@@ -4174,17 +4327,20 @@ Satan has an end game as well. He wants to use our words and our blood against u
 
 Others are more subtle and require revelation from the Holy Spirit. If he is successful in getting us to renounce the Lord, we are in reality proclaiming him to be king. When Jesus said, “It is finished” it did not mean “It is over.” Otherwise He would have taken the Jews and started the millennial kingdom 2,000 years ago. He did not because there is a job to do. We were created for a time such as this to bring the gospel of Jesus Christ and the Will of our Father on earth as it is in Heaven. We must defeat this enemy once and for all. We will do this by forgiving the human beings whose sins are empowering the kingdom of darkness with the Blood of Jesus and the word of our testimonies. #deception #blood #choice #revelation #holy-spirit #satan 
 
-*“...on this rock I will build my church, and the gates of Hades will not overcome it.” [[Tapestry/Bible/Matthew/Matthew 16_18b\|Matthew 16:18b]]* #bible-verse
+> [!quote]+ 
+>*“...on this rock I will build my church, and the gates of Hades will not overcome it.” [[Tapestry/Bible/Matthew/Matthew 16_18b\|Matthew 16:18b]]* #bible-verse
 
 Jesus prophesied the end correctly. We will overcome evil as we walk in our true identities and destinies as sons and daughters of the King. If we were not to, evil (not-love) wins. This word is like ripping the pacifier and security blanket away from a baby. We are feeling cold and angry at the revelation that we must fight this war. It wakes us up. This is exactly what the world needs right now to realize our birthright. #jesus #His-will #father #forgiveness #identity #sons-and-daughters #god #birthright 
 
 ### Time
 
-*“For a thousand years in your sight are like a day that has just gone by, or like a watch in the night.” [[Tapestry/Bible/Psalms/Psalm 90_4\|Psalm 90:4]]* #bible-verse 
+> [!quote]+ 
+>*“For a thousand years in your sight are like a day that has just gone by, or like a watch in the night.” [[Tapestry/Bible/Psalms/Psalm 90_4\|Psalm 90:4]]* #bible-verse 
 
 Time is a concept that we live in, but is within God, that is, He is outside of time. Ultimately, this means that God knows the end, knows how we will choose, and has the ability to focus His Blessings on those areas that have the maximum impact for His desired results. The devil is at an immeasurable disadvantage, while God has the ultimate upper hand. Evil is not yet fully defeated and still has the ability to win this, but will not. 
 
-*“But do not forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day.” [[Tapestry/Bible/2 Peter/2 Peter 3_8\|2 Peter 3:8]]* #bible-verse 
+> [!quote]+ 
+>*“But do not forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day.” [[Tapestry/Bible/2 Peter/2 Peter 3_8\|2 Peter 3:8]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -4198,11 +4354,13 @@ Time is a concept that we live in, but is within God, that is, He is outside of 
 
 The confidence of the Lord is in us. He knows that with His Grace, Mercy, and the power of Christ within us, we will rise up and become all that we were created to be. He knows that the gates of hades will not overcome us. God believes in us because He created us. He knows that we will complete this picture. It is time for us to respond to His calling with the word “yes” and to get the job done. The evil one has been working around the clock while we’ve been sleeping. There is plenty to do, and to undo. #confidence #grace #jesus #gate 
 
-*“I will take vengeance; I will spare no one. Our Redeemer—the LORD Almighty is his name—is the Holy One of Israel.”* *[[Tapestry/Bible/Isaiah/Isaiah 47_3b-4\|Isaiah 47:3b-4]]* #bible-verse 
+> [!quote]+ 
+>*“I will take vengeance; I will spare no one. Our Redeemer—the LORD Almighty is his name—is the Holy One of Israel.”* *[[Tapestry/Bible/Isaiah/Isaiah 47_3b-4\|Isaiah 47:3b-4]]* #bible-verse 
 
 ### Pagan Religion
 
-*“...the sacrifices of pagans are offered to demons, not to God, and I do not want you to be participants with demons.”* *[[Tapestry/Bible/1 Corinthians/1 Corinthians 10_20\|1 Corinthians 10:20]]* #bible-verse 
+> [!quote]+ 
+>*“...the sacrifices of pagans are offered to demons, not to God, and I do not want you to be participants with demons.”* *[[Tapestry/Bible/1 Corinthians/1 Corinthians 10_20\|1 Corinthians 10:20]]* #bible-verse 
 
 To understand the plot of the enemy, we can look in the bible. There are many descriptions of what the evil one has done, and what he will do in the future, found in the words of the Old Testament prophets. Another prime place to look is at pagan religions. Why you ask? Because they are a hiding place for many demons disguised as gods. We can solve for their role in these religions with this simple equation deriving from [[Tapestry/Bible/1 Corinthians/1 Corinthians 10_20\|1 Corinthians 10:20]]:
 
@@ -4223,7 +4381,8 @@ Satan’s first step was to fabricate his own religions. He did this with the he
 
 ### Heroes of Old, Men of Renown
 
-*When men began to increase in number on the earth and daughters were born to them, the sons of God *[angels] *saw that the daughters of men were beautiful, and they married any of them they chose. The Nephilim were on the earth in those days— and also afterward—when the sons of God went to the daughters of men and had children by them. They were the heroes of old, men of renown.” [[Tapestry/Bible/Genesis/Genesis 6_1-2,4\|Genesis 6:1-2,4]]*  #bible-verse 
+> [!quote]+ 
+>*When men began to increase in number on the earth and daughters were born to them, the sons of God *[angels] *saw that the daughters of men were beautiful, and they married any of them they chose. The Nephilim were on the earth in those days— and also afterward—when the sons of God went to the daughters of men and had children by them. They were the heroes of old, men of renown.” [[Tapestry/Bible/Genesis/Genesis 6_1-2,4\|Genesis 6:1-2,4]]*  #bible-verse 
 
 It is a tough pill to swallow, but the first of many. Angels can appear as humans ([[Tapestry/Bible/Hebrews/Hebrews 13_2\|Heb. 13:2]]). Fallen angels can as well. This could have been through the physical manifestation of demons in a human-like form, or the “possessed” state (for a lack of a better term) of a human with a demon inside of him. Either case, the rights of this kind of manifestation came from the rituals and practices of pagan religions. We know that this includes human and animal sacrifices, sexual immorality, spells, incantations, potions, curses, and oaths / vows / covenants of evil. #bible-verse #angel #demon #religion #broken-covenant #defilement #witchcraft 
 
@@ -4243,7 +4402,8 @@ The women were targeted so that the offspring would be born into power (men of r
 
 ### Solomon
 
-*“King Solomon, however, loved many foreign women besides Pharaoh's daughter—Moabites, Ammonites, Edomites, Sidonians and Hittites. They were from nations about which the LORD had told the Israelites, ‘You must not intermarry with them, because they will surely turn your hearts after their gods.’ Nevertheless, Solomon held fast to them in love. He had seven hundred wives of royal birth and three hundred concubines, and his wives led him astray. As Solomon grew old, his wives turned his heart after other gods, and his heart was not fully devoted to the LORD his God, as the heart of David his father had been. He followed Ashtoreth the goddess of the Sidonians, and Molech the detestable god of the Ammonites. So Solomon did evil in the eyes of the LORD; he did not follow the LORD completely, as David his father had done.” [[Tapestry/Bible/1 Kings/1 Kings 11_1-6\|1 Kings 11:1-6]]* #bible-verse
+> [!quote]+ 
+>*“King Solomon, however, loved many foreign women besides Pharaoh's daughter—Moabites, Ammonites, Edomites, Sidonians and Hittites. They were from nations about which the LORD had told the Israelites, ‘You must not intermarry with them, because they will surely turn your hearts after their gods.’ Nevertheless, Solomon held fast to them in love. He had seven hundred wives of royal birth and three hundred concubines, and his wives led him astray. As Solomon grew old, his wives turned his heart after other gods, and his heart was not fully devoted to the LORD his God, as the heart of David his father had been. He followed Ashtoreth the goddess of the Sidonians, and Molech the detestable god of the Ammonites. So Solomon did evil in the eyes of the LORD; he did not follow the LORD completely, as David his father had done.” [[Tapestry/Bible/1 Kings/1 Kings 11_1-6\|1 Kings 11:1-6]]* #bible-verse
 
 Solomon was a mighty man of God. He wrote the book of Proverbs (in addition to Ecclesiastes, the Song of Solomon, and two Psalms), which many regard as a central repository for daily wisdom in the bible. This is not surprising given Solomon’s request of wisdom ([[Tapestry/Bible/1 Kings/1 Kings 3_9\|1 Kings 3:9]]), and the Lord’s reaction of being pleased with the choice he made. Unquestionably, Solomon is one of the good guys. His descendants include our Lord Jesus. #bible-verse
 
@@ -4301,7 +4461,8 @@ Today, many movies have discussed the idea of the ancient civilizations such as 
 
 ---
 
-*“As for you, you were dead in your transgressions and sins, in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient.” [[Tapestry/Bible/Ephesians/Ephesians 2_1-2\|Ephesians 2:1-2]]* #bible-verse 
+> [!quote]+ 
+>*“As for you, you were dead in your transgressions and sins, in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient.” [[Tapestry/Bible/Ephesians/Ephesians 2_1-2\|Ephesians 2:1-2]]* #bible-verse 
 
 Satan’s kingdom is not outer space, it is of the air. The universe is an endless expanse of galaxies, solar systems, planets, and moon, all created for the purpose of lighting the earth, governing the day and the night, and to separate light from darkness ([[Tapestry/Bible/Genesis/Genesis 1_16-17\|Gen. 1:16-17]]). The stars were set in the sky for us. They do not belong to the kingdom of darkness. We are bringing the redemption of the Lord to all of creation. Every last bit. #bible-verse 
 
@@ -4309,7 +4470,8 @@ Satan’s kingdom is not outer space, it is of the air. The universe is an endle
 
 ### End Times
 
-*“As it was in the days of Noah, so it will be at the coming of the Son of Man.” [[Tapestry/Bible/Matthew/Matthew 24_37\|Matthew 24:37]]* #bible-verse 
+> [!quote]+ 
+>*“As it was in the days of Noah, so it will be at the coming of the Son of Man.” [[Tapestry/Bible/Matthew/Matthew 24_37\|Matthew 24:37]]* #bible-verse 
 (Greek: wsper (hoce’-per) or, just as / exactly as)  #greek
 
 The end times are now. Satan is working full-time to shut down the victory of Jesus at the cross and to establish his kingdom forever. His plans are truly diabolical. Exactly as it was in the days of Noah, so will it be at the coming of Jesus. What was it like in the days of Noah? Fallen angels were appearing as humans and / or possessing humans and having children with them. These children infiltrated governments and brought their demonic witchcraft into the lives of the citizens, voluntarily or not. So is the plan today. #satan #jesus #kingdom #angels #demons #witchcraft 
@@ -4328,7 +4490,8 @@ When we see these things happening around us, we must remember our authority as 
 
 I’ve read the end of the book. We win this war. All that is left is for us to wake up, walk in our true identities as sons and daughters of the King, and live out our birthrights / calling / purpose / destiny to the fullest of our abilities. That is, to yield to Christ within us by always responding to the Lord’s call with the answer “yes.” He called us to love. We manifest that when we forgive as Jesus did. #authority #royal-priest #sin #forgive #blood #jesus #accuser #testimony #revelation #angels #demons #god #identity #sons-and-daughters #birthright #calling #purpose #love 
 
-*“For then there will be great distress, unequaled from the beginning of the world until now—and never to be equaled again. If those days had not been cut short, no one would survive, but for the sake of the elect those days will be shortened.” [[Tapestry/Bible/Matthew/Matthew 24_21-22\|Matthew 24:21-22]]*  #bible-verse
+> [!quote]+ 
+>*“For then there will be great distress, unequaled from the beginning of the world until now—and never to be equaled again. If those days had not been cut short, no one would survive, but for the sake of the elect those days will be shortened.” [[Tapestry/Bible/Matthew/Matthew 24_21-22\|Matthew 24:21-22]]*  #bible-verse
 
 
 ### The Bad Guys
@@ -4363,7 +4526,8 @@ It is time for the men and women of God to defeat evil by rejecting the lies and
 
 ##### Two Scenarios
 
-*“But suppose that servant is wicked and says to himself, 'My master is staying away a long time,' and he then begins to beat his fellow servants and to eat and drink with drunkards. The master of that servant will come on a day when he does not expect him and at an hour he is not aware of.”* [[Tapestry/Bible/Matthew/Matthew 24_48-50\|Matthew 24:48-50]]* #bible-verse
+> [!quote]+ 
+>*“But suppose that servant is wicked and says to himself, 'My master is staying away a long time,' and he then begins to beat his fellow servants and to eat and drink with drunkards. The master of that servant will come on a day when he does not expect him and at an hour he is not aware of.”* [[Tapestry/Bible/Matthew/Matthew 24_48-50\|Matthew 24:48-50]]* #bible-verse
 
 There are two scenarios for the Kingdom of God. The first is a bailout. The Christians fail and the enemy dominates the earth. To establish His Kingdom, Jesus returns in a rescue mission to free His fallen citizens and chain the enemy. The virgins let their lamps go out ([[Tapestry/Bible/Matthew/Matthew 25_7-8\|Matthew 25:7-8]]). In this horrific scene, billions of people are lost to the fires of hell and the few Christians that survive do not get the privilege of seeing their true identity and 
 
@@ -4379,14 +4543,14 @@ There are two scenarios for the Kingdom of God. The first is a bailout. The Chri
 
 calling manifest and be released. We never get to do what we were created to do. #bible-verse  #jesus #kingdom #rescue 
 
-In the second scenario, we bring love to the peoples of the earth and fully defeat the demonic hordes, placing them under our feet. We neutralize all power that evil uses to tempt people towards the irrational choice of death and thereby establish our upper hand. What do we do with the remaining people that have not chosen Christ as their savior? Do we strip them of their choices, freedom, or judgments? No. We love them as we love ourselves. We demonstrate to them that the banqueting table of the Lord is sweet, while sin is bitter to the taste. The virgin’s lamps were burning when the bridegroom came for them ([[Tapestry/Bible/Matthew/Matthew 25_10\|Matt. 25:10]]). #bible-verse 
-   #love #evil #choice #freedom #judgment #bride #groom
+In the second scenario, we bring love to the peoples of the earth and fully defeat the demonic hordes, placing them under our feet. We neutralize all power that evil uses to tempt people towards the irrational choice of death and thereby establish our upper hand. What do we do with the remaining people that have not chosen Christ as their savior? Do we strip them of their choices, freedom, or judgments? No. We love them as we love ourselves. We demonstrate to them that the banqueting table of the Lord is sweet, while sin is bitter to the taste. The virgin’s lamps were burning when the bridegroom came for them ([[Tapestry/Bible/Matthew/Matthew 25_10\|Matt. 25:10]]). #bible-verse #love #evil #choice #freedom #judgment #bride #groom
 
-There is a massive gap between these two scenarios. In the second, more preferable one, we get the Bride ready for her Groom. The Kingdom is established and Jesus can come to a far different Earth than in the first scenario. We can set up His throne, and welcome Him here saying, “Jesus, this is your seat over here. You see the one with your Name on it, ‘JESUS’ in big letters? That is the one. Have a seat and rule Your Kingdom. It is ready for You!” #bride #groom   #kingdom #jesus
+There is a massive gap between these two scenarios. In the second, more preferable one, we get the Bride ready for her Groom. The Kingdom is established and Jesus can come to a far different Earth than in the first scenario. We can set up His throne, and welcome Him here saying, “Jesus, this is your seat over here. You see the one with your Name on it, ‘JESUS’ in big letters? That is the one. Have a seat and rule Your Kingdom. It is ready for You!” #bride #groom #kingdom #jesus
 
 I like that scenario. That is the one I choose. We will accomplish this by Terraforming the Earth. When the Lord reveals the hidden sins in the Light of His Presence and we forgive the trespassers and cast down the accuser, we have the ability to humble the enemy under our feet and ready the Kingdom of God on Earth. That is our calling, and that is exactly what we intend to do. #terraforming #hidden #sin #light #jesus #forgiveness #accuser #calling 
 
-*“Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time? It will be good for that servant whose master finds him doing so when he returns.” [[Tapestry/Bible/Matthew/Matthew 24_45-46\|Matthew 24:45-46]]* #bible-verse
+> [!quote]+ 
+>*“Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time? It will be good for that servant whose master finds him doing so when he returns.” [[Tapestry/Bible/Matthew/Matthew 24_45-46\|Matthew 24:45-46]]* #bible-verse
  
 
 ---
