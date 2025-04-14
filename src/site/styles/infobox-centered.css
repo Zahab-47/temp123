@@ -389,7 +389,7 @@ body.infobox-enabled [data-callout="infobox-center"] .callout-content h5, body:n
     border: 0px solid var(--background-modifier-border);
     padding: 15px 3px 13px 3px;
     border-radius: 0 0 5px 5px;
-    background: url(/Users/zahab/Documents/Obsidian/File Vault/images/paper-background.jpg) !important;
+    background: url(/Users/zahab/Documents/Obsidian/File Vault/images/paper-background.jpg);
 }
 
 .markdown-rendered p.note.first {
