@@ -206,7 +206,6 @@ body:not(.css-settings-manager) [data-callout="infobox-center"] .callout-content
 /* Inverted H3 Styles */
 body.infobox-enabled [data-callout="infobox-center"] .callout-content h3[data-style="inverted"],
 body:not(.css-settings-manager) [data-callout="infobox-center"] .callout-content h3[data-style="inverted"] {
-    background: ;
     color: var(--background-primary-alt);
     font-size: 17px;
     margin: var(--size-4-1) 0 !important;
