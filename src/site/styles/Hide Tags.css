@@ -20,7 +20,7 @@ Option: Hover over visibility
 
 .markdown-preview-view.hide-tags a.tag:hover {
   opacity: 1;
-  transition: opacity 0s; /* no delay to appear */
+  transition: opacity 0s;
 }
 
 /* Hide tags in preview window */
