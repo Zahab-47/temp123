@@ -1,0 +1,26 @@
+.clear-toc .callout[data-callout="example"], .callout[data-callout="example"] {
+    --callout-color: transparent;
+    --callout-icon: none;
+    --callout-padding: 1px;
+    text-align: center;
+    margin-top: -18px !important;
+    margin-bottom: 0em !important;
+}
+
+.clear-toc .callout[data-callout="example"] .callout-title {
+    display: inline-flex;
+    align-items: center;
+}
+
+.markdown-preview-view.clear-toc blockquote {
+   padding: 0px;
+   box-shadow: none !important;
+   border-radius: 0px;
+   color: var(--inline-title-color);
+}
+
+.markdown-preview-view.clear-toc blockquote:before {
+   display: none;
+}    
+    margin-top: -1em !important;
+    margin-bottom: 0em !important;

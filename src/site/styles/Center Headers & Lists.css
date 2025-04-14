@@ -1,0 +1,21 @@
+/* center-headers.css */
+.center-headers h1,
+.center-headers h2,
+.center-headers h3,
+.center-headers h4,
+.center-headers h5,
+.center-headers h6,
+.center-headers ul,
+.center-headers ol {
+    text-align: center;
+}
+
+.center-headers ul,
+.center-headers ol {
+    align-items: center;
+}
+
+.center-headers ul li,
+.center-headers ol li {
+    text-align: center;
+}

@@ -1,0 +1,8 @@
+/* Hide block IDs on inactive lines */
+.cm-blockid {
+    opacity: 0;
+}
+/* Show block IDs on active lines */
+.cm-active .cm-blockid {
+    opacity: 1;
+}

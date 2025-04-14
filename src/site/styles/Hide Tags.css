@@ -1,0 +1,31 @@
+/* Only apply this styling if the note has `cssclass: hide-tags` in its YAML */
+
+.markdown-preview-view a.tag {
+  display: none;
+}
+
+/* Hide tags in preview window */
+
+a.tag {
+    display: none;
+}
+*/
+
+/*
+Option: Hover over visibility
+.markdown-preview-view.hide-tags a.tag {
+  opacity: 0;
+  transition: opacity 0.1s linear;
+}
+
+.markdown-preview-view.hide-tags a.tag:hover {
+  opacity: 1;
+  transition: opacity 0s; /* no delay to appear */
+}
+
+/* Hide tags in preview window */
+
+a.tag {
+    display: none;
+}
+*/

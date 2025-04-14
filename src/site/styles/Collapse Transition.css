@@ -1,0 +1,11 @@
+/* Transition for the collapsible content */
+
+.inner-content {
+    max-height: 500px; /* A reasonably large default height */
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+}
+
+.inner-content.collapsed {
+    max-height: 0;
+}
