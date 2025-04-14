@@ -494,13 +494,10 @@ body.infobox-enabled [data-callout="infobox-center"] .callout-content h5, body:n
     margin-bottom: 28px;
     box-shadow: 0.4px -0.3px 0.1px #bababa inset;
     z-index: 1;
-    padding-left: ;
-    padding-right: ;
 }
 
 .markdown-rendered p.note.gem2 {
     /* Font specifics from the first class */
-    font-style: ;
     font-size: 13.5px;
     text-align: center;
     text-align-last: center;
@@ -516,8 +513,6 @@ body.infobox-enabled [data-callout="infobox-center"] .callout-content h5, body:n
     margin-bottom: 28px;
     box-shadow: 0.4px -0.3px 0.1px #bababa inset;
     z-index: 1;
-    padding-left: ;
-    padding-right: ;
 }
 
 .markdown-rendered p.note.third::before {
