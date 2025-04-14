@@ -479,7 +479,6 @@ body.infobox-enabled [data-callout="infobox-center"] .callout-content h5, body:n
 
 .markdown-rendered p.note.third {
     /* Font specifics from the first class */
-    font-style: ;
     font-size: 13.5px;
     text-align: center;
     text-align-last: center;
