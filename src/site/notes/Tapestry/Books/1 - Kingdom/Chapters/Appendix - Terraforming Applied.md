@@ -3,11 +3,10 @@
 ---
 
 
-
-
 --- 
  
 > [!quote]+
+> 
 > ##### [[HUB - Blue Flame Library\|All Books]]
 >
 > ##### 
@@ -736,9 +735,11 @@ The pattern of Terraforming gives us an outline of how the Lord wants us to pray
 In past chapters of application, I have emphasized the importance of Terraforming yourself before you Terraform others. The sample prayer, [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Sample Prayer Self (Adulthood)\|Self (Adulthood)]] is one of the best of these to date for just this purpose. It is also important to begin Terraforming in your own sphere of influence, especially your immediate family, extended family, home, work, church, and local retail spaces. #terraforming #pray #prayer #adult-season #holy-spirit #revelation #His-will #church 
 
 I am shouting from the mountain tops, begin Terraforming in groups! Join together, become accountable to one another. Progress to deeper places in your own heart. Ask the Lord for the authority needed to pray over wider areas. The Lord wants to expand your tent pegs! He wants you to branch out! But for this to happen safely, we are exhorted to assemble as a body. You are a hand.  God wants to attach you to a wrist, elbow, and upper
+
 <br>
 
 ---
+
 <p style="text-align:center;">
 - 187 -
 
@@ -747,13 +748,16 @@ I am shouting from the mountain tops, begin Terraforming in groups! Join togethe
 
 
 ---
+
 <br>
+
 arm. He wants to attach your arm to the torso across town where the legs are headed now. As is another arm that looks just like yours does, but has an opposable function with yours.
 
 The Lord commands a blessing when we are unified (Psalm 133). When we begin to see groups of adult sons and daughters of God gather together in holiness to pray over the land, their cities, their region, and their countries we will see the planet change. Jesus was on his own. He was the prototype. We are called to do everything that He did in unity. We then will truly become the body of Christ. Multiple children of God that fit together perfectly to make up one new man in Christ. We are literally to become Jesus on earth when this happens. The time is now. Think of it as a square dance. Step one is to find your partner... #terraforming #heart #heart-of-God #invitation #rescue #adult-season #sons-and-daughters #pray #jesus 
 <br>
 
 ---
+
 <p style="text-align:center;">
 - 188 -
 
@@ -779,7 +783,9 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 
 *“All conspiracies of evil are thwarted. No weapon formed against me shall prosper. I ask you Lord to come, All Consuming Fire, to burn any deposits left by the evil one away: any seeds, implantations, or fruit that there would be no trace of evil in my life. I call all portals, doors, or gates off-limits to the enemy camp. Father, I enforce all angelic assignments that You have given me. I receive all guardian and ministering angels that You have sent to me and the messages they carry. I choose to enter Your Presence with clean hands and a pure heart by the Blood of Jesus. I receive all miracles of provision, healing, deliverance, and freedom that You have for me today. Amen.”* #prayer #authority #jesus #sample-prayer
 <br>
+
 ---
+
 <p style="text-align:center;">
 - 189 -
 
@@ -806,6 +812,7 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 *“All conspiracies of evil are thwarted. No weapon formed against us shall prosper. I ask You Lord to come, All Consuming Fire, to burn any remnant of evil away: any seeds, implantations, or fruit that there would be no trace of evil in this place. All portals, doors, and gates are off-limits to the enemy camp. Father, we enforce all angelic assignments that You have given us. We post those angels in strategic order: sentry and sentinel angels at the doors. Warring angels around the perimeter of the property, and guarding angels with each child of God. We receive all ministering angels that You have sent to us. We call this place a stronghold for the Kingdom of God. The gates of hell will not prevail here. Finally, Lord we welcome Your Presence in this place. We ask You to be the love, peace, joy, and faith within each of us here today. Amen.”* #prayer #authority #jesus #sample-prayer
 
 ---
+
 <p style="text-align:center;">
 - 190 -
 
@@ -860,6 +867,7 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 *Father, I recognize that the enemy has a right to torment and afflict Jim. But Lord, You know that we are in the process of bringing him healing that will be accomplished over time, in accordance with Your Will. I ask You Father to cover my brother with an Incubator of Your Grace so Jim is protected from harm while he is in this vulnerable position. I ask You to assign angels that we might post around Jim to cover him and keep him until #sample-prayer
 
 ---
+
 <p style="text-align:center;">
 - 192 -
 
@@ -873,6 +881,7 @@ he has received all of the daily bread of healing needed for him to fight on his
 
 
 ---
+
 <p style="text-align:center;">
 - 193 -
 
@@ -900,12 +909,14 @@ he has received all of the daily bread of healing needed for him to fight on his
 #### [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 18: Dismantling\|Armor of God]]
 
 *I forgive all those people who trespassed against my Grandfather by lying about him. I wash their feet with the Blood of Jesus and the generational root of the trespass of lying is broken. Equally, I forgive all those people in my life who have trespassed against me by lying about me. I wash their feet with the Blood of Jesus and the power of lies is broken.  All false accusations, judgments, and opinions about me are washed away.  I also* #sample-prayer 
+
 <br>
 
 > [!info]- Editor's Note: 
 > This sample prayer refers to content from [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 18: Dismantling\|Chapter 18: Dismantling]]. Because it is printed this way in the physical copy of *Kingdom*, we will keep the prayer here until future editions. 
 
 ---
+
 <p style="text-align:center;">
 - 194 -
 
@@ -918,6 +929,7 @@ he has received all of the daily bread of healing needed for him to fight on his
 *repent of bitterness that came from the onslaught of lies spoken over me. I receive the Blood of Jesus that the power of bitterness is broken. We are purified of this unrighteousness and redeemed of every consequence. My reputation is restored. I cast down the accuser with the Blood of the Lamb and the word of my testimony. I remove all magnets that draw lying predators to me in an attempt to make me a victim of false words. I bind the predator spirit and cast it to the feet of Jesus. I place the Belt of Truth back on my waist that I am protected by God. I thank you Lord for healing the pain / affliction in my stomach / gut! Amen.* #sample-prayer 
 
 ---
+
 <p style="text-align:center;">
 - 195 -
 
@@ -942,12 +954,14 @@ he has received all of the daily bread of healing needed for him to fight on his
 (Complex and intricate, Holy Spirit will lead the way)
 
 *Jim, you were the victim here. If you agree, repeat after me. Heavenly Father, I forgive these people that hurt me.	I wash their feet with the Blood of Jesus and the power of their trespasses are broken. Every curse spoken against me is broken. All defilement: bloodshed, broken covenant, idolatry, and sexual immorality is washed away.	All lies, theft, betrayals, abandonment, and rejection is broken and washed away. All vows, oaths, and covenants of evil are dissolved. Everything that I witnessed, participated in, or consumed is void of power, broken, and washed away. All witchcraft: rituals, rites, spells, incantations, divination, hexes, potions, sorcery, candle magic, voodoo / voodoo dolls, shaman, and every human or animal sacrifice is dismantled, unraveled, undone, and rendered powerless. We are purified of this unrighteousness and redeemed of every consequence. We are restored to the men and women of God that we were created to be. I ask You Father to remember these sins no more. And just as You have remembered them no more, I ask that I would remember the pain no more. All pain in my body down to the cellular level is erased. All pain in my soul: mind, will, and emotions, is washed away.	And my wounded spirit is completely healed. I cast down the accuser* #sample-prayer 
+
 <br>
 
 > [!info]- Editors Note:
 > This sample prayer includes content from [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 12: Healing a Person\|Chapter 12: Healing a Person]]. Because it is printed this way in the physical copy of *Kingdom*, we will keep the prayer here until future editions. 
 
 ---
+
 <p style="text-align:center;">
 - 196 -
 
@@ -964,6 +978,7 @@ he has received all of the daily bread of healing needed for him to fight on his
 *Father, now that all demonic power and influence has been broken, I ask You to heal Jim. I ask You to seek out the damaged places and to mend them to perfection. I ask You to apply the Balm of Gilead to Jim’s soul. I ask You to heal his mind, will, and emotions of the habits, instincts, and reflexes that came from years of abuse at the enemy’s hand. While Jim’s soul has grown around the “tumor” within him, it has been distorted, mangled, and even deformed because of the invasion of his being. I ask You to heal and restore him back to the man of God that he was created to be.* #sample-prayer 
 
 ---
+
 <p style="text-align:center;">
 - 197 -
 
@@ -994,6 +1009,7 @@ he has received all of the daily bread of healing needed for him to fight on his
 Repeat starting at STEP TWO for each generation, listening to the Holy Spirit for guidance on what specifically to forgive your family for. Notation: you are not judging these people - this is not an act of affecting their eternity. This is the act of forgiveness ([[Tapestry/Bible/John 20_21-23\|John 20:21-23]]), bringing forth the redemption of the Blood of Jesus to your forefathers ([[Tapestry/Bible/1 Peter/1 Peter 1_18-19\|1 Pet. 1:18-19]]) and casting down the accuser in your life and the life of your family members with the Blood of the Lamb and the word of your testimony ([[Tapestry/Bible/Revelation/Revelation 12_10-11\|Rev. 12:10-11]]). #prayer #authority #jesus #sample-prayer
 
 ---
+
 <p style="text-align:center;">
 - 198 -
 
@@ -1019,12 +1035,14 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 #### Time Defilements
 
 *Father I repent on behalf of the culture that I was born in, grew up in, have participated in, and currently live in. I ask You to forgive us in this City and to wash our feet with Your own Blood so that the power of pagan festivals is broken. All defilement is washed away. All curses are broken and all vows, oaths, or covenants of evil proclaimed during this time of the year are dissolved. All witchcraft is dismantled, unraveled, undone, and rendered powerless. We are purified of all unrighteousness and redeemed of every consequence, and so I call this time of year purified and redeemed as well. We are restored to the men and women of God that we were created to be. I ask You Lord to remember our sins no more. All rights of the evil one to manifest*
+
 <br>
 
 > [!info]- Editor's Note:
 > This prayer may not be directly referencing a specific section in the book. #to-do
 
 ---
+
 <p style="text-align:center;">
 - 199 -
 
@@ -1039,6 +1057,7 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 *In this window of freedom that has been established through the changing of atmospheres, I ask You Lord to intervene in the hearts of my brothers and sisters in this City. I ask You to make sin bitter to the taste and Your Love sweet. I ask You to reveal Yourself to their hearts in a dramatic way. I ask You for revival in this land. I ask You to redeem this time of year with a new identity of the Love, Peace, and Joy of the Lord. We receive Your Blessings this day Lord. The Kingdom, the Power, and the Glory are Yours forever. Amen.* #sample-prayer
 
 ---
+
 <p style="text-align:center;">
 - 200 -
 
@@ -1065,6 +1084,7 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 *“I bind and cast all demons that have just lost their rights to torment or afflict these people to the feet of Jesus, and say that they may never return. We demand a cease-fire on all deception in his life, effective immediately. All conspiracies against them are thwarted. No weapons formed against them shall prosper. We close all portals, gates, doors, or windows of evil. We ask You, Father to burn any residue from their lives, any seeds, implantations, or any fruit. We call the memory of sin erased from the matter of earth. We ask You Lord to heal them of all habits, reflexes, or instincts that have formed in their personalities around the pain of these sins. We thank You Lord that the pain is now gone.”*
 
 ---
+
 <p style="text-align:center;">
 - 201 -
 
@@ -1077,6 +1097,7 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 *“Father, we ask You to intervene in Jim’s life. Lord we ask You to reveal Christ to him in ways he has never dreamed of before. We ask You for angels to protect him from further attacks and to minister life to his heart. We post these assignments to Jim right now. We ask You Lord to make sin bitter and the Truth sweet in Jim’s life. We ask You to send people with the anointing to pierce the walls of defense he has placed around himself with seeds of life. We ask You Lord for Your blessing and Favor upon him in every good choice he makes. Amen.”* #prayer #authority #jesus #sample-prayer
 
 ---
+
 <p style="text-align:center;">
 - 202 -
 
@@ -1090,23 +1111,18 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 
 ##### STEP ONE: The Light of Jesus
 
-*Heavenly Father, I fully submit to You. At one point in my life I gave You a ten percent (10%) tithe. From now on, all that I am is yours. I say ‘yes’ and accept the invitation to the Inheritance Covenant with You. From this day on, I am fully your child and You are fully my Father. I ask You to shine Your Light in my life. I ask You to give me my daily bread of everything that you have planned for me. You are my source of everything. I lay myself bare under Your gaze. I ask You to penetrate every barrier and blockade between us. I ask You to circumvent all defenses I have put up to protect myself from being hurt. I embrace Your discipline. I ask You to teach me all that I need to obtain the fullness of who You created me to be. That I might grow up and mature in all things that are Christ. I choose to trust You completely. I am Yours.”*
-
-> [! ]-
-> Page 203: #prayer #light #jesus #sample-prayer
+*Heavenly Father, I fully submit to You. At one point in my life I gave You a ten percent (10%) tithe. From now on, all that I am is yours. I say ‘yes’ and accept the invitation to the Inheritance Covenant with You. From this day on, I am fully your child and You are fully my Father. I ask You to shine Your Light in my life. I ask You to give me my daily bread of everything that you have planned for me. You are my source of everything. I lay myself bare under Your gaze. I ask You to penetrate every barrier and blockade between us. I ask You to circumvent all defenses I have put up to protect myself from being hurt. I embrace Your discipline. I ask You to teach me all that I need to obtain the fullness of who You created me to be. That I might grow up and mature in all things that are Christ. I choose to trust You completely. I am Yours.”* #prayer #light #jesus #sample-prayer
 
 ##### STEP TWO: The Blood of Jesus
 
 *“I repent of every time I have fallen short of Your Glory. If I have ever accused You of anything, I repent. You Love me and Your Will is always for good. I receive the forgiveness that You have offered me. Come Lord Jesus and wash my feet with Your Blood and the power of my sins are broken. All defilement, but especially broken covenants and idolatry are washed away. Any vows, oaths, or covenants that I have made contrary to the Will of the Father are dissolved. Any witchcraft, manipulation, or controlling actions on my part are dismantled, unraveled, and undone. They are rendered powerless. By the Blood, I am purified of all unrighteousness, redeemed of every consequence, and restored to a right relationship with my God. I hurl down the accuser with the Blood of the Lamb and the word of my testimony.”*
-
-> [! ]-
-> Page 203: #prayer #blood #jesus #sample-prayer
 
 ##### STEP THREE: The Authority of Jesus
 
 *“I bind and cast all demons that have just lost their rights to torment or afflict me to the feet of Jesus, and say that they may never return. All memory of my sin is erased from all matter on earth. All conspiracies against me are thwarted. No weapons are allowed to be formed against me. All portals, gates, doors, or windows of evil are shut. I ask You Lord to burn all residue of evil out of my life.  I welcome the angels of God that You have 
 
 ---
+
 <p style="text-align:center;">
 - 203 -
 
@@ -1120,10 +1136,8 @@ assigned to me to come and fulfill their mission of protection and ministry over
 
 *“Father, I ask You to create in me a heart for Our Family that when the prodigals come home, I will celebrate with you. When the workers that were hired at the eleventh hour are paid the same as me, I can celebrate because I am not a servant. I am Your child. Our Family has grown and will be greater because of these last-minute hires. I ask You to baptize me with Your Holy Spirit of Love so that I might go and do all that Jesus demonstrated for us to do. Amen.”*
 
-> [! ]-
-> Page 204: #prayer #authority #jesus #sample-prayer
-
 ---
+
 <p style="text-align:center;">
 - 204 -
 
@@ -1139,21 +1153,18 @@ assigned to me to come and fulfill their mission of protection and ministry over
 
 *Father, we ask You to give us our daily bread of revelation and freedom for the city of Tulsa. We ask You to anoint us for this work of dismantling all infrastructure of evil and establishing Your rule in this city. We ask You to shine Your Light on this city so that the hidden sins committed across all time on this land will be revealed. We commit to taking the time, however long it is, to walk out the process of sanctification that You lead us through. We call upon You Lord Jesus, Lion of the Tribe of Judah, to come to this place and roar, establishing Your Will on earth as it is in heaven. We wait upon You Lord to show us what root sins need to be forgiven this day.”*
 
-> [! ]-
-> Page 205: #prayer #light #jesus #sample-prayer
 
 ##### STEP TWO: The Blood of Jesus
 
 *“We forgive every person you are highlighting to us as having sinned in this city, and thus defiled the land. We forgive every person of influence and authority in the city. We forgive every servant in the community, especially those responsible for executive, legislative, and judicial / enforcement duties. We forgive every resident and all those who have visited the area. We forgive all persons that we have been in covenant with and all those that have trespassed against us. We receive and wash their feet with the Blood of Jesus so that the power of our sins is broken. All curses are broken. All defilement: all bloodshed, broken covenant, idolatry, and all sexual immorality is washed away. All wounds are healed. Everything false is revealed in the Light and forgiven. All vows, oaths, or covenants of evil are dissolved. And all witchcraft, manipulation, and control is dismantled, unraveled, undone, and rendered powerless. We are purified of all unrighteousness, and redeemed of every consequence. We hurl down the accuser with the Blood of the Lamb and the word of our testimony. The demonic stronghold is unplugged and shut down.”*
 
-> [! ]-
-> Page 205: #prayer #blood #jesus #sample-prayer
 
 ##### STEP THREE: The Authority of Jesus
 
 *“I bind and cast all demons that have just lost their rights to torment or afflict to the feet of Jesus, and tell them never to return. All conspiracies are thwarted. All portals, gates, doors, or windows of evil are shut. All demonic blockades at the gates of this city are demolished and removed. We ask You Father to*
 
 ---
+
 <p style="text-align:center;">
 - 205 -
 
@@ -1165,12 +1176,10 @@ assigned to me to come and fulfill their mission of protection and ministry over
 
 *come, All Consuming Fire, and burn all residue of evil out of the city of Tulsa. We post all angels assigned to Tulsa in their respective positions. Through our choice of unity and purity from the Blood of the Lamb, we call these angels fully clothed and armed with every resource that they will need to complete their assignments.”*
 
-*“Father, I ask You to bless Tulsa with peace, joy, happiness, and the favor of God. Amen.”*
-
-> [! ]-
-> Page 206: #prayer #authority #jesus #sample-prayer
+*“Father, I ask You to bless Tulsa with peace, joy, happiness, and the favor of God. Amen.”* #prayer #authority #jesus #sample-prayer
 
 ---
+
 <p style="text-align:center;">
 - 206 -
 
@@ -1184,26 +1193,18 @@ assigned to me to come and fulfill their mission of protection and ministry over
 
 ##### STEP ONE: The Light of Jesus
 
-*Father, I ask You to shine Your Light on Jim. I ask You to reveal the hidden sins in the Light of Your Presence. I ask You to give Jim this day his daily bread of revelation, freedom, and healing. I give You the glory for everything You are about to do in his life.”*
-
-> [! ]-
-> Page 207: #prayer #light #jesus #sample-prayer
+*Father, I ask You to shine Your Light on Jim. I ask You to reveal the hidden sins in the Light of Your Presence. I ask You to give Jim this day his daily bread of revelation, freedom, and healing. I give You the glory for everything You are about to do in his life.”* #prayer #light #jesus #sample-prayer
 
 ##### STEP TWO: The Blood of Jesus
 
-*“Jim, repeat after me. Heavenly Father, I forgive <example: my dad for raping me>. I wash his feet with the Blood of Jesus so that the power of his sins is broken. The curse is broken. The defilements of broken covenants and sexual immorality are washed away. My heart wounds are healed. All fear and anger that have resulted from these sins are washed away. I forgive him for betraying me. I forgive him for all witchcraft he was involved with. Every ritual, rite, spell, incantation, divination, all sorcery, candle magic, ceremonies, dedications, and all sacrifices are dismantled, unraveled, and undone, rendered powerless. He is purified of this unrighteousness, and redeemed of every consequence. I hurl down the accuser with the Blood of the Lamb and the word of our testimony.”*
-
-> [! ]-
-> Page 207: #prayer #blood #jesus #sample-prayer
+*“Jim, repeat after me. Heavenly Father, I forgive <example: my dad for raping me>. I wash his feet with the Blood of Jesus so that the power of his sins is broken. The curse is broken. The defilements of broken covenants and sexual immorality are washed away. My heart wounds are healed. All fear and anger that have resulted from these sins are washed away. I forgive him for betraying me. I forgive him for all witchcraft he was involved with. Every ritual, rite, spell, incantation, divination, all sorcery, candle magic, ceremonies, dedications, and all sacrifices are dismantled, unraveled, and undone, rendered powerless. He is purified of this unrighteousness, and redeemed of every consequence. I hurl down the accuser with the Blood of the Lamb and the word of our testimony.”* #prayer #blood #jesus #sample-prayer
 
 ##### STEP THREE: The Authority of Jesus
 
 *“Great job, Jim; now let me pray. I bind and cast all demons that have just lost their rights to torment or afflict Jim to the feet of Jesus, and tell them never to return. All conspiracies are thwarted. All portals, gates, doors, or windows of evil are shut. I thank you Father for remembering these sins no more. And as You remember them no more, I pray that Jim would remember them no more. That the memory of these sins is erased from every cell of Jim’s body down to the DNA level. I ask You Father to restore Jim’s being to how You created him to be. The pain in Jim’s memories is now gone. All deception on his will is called off. And I ask You Father to heal his emotions. I remove this butcher’s knife of betrayal from Jim’s back and withdraw all poison from his heart. I ask You Father to apply the balm of Gilead in his heart so that he would be completely healed. I give You the glory for all that You have done in Jim’s life. I bless him this day in Jesus’ name, Amen.”*
 
-> [! ]-
-> Page 207: #prayer #authority #jesus #sample-prayer
-
 ---
+
 <p style="text-align:center;">
 - 207 -
 
@@ -1222,6 +1223,7 @@ assigned to me to come and fulfill their mission of protection and ministry over
 *“Equally, I freely choose to forgive all those who trespassed against me. Especially those who caused the woundings in my life. Those who abandoned me, rejected me, or betrayed me. Those who lied to me, stole from me, falsely accused me, or tried to destroy me. I also forgive my forefathers and every person that we have been in covenant with. I forgive every person that has trespassed against my family. I sprinkle each one of these with the Blood of Jesus and the power of these sins is broken. Every curse is broken. All defilement is washed away. Every heart wound is healed and the victims are set free. All fear and anger are washed away. Everything false is revealed in the Light, forgiven and washed away. All vows, oaths, or covenants of evil, or with evil are dissolved. And all witchcraft is dismantled, unraveled, undone, and rendered powerless. Father, as You have remembered these sins no more, I pray that the memory of these sins would be erased from the matter of earth. I welcome Your all-consuming fire to burn any residue away. All* 
 
 ---
+
 <p style="text-align:center;">
 - 208 -
 
@@ -1235,10 +1237,8 @@ assigned to me to come and fulfill their mission of protection and ministry over
 
 *“Father I ask You to restore our bodies to how they were designed to be down to the cellular level, even to the DNA and the RNA. I ask that You would take away the pain in every memory and all those that I don’t need that could be harmful to me I ask that You wash away. I call a cease-fire to all demons that have been deceiving me and bind every demon that has lost its rights and is interfering with the will of the Father. I cast these demons into the abyss and seal them there until judgment. I ask You Lord to restore my emotions to how You created them to be, that You would renew my mind to the mind of Christ. I thank You for blessing me. Amen.”*
 
-> [! ]-
-> Page 209: #splinter  #sample-prayer
-
 ---
+
 <p style="text-align:center;">
 - 209 -
 
@@ -1258,9 +1258,6 @@ assigned to me to come and fulfill their mission of protection and ministry over
 
 *“By the Blood of Jesus and the word of my testimony I declare that the accuser is hurled down in my life. I have received forgiveness and forgiven my forefathers, all those we have been in covenant with, and all those who have trespassed against us. All witchcraft is rendered powerless. All heart wounds are healed and the resulting impact of soul reliance is undone. With the authority given to me by Jesus, I call the intake valves in my soul to fully open so that all things imparted to my spirit where it sits in Heavenly places in Christ Jesus will flow freely into my soul. Equally, I declare that the out-take valves in my soul to fully open so that these things and all those that come in from my body will not be trapped like a lake but will flow out of me like a river. The world will receive the fruit of my being from this free flow from heaven through my spirit, into my soul, and out of my body.”*
 
-> [! ]-
-> Page 210:  #sample-prayer
-
 #### SOUL HABITS 
 (mature, adult son or daughter of God only) 
 
@@ -1269,6 +1266,7 @@ assigned to me to come and fulfill their mission of protection and ministry over
 *For those habits that You would have me break through the discipline of learned behavior, I ask that You would cover me with an incubator of grace. I ask that You would shine Your Light on those men or women that You would bring into my life to stand with me as siblings or as a spiritual father. I ask You to keep me safe and loved in this process. That You would identify 
 
 ---
+
 <p style="text-align:center;">
 - 210 -
 
@@ -1280,10 +1278,8 @@ assigned to me to come and fulfill their mission of protection and ministry over
 
 ways for us to set boundaries around behavior and methods of accountability so my soul cannot hide its mistakes in dark places. When consequences are needed, I ask that You would reveal to me the loving, yet effective method that I can authorize my sibling or spiritual father to carry out. I ask You to lead us in this process fully, so that we will stay in perfect alignment with Your Will and Your everlasting covenant with David. I ask You to keep us from sin in this process. We trust You fully and ask You to walk with us through this healing.”*
 
-> [! ]-
-> Page 211:  #sample-prayer
-
 ---
+
 <p style="text-align:center;">
 - 211 -
 
@@ -1303,10 +1299,8 @@ ways for us to set boundaries around behavior and methods of accountability so m
 
 *“Father, we freely choose to forgive every person whose sins have become a legal right for the evil one to torment, tempt, or afflict us. We sprinkle each one with the Blood of Jesus that the power of our sins is broken. We are purified of all unrighteousness and redeemed of every consequence. I hurl down the accuser with the Blood of the Lamb and the word of our testimony. Amen.”*
 
-> [! ]-
-> Page 212:  #sample-prayer
-
 ---
+
 <p style="text-align:center;">
 - 212 -
 

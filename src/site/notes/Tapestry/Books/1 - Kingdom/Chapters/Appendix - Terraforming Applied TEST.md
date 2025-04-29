@@ -17,6 +17,7 @@ I am shouting from the mountain tops, begin Terraforming in groups! Join togethe
 <br>
 
 ---
+
 <p style="text-align:center;">
 - 187 -
 
@@ -25,6 +26,7 @@ I am shouting from the mountain tops, begin Terraforming in groups! Join togethe
 
 
 ---
+
 <br>
 arm. He wants to attach your arm to the torso across town where the legs are headed now. As is another arm that looks just like yours does, but has an opposable function with yours.
 
@@ -32,6 +34,7 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 <br>
 
 ---
+
 <p style="text-align:center;">
 - 188 -
 
@@ -57,7 +60,9 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 
 *“All conspiracies of evil are thwarted. No weapon formed against me shall prosper. I ask you Lord to come, All Consuming Fire, to burn any deposits left by the evil one away: any seeds, implantations, or fruit that there would be no trace of evil in my life. I call all portals, doors, or gates off-limits to the enemy camp. Father, I enforce all angelic assignments that You have given me. I receive all guardian and ministering angels that You have sent to me and the messages they carry. I choose to enter Your Presence with clean hands and a pure heart by the Blood of Jesus. I receive all miracles of provision, healing, deliverance, and freedom that You have for me today. Amen.”* #prayer #authority #jesus #sample-prayer
 <br>
+
 ---
+
 <p style="text-align:center;">
 - 189 -
 
@@ -581,10 +586,8 @@ ways for us to set boundaries around behavior and methods of accountability so m
 
 *“Father, we freely choose to forgive every person whose sins have become a legal right for the evil one to torment, tempt, or afflict us. We sprinkle each one with the Blood of Jesus that the power of our sins is broken. We are purified of all unrighteousness and redeemed of every consequence. I hurl down the accuser with the Blood of the Lamb and the word of our testimony. Amen.”*
 
-> [! ]-
-> Page 212:  #sample-prayer
-
 ---
+
 <p style="text-align:center;">
 - 212 -
 
@@ -594,4 +597,4 @@ ways for us to set boundaries around behavior and methods of accountability so m
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Epilogue - "The Diabolical Plans of Diablo"#Epilogue: The Diabolical Plans of Diablo\|◄ Prev]]                                                                                                                                           [[Cessor Journeys - Table of Contents\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Epilogue - "The Diabolical Plans of Diablo"\|◄ Prev]]                                                                                                                                           [[Cessor Journeys - Table of Contents\|Next ►]] 
