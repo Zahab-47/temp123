@@ -1,6 +1,0 @@
-.no-bullets div > ul li > .list-bullet {
-    display: none;
-}
-.no-bullets .HyperMD-list-line:not(.HyperMD-list-line-1) > .cm-formatting-list-ul {
-    visibility: hidden;
-}
