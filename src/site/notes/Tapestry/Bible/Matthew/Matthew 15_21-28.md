@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/matthew/matthew-15-21-28/","title":"Matthew 15:21-28","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/matthew/matthew-15-21-28/","title":"Matthew 15:21-28","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 Leaving that place, Jesus withdrew to the region of Tyre and Sidon. 22 A Canaanite woman from that vicinity came to him, crying out, “Lord, Son of David, have mercy on me! My daughter is demon-possessed and suffering terribly.”

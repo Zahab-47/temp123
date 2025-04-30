@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/numbers/numbers-24-10b-13/","title":"Numbers 24:10b–13","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/numbers/numbers-24-10b-13/","title":"Numbers 24:10b–13","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 Then Balak’s anger burned against Balaam. He struck his hands together and said to him, “I summoned you to curse my enemies, but you have blessed them these three times.  Now leave at once and go home! I said I would reward you handsomely, but the Lord has kept you from being rewarded.”

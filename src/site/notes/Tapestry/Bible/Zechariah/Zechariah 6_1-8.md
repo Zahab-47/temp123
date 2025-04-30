@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/zechariah/zechariah-6-1-8/","title":"Zechariah 6:1-8","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/zechariah/zechariah-6-1-8/","title":"Zechariah 6:1-8","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 I looked up again, and there before me were four chariots coming out from between two mountains—mountains of bronze.  The first chariot had red horses, the second black, the third white, and the fourth dappled—all of them powerful. I asked the angel who was speaking to me, “What are these, my lord?”

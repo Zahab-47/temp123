@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/numbers/numbers-22-28-33/","title":"Numbers 22:28–33","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/numbers/numbers-22-28-33/","title":"Numbers 22:28–33","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
  Then the Lord opened the donkey’s mouth, and it said to Balaam, “What have I done to you to make you beat me these three times?”
