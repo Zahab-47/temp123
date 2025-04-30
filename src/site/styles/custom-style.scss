@@ -1,5 +1,29 @@
    /* Remove all tag elements */
+
 a.tag {
    display: none;
 }
 
+   /* Add colummns by using <div class="#-columns"> */
+   /* Column break triggered by <div style="break-before: column; margin-top:-1.1em;"> */
+   /* Close with </div> */
+
+.two-columns {
+  display: block;
+  column-count: 2;
+  margin-left: 5em;
+  max-width: 37.1em;
+}
+
+/*  margin: auto; */
+/*  column-gap: 40px;  */
+
+.three-columns {
+  display: block;
+  column-count: 3;
+}
+
+.four-columns {
+  display: block;
+  column-count: 4;
+}
