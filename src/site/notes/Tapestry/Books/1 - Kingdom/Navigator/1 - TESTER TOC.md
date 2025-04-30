@@ -12,10 +12,7 @@
 
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
 >
->
->
-
-| &nbsp; | &nbsp; | &nbsp; |                                                                 | &nbsp; | &nbsp;                                           | &nbsp; | &nbsp; | &nbsp; |
+>| &nbsp; | &nbsp; | &nbsp; |                                                                 | &nbsp; | &nbsp;                                           | &nbsp; | &nbsp; | &nbsp; |
 | ------ | ------ | ------ | --------------------------------------------------------------- | ------ | ------------------------------------------------ | ------ | ------ | ------ |
 |        |        |        | [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Love Defined\|Love Defined]]           |        | [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Love Defined\|17]]      |        |        |        |
 |        |        |        | [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Offspring Defined\|Offspring Defined]] |        | [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Offspring Defined\|18]] |        |        |        |
