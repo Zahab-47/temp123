@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/ephesians/ephesians-2-2/","title":"Ephesians 2:2","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/ephesians/ephesians-2-2/","title":"Ephesians 2:2","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

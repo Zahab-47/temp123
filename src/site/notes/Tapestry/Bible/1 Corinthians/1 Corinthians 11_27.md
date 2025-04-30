@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/1-corinthians/1-corinthians-11-27/","title":"1 Corinthians 11:27","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/1-corinthians/1-corinthians-11-27/","title":"1 Corinthians 11:27","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

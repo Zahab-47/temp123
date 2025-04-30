@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/hebrews/hebrews-9-15/","title":"Hebrews 9:15","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/hebrews/hebrews-9-15/","title":"Hebrews 9:15","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/2-timothy/2-timothy-3-15-17/","title":"2 Timothy 3:15–17","tags":["bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/2-timothy/2-timothy-3-15-17/","title":"2 Timothy 3:15–17","hide":true,"tags":["bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

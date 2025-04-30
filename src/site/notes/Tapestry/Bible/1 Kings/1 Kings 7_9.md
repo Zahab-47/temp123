@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/1-kings/1-kings-7-9/","title":"1 Kings 7:9","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/1-kings/1-kings-7-9/","title":"1 Kings 7:9","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

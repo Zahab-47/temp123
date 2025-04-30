@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/1-chronicles-26-20/","title":"1 Chronicles 26:20","tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/1-chronicles-26-20/","title":"1 Chronicles 26:20","hide":true,"tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

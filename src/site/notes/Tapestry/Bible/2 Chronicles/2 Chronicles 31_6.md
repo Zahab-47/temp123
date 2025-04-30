@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/2-chronicles/2-chronicles-31-6/","title":"2 Chronicles 31:6","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/2-chronicles/2-chronicles-31-6/","title":"2 Chronicles 31:6","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

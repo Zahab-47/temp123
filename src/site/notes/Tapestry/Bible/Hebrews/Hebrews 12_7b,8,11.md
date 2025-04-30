@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/hebrews/hebrews-12-7b-8-11/","title":"Hebrews 12:7b,8,11","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/hebrews/hebrews-12-7b-8-11/","title":"Hebrews 12:7b,8,11","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 Endure hardship as discipline; God is treating you as his children. For what children are not disciplined by their father?

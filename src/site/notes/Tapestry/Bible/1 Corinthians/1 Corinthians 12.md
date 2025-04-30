@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/1-corinthians/1-corinthians-12/","title":"1 Corinthians 12","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/1-corinthians/1-corinthians-12/","title":"1 Corinthians 12","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 **1** Now about the gifts of the Spirit, brothers and sisters, I do not want you to be uninformed. **2** You know that when you were pagans, somehow or other you were influenced and led astray to mute idols. **3** Therefore I want you to know that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit.

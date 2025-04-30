@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/colossians/colossians-2-20-23b/","title":"Colossians 2:20, 23b","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/colossians/colossians-2-20-23b/","title":"Colossians 2:20, 23b","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 Since you died with Christ to the elemental spiritual forces of this world, why, as though you still belonged to the world, do you submit to its rules:

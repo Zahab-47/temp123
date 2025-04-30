@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/hebrews/hebrews-5-13-14/","title":"Hebrews 5:13-14","tags":["bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/hebrews/hebrews-5-13-14/","title":"Hebrews 5:13-14","hide":true,"tags":["bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

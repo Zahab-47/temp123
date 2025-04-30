@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/1-corinthians-2-6-7/","title":"1 Corinthians 2:6–7","tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/1-corinthians-2-6-7/","title":"1 Corinthians 2:6–7","hide":true,"tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

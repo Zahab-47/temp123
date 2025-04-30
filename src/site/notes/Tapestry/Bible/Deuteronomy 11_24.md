@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/deuteronomy-11-24/","title":"Deuteronomy 11:24","tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/deuteronomy-11-24/","title":"Deuteronomy 11:24","hide":true,"tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 
