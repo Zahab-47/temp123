@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/john-9-1-7/","title":"John 9:1–7","tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/john-9-1-7/","title":"John 9:1–7","hide":true,"tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 As he went along, he saw a man blind from birth.  His disciples asked him, “Rabbi, who sinned, this man or his parents, that he was born blind?”

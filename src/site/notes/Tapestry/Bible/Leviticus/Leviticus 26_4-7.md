@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/leviticus/leviticus-26-4-7/","title":"Leviticus 26:4–7","tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tapestry/bible/leviticus/leviticus-26-4-7/","title":"Leviticus 26:4–7","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
  I will send you rain in its season, and the ground will yield its crops and the trees their fruit.  Your threshing will continue until grape harvest and the grape harvest will continue until planting, and you will eat all the food you want and live in safety in your land.
