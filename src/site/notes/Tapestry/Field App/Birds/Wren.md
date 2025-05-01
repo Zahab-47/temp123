@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/birds/wren/","title":"Wren","tags":["covenants/animals/birds"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Birds/Wren/","title":"Wren","tags":["covenants/animals/birds"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

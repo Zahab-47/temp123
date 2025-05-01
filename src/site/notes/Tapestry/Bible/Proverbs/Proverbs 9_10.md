@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/proverbs/proverbs-9-10/","title":"Proverbs 9:10","hide":true,"tags":["bible","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Bible/Proverbs/Proverbs 9_10/","title":"Proverbs 9:10","hide":true,"tags":["bible","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

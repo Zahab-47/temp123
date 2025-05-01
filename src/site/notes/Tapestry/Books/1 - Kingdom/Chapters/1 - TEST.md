@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/books/1-kingdom/chapters/1-test/","tags":["tool/template"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Chapters/1 - TEST/","tags":["tool/template"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 

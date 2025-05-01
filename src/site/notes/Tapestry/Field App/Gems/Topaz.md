@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/gems/topaz/","title":"Topaz","tags":["covenants/gems/"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Gems/Topaz/","title":"Topaz","tags":["covenants/gems/"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 

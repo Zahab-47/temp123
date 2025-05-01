@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/books/1-kingdom/chapters/appendix-terraforming-applied-test-1/","title":"Appendix - Terraforming Applied","tags":["book-chapter"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Chapters/Appendix - Terraforming Applied TEST 1/","title":"Appendix - Terraforming Applied","tags":["book-chapter"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 

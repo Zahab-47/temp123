@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/body-systems/renal-system/","title":"Renal System","tags":["covenants/body/systems"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Body Systems/Renal System/","title":"Renal System","tags":["covenants/body/systems"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

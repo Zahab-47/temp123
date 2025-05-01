@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/2-chronicles-29-5/","title":"2 Chronicles 29:5]","hide":true,"tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Bible/2 Chronicles 29_5/","title":"2 Chronicles 29:5]","hide":true,"tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

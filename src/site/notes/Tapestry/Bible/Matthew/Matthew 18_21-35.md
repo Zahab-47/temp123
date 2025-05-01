@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/matthew/matthew-18-21-35/","title":"Matthew 18:21-35","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Bible/Matthew/Matthew 18_21-35/","title":"Matthew 18:21-35","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 Then Peter came to Jesus and asked, “Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?”

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/birds/quail/","title":"Quail","tags":["covenants/animals/birds"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Birds/Quail/","title":"Quail","tags":["covenants/animals/birds"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

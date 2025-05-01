@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/body-systems/circulatory-system/","title":"Circulatory System","tags":["covenants/body/systems"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Body Systems/Circulatory System/","title":"Circulatory System","tags":["covenants/body/systems"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

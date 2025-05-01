@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/bugs/black-butterfly/","title":"Black Butterfly","tags":["covenants/animals/bugs"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Bugs/Black Butterfly/","title":"Black Butterfly","tags":["covenants/animals/bugs"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

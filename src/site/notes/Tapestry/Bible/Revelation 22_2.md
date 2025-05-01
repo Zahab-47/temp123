@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/revelation-22-2/","title":"Revelation 22:2","hide":true,"tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Bible/Revelation 22_2/","title":"Revelation 22:2","hide":true,"tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

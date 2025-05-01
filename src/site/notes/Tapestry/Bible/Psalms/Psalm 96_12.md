@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/psalms/psalm-96-12/","title":"Psalm 96:12","hide":true,"tags":["bible - Scripture"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Bible/Psalms/Psalm 96_12/","title":"Psalm 96:12","hide":true,"tags":["bible - Scripture"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 

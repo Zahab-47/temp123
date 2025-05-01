@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/body-systems/nervous-system/","title":"Nervous System","tags":["covenants/body/systems"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Body Systems/Nervous System/","title":"Nervous System","tags":["covenants/body/systems"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

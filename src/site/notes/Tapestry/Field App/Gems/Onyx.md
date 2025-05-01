@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/gems/onyx/","title":"Onyx","tags":["covenants/gems/"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Gems/Onyx/","title":"Onyx","tags":["covenants/gems/"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

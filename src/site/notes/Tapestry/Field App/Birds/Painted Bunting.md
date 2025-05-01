@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/birds/painted-bunting/","title":"Painted Bunting","tags":["covenants/animals/birds"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Birds/Painted Bunting/","title":"Painted Bunting","tags":["covenants/animals/birds"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

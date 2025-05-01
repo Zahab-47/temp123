@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/body-systems/cardiovascular-system/","title":"Cardiovascular System","tags":["covenants/body/systems"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Body Systems/Cardiovascular System/","title":"Cardiovascular System","tags":["covenants/body/systems"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

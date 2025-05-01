@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/gems/emerald/","title":"Emerald","tags":["covenants/gems/"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Gems/Emerald/","title":"Emerald","tags":["covenants/gems/"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

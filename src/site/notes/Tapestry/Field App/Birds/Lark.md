@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/birds/lark/","title":"Lark","tags":["covenants/animals/birds"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Birds/Lark/","title":"Lark","tags":["covenants/animals/birds"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

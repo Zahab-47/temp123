@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/gems/carnelian/","title":"Carnelian","tags":["covenants/gems/"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Gems/Carnelian/","title":"Carnelian","tags":["covenants/gems/"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

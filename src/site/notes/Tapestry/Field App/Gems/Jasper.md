@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/gems/jasper/","title":"Jasper","tags":["covenants/gems/"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Gems/Jasper/","title":"Jasper","tags":["covenants/gems/"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 
