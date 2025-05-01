@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/Tapestry/Bible/Revelation 22_2/","title":"Revelation 22:2","hide":true,"tags":["bible"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
----
-
-
-. . . down the middle of the great street of the city. On each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations.
-
----
-*New International Version (NIV)*
