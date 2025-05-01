@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/romans-7-15-25b/","title":"Romans 7:15–25b","hide":true,"tags":["bible","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Bible/Romans 7_15–25b/","title":"Romans 7:15–25b","hide":true,"tags":["bible","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
  I do not understand what I do. For what I want to do I do not do, but what I hate I do. And if I do what I do not want to do, I agree that the law is good. As it is, it is no longer I myself who do it, but it is sin living in me.  For I know that good itself does not dwell in me, that is, in my sinful nature. For I have the desire to do what is good, but I cannot carry it out. For I do not do the good I want to do, but the evil I do not want to do—this I keep on doing.  Now if I do what I do not want to do, it is no longer I who do it, but it is sin living in me that does it.

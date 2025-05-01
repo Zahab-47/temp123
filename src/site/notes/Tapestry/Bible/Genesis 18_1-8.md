@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/genesis-18-1-8/","title":"Genesis 18:1-8","hide":true,"tags":["bible","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Bible/Genesis 18_1-8/","title":"Genesis 18:1-8","hide":true,"tags":["bible","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
  The Lord appeared to Abraham near the great trees of Mamre while he was sitting at the entrance to his tent in the heat of the day.  Abraham looked up and saw three men standing nearby. When he saw them, he hurried from the entrance of his tent to meet them and bowed low to the ground.
