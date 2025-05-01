@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/habakkuk/habakkuk-2-4/","title":"Habakkuk 2:4","hide":true,"tags":["bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Bible/Habakkuk/Habakkuk 2_4/","title":"Habakkuk 2:4","hide":true,"tags":["bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 “See, the enemy is puffed up;

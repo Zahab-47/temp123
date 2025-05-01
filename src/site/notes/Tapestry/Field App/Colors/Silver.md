@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/colors/silver/","title":"Silver","tags":["covenants/colors"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Colors/Silver/","title":"Silver","tags":["covenants/colors"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

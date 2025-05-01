@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/bugs/honeybee/","title":"Honeybee","tags":["covenants/animals/bugs"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Bugs/Honeybee/","title":"Honeybee","tags":["covenants/animals/bugs"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

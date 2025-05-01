@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/bugs/yellow-butterfly/","title":"Yellow Butterfly","tags":["covenants/animals/bugs"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Bugs/Yellow Butterfly/","title":"Yellow Butterfly","tags":["covenants/animals/bugs"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

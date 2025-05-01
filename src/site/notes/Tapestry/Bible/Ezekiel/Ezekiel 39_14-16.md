@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/ezekiel/ezekiel-39-14-16/","title":"Ezekiel 39:14-16","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Bible/Ezekiel/Ezekiel 39_14-16/","title":"Ezekiel 39:14-16","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 People will be continually employed in cleansing the land. They will spread out across the land and, along with others, they will bury any bodies that are lying on the ground.

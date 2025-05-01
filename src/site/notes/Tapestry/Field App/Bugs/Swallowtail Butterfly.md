@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/bugs/swallowtail-butterfly/","title":"Swallowtail Butterfly","tags":["covenants/animals/bugs"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Bugs/Swallowtail Butterfly/","title":"Swallowtail Butterfly","tags":["covenants/animals/bugs"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

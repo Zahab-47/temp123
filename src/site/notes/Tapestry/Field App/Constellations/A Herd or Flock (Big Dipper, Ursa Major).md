@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/constellations/a-herd-or-flock-big-dipper-ursa-major/","title":"A Herd or Flock (Big Dipper, Ursa Major)","tags":["covenants/constellations","mazzarot"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Constellations/A Herd or Flock (Big Dipper, Ursa Major)/","title":"A Herd or Flock (Big Dipper, Ursa Major)","tags":["covenants/constellations","mazzarot"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

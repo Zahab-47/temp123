@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/joshua/joshua-18-1-4/","title":"Joshua 18:1–4","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Bible/Joshua/Joshua 18_1-4/","title":"Joshua 18:1–4","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
  The whole assembly of the Israelites gathered at Shiloh and set up the tent of meeting there. The country was brought under their control, but there were still seven Israelite tribes who had not yet received their inheritance.
