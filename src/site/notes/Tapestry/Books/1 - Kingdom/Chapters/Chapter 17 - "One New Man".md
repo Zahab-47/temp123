@@ -724,7 +724,7 @@
 ## Chapter 17: One New Man
 
 > [!quote]+ 
->*“His purpose was to create in himself one new man out of the two *[Jew and Gentile]*, thus making peace, and in this one body to reconcile both of them to God through the cross, by which he put to death their hostility.”* [[Tapestry/Bible/Ephesians/Ephesians 2_15b-16\|Ephesians 2:15b-16]]*  #bible-verse 
+>*“His purpose was to create in himself one new man out of the two *[Jew and Gentile]*, thus making peace, and in this one body to reconcile both of them to God through the cross, by which he put to death their hostility.”* [[Ephesians 2_15b-16\|Ephesians 2:15b-16]]*  #bible-verse 
 
 The early church fathers dealt with several serious issues resulting from the fact that they were Jews (as was Jesus), but the Gospel was available to all people. Should the Gentile converts have to be circumcised? Should they observe the High Holy Days? Should they observe the Sabbath? Should they follow every letter of the law? Would this overwhelm the Gentiles and keep them from Christ? Was this God’s will? 
 
@@ -747,7 +747,7 @@ What would happen if the adult men and women of God who recognize Jesus as the K
 ### BROTHERS
 
 > [!quote]+ 
->*“Brothers, my heart's desire and prayer to God for the Israelites is that they may be saved.” [[Tapestry/Bible/Romans/Romans 10_1\|Romans 10:1]]* #bible-verse
+>*“Brothers, my heart's desire and prayer to God for the Israelites is that they may be saved.” [[Romans 10_1\|Romans 10:1]]* #bible-verse
 
 The first people to believe that Jesus was the Messiah were Jews. The church was founded by Jews and it was the Jewish people that the church fathers preached to first. It was in the heart of every one of these elder brothers that we have in the Lord to see the Jewish people enter into the fulfillment of the covenants that God gave to them by birth. They, if anyone, had the deepest understanding of the mysteries of the God of Abraham, Isaac, Jacob, and King David. They held the big picture of what Jesus accomplished through the cross. And yet so many rejected Jesus as savior and continued to persecute the Jewish founding fathers of the church. #church #hebrew #jewish #god #jesus 
 
@@ -765,14 +765,14 @@ The first people to believe that Jesus was the Messiah were Jews. The church was
 ---
 
 > [!quote]+ 
->*you know all things; you know that I love you.’ Jesus said, ‘Feed my sheep.’” [[Tapestry/Bible/John/John 21_15-17\|John 21:15-17]]* #bible-verse 
+>*you know all things; you know that I love you.’ Jesus said, ‘Feed my sheep.’” [[John 21_15-17\|John 21:15-17]]* #bible-verse 
 
-Peter was the apostle sent to preach to the Jews ([[Tapestry/Bible/Galatians/Galatians 2_7\|Gal. 2:7]]). Jesus knew this and so singled him out at His last visit with His apostles. The way the gospels are written, it can be difficult to read the emotion of the person talking. But rest assured, Jesus was imparting his heart to Peter in this moment. He was imploring Peter and those of us who followed Peter to not forget His brothers, who were the Jews. Yes, Jesus did mean all people, but as with all things Hebrew, this covenant He was making with Peter was also directed specifically to the Jews. They are Jesus’ brethren. They are on His heart always. They should be on ours as well. #bible-verse #heart-of-God #invitation #jewish #jesus 
+Peter was the apostle sent to preach to the Jews ([[Galatians 2_7\|Gal. 2:7]]). Jesus knew this and so singled him out at His last visit with His apostles. The way the gospels are written, it can be difficult to read the emotion of the person talking. But rest assured, Jesus was imparting his heart to Peter in this moment. He was imploring Peter and those of us who followed Peter to not forget His brothers, who were the Jews. Yes, Jesus did mean all people, but as with all things Hebrew, this covenant He was making with Peter was also directed specifically to the Jews. They are Jesus’ brethren. They are on His heart always. They should be on ours as well. #bible-verse #heart-of-God #invitation #jewish #jesus 
 
 ### STUMBLING BLOCKS
 
 > [!quote]+ 
->*“Then they *[Jews of the Synagogue of the Freedmen] *secretly persuaded some men to say, ‘We have heard Stephen speak words of blasphemy against Moses and against God.’ So they stirred up the people and the elders and the teachers of the law. They seized Stephen and brought him before the Sanhedrin. They produced false witnesses, who testified, ‘This fellow never stops speaking against this holy place and against the law. For we have heard him say that this Jesus of Nazareth will **destroy this place and change the customs Moses handed down to us**.’” [[Tapestry/Bible/Acts/Acts 6_11-14\|Acts 6:11-14]]* #bible-verse 
+>*“Then they *[Jews of the Synagogue of the Freedmen] *secretly persuaded some men to say, ‘We have heard Stephen speak words of blasphemy against Moses and against God.’ So they stirred up the people and the elders and the teachers of the law. They seized Stephen and brought him before the Sanhedrin. They produced false witnesses, who testified, ‘This fellow never stops speaking against this holy place and against the law. For we have heard him say that this Jesus of Nazareth will **destroy this place and change the customs Moses handed down to us**.’” [[Acts 6_11-14\|Acts 6:11-14]]* #bible-verse 
 
 Jewish persecution began at the time of Joseph and continues to this day. Since the enslavement by Egypt around the year 1900 BC, Jews have feared having their heritage, customs, and way of life forcibly taken from them. It is at the heart of every Jewish man or woman to fervently defend this way of life no matter the cost. Bless the Jews! They are zealous for the Lord! It is in their DNA to defend the everlasting covenants that the Lord made with their forefathers. #jewish #covenant 
 
@@ -795,7 +795,7 @@ In Spain, this persecution originated by the Christian, Germanic Visigoth tribes
 Today, Jews look at Christianity and see a religion that is steeped in pagan influences. They do not see the new covenant that God has offered them for the atonement of their sins. They see a Greek centered new testament (contract) that requires them to lose their identity that is tied to everlasting covenants with Abraham, Isaac, Jacob, and David, and lasting ordinances with Moses. With this outward appearance, the Jews will continue to reject that which has caused them much injury for thousands of years. They are rejecting the manmade religion and by default, missing the free gift of the salvation that only comes from God through Yeshua Ha’Mashiach (Jesus the messiah).  #religion #jewish #covenant #gift #salvation #jesus 
 
 > [!quote]+ 
->*“One man's faith allows him to eat everything, but another man, whose faith is weak, eats only vegetables. The man who eats everything must not look down on him who does not, and the man who does not eat everything must not condemn the man who does, for God has accepted him. Who are you to judge someone else's servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand.” [[Tapestry/Bible/Romans/Romans 14_2-4\|Romans 14:2-4]]* #bible-verse 
+>*“One man's faith allows him to eat everything, but another man, whose faith is weak, eats only vegetables. The man who eats everything must not look down on him who does not, and the man who does not eat everything must not condemn the man who does, for God has accepted him. Who are you to judge someone else's servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand.” [[Romans 14_2-4\|Romans 14:2-4]]* #bible-verse 
 
 There is a picture of life in Christ that is worth painting for those who pursue perfection in the Lord. On this canvas, adult men and women of God who are free to eat what we want, celebrate what we want, and worship when we want, will look at how it affects our brothers. We will question if Christmas and Easter are causing our brothers to stumble. #jesus #freedom #religion 
 

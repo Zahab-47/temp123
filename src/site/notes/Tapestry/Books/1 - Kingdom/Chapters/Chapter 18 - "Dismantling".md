@@ -723,7 +723,7 @@
 
 ## Chapter 18: Dismantling
 
-*“‘In that day,’ declares the LORD, ‘I will destroy your horses from among you and demolish your chariots. I will destroy the cities of your land and tear down all your strongholds. I will destroy your witchcraft and you will no longer cast spells. I will destroy your carved images and your sacred stones from among you; you will no longer bow down to the work of your hands. I will uproot from among you your Asherah poles and demolish your cities. I will take vengeance in anger and wrath upon the nations that have not obeyed me.’”* [[Tapestry/Bible/Micah/Micah 5_10-15\|Micah 5:10-15]] #bible-verse 
+*“‘In that day,’ declares the LORD, ‘I will destroy your horses from among you and demolish your chariots. I will destroy the cities of your land and tear down all your strongholds. I will destroy your witchcraft and you will no longer cast spells. I will destroy your carved images and your sacred stones from among you; you will no longer bow down to the work of your hands. I will uproot from among you your Asherah poles and demolish your cities. I will take vengeance in anger and wrath upon the nations that have not obeyed me.’”* [[Micah 5_10-15\|Micah 5:10-15]] #bible-verse 
 
 There are two ways of dismantling anything. The first is to take it apart the way it was put together. This is the safe way of dismantling as it limits any collateral damage. But it requires that you understand each step of the creation process whereby you can perform these steps in reverse. The extra time it takes to understand the construction can be a nuisance, but it is well worth the effort. This kind of dismantling is preferred if there is any chance of your changing your mind during or after the procedure. #dismantle 
 
@@ -763,16 +763,16 @@ Each of these demonic advantages (cities, strongholds, horses, etc) are describe
 ---
 
 > [!quote]+ 
->*or authorities; all things were created by Him and for Him.” [[Tapestry/Bible/Colossians/Colossians 1_16\|Colossians 1:16]]* #bible-verse 
+>*or authorities; all things were created by Him and for Him.” [[Colossians 1_16\|Colossians 1:16]]* #bible-verse 
 
 Demonic cities are similar, yet differentiated from cities in the natural. Think of old town hall meetings to get a decent picture of what these are. Demons gather together in rank from lowest to highest to discuss strategy, receive orders, and carry out missions. Please do not have a picture of organized, clean, military-like control in this environment. It looks more like a dark cavern of creepy, crawling, chaos. The city I discovered under Las Vegas, Nevada comes to mind. There are literally millions of demons in a city of this size, working together and yet not working together, if you know what I mean. They follow orders, but each has its own agenda. #demon #supernatural #discernment 
 
 Most if not all cities in the natural have demonic counterparts in the spirit. These “sister cities” are built from the sin of the people in the natural. A good analogy comes from ants. If you leave solid food or spilt liquids on the countertop, ants will gather. This is especially true with demons. Where the sin (their food) is, they will gather. It is like moths to light. The two literally go hand in hand. There are different levels of sin that attract demons. The most authority found in these cities comes from sins of defilement which include the following: #demon #sin  #supernatural 
 
-1. Bloodshed	[[Tapestry/Bible/Ezekiel/Ezekiel 36_18\|Ezekiel 36:18]] #bible-verse 
-2. Broken Covenant	[[Tapestry/Bible/2 Samuel/2 Samuel 21_1-2,14\|2 Samuel 21:1-2,14]] #bible-verse 
-3. Idolatry (includes witchcraft)	[[Tapestry/Bible/Jeremiah/Jeremiah 16_18\|Jeremiah 16:18]] #bible-verse 
-4. Sexual immorality	[[Tapestry/Bible/Leviticus/Leviticus 18_6-25\|Leviticus 18:6-25]] #bible-verse 
+1. Bloodshed	[[Ezekiel 36_18\|Ezekiel 36:18]] #bible-verse 
+2. Broken Covenant	[[2 Samuel 21_1-2,14\|2 Samuel 21:1-2,14]] #bible-verse 
+3. Idolatry (includes witchcraft)	[[Jeremiah 16_18\|Jeremiah 16:18]] #bible-verse 
+4. Sexual immorality	[[Leviticus 18_6-25\|Leviticus 18:6-25]] #bible-verse 
 
 Demonic cities are further strengthened by the human drones. These are usually voluntary slaves, that is, witches, warlocks, and high priests. They are purposefully acting to build the city into an empire. The asherah poles of old were set by the pagan priests to set the boundaries and perimeters of the demonic city. They are found in the “highest of hills, and the lowest of valleys” to establish three dimensional territory. #watcher #demonic-stronghold #witchcraft 
 
@@ -794,7 +794,7 @@ An example of this can be found in New Orleans, Louisiana. Here is a city with a
 
 Demolishing demonic cities requires great authority. Although an individual adult man or woman of God who has received significant authority through a track record of hurling down the accuser can inflict a multiplier of destruction to evil, the Lord wants us to work together. Here He commands a blessing (Psalm 133). This is why the dismantling project requires the body of Christ to receive the key and begin working together to pull these cities down. #authority #unity #communion #dismantle #heart-of-God 
 
-With everything in Terraforming, the Lord wants us to start in our own furrow. Terraforming cities requires that multiple people with high authority in the natural city (natural born residents first, transplants second) to gain authority from Terraforming their own lives. Then they can gather together in unity and Terraform their city. The important thing is to de- emphasize time. Demons obtain defilement rights and don’t lose them until the sinner is forgiven. The grace of God has overridden this in the past, but now we must change our ways ([[Tapestry/Bible/Acts/Acts 17_30\|Acts 17:30]]). We are wholly dependent upon the Light of Jesus to reveal the hidden sins going back in time to completely 
+With everything in Terraforming, the Lord wants us to start in our own furrow. Terraforming cities requires that multiple people with high authority in the natural city (natural born residents first, transplants second) to gain authority from Terraforming their own lives. Then they can gather together in unity and Terraform their city. The important thing is to de- emphasize time. Demons obtain defilement rights and don’t lose them until the sinner is forgiven. The grace of God has overridden this in the past, but now we must change our ways ([[Acts 17_30\|Acts 17:30]]). We are wholly dependent upon the Light of Jesus to reveal the hidden sins going back in time to completely 
 
 ---
 <p style="text-align:center;">
@@ -813,12 +813,12 @@ Tearing these down is easy in the Light, but you must be careful. The success of
 ### Government
 
 > [!quote]+ 
->*“Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves and not be scattered over the face of the whole earth.” [[Tapestry/Bible/Genesis/Genesis 11_4\|Genesis 11:4]]* #bible-verse 
+>*“Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves and not be scattered over the face of the whole earth.” [[Genesis 11_4\|Genesis 11:4]]* #bible-verse 
 
 In the natural, the Assyrian empire worshiped handmade idols, pagan gods (demons) that they conducted detestable practices towards (bloodshed, sexual immorality) in their devotion. The authority that empowers this hierarchy comes from the unified sin of human community. When the government of that community and the agreeing majority of its inhabitants enter into corporate sin and makes it their religion, these demonic principalities receive a massive amount of rights, power, and authority to exist. #worship #demons #authority #religion #legal-right  
 
 > [!quote]+ 
->*“‘Don't be afraid,’ the prophet answered. ‘Those who are with us are more than those who are with them.’ And Elisha prayed, ‘O LORD, open his eyes so he may see.’ Then the LORD opened the servant's eyes, and he looked and saw the hills full of horses and chariots of fire all around Elisha.” [[Tapestry/Bible/2 Kings/2 Kings 6_16-17\|2 Kings 6:16-17]]* #bible-verse 
+>*“‘Don't be afraid,’ the prophet answered. ‘Those who are with us are more than those who are with them.’ And Elisha prayed, ‘O LORD, open his eyes so he may see.’ Then the LORD opened the servant's eyes, and he looked and saw the hills full of horses and chariots of fire all around Elisha.” [[2 Kings 6_16-17\|2 Kings 6:16-17]]* #bible-verse 
 
 
 In the natural, the Assyrian armies rode horses pulling powerful chariots. The angelic army of God rides horses, pulling chariots of fire. These horses and chariots are assigned to the angels by the Lord as a part of their calling. As such, fallen angels ride them too. The big difference is that the chariots no longer house
@@ -833,22 +833,22 @@ In the natural, the Assyrian armies rode horses pulling powerful chariots. The a
 
 ---
 
-the fire of God. These are sometimes used by the Lord for judgement ([[Tapestry/Bible/Zechariah/Zechariah 6_1-8\|Zech. 6:1-8]]). As with carved idols, these devices are symbolism of the demonic chain of command that is within the system of the kingdom of darkness. These are massive power houses that fall under the authority of countries, regions, and ultimately to the devil who is satan ([[Tapestry/Bible/Job/Job 1_7\|Job 1:7]]). #bible-verse   #angels #demons #kingdom #darkness #satan #evil-one 
+the fire of God. These are sometimes used by the Lord for judgement ([[Zechariah 6_1-8\|Zech. 6:1-8]]). As with carved idols, these devices are symbolism of the demonic chain of command that is within the system of the kingdom of darkness. These are massive power houses that fall under the authority of countries, regions, and ultimately to the devil who is satan ([[Job 1_7\|Job 1:7]]). #bible-verse   #angels #demons #kingdom #darkness #satan #evil-one 
 
 > [!quote]+ 
->*“You, dear children, are from God and have overcome them, because the One who is in you is greater than the one who is in the world.” [[Tapestry/Bible/1 John/1 John 4_4\|1 John 4:4]]* #bible-verse
+>*“You, dear children, are from God and have overcome them, because the One who is in you is greater than the one who is in the world.” [[1 John 4_4\|1 John 4:4]]* #bible-verse
 
 But do not be afraid. Those who are with us are more than those who are with them. The highest level of government within the kingdom of darkness stands upon the deception of its lying tongue. It is a house of cards. One pull and down it goes. As the body of Christ unifies in purpose, walking on the paths of our destinies with the fullness of our gifts, we see victory. The Light of Jesus reveals the hidden sins in daily portions that are the perfect quantity and sequence. We forgive the sinners, hurling down the accuser, and the hierarchy is demolished. #kingdom #darkness #deception #unity #daily-bread #revelation #light-of-jesus 
 
 > [!quote]+ 
->*“For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.” [[Tapestry/Bible/Isaiah/Isaiah 9_6\|Isaiah 9:6]]* #bible-verse 
+>*“For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.” [[Isaiah 9_6\|Isaiah 9:6]]* #bible-verse 
 
 In its place, the Lord will establish His government, a royal government that rests on the shoulders of King Jesus. This government consists of the adult sons and daughters of God who have an intimate relationship with their Father and operate out of a Kingdom heart. They are trustworthy to bring Love to those that need it most. They are servants who are not too proud to clean the toilets. Through Christ within them, they will embody all that Jesus was on earth: they will set the captives free and then release them on the path of their calling in the Kingdom.  #church #destiny #gifts #light #jesus #accuser #freedom #sons-and-daughters #intimacy #love #relationship #heart #heart-of-God 
 
 ### Witchcraft
 
 > [!quote]+ 
->*“Like dawn spreading across the mountains a large and mighty army comes, such as never was of old nor ever will be in ages to come.”[[Tapestry/Bible/Joel/Joel 2_2b\|Joel 2:2b]]* #bible-verse 
+>*“Like dawn spreading across the mountains a large and mighty army comes, such as never was of old nor ever will be in ages to come.”[[Joel 2_2b\|Joel 2:2b]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -866,7 +866,7 @@ Recognizing these, the kingdom of darkness is rolling out its advertising progra
 
 Most of the recruiting activities are centered around the supernatural. By enticing dreamers to join up through fantasies of sugar coated power, they are building an army with furious speed. The time to intervene is now. The kingdom of darkness is also planning more terrorist attacks, financial system failures, and even witchcraft to control the weather for more devastation that can bring about the need for basic things that they will provide to all those who join up. Those who do not (loyal Christians) would be dealt with ruthlessly. #deception #kingdom-of-darkness #supernatural #not-love 
 
-The Kingdom of God offers eternal Love that brings indescribable fulfillment to a person. When your condition changes from not love to Love, it is quite dramatic. Pain and sorrow, fear and anger, hunger and thirst are replaced with peace, joy, happiness, and contentment. Your basic needs are not only met, but far exceeded. We also serve an omnipotent God ([[Tapestry/Bible/Luke/Luke 1_37\|Luke 1:37]]). He created the universe and holds it all in the palm of His hand. When the time comes, the people of God will see things
+The Kingdom of God offers eternal Love that brings indescribable fulfillment to a person. When your condition changes from not love to Love, it is quite dramatic. Pain and sorrow, fear and anger, hunger and thirst are replaced with peace, joy, happiness, and contentment. Your basic needs are not only met, but far exceeded. We also serve an omnipotent God ([[Luke 1_37\|Luke 1:37]]). He created the universe and holds it all in the palm of His hand. When the time comes, the people of God will see things
 
 ---
 <p style="text-align:center;">
@@ -924,7 +924,7 @@ Another example occurred during prayer. I felt a sharp pain in the sole of my ri
 ### Full Armor of God
 
 > [!quote]+ 
->*“Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand.” [[Tapestry/Bible/Ephesians/Ephesians 6_13\|Ephesians 6:13]]* #bible-verse 
+>*“Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand.” [[Ephesians 6_13\|Ephesians 6:13]]* #bible-verse 
 
 Pain is no fun. No one that I know likes it. But pain reveals problems in the body, and many times, problems in the soul and the spirit as well. When a headache comes, we all reach for the aspirin, acetaminophen, ibuprofen or some combination of the three. Yet does covering this God-given symptom in the darkness bring healing or hiding? Perhaps we should all take a second look at this practice and start turning to God and asking the most important part: “why?” #soul #spirit #revelation 
 
@@ -976,7 +976,7 @@ As we’ve discussed before, satan tries to pin the ultimate blame of heart woun
 
 ### Residue
 
-Demonic seeds ([[Tapestry/Bible/Matthew/Matthew 13_24-29\|Matt 13:24-29]]) are excellent examples of trace materials left behind after demons are removed. These fingerprints of evil must be burned, blown, and washed away to #bible-verse
+Demonic seeds ([[Matthew 13_24-29\|Matt 13:24-29]]) are excellent examples of trace materials left behind after demons are removed. These fingerprints of evil must be burned, blown, and washed away to #bible-verse
 
 complete the cleansing of a person, place, or thing before entering the Presence of the Lord. By removing them, we also ensure that further intrusion by the kingdom of darkness will terminate. There are various techniques of extraction that depend upon the type of residue. Most can be removed through the all consuming fire of the Lord if we ask Him to come. #cleansed #kingdom-of-darkness 
 
@@ -996,14 +996,14 @@ One of the more powerful heart wounds is found in the victim of incest, especial
 
 ---
 
-It is a modern example of [[Tapestry/Bible/Genesis/Genesis 6_1-4\|Gen. 6:1-4]]. The signature of this violation is a fourth toe that is bent in the direction of the first, or “big toe.” In modern medical terms, the fourth digit or “p. nonvoratus” (piggy that had none) bent or curved at the middle phalanx in the direction of the first digit “p. fori” (piggy that went to market). I have literally prayed for hundreds of people with this signature where both incest and witchcraft were in the family. Once the predators were forgiven, the accuser hurled down, and the strongholds dismantled, the person’s life changed dramatically. #bible-verse #witchcraft #holy-spirit #rejection #generation #generational-sins #forgiveness #dismantle 
+It is a modern example of [[Genesis 6_1-4\|Gen. 6:1-4]]. The signature of this violation is a fourth toe that is bent in the direction of the first, or “big toe.” In modern medical terms, the fourth digit or “p. nonvoratus” (piggy that had none) bent or curved at the middle phalanx in the direction of the first digit “p. fori” (piggy that went to market). I have literally prayed for hundreds of people with this signature where both incest and witchcraft were in the family. Once the predators were forgiven, the accuser hurled down, and the strongholds dismantled, the person’s life changed dramatically. #bible-verse #witchcraft #holy-spirit #rejection #generation #generational-sins #forgiveness #dismantle 
 
 ### Memory
 
 > [!quote]+ 
->*“The face of the LORD is against those who do evil, to cut off the memory of them from the earth.”  [[Tapestry/Bible/Psalms/Psalm 34_16\|Psalm 34:16]]* #bible-verse
+>*“The face of the LORD is against those who do evil, to cut off the memory of them from the earth.”  [[Psalm 34_16\|Psalm 34:16]]* #bible-verse
 
-The human mind remembers trespasses that were against us both directly and through the generations. Equally, the human body does as well. This is certainly true at the microscopic, DNA level where generational sins are passed down physically ([[Tapestry/Bible/Numbers/Numbers 14_18\|Num. 14:18]]). This memory must be removed and / or neutralized before the demolition is complete. We pray healing for this affliction as a request of the Lord and a proclamation on the earth. The Father has already lead us to set the person free through forgiveness. #bible-verse  #generational-sins 
+The human mind remembers trespasses that were against us both directly and through the generations. Equally, the human body does as well. This is certainly true at the microscopic, DNA level where generational sins are passed down physically ([[Numbers 14_18\|Num. 14:18]]). This memory must be removed and / or neutralized before the demolition is complete. We pray healing for this affliction as a request of the Lord and a proclamation on the earth. The Father has already lead us to set the person free through forgiveness. #bible-verse  #generational-sins 
 
 The highlighted signatures have been resolved. The final step is to clear all residue, and memory is the last major one of these. So unless you get a check in your spirit, declare the healing of all pain in mental memories, all habits, reflexes, and instincts of personality that have developed, and the restoration of the DNA of the person’s body as a part of the testimony of the forgiveness with the Blood of Jesus. At this point, the stronghold is fully dismantled.  #memory #generation #healing  #forgiveness 
 

@@ -724,12 +724,12 @@
 ## Chapter 19: Restoring Land
 
 > [!quote]+ 
->*“Whoever invokes a blessing in the land will do so by the God of truth; he who takes an oath in the land will swear by the God of truth. For the past troubles will be forgotten and hidden from my eyes.” [[Tapestry/Bible/Isaiah/Isaiah 65_16\|Isaiah 65:16]]* #bible-verse 
+>*“Whoever invokes a blessing in the land will do so by the God of truth; he who takes an oath in the land will swear by the God of truth. For the past troubles will be forgotten and hidden from my eyes.” [[Isaiah 65_16\|Isaiah 65:16]]* #bible-verse 
 
 Creation is so much bigger than just us humans. The Lord created the heavens and the earth. He created light, time, atmosphere, gathered water (sea), dry ground (land), vegetation (plants and trees), the sun, the moon, the stars, and living creatures (in the waters, in the sky, and on the land). All of these things He called very good. Man was commissioned to subdue the earth and to rule over the living creatures.
 
 > [!quote]+ 
->*“In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.” [[Tapestry/Bible/Genesis/Genesis 2_9c\|Genesis 2:9c]]*  #bible-verse 
+>*“In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.” [[Genesis 2_9c\|Genesis 2:9c]]*  #bible-verse 
 
 The Lord placed two trees in the center of the garden. These represented the choice of destinies for creation. One represented the destiny of dependency on God for everything. The other introduced the tainting that lucifer had brought to creation through the choice of self glorification and independence. So then, when the sin of disobedience was committed, Adam and Eve would know the pain of self reliance: toiling the ground for work and painful childbirth.
 
@@ -750,7 +750,7 @@ When sin entered the land outside of Eden at the hands of Cain, defilement was i
 ### Defilement
 
 > [!quote]+ 
->*“Men will be regularly employed to cleanse the land. Some will go throughout the land and, in addition to them, others will bury those that remain on the ground. At the end of the seven months they will begin their search. As they go through the land and one of them sees a human bone, he will set up a marker beside it until the gravediggers have buried it in the Valley of Hamon Gog. And so they will cleanse the land.” [[Tapestry/Bible/Ezekiel/Ezekiel 39_14-16\|Ezekiel 39:14-16]]* #bible-verse
+>*“Men will be regularly employed to cleanse the land. Some will go throughout the land and, in addition to them, others will bury those that remain on the ground. At the end of the seven months they will begin their search. As they go through the land and one of them sees a human bone, he will set up a marker beside it until the gravediggers have buried it in the Valley of Hamon Gog. And so they will cleanse the land.” [[Ezekiel 39_14-16\|Ezekiel 39:14-16]]* #bible-verse
 
 Land does not sin. People do. As such, when land is defiled, we do not respond by washing the land with the Blood of Jesus. We love and fully forgive those who sinned by washing their feet with the Blood of Jesus and speaking out the word of their testimony of what the Blood has done for them. They are purified of all unrighteousness. They are redeemed of every consequence. They are restored to a right relationship with God. The accuser is hurled down and the memory of these sins is erased from all matter on earth (people, places, things). Then the land is cleansed.  #sin #blood #jesus #testimony #restored #purified #relationship #accuser 
 
@@ -765,17 +765,17 @@ Land does not sin. People do. As such, when land is defiled, we do not respond b
 ---
 
 > [!quote]+ 
->*“The LORD said, ‘What have you done? Listen! Your brother's blood cries out to me from the ground. Now you are under a curse and driven from the ground, which opened its mouth to receive your brother's blood from your hand. When you work the ground, it will no longer yield its crops for you. You will be a restless wanderer on the earth.’” [[Tapestry/Bible/Genesis/Genesis 4_10-12\|Genesis 4:10-12]]* #bible-verse
+>*“The LORD said, ‘What have you done? Listen! Your brother's blood cries out to me from the ground. Now you are under a curse and driven from the ground, which opened its mouth to receive your brother's blood from your hand. When you work the ground, it will no longer yield its crops for you. You will be a restless wanderer on the earth.’” [[Genesis 4_10-12\|Genesis 4:10-12]]* #bible-verse
 
-Blood shed is the first defilement of land. This can relate to the murder of innocent men or women of God ([[Tapestry/Bible/Lamentations/Lamentations 4_14\|Lam. 4:14]]) or even the corpses of the enemies of the Lord (Ezekiel 39). This can included aborted babies, torture of the innocents, practices of cutting, and other witchcraft rituals that involve the shedding of blood (sacrifices). All of these people must be fully forgiven for the land to be free of its memory of this blood. #bible-verse #defilement #bloodshed #memory 
-
-> [!quote]+ 
->*“The earth is defiled by its people; they have disobeyed the laws, violated the statutes and broken the everlasting covenant.” [[Tapestry/Bible/Isaiah/Isaiah 24_5\|Isaiah 24:5]]* #bible-verse
-
-Broken covenant is the second defilement of land. These covenants can be with the Lord or with other persons. Saul broke covenant with the Gibeonites and stained his house with blood when he swore to spare them and then later tried to annihilate them ([[Tapestry/Bible/2 Samuel/2 Samuel 21_1-2\|2 Sam. 21:1-2]]) resulting in a famine that lasted three years. Also, swindling (stealing from those that trust you), going against your word, and false pretense (lying to build trust) are examples. #bible-verse #broken-covenant 
+Blood shed is the first defilement of land. This can relate to the murder of innocent men or women of God ([[Lamentations 4_14\|Lam. 4:14]]) or even the corpses of the enemies of the Lord (Ezekiel 39). This can included aborted babies, torture of the innocents, practices of cutting, and other witchcraft rituals that involve the shedding of blood (sacrifices). All of these people must be fully forgiven for the land to be free of its memory of this blood. #bible-verse #defilement #bloodshed #memory 
 
 > [!quote]+ 
->*“I will repay them double for their wickedness and their sin, because they have defiled my land with the lifeless forms of their vile images and have filled my inheritance with their detestable idols.” [[Tapestry/Bible/Jeremiah/Jeremiah 16_18\|Jeremiah 16:18]]* #bible-verse
+>*“The earth is defiled by its people; they have disobeyed the laws, violated the statutes and broken the everlasting covenant.” [[Isaiah 24_5\|Isaiah 24:5]]* #bible-verse
+
+Broken covenant is the second defilement of land. These covenants can be with the Lord or with other persons. Saul broke covenant with the Gibeonites and stained his house with blood when he swore to spare them and then later tried to annihilate them ([[2 Samuel 21_1-2\|2 Sam. 21:1-2]]) resulting in a famine that lasted three years. Also, swindling (stealing from those that trust you), going against your word, and false pretense (lying to build trust) are examples. #bible-verse #broken-covenant 
+
+> [!quote]+ 
+>*“I will repay them double for their wickedness and their sin, because they have defiled my land with the lifeless forms of their vile images and have filled my inheritance with their detestable idols.” [[Jeremiah 16_18\|Jeremiah 16:18]]* #bible-verse
 
 Idolatry is the third defilement of the land. Since the resurrection of Jesus, when people who have chosen Him as their savior and bow to the God of Abraham, Isaac, Jacob, and King David then bow to another god, they are polluting that which is Holy. All witchcraft and occult based activities are idolatry with demons. All pagan religions are idolatry with demons in disguise. All esoteric societies that introduce ancient rituals and rites from non-Hebrew lands are idolatrous. #sacrifices #witchcraft #trust #defilement #jesus #demons #idolatry 
 
@@ -790,16 +790,16 @@ Idolatry is the third defilement of the land. Since the resurrection of Jesus, w
 ---
 
 > [!quote]+ 
->*“But you must keep My decrees and My laws. The native-born and the aliens living among you must not do any of these detestable things *[sexual immorality]*, for all these things were done by the people who lived in the land before you, and the land became defiled. And if you defile the land, it will vomit you out as it vomited out the nations that were before you.”* [[Tapestry/Bible/Leviticus/Leviticus 18_26-28\|Lev. 18:26-28]]* #bible-verse 
+>*“But you must keep My decrees and My laws. The native-born and the aliens living among you must not do any of these detestable things *[sexual immorality]*, for all these things were done by the people who lived in the land before you, and the land became defiled. And if you defile the land, it will vomit you out as it vomited out the nations that were before you.”* [[Leviticus 18_26-28\|Lev. 18:26-28]]* #bible-verse 
 
 Sexual immorality is the fourth and last defilement. In Leviticus 18, many sins are listed including sex with close relatives, women during menstruation, same-gender relations, and bestiality. Adultery is a combination of sexual immorality (fornication) and broken covenant (betrothal covenant). We are to love and forgive our brethren when they commit these sins as the Father has loved and forgiven us. Do not judge any person, but always walk in the knowledge of our own susceptibility to sin ourselves. #bethrothal-covenant  #broken-covenant #forgiveness 
 
-Underneath all defilements is the work of the enemy to get humans to enter into evil covenants. Lucifer wants the bride to enter into an evil betrothal covenant not for Love, but to use and discard her when her value is gone. When a person willfully enters into this covenant, or is entered in as a result of the generational sin of their forefathers, they can be recognized by the characteristics they have in common with their groom: liars ([[Tapestry/Bible/John/John 8_44\|John 8:44]]), accusers ([[Tapestry/Bible/Revelation/Revelation 12_10-12\|Rev. 12:10 - 12]]), thieves and destroyers ([[Tapestry/Bible/John/John 10_10\|John 10:10]]). Not everyone who lies or steals is in marital covenant with satan, but those who are will be powerfully bound to the sins. Dissolve these covenants and dismantle the sins and defilements as a Royal Priest and set all of creation free! This is where the fun begins. #bible-verse #bethrothal-covenant  #love #forgive #covenants #satan #church #bride #not-love #choice #love #generational-sins #marriage #royal-priest #creation #freedom #dismantle 
+Underneath all defilements is the work of the enemy to get humans to enter into evil covenants. Lucifer wants the bride to enter into an evil betrothal covenant not for Love, but to use and discard her when her value is gone. When a person willfully enters into this covenant, or is entered in as a result of the generational sin of their forefathers, they can be recognized by the characteristics they have in common with their groom: liars ([[John 8_44\|John 8:44]]), accusers ([[Revelation 12_10-12\|Rev. 12:10 - 12]]), thieves and destroyers ([[John 10_10\|John 10:10]]). Not everyone who lies or steals is in marital covenant with satan, but those who are will be powerfully bound to the sins. Dissolve these covenants and dismantle the sins and defilements as a Royal Priest and set all of creation free! This is where the fun begins. #bible-verse #bethrothal-covenant  #love #forgive #covenants #satan #church #bride #not-love #choice #love #generational-sins #marriage #royal-priest #creation #freedom #dismantle 
 
 ### Bundling
 
 > [!quote]+ 
->*“I will surely gather all of you, O Jacob; I will surely bring together the remnant of Israel. I will bring them together like sheep in a pen, like a flock in its pasture; the place will throng with people. One who breaks open the way will go up before them; they will break through the gate and go out. Their king will pass through before them, the LORD at their head.”  [[Tapestry/Bible/Micah/Micah 2_12-13\|Micah 2:12-13]]* #bible-verse 
+>*“I will surely gather all of you, O Jacob; I will surely bring together the remnant of Israel. I will bring them together like sheep in a pen, like a flock in its pasture; the place will throng with people. One who breaks open the way will go up before them; they will break through the gate and go out. Their king will pass through before them, the LORD at their head.”  [[Micah 2_12-13\|Micah 2:12-13]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -818,9 +818,9 @@ In other cases He may be silent. We may not have to declare the specific sin or 
 ### Riches
 
 > [!quote]+ 
->*“I will give you the treasures of darkness, riches stored in secret places, so that you may know that I am the LORD, the God of Israel, who summons you by name.” [[Tapestry/Bible/Isaiah/Isaiah 45_3\|Isaiah 45:3]]*  #bible-verse
+>*“I will give you the treasures of darkness, riches stored in secret places, so that you may know that I am the LORD, the God of Israel, who summons you by name.” [[Isaiah 45_3\|Isaiah 45:3]]*  #bible-verse
 
-In Colorado, Larry and I found blessings that the Lord had stored in the land. To be honest, we had been looking for gold coins. Every prophetic word pointed to gold being found in the land, which was confirmed with scriptures emphasizing riches and storehouses ([[Tapestry/Bible/Job/Job 38_22\|Job 38:22]]) which are buried under snow and hail. We did not find gold coins in the natural. What we found was of far greater value. We found spiritual keys that unlock the fullness of our calling. We found that which would bring us to perfection and thus the fullness of authority that God wanted to impart.  #bible-verse #storehouse #spiritual-key #fullness #authority 
+In Colorado, Larry and I found blessings that the Lord had stored in the land. To be honest, we had been looking for gold coins. Every prophetic word pointed to gold being found in the land, which was confirmed with scriptures emphasizing riches and storehouses ([[Job 38_22\|Job 38:22]]) which are buried under snow and hail. We did not find gold coins in the natural. What we found was of far greater value. We found spiritual keys that unlock the fullness of our calling. We found that which would bring us to perfection and thus the fullness of authority that God wanted to impart.  #bible-verse #storehouse #spiritual-key #fullness #authority 
 
 *“Now Eli, who was very old, heard about everything his sons were doing to all Israel and how they slept with the women who served at the entrance to the Tent of Meeting. So he said to them, ‘Why do you do such things? I hear from all the people about these wicked deeds of yours. No, my sons; it is not a good report that I hear spreading among the LORD's people. If a man sins against another man, God may mediate for him; but if a man* 
 
@@ -835,7 +835,7 @@ In Colorado, Larry and I found blessings that the Lord had stored in the land. T
 ---
 
 > [!quote]+ 
->*sins against the LORD, who will intercede for him?’ His sons, however, did not listen to their father's rebuke, for it was the LORD's will to put them to death.” [[Tapestry/Bible/1 Samuel/1 Samuel 2_22-25\|1 Samuel 2:22-25]]*  #bible-verse
+>*sins against the LORD, who will intercede for him?’ His sons, however, did not listen to their father's rebuke, for it was the LORD's will to put them to death.” [[1 Samuel 2_22-25\|1 Samuel 2:22-25]]*  #bible-verse
 
 The Lord has been speaking to us about the sons of Eli for sometime now. He has shown us the importance of Eli’s priesthood and Saul’s royal house in comparison to the royal house of David and the priesthood of Zadok. Saul did not have an intimate relationship with God. Because of this, he had to turn to Samuel for direction. David did have a direct relationship with the Lord and was a man after His own heart. Equally, Zadok was loyal to the Lord’s will as manifested in his loyalty to the royal house of David (Solomon’s election for the throne). Eli was disloyal to the Lord as demonstrated in his failure to move the behavior of his sons through discipline. He rebuked them, but failed in discipline. #priest 
 
@@ -857,14 +857,14 @@ As soon as we got to Colorado, the picture came to form. We got the 4 7 revelati
 ---
 
 > [!quote]+ 
->*Therefore the LORD, the God of Israel, declares: ‘I promised that your house and your father's house would minister before Me forever.’ But now the LORD declares: ‘Far be it from Me! Those who honor Me I will honor, but those who despise Me will be disdained. I will raise up for Myself a faithful priest, who will do according to what is in My heart and mind. I will firmly establish his house, and he will minister before My anointed one always.’” [[Tapestry/Bible/1 Samuel/1 Samuel 2_27,29b-30,35\|1 Samuel 2:27,29b-30,35]]*  #bible-verse
+>*Therefore the LORD, the God of Israel, declares: ‘I promised that your house and your father's house would minister before Me forever.’ But now the LORD declares: ‘Far be it from Me! Those who honor Me I will honor, but those who despise Me will be disdained. I will raise up for Myself a faithful priest, who will do according to what is in My heart and mind. I will firmly establish his house, and he will minister before My anointed one always.’” [[1 Samuel 2_27,29b-30,35\|1 Samuel 2:27,29b-30,35]]*  #bible-verse
 
 The headlines of the Denver Post that day read, “Out of Hiding, Seeking Justice.” My full name is Scott Justice Norvell (named after my mother’s grandfather, Scott Justice). The name Scott has the spiritual connotation of “Temple.” My name literally means, Temple Justice, or the justice and discipline that Eli never brought to his sons, costing them the priesthood. The priesthood was passed to Zadok and his sons. On April 1, 2008 the Lord called me a Priest in the order of Zadok and confirmed in June 2008 that I would train the sons of Zadok for the end times. All of this was brought into focus in June 2009 as the vision of the Lord came to me in Colorado. #priest 
 
 > [!quote]+ 
->*“For what son is there whom his father does not discipline? If you are left without discipline, in which all have participated, then you are illegitimate children and not sons. For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it.” [[Tapestry/Bible/Hebrews/Hebrews 12_7b,8,11\|Hebrews 12:7b,8,11]]*  #bible-verse
+>*“For what son is there whom his father does not discipline? If you are left without discipline, in which all have participated, then you are illegitimate children and not sons. For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it.” [[Hebrews 12_7b,8,11\|Hebrews 12:7b,8,11]]*  #bible-verse
 
-Terraforming was given by God to the Body of Christ to be a handbook for the royal priests in the end times. It is important beyond measure that we understand how the priesthood was taken from the house of Eli and why. We must know that the willful choices of his sons to fall short of the Glory of God were contemptuous and could not be overlooked ([[Tapestry/Bible/1 Samuel/1 Samuel 2_17\|1 Sam. 2:17]]). We must understand that even with the complete dismantling of the kingdom of darkness, we are back to square one as Adam was: we still have to choose Love over not-Love. The Lord will not make our choice for us. We must choose what is right. If our behavior conflicts with this, we are accountable to address this with God for his grace and mercy, and to submit to the provision of justice and discipline so this behavior will change.  #bible-verse #terraforming #church #royal-priest  #dismantle #kingdom-of-darkness  #love #not-love #choice #grace #provision 
+Terraforming was given by God to the Body of Christ to be a handbook for the royal priests in the end times. It is important beyond measure that we understand how the priesthood was taken from the house of Eli and why. We must know that the willful choices of his sons to fall short of the Glory of God were contemptuous and could not be overlooked ([[1 Samuel 2_17\|1 Sam. 2:17]]). We must understand that even with the complete dismantling of the kingdom of darkness, we are back to square one as Adam was: we still have to choose Love over not-Love. The Lord will not make our choice for us. We must choose what is right. If our behavior conflicts with this, we are accountable to address this with God for his grace and mercy, and to submit to the provision of justice and discipline so this behavior will change.  #bible-verse #terraforming #church #royal-priest  #dismantle #kingdom-of-darkness  #love #not-love #choice #grace #provision 
 
 ---
 <p style="text-align:center;">
@@ -879,7 +879,7 @@ Terraforming was given by God to the Body of Christ to be a handbook for the roy
 ### Blessings
 
 > [!quote]+ 
->*“He who works his land will have abundant food, but the one who chases fantasies will have his fill of poverty.”* [[Tapestry/Bible/Proverbs/Proverbs 28_19\|Proverbs 28:19]]* #bible-verse 
+>*“He who works his land will have abundant food, but the one who chases fantasies will have his fill of poverty.”* [[Proverbs 28_19\|Proverbs 28:19]]* #bible-verse 
 
 The destiny of the Roman empire was to mature into adulthood, receive the fullness of the authority the Lord wanted to delegate, and then bring the gospel of Jesus Christ to the world. Instead, the gospel of Jesus Christ became a religion (christianity), was combined with pagan practices, and the church was rendered impotent. After this the Lord gave Rome many chances for redemption, even after its decline. In the 800’s AD Charlemagne (my 41st-great grandfather) placed Jesus Christ at the head of the Holy Roman Empire, but failed at imparting His Love. Instead, conversions were forced upon people and nations, bringing resentment and loss where there should have been freedom and gain. #destiny #mature #fullness #authority 
 

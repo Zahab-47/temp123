@@ -800,7 +800,7 @@ home, and went on to publish his book. He never dreamed of Eric and Tiana again.
 
 > [!quote]+
 > *“You killed the author of life, but God raised him from the dead. We are witnesses of this.*”  
->*[[Tapestry/Bible/Acts/Acts 3_15\|Acts 3:15]]* #bible-verse
+>*[[Acts 3_15\|Acts 3:15]]* #bible-verse
 
 ### Love Defined
 
@@ -824,7 +824,7 @@ love is a **relationship** between two or more things, and so we have a problem.
 
 We see that a requirement for “love” to exist is that there are at least two objects, the **lover** and the **loved**. You can love yourself, but is that “love” in its complete form? It seems that the fullness of the definition of “love” demands that it is manifested three (3) ways: 1.) loving yourself, 2.) loving those that love you back, and 3.) loving those that hate you (enemies). This manifestation of love meets the requirement of at least two objects, and also provides a test in the loving of one’s enemies, as this love must be pure and unconditional. #love #blueprint 
 
-The mind of God is to fully define love by creating those that love Him back ([[Tapestry/Bible/Matthew/Matthew 22_37\|Matt. 22:37]]), and those that do not love Him back. It is also to *become the relationship *of love between the two or more beings that He created ( [[Tapestry/Bible/Matthew/Matthew 22_39\|Matt. 22:39]], [[Matthew 18_20 \| Matt. 18:20]]). This is the reason for creation. Love is made complete in the creation, and God is love, so God has chosen to complete Himself through creation. We see this in marriage especially where “two are made one.” What a glorious role and purpose that we have!!! God has created us to complete himself. Some will love him back, others will not. Tested love is made perfect, and this is the purpose of creation, to have perfect love. #love #heart-of-God #blueprint #relationship #bible-verse #purpose #destiny 
+The mind of God is to fully define love by creating those that love Him back ([[Matthew 22_37\|Matt. 22:37]]), and those that do not love Him back. It is also to *become the relationship *of love between the two or more beings that He created ( [[Matthew 22_39\|Matt. 22:39]], [[Matthew 18_20 \| Matt. 18:20]]). This is the reason for creation. Love is made complete in the creation, and God is love, so God has chosen to complete Himself through creation. We see this in marriage especially where “two are made one.” What a glorious role and purpose that we have!!! God has created us to complete himself. Some will love him back, others will not. Tested love is made perfect, and this is the purpose of creation, to have perfect love. #love #heart-of-God #blueprint #relationship #bible-verse #purpose #destiny 
 
 ### Offspring Defined
 
@@ -893,13 +893,13 @@ Just as we are capable with effort to comprehend the concept of “never ending,
 ear-to-ear grins. The more we get to know our God, the more we want to spend all of our time with Him. Heaven is the culmination of creation: God the Lover and us the Loved. #heaven #love #heart-of-God #creation #never-ending 
 
 > [!quote]+ 
->*“They will be tormented with burning sulfur in the presence of the holy angels and of the Lamb. And the smoke of their torment rises for ever and ever.”[[Tapestry/Bible/Revelation/Revelation 14_10b-11a\| Revelation 14:10b –11a]]* #bible-verse 
+>*“They will be tormented with burning sulfur in the presence of the holy angels and of the Lamb. And the smoke of their torment rises for ever and ever.”[[Revelation 14_10b-11a\| Revelation 14:10b –11a]]* #bible-verse 
 
 Along the lines of “never beginning,” the horrors of hell are beyond any nightmare we’ve ever encountered. The idea of being alone, in pain, suffering with unquenchable thirst is enough to make anyone tremble. Hell is real. It is the ultimate detriment that results from choosing “not love.” We are free to make whatever choice we want to, and we receive the consequence of those choices just the same. #not-love #never-beginning #choice 
 
 #### Fallibility
 
-God created human beings in His image, but we are not exact replications of Him. We were made to depend upon Him for everything and to love Him back. The choice of Adam and Eve resulted in the door opening for those that will not love Him. But we are not quick to judge. We have all sinned ([[Tapestry/Bible/Romans/Romans 3_23\| Rom. 3:23]]) and the Lord said that “*the cowardly, the unbelieving, the vile, the murderers, the sexually immoral, those who practice magic arts, the idolaters and all liars—their place will be in the fiery lake of burning sulfur*” ([[Tapestry/Bible/Revelation/Revelation 21_8\|Rev. 21:8]]). Knowing this, we realize just how desperately we need Jesus. #bible-verse #not-love #defilement #sin #choice #witchcraft 
+God created human beings in His image, but we are not exact replications of Him. We were made to depend upon Him for everything and to love Him back. The choice of Adam and Eve resulted in the door opening for those that will not love Him. But we are not quick to judge. We have all sinned ([[Romans 3_23\| Rom. 3:23]]) and the Lord said that “*the cowardly, the unbelieving, the vile, the murderers, the sexually immoral, those who practice magic arts, the idolaters and all liars—their place will be in the fiery lake of burning sulfur*” ([[Revelation 21_8\|Rev. 21:8]]). Knowing this, we realize just how desperately we need Jesus. #bible-verse #not-love #defilement #sin #choice #witchcraft 
 
 We are created singular, that is one person. In this state, we find ourselves weak when it comes to our identity. We are created in His image, but we have found that behaving that way is a different story. When Adam and Eve bit into that apple, the evil one obtained the ultimate legal right, one that we were incapable of stripping him of. We received the knowledge of good and evil, thus empowering our ability to choose many times over what it was. But this also put us in the position of realizing our weakness: we were not capable of choosing good as God does. #evil-one #legal-right #choice 
 

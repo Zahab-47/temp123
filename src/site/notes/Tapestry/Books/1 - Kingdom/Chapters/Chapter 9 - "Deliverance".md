@@ -729,14 +729,14 @@
 ### CHARACTER
 
 > [!quote]+ 
->*“Bold and arrogant, these men are not afraid to slander celestial beings; yet even angels, although they are stronger and more powerful, do not bring slanderous accusations against such beings in the presence of the Lord.”  [[Tapestry/Bible/2 Peter/2 Peter 2_10-11a\| 2 Peter 2:10-11a]]* #bible-verse
+>*“Bold and arrogant, these men are not afraid to slander celestial beings; yet even angels, although they are stronger and more powerful, do not bring slanderous accusations against such beings in the presence of the Lord.”  [[2 Peter 2_10-11a\| 2 Peter 2:10-11a]]* #bible-verse
 
 Before we can deliver we must understand who we are and what we are empowered to do. We are a people of love. As such we speak with love and humility in all of our dealings. Understanding and walking in the upper hand that we’ve been given is important to our task, but it is imperative that we do not extend this to become arrogant in our warfare. Yelling at demons, mocking them, or cursing them is not needed to defeat them. In many cases you are only harming the person being delivered, and yourself. Always pray as if the Lord Himself were in the room with you: with fear and humility. Because after all, He is in the room with you!  #love #demons #pray #alignment #god #identity #destiny 
 
 ### HOOKS AND LOOPS
 
 > [!quote]+ 
->*“The wicked foe pulls all of them up with hooks, he catches them in his net, he gathers them up in his dragnet.” [[Tapestry/Bible/Habakkuk/Habakkuk 1_15a\|Habakkuk 1:15a]]* #bible-verse 
+>*“The wicked foe pulls all of them up with hooks, he catches them in his net, he gathers them up in his dragnet.” [[Habakkuk 1_15a\|Habakkuk 1:15a]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -757,7 +757,7 @@ Demons are motivated. They obtain their legal rights to manifest from our sin, t
 ### ELECTRIC ONION
 
 > [!quote]+ 
->*“For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.” [[Tapestry/Bible/Ephesians/Ephesians 6_12\|Ephesians 6:12]]* #bible-verse 
+>*“For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.” [[Ephesians 6_12\|Ephesians 6:12]]* #bible-verse 
 
 Once a single demon has locked onto us, more try to join that demon to create strength in numbers. The resulting strongholds can best be described as “electric onions.” There is a nucleus, which is a tiny demon, but has the most authority in the hierarchy. Each layer that covers the nucleus is a larger demon
 
@@ -797,14 +797,14 @@ root sin is due to the person not forgiving a trespasser. While this will cause 
 ### RENDERING DEMONS HOMELESS
 
 > [!quote]+ 
->*“When an unclean spirit goes out of a man, he goes through dry places, seeking rest, and finds none. Then he says, ‘I will return to my house from which I came.’ And when he comes, he finds it empty, swept, and put in order. Then he goes and takes with him seven other spirits more wicked than himself, and they enter and dwell there; and the last state of that man is worse than the first.” [[Tapestry/Bible/Matthew/Matthew 12_43-45\|Matthew 12:43-45]]* #bible-verse 
+>*“When an unclean spirit goes out of a man, he goes through dry places, seeking rest, and finds none. Then he says, ‘I will return to my house from which I came.’ And when he comes, he finds it empty, swept, and put in order. Then he goes and takes with him seven other spirits more wicked than himself, and they enter and dwell there; and the last state of that man is worse than the first.” [[Matthew 12_43-45\|Matthew 12:43-45]]* #bible-verse 
 
 The former house of an unclean spirit is the legal right that allows the demon to be there in the first place. Royal priests destroy these houses when they forgive with the Blood of Jesus and the word of their testimony. Because of this, the rights of the unclean spirits to return to the house from which they came are stripped, and the accuser is cast down. Simply stated, there is no longer a house for them to return to. They are now homeless. #legal-right #royal-priest #forgiveness #blood #jesus #accuser 
 
 ### WIPING THE BATHTUB CLEAN
 
 > [!quote]+ 
->*“I have given you authority to...overcome all the power of the enemy.” [[Tapestry/Bible/Luke/Luke 10_19\|Luke 10:19]]* #bible-verse 
+>*“I have given you authority to...overcome all the power of the enemy.” [[Luke 10_19\|Luke 10:19]]* #bible-verse 
 
 There is not always time to neutralize the nucleus first. Sometimes you will find a person in bad shape, manifesting demons right on the spot. When this happens, you need to shut down the manifestation so you can get to the roots. Dealing with the outer layers first is a long and painful process, so you are always better off getting the manifestation to stop and then working from the inside out. This will mean either casting out the demon or stripping them of their ability to interfere with God’s work while you are praying. #root #demon #layer #prayer #authority 
 
@@ -826,7 +826,7 @@ Remember that demons manifest by name or purpose. They are easy to spot by the w
 
 *“Father, I ask You for grace. Lord You love Jim so much and want him to be healed. I ask You to give us the safe environment to get him set free. Even though the rights are not yet stripped, I ask you to enforce our words with power.” *Then say this for each demon that manifests, *“Demon of fear, I bind you, muzzle you, and strip you of all rights to manifest while we are praying.”* #sample-prayer 
 
-The next step is to ask the Lord to reveal the roots, the hidden sins in the Light of His Presence ([[Tapestry/Bible/Psalms/Psalm 90_8\|Ps. 90:8]]). The hidden sins are those that have given these demons the right to manifest in the person’s life. Once you find the sin, all that is needed is to fully forgive the sinner and cast down the accuser. The short version sounds like this:  #bible-verse #root #legal-right 
+The next step is to ask the Lord to reveal the roots, the hidden sins in the Light of His Presence ([[Psalm 90_8\|Ps. 90:8]]). The hidden sins are those that have given these demons the right to manifest in the person’s life. Once you find the sin, all that is needed is to fully forgive the sinner and cast down the accuser. The short version sounds like this:  #bible-verse #root #legal-right 
 
 *“We forgive Jim’s father of witchcraft. We wash his feet with the Blood of Jesus that the power of his sins are broken. All witchcraft is dismantled, unraveled, and undone, rendered powerless to harm Jim. They are purified of this unrighteousness, redeemed of every consequence, and restored to the men of God they were created to be. We cast down the accuser with the Blood of the Lamb and the word of their testimony.”* #sample-prayer
 
@@ -844,15 +844,15 @@ The demon of fear that you previously bound and held until the root was discover
 
 The root of the fear has been discovered and destroyed through the manifestation of love in the forgiveness of Jim’s father.
 
-The most common question we hear is, “OK, but where are we supposed to cast these demons? Out into mid air? Doesn’t that just leave the demon available to torment someone else?” There are many suggestions I’ve heard for the answer to this question, anywhere from “yes, mid air is fine” to “the outer darkness.” For those new to this authority, I believe the best answer is “to the Feet of Jesus ([[Tapestry/Bible/Romans/Romans 16_20\|Rom. 16:20]]).” The reason for this is that we know that Jesus is the Judge, and He will determine what happens to them after that. #bible-verse 
+The most common question we hear is, “OK, but where are we supposed to cast these demons? Out into mid air? Doesn’t that just leave the demon available to torment someone else?” There are many suggestions I’ve heard for the answer to this question, anywhere from “yes, mid air is fine” to “the outer darkness.” For those new to this authority, I believe the best answer is “to the Feet of Jesus ([[Romans 16_20\|Rom. 16:20]]).” The reason for this is that we know that Jesus is the Judge, and He will determine what happens to them after that. #bible-verse 
 
-That being said, I am convinced that the Lord is in the process granting us the authority to cast demons into the abyss for torment, both permanently and temporary. Some may argue that this is not what Jesus did, specifically in [[Tapestry/Bible/Luke/Luke 8_31\|Luke 8:31]] when the demons begged Him not to order them into the abyss and He chose not to. But I believe that Jesus demonstrated to us that this decision is one made by a mature son or daughter of God, is not done in every instance, and requires relationship between us and our Lord to know when to and when not to. Without question, the right to cast into the abyss surfaces when the demon is trying to meddle with the DNA of a human through the combination of witchcraft and incest ([[Tapestry/Bible/2 Peter/2 Peter 2_4\|2 Pet. 2:4]]). But until you have this authority through experience and relationship, I advise casting to the feet of Jesus. #bible-verse #authority #jesus #sons-and-daughters #relationship #maturity 
+That being said, I am convinced that the Lord is in the process granting us the authority to cast demons into the abyss for torment, both permanently and temporary. Some may argue that this is not what Jesus did, specifically in [[Luke 8_31\|Luke 8:31]] when the demons begged Him not to order them into the abyss and He chose not to. But I believe that Jesus demonstrated to us that this decision is one made by a mature son or daughter of God, is not done in every instance, and requires relationship between us and our Lord to know when to and when not to. Without question, the right to cast into the abyss surfaces when the demon is trying to meddle with the DNA of a human through the combination of witchcraft and incest ([[2 Peter 2_4\|2 Pet. 2:4]]). But until you have this authority through experience and relationship, I advise casting to the feet of Jesus. #bible-verse #authority #jesus #sons-and-daughters #relationship #maturity 
 
 ### FLUSH THE BUSHES
 
 Demons do not always manifest at first. Sometimes you need them to in order to identify who they are and what they are doing there. We call this “flushing the bushes.” Just like in hunting when you get the birds out of the bushes (hiding) and into the air (visible and easy to shoot), we do the same. This can be accomplished through various methods including worshiping, forgiving, or commanding them out.
 
-My favorite is to ask the Lord to pour His All Consuming Fire into the person to roast out anything impure. *“He will purify the Levites and refine them like gold and silver.” [[Tapestry/Bible/Malachi/Malachi 3_3a\|Mal. 3:3a]] *The heat of His Fire forces all impurities to the surface to be revealed
+My favorite is to ask the Lord to pour His All Consuming Fire into the person to roast out anything impure. *“He will purify the Levites and refine them like gold and silver.” [[Malachi 3_3a\|Mal. 3:3a]] *The heat of His Fire forces all impurities to the surface to be revealed
 
 ---
 <p style="text-align:center;">

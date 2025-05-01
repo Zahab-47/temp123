@@ -724,7 +724,7 @@
 ## Chapter 8: Upper Hand
 
 > [!quote]+ 
->*“You broaden the path beneath me, so that my ankles do not turn..”* [[Tapestry/Bible/2 Samuel/2 Samuel 22_37\|2 Samuel 22:37]]  #bible-verse 
+>*“You broaden the path beneath me, so that my ankles do not turn..”* [[2 Samuel 22_37\|2 Samuel 22:37]]  #bible-verse 
 
 American football is a great sport. People in the U.S. spend a significant amount of time investing in it. I myself, for example, have repented of an overindulgence in this game that resulted in fits of rage unbecoming of a pit bull with its nose hairs on fire. Much less a man of God. But there are several excellent analogies that you can glean from the sport, one of which I will notate here both to illustrate my point and to bring redemption to my previous personal admonishment.
 
@@ -754,7 +754,7 @@ With the Light of Jesus we see all plans of the enemy. We are able to overcome t
 ### LEGAL MATTERS
 
 > [!quote]+ 
->*“For the accuser of our brothers, who accuses them before our God day and night, has been hurled down.” [[Tapestry/Bible/Revelation/Revelation 12_10b\|Revelation 12:10b]]* #bible-verse 
+>*“For the accuser of our brothers, who accuses them before our God day and night, has been hurled down.” [[Revelation 12_10b\|Revelation 12:10b]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -776,7 +776,7 @@ There is no time in heaven. And we know that most all sin can include the tempta
 ### NO DISCERNMENT ZONE
 
 > [!quote]+ 
->*“Hide me in the shadow of your wings.” [[Tapestry/Bible/Psalms/Psalm 17_8b\|Psalm 17:8b]]* #bible-verse 
+>*“Hide me in the shadow of your wings.” [[Psalm 17_8b\|Psalm 17:8b]]* #bible-verse 
 
 It always bothered me that demons have the ability to listen in on our conversations with our brothers and sisters, not to mention our prayers to the Lord. These are private and meant to be family business, not public. Because of this we now set up “No Discernment Zones” for the enemy camp. Through the authority given to us by the Lord, we exercise the principle of upper hand by commanding all demons to stop stealing information from us.
 { #rnkqbp}
@@ -797,12 +797,12 @@ Demons only have the right to eavesdrop when we sin. When we are communicating i
 ### INCUBATOR OF GRACE
 
 > [!quote]+ 
->*“If anyone would come after me, he must deny himself and take up his cross daily and follow me.” [[Tapestry/Bible/Luke/Luke 9_23b\|Luke 9:23b]]* #bible-verse 
+>*“If anyone would come after me, he must deny himself and take up his cross daily and follow me.” [[Luke 9_23b\|Luke 9:23b]]* #bible-verse 
 
 Terraforming is not a formula. It is a lifestyle, a process of turning to God and receiving each day our daily bread of revelation, freedom, and healing. Although it is true to say that there are points of completion, especially with Terraforming places or things, most of the time the prayers are ongoing. A person will often times receive revelation of evil manifesting due to past sins for days, weeks, months, or even years after first asking the Lord to shine His Light on their lives. #terraforming #god #revelation #light #prayers #daily-bread 
 
 > [!quote]+ 
->*“We believe it is through the grace of our Lord Jesus that we are saved, just as they are.” [[Tapestry/Bible/Acts/Acts 15_11\|Acts 15:11]]* #bible-verse 
+>*“We believe it is through the grace of our Lord Jesus that we are saved, just as they are.” [[Acts 15_11\|Acts 15:11]]* #bible-verse 
 
 Yielding to our Father’s allotment of daily bread will often times result in periods of time between prayer when the job is only half done. This is a necessary part of the process and can result in a person being exposed to enemy exploitation. To combat this, we ask our Father for the blessing of His Grace to cover and protect them while we continue the process. We call this the “Incubator of Grace.” An incubator is a contained environment used to protect endangered babies while they grow and heal. Equally, we ask the Lord to provide this same kind of shelter. #wait #grace #rest 
 
@@ -827,7 +827,7 @@ bring retaliation or revenge. Unfortunately, we learned this lesson the hard way
 Creation was made by God to work in the favor of Love. Because of this, His children have the most potent weapon on earth: forgiveness with the Blood of Jesus. The advantage for not-Love is operating in the dark. When we walk as God designed us to in the Light the power of evil dissolves. This is not a level playing field.  #love #creation #light #forgiveness #blood #jesus 
 
 > [!quote]+ 
->*“‘As the Father has sent me, I am sending you.’” [[Tapestry/Bible/John/John 20_21\|John 20:21]]*  #bible-verse
+>*“‘As the Father has sent me, I am sending you.’” [[John 20_21\|John 20:21]]*  #bible-verse
 
 
 ---

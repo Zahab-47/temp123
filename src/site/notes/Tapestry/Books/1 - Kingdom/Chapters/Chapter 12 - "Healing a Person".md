@@ -724,12 +724,12 @@
 ## Chapter 12: Healing a Person
 
 > [!quote]+ 
->*“Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received, freely give.” [[Tapestry/Bible/Matthew/Matthew 10_8\|Matthew 10:8]]* #bible-verse 
+>*“Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received, freely give.” [[Matthew 10_8\|Matthew 10:8]]* #bible-verse 
 
-The Father sent Jesus with the power and authority to heal the sick. Now Jesus has sent us to do the same. Throughout the last 100 years, this understanding has been restored to the Church and most believers agree that healing is within the Will of God. The question that arises is why are some healed while others are not. Is it the Will of God for everyone to be healed? We know that by His wounds that trickled with Blood (*greek : molops*), we are healed ([[Tapestry/Bible/1 Peter/1 Peter 2_24\|1 Pet. 2:24]]). So why do people still suffer from cancer? #bible-verse #greek #molops #His-will 
+The Father sent Jesus with the power and authority to heal the sick. Now Jesus has sent us to do the same. Throughout the last 100 years, this understanding has been restored to the Church and most believers agree that healing is within the Will of God. The question that arises is why are some healed while others are not. Is it the Will of God for everyone to be healed? We know that by His wounds that trickled with Blood (*greek : molops*), we are healed ([[1 Peter 2_24\|1 Pet. 2:24]]). So why do people still suffer from cancer? #bible-verse #greek #molops #His-will 
 
 > [!quote]+ 
->*“Some men brought to Him a paralytic, lying on a mat. When Jesus saw their faith, He said to the paralytic, ‘Take heart, son; your sins are forgiven.’ At this, some of the teachers of the law said to themselves, ‘This fellow is blaspheming!’”* [[Tapestry/Bible/Matthew/Matthew 9_2-3\|Matthew 9:2-3]]* #bible-verse 
+>*“Some men brought to Him a paralytic, lying on a mat. When Jesus saw their faith, He said to the paralytic, ‘Take heart, son; your sins are forgiven.’ At this, some of the teachers of the law said to themselves, ‘This fellow is blaspheming!’”* [[Matthew 9_2-3\|Matthew 9:2-3]]* #bible-verse 
 
 Jesus demonstrated two basic types of healing while He was on earth. The first was based upon forgiveness. We call this a “**Matthew 9**” type healing. When Jesus came to the paralytic, He saw that they had faith and then declared that the sins of the man were forgiven. This was quite a bold statement made by the man from Nazareth. The Jewish pharisees of the time were in shock, and although they said nothing, Jesus knew their thoughts. Jesus’ response that “*the Son of Man has authority on*   
 
@@ -746,13 +746,13 @@ Jesus demonstrated two basic types of healing while He was on earth. The first w
 *earth to forgive sins*” was equally as brazen. Let’s break down this type of healing into smaller parts for better understanding. #His-will #blood #jesus #healed #healing #forgiveness 
 
 > [!quote]+ 
->*“I tell you the truth, I have not found anyone in Israel with such great faith.” [[Tapestry/Bible/Matthew/Matthew 8_10\|Matthew 8:10]]* #bible-verse 
+>*“I tell you the truth, I have not found anyone in Israel with such great faith.” [[Matthew 8_10\|Matthew 8:10]]* #bible-verse 
 
-First, Jesus saw that they had faith. Almost every specific healing mentioned in the gospels references the presence of, or lack of faith in the people. There are two sides to faith, the first is __belief__ that comes from divine revelation. Jesus saw this kind of faith in the centurion. The man was a Gentile (hence Jesus’ reference to people coming from the east and west) and knew little about the God of Abraham, Isaac, and Jacob. Yet he knew the power of Jesus with divine insight. The Canaanite woman from Tyre and Sidon ([[Tapestry/Bible/Matthew/Matthew 15_21-28\|Matt. 15:21-28]]) had the same faith. She believed through divine revelation, Jesus recognized it, and her daughter was delivered. #bible-verse #faith #power #jesus 
+First, Jesus saw that they had faith. Almost every specific healing mentioned in the gospels references the presence of, or lack of faith in the people. There are two sides to faith, the first is __belief__ that comes from divine revelation. Jesus saw this kind of faith in the centurion. The man was a Gentile (hence Jesus’ reference to people coming from the east and west) and knew little about the God of Abraham, Isaac, and Jacob. Yet he knew the power of Jesus with divine insight. The Canaanite woman from Tyre and Sidon ([[Matthew 15_21-28\|Matt. 15:21-28]]) had the same faith. She believed through divine revelation, Jesus recognized it, and her daughter was delivered. #bible-verse #faith #power #jesus 
 
 The next side of faith is a __lack of deception__. In Matthew 9, Jesus saw that the paralytic had received revelation from the Lord as to the specific sin that caused him to be paralyzed and that he had a repentant heart. Many of us have sin in our lives that comes from our choices or the choices of our forefathers. The enemy does not want us to know about these and will deceive us to keep us from dealing with them. Either we have agreed with the enemy and hardened our hearts towards repentance, or we don’t know about them because they were the sins of our parents, grandparents, or great grandparents. Once Jesus saw this kind of faith, all that was left was for Him to forgive! #faith #revelation #heart #generational-sins #forgiveness 
 
-Thirdly, Jesus did not say that the Son of God had authority on earth to forgive sins, but the Son of Man. Filled with the Holy Spirit, Jesus was authorized to bring forgiveness to the paralytic. Some may ask, if there is no forgiveness without the shedding of Blood, how did Jesus do this? The Holy Spirit within Jesus is outside of time. Jesus was bringing the Will of the Father to earth as it is in heaven when He forgave this man before His Blood was shed! Hurling down the accuser is the function of the adult age of His Church, so Jesus saved this for when John’s book of *“what must soon take place” *([[Tapestry/Bible/Revelation/Revelation 1_1\|Rev. 1:1]]) was to be fulfilled. #bible-verse #son-of-man #His-will #blood-of-Jesus 
+Thirdly, Jesus did not say that the Son of God had authority on earth to forgive sins, but the Son of Man. Filled with the Holy Spirit, Jesus was authorized to bring forgiveness to the paralytic. Some may ask, if there is no forgiveness without the shedding of Blood, how did Jesus do this? The Holy Spirit within Jesus is outside of time. Jesus was bringing the Will of the Father to earth as it is in heaven when He forgave this man before His Blood was shed! Hurling down the accuser is the function of the adult age of His Church, so Jesus saved this for when John’s book of *“what must soon take place” *([[Revelation 1_1\|Rev. 1:1]]) was to be fulfilled. #bible-verse #son-of-man #His-will #blood-of-Jesus 
 
 ---
 <p style="text-align:center;">
@@ -786,7 +786,7 @@ When we stopped praying she began to make a fist out of her left hand and stare 
 ---
 
 > [!quote]+ 
->*was born blind?’ ‘Neither this man nor his parents sinned,’ said Jesus, ‘but this happened so that the work of God might be displayed in his life.’”  [[Tapestry/Bible/John/John 9_1-3\|John 9:1-3]]* #bible-verse 
+>*was born blind?’ ‘Neither this man nor his parents sinned,’ said Jesus, ‘but this happened so that the work of God might be displayed in his life.’”  [[John 9_1-3\|John 9:1-3]]* #bible-verse 
 
 The second type of healing has nothing to do with forgiveness. We call this a **John 9 **type healing. This type is a supernatural miracle that occurs so the work of God will be displayed in a person’s life. The disciples asked Jesus whose sin caused the illness not because of their mistaken theology, but because that was why everyone else they had seen healed was sick in the first place!
 
@@ -827,17 +827,17 @@ Both the lady with the painful knee, and the lady with the varicose vein were he
 ### KINSMAN-REDEEMERS
 
 > [!quote]+ 
->*"The LORD bless him!" Naomi said to her daughter-in-law. "He has not stopped showing his kindness to the living and the dead." She added, "That man is our close relative; he is one of our kinsman-redeemers. [[Tapestry/Bible/Ruth/Ruth 2_20\|Ruth 2:20]]* #bible-verse
+>*"The LORD bless him!" Naomi said to her daughter-in-law. "He has not stopped showing his kindness to the living and the dead." She added, "That man is our close relative; he is one of our kinsman-redeemers. [[Ruth 2_20\|Ruth 2:20]]* #bible-verse
 
 With the release of the authority to hurl down the accuser, the Church has been given a great gift from God. For thousands of years the human race has been paying the price for the sins of our forefathers. Modern scientists recognized this as hereditary or genetic illness (mental or physical) that is passed through the DNA from parent to child. In the Kingdom of God, we know that these are the result of sins that are punishable for three to four generations. #authority #accuser #generational-sins #kingdom #gift 
 
 > [!quote]+ 
->*“'The LORD is slow to anger, abounding in love and forgiving sin and rebellion. Yet he does not leave the guilty unpunished; he punishes the children for the sin of the fathers to the third and fourth generation.'” [[Tapestry/Bible/Numbers/Numbers 14_18\|Numbers 14:18]]* #bible-verse
+>*“'The LORD is slow to anger, abounding in love and forgiving sin and rebellion. Yet he does not leave the guilty unpunished; he punishes the children for the sin of the fathers to the third and fourth generation.'” [[Numbers 14_18\|Numbers 14:18]]* #bible-verse
 
 Generational sins, iniquities, and memories are passed down to children from their forefathers. The impact to these children can be devastating in the form of behavioral sins, physical illness, mental illness, and demonic oppression. The worst of these come from sins of defilement which include bloodshed, broken covenant, idolatry (witchcraft has the worst impact), and sexual immorality (incest has the worst impact). The children grow up and find themselves struggling with issues such as anger, fear, torment, lust, depression, and a laundry list of ailments. #generational-sins #defilement #broken-covenant #witchcraft #anger #fear #lust 
 
 > [!quote]+ 
->*“For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your forefathers, but with the precious blood of Christ, a lamb without blemish or defect.”* [[Tapestry/Bible/1 Peter/1 Peter 1_18-19\|1 Peter 1:18-19]]* #bible-verse
+>*“For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life handed down to you from your forefathers, but with the precious blood of Christ, a lamb without blemish or defect.”* [[1 Peter 1_18-19\|1 Peter 1:18-19]]* #bible-verse
 
 The Blood of Jesus brings redemption to the world to strip evil of its rights to manifest from these sins. When we forgive our forefathers by sprinkling them with the Blood of Jesus, they are purified and they are redeemed. So then are their children.  #covenant #redemption #blood #jesus #purified 
 
@@ -854,7 +854,7 @@ The Blood of Jesus brings redemption to the world to strip evil of its rights to
 When we speak out the word of this testimony, the accuser is hurled down and the legal rights are stripped.
 
 > [!quote]+ 
->*“No Ammonite or Moabite or any of his descendants may enter the assembly of the LORD, even down to the tenth generation.” [[Tapestry/Bible/Deuteronomy/Deuteronomy 23_3\|Deuteronomy 23:3]]* #bible-verse 
+>*“No Ammonite or Moabite or any of his descendants may enter the assembly of the LORD, even down to the tenth generation.” [[Deuteronomy 23_3\|Deuteronomy 23:3]]* #bible-verse 
 
 As with all Terraforming, the prayer is led by the Holy Spirit. We ask Him which generation of forefathers to start with and then go down from there to the person we are praying for. Under extreme cases we have started at the 20th generation, and found sins that gave rights to demons to afflict them. In a few cases we have prayed, “all the way back to Adam.” But with most cases, the Lord leads us to start at the fourth (4th) generation. The prayer essentially looks like this:  #terraforming #legal-right #holy-spirit #generational-sins #demons
 
@@ -879,14 +879,14 @@ Continue on to each generation. Note that the third (3rd) generation is their gr
 ### SOUL TIES
 
 > [!quote]+ 
->*“After David had finished talking with Saul, Jonathan became one in spirit with David, and he loved him as himself.”* [[Tapestry/Bible/1 Samuel/1 Samuel 18_1\|1 Samuel 18:1]]* #bible-verse
+>*“After David had finished talking with Saul, Jonathan became one in spirit with David, and he loved him as himself.”* [[1 Samuel 18_1\|1 Samuel 18:1]]* #bible-verse
 
 Many Christians today are familiar with the concept of a “soul tie” or the knitting of two souls together as a result of a love bond. Within the context of marriage, these are intended and beautiful. Parents can have healthy soul ties with their children, called “bonding.” For the most part, these are manifestations of the Love that God created between two people and should be honored. When soul ties result from sin (fornication, idolatry, manipulation, etc.), they can be very damaging. It is possible to see the sins of one person become a stronghold of another person due to an unhealthy soul tie.   #soul-tie #love #sin  #redemption #defilement #idolatry 
 
 The best way to break these is first to repent of your sin and forgive the other person involved with the soul tie. By hurling down the accuser with the Blood of the Lamb and the word of your testimony, you break the power of the tie so it can be undone. Next you return the other persons soul, washed with the Blood of Jesus. Equally, you call back your own soul, also washed with the Blood of Jesus. This last step is often overlooked and is critical to returning each person to the state of wholeness they were in before, and with the redemption of the Blood in full effect. #forgiveness  #accuser #soul-tie #blood-of-Jesus 
 
 > [!quote]+ 
->*“Drink water from your own cistern, running water from your own well. Should your springs overflow in the streets, your streams of water in the public squares? Let them be yours alone, never to be shared with strangers. May your fountain be blessed, and may you rejoice in the wife of your youth.* [[Tapestry/Bible/Proverbs/Proverbs 5_15-18\|Proverbs 5:15-18]]* #bible-verse
+>*“Drink water from your own cistern, running water from your own well. Should your springs overflow in the streets, your streams of water in the public squares? Let them be yours alone, never to be shared with strangers. May your fountain be blessed, and may you rejoice in the wife of your youth.* [[Proverbs 5_15-18\|Proverbs 5:15-18]]* #bible-verse
 
 
 

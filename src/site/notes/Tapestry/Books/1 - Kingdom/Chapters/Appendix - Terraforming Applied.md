@@ -719,7 +719,7 @@
 ## Appendix: Terraforming Applied
 
 > [!quote]+
-> “Join with others in following my example, brothers, and take note of those who live according to the pattern we gave you. ” [[Tapestry/Bible/Philippians/Philippians 3_17\|Philippians 3:17]] #bible-verse 
+> “Join with others in following my example, brothers, and take note of those who live according to the pattern we gave you. ” [[Philippians 3_17\|Philippians 3:17]] #bible-verse 
 
 The pattern of Terraforming gives us an outline of how the Lord wants us to pray in the adult age of the Church. It is never meant to be a formula of what to pray every time, but only to teach us ways to express what the Holy Spirit is revealing to us as we are led to the Will of the Father. When we read the Sample Prayers out loud in our prayer times with the Lord, He feeds our spirits with the words that are being expressed. Once this is a part of us, we can pray our own prayers without using the samples.
 
@@ -997,7 +997,7 @@ he has received all of the daily bread of healing needed for him to fight on his
 
 *“I bind and cast all demons that are interfering with the Will of the Father, calling rights to the sins of the 10th generation of my great-grandparents to the feet of Jesus, never to return.”*
 
-Repeat starting at STEP TWO for each generation, listening to the Holy Spirit for guidance on what specifically to forgive your family for. Notation: you are not judging these people - this is not an act of affecting their eternity. This is the act of forgiveness ([[Tapestry/Bible/John 20_21-23\|John 20:21-23]]), bringing forth the redemption of the Blood of Jesus to your forefathers ([[Tapestry/Bible/1 Peter/1 Peter 1_18-19\|1 Pet. 1:18-19]]) and casting down the accuser in your life and the life of your family members with the Blood of the Lamb and the word of your testimony ([[Tapestry/Bible/Revelation/Revelation 12_10-11\|Rev. 12:10-11]]). #prayer #authority #jesus #sample-prayer
+Repeat starting at STEP TWO for each generation, listening to the Holy Spirit for guidance on what specifically to forgive your family for. Notation: you are not judging these people - this is not an act of affecting their eternity. This is the act of forgiveness ([[John 20_21-23\|John 20:21-23]]), bringing forth the redemption of the Blood of Jesus to your forefathers ([[1 Peter 1_18-19\|1 Pet. 1:18-19]]) and casting down the accuser in your life and the life of your family members with the Blood of the Lamb and the word of your testimony ([[Revelation 12_10-11\|Rev. 12:10-11]]). #prayer #authority #jesus #sample-prayer
 
 ---
 

@@ -7,7 +7,7 @@
 ## Appendix: Terraforming Applied
 
 > [!quote]+
-> “Join with others in following my example, brothers, and take note of those who live according to the pattern we gave you. ” [[Tapestry/Bible/Philippians/Philippians 3_17\|Philippians 3:17]] #bible-verse 
+> “Join with others in following my example, brothers, and take note of those who live according to the pattern we gave you. ” [[Philippians 3_17\|Philippians 3:17]] #bible-verse 
 
 The pattern of Terraforming gives us an outline of how the Lord wants us to pray in the adult age of the Church. It is never meant to be a formula of what to pray every time, but only to teach us ways to express what the Holy Spirit is revealing to us as we are led to the Will of the Father. When we read the Sample Prayers out loud in our prayer times with the Lord, He feeds our spirits with the words that are being expressed. Once this is a part of us, we can pray our own prayers without using the samples.
 

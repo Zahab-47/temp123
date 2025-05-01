@@ -724,11 +724,11 @@
 ## Epilogue: The Diabolical Plans of Diablo
 
 > [!quote]+ 
->*“Eve was deceived by the serpent's cunning...” [[Tapestry/Bible/2 Corinthians/2 Corinthians 11_3a\|2 Corinthians 11:3a]]*  #bible-verse 
+>*“Eve was deceived by the serpent's cunning...” [[2 Corinthians 11_3a\|2 Corinthians 11:3a]]*  #bible-verse 
 
 > [!quote]+ 
 >*“...in order that satan might not outwit us. For we are not unaware of his schemes.”* *
->[[Tapestry/Bible/2 Corinthians/2 Corinthians 2_11\|2 Corinthians 2:11]]*  #bible-verse 
+>[[2 Corinthians 2_11\|2 Corinthians 2:11]]*  #bible-verse 
 
 Years ago we lived in Garland, Texas in a small, brick house. In that neighborhood, all garages were in the backyard, so you would have an alley that ran between all houses that shared the same backyard property lines. The alley was white concrete and would access all of the driveways that each house had. One day we were returning from an outing at night, we turned into our alley to get to our garage. I noticed that this night, the white, concrete alley was black.
 
@@ -753,14 +753,14 @@ It looks like a game of chess. Both players have a strategy, which is hidden fro
 ### The Rules
 
 > [!quote]+ 
->*“For the life of a creature is in the blood, and I have given it to you to make atonement for yourselves on the altar; it is the blood that makes atonement for one's life.” [[Tapestry/Bible/Leviticus/Leviticus 17_11\|Leviticus 17:11]]*  #bible-verse
+>*“For the life of a creature is in the blood, and I have given it to you to make atonement for yourselves on the altar; it is the blood that makes atonement for one's life.” [[Leviticus 17_11\|Leviticus 17:11]]*  #bible-verse
 
 For Love to be fully realized in creation, rules had to be put in place. These should not be confused with the Law given to Moses on Mount Sinai. These rules are older. Much older. They are parameters that preserve the conditions required for Love to exist. The Rules include, but are not limited to: #love #boundaries 
 
-1. The power of “creation and destruction on earth” comes from the choices of man, especially those spoken with the tongue, which must be made as an act of their freewill ([[Tapestry/Bible/Proverbs/Proverbs 18_21\|Proverbs 18:21]]).  #bible-verse
-2. The blessings of covenant come from God and are given as a result of righteous choices made by the person or the person’s forefathers (1000 generations - [[Tapestry/Bible/Deuteronomy/Deuteronomy 5_10\|Deuteronomy 5:10]]).  #bible-verse
-3. Torment and affliction come from satan and result from evil choices made by the person or the person’s forefathers (4 generations, revolving - [[Tapestry/Bible/Numbers/Numbers 14_18\|Numbers 14:18]]). Demons refer to this as a “legal right.”  #bible-verse
-4. Life is in the blood of all creatures, including man ([[Tapestry/Bible/Leviticus/Leviticus 17_11\|Leviticus 17:11]]).   #bible-verse
+1. The power of “creation and destruction on earth” comes from the choices of man, especially those spoken with the tongue, which must be made as an act of their freewill ([[Proverbs 18_21\|Proverbs 18:21]]).  #bible-verse
+2. The blessings of covenant come from God and are given as a result of righteous choices made by the person or the person’s forefathers (1000 generations - [[Deuteronomy 5_10\|Deuteronomy 5:10]]).  #bible-verse
+3. Torment and affliction come from satan and result from evil choices made by the person or the person’s forefathers (4 generations, revolving - [[Numbers 14_18\|Numbers 14:18]]). Demons refer to this as a “legal right.”  #bible-verse
+4. Life is in the blood of all creatures, including man ([[Leviticus 17_11\|Leviticus 17:11]]).   #bible-verse
 
 ---
 <p style="text-align:center;">
@@ -772,19 +772,19 @@ For Love to be fully realized in creation, rules had to be put in place. These s
 
 ---
 
-5. The choice of allegiance is demonstrated through the shedding of innocent blood. Examples: the atonement of sins and the sacrifices made to pagan gods. When humans consume blood, the Lord sets His face against them, and they belong to not- love. See [[Tapestry/Bible/Leviticus/Leviticus 17_10-12\|Leviticus 17:10-12]]. #bible-verse
+5. The choice of allegiance is demonstrated through the shedding of innocent blood. Examples: the atonement of sins and the sacrifices made to pagan gods. When humans consume blood, the Lord sets His face against them, and they belong to not- love. See [[Leviticus 17_10-12\|Leviticus 17:10-12]]. #bible-verse
 6. There was a very real opportunity for either Love or not-love to prevail (see below).
-7. In case of a dispute, God has the final say ([[Tapestry/Bible/Psalms/Psalm 105_7\|Psalm 105:7]]) #bible-verse
+7. In case of a dispute, God has the final say ([[Psalm 105_7\|Psalm 105:7]]) #bible-verse
 
  PLAYING TO WIN
 
 > [!quote]+ 
->*“You said, 'I will continue forever—the eternal queen!' “ [[Tapestry/Bible/Isaiah/Isaiah 47_7a\|Isaiah 47:7a]]* #bible-verse
+>*“You said, 'I will continue forever—the eternal queen!' “ [[Isaiah 47_7a\|Isaiah 47:7a]]* #bible-verse
 
 There has been a common belief that the enemy has admitted defeat, expects eternal torment, and is working for the sole purpose of taking as many of God’s children down the tube with him as he can. While there is some truth in this, it is more accurate to say that the evil one is still playing to win. He is trying to beat God at His own rules and keep his kingdom for his own and as far away from Jesus as possible. Is he deceived or does he know something that we don’t?
 
 > [!quote]+ 
->*“Perhaps you will succeed, perhaps you will cause terror.” [[Tapestry/Bible/Isaiah/Isaiah 47_12b\|Isaiah 47:12b]]*  #bible-verse
+>*“Perhaps you will succeed, perhaps you will cause terror.” [[Isaiah 47_12b\|Isaiah 47:12b]]*  #bible-verse
 
 God is not sarcastic. Creation has been designed under the premise that either Love or not-love can prevail. Just as humans had to be given free will and choice, so too did creation require the feasibility of either choice to be realized. In more simple terms, not-love has the opportunity to prevail. Now don’t get me wrong, I have read the end of the book just like you have and know that Love wins the war. But we have gone on believing that our job is to only win souls and not to defeat the enemy way too long. In truth, our job is both. #not-love #love #freewill #choice #souls 
 
@@ -803,19 +803,19 @@ Satan has an end game as well. He wants to use our words and our blood against u
 Others are more subtle and require revelation from the Holy Spirit. If he is successful in getting us to renounce the Lord, we are in reality proclaiming him to be king. When Jesus said, “It is finished” it did not mean “It is over.” Otherwise He would have taken the Jews and started the millennial kingdom 2,000 years ago. He did not because there is a job to do. We were created for a time such as this to bring the gospel of Jesus Christ and the Will of our Father on earth as it is in Heaven. We must defeat this enemy once and for all. We will do this by forgiving the human beings whose sins are empowering the kingdom of darkness with the Blood of Jesus and the word of our testimonies. #deception #blood #choice #revelation #holy-spirit #satan 
 
 > [!quote]+ 
->*“...on this rock I will build my church, and the gates of Hades will not overcome it.” [[Tapestry/Bible/Matthew/Matthew 16_18b\|Matthew 16:18b]]* #bible-verse
+>*“...on this rock I will build my church, and the gates of Hades will not overcome it.” [[Matthew 16_18b\|Matthew 16:18b]]* #bible-verse
 
 Jesus prophesied the end correctly. We will overcome evil as we walk in our true identities and destinies as sons and daughters of the King. If we were not to, evil (not-love) wins. This word is like ripping the pacifier and security blanket away from a baby. We are feeling cold and angry at the revelation that we must fight this war. It wakes us up. This is exactly what the world needs right now to realize our birthright. #jesus #His-will #father #forgiveness #identity #sons-and-daughters #god #birthright 
 
 ### Time
 
 > [!quote]+ 
->*“For a thousand years in your sight are like a day that has just gone by, or like a watch in the night.” [[Tapestry/Bible/Psalms/Psalm 90_4\|Psalm 90:4]]* #bible-verse 
+>*“For a thousand years in your sight are like a day that has just gone by, or like a watch in the night.” [[Psalm 90_4\|Psalm 90:4]]* #bible-verse 
 
 Time is a concept that we live in, but is within God, that is, He is outside of time. Ultimately, this means that God knows the end, knows how we will choose, and has the ability to focus His Blessings on those areas that have the maximum impact for His desired results. The devil is at an immeasurable disadvantage, while God has the ultimate upper hand. Evil is not yet fully defeated and still has the ability to win this, but will not. 
 
 > [!quote]+ 
->*“But do not forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day.” [[Tapestry/Bible/2 Peter/2 Peter 3_8\|2 Peter 3:8]]* #bible-verse 
+>*“But do not forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day.” [[2 Peter 3_8\|2 Peter 3:8]]* #bible-verse 
 
 ---
 <p style="text-align:center;">
@@ -830,14 +830,14 @@ Time is a concept that we live in, but is within God, that is, He is outside of 
 The confidence of the Lord is in us. He knows that with His Grace, Mercy, and the power of Christ within us, we will rise up and become all that we were created to be. He knows that the gates of hades will not overcome us. God believes in us because He created us. He knows that we will complete this picture. It is time for us to respond to His calling with the word “yes” and to get the job done. The evil one has been working around the clock while we’ve been sleeping. There is plenty to do, and to undo. #confidence #grace #jesus #gate 
 
 > [!quote]+ 
->*“I will take vengeance; I will spare no one. Our Redeemer—the LORD Almighty is his name—is the Holy One of Israel.”* *[[Tapestry/Bible/Isaiah/Isaiah 47_3b-4\|Isaiah 47:3b-4]]* #bible-verse 
+>*“I will take vengeance; I will spare no one. Our Redeemer—the LORD Almighty is his name—is the Holy One of Israel.”* *[[Isaiah 47_3b-4\|Isaiah 47:3b-4]]* #bible-verse 
 
 ### Pagan Religion
 
 > [!quote]+ 
->*“...the sacrifices of pagans are offered to demons, not to God, and I do not want you to be participants with demons.”* *[[Tapestry/Bible/1 Corinthians/1 Corinthians 10_20\|1 Corinthians 10:20]]* #bible-verse 
+>*“...the sacrifices of pagans are offered to demons, not to God, and I do not want you to be participants with demons.”* *[[1 Corinthians 10_20\|1 Corinthians 10:20]]* #bible-verse 
 
-To understand the plot of the enemy, we can look in the bible. There are many descriptions of what the evil one has done, and what he will do in the future, found in the words of the Old Testament prophets. Another prime place to look is at pagan religions. Why you ask? Because they are a hiding place for many demons disguised as gods. We can solve for their role in these religions with this simple equation deriving from [[Tapestry/Bible/1 Corinthians/1 Corinthians 10_20\|1 Corinthians 10:20]]:
+To understand the plot of the enemy, we can look in the bible. There are many descriptions of what the evil one has done, and what he will do in the future, found in the words of the Old Testament prophets. Another prime place to look is at pagan religions. Why you ask? Because they are a hiding place for many demons disguised as gods. We can solve for their role in these religions with this simple equation deriving from [[1 Corinthians 10_20\|1 Corinthians 10:20]]:
 
 sacrifices + pagan gods	=	sacrifices + demons
 -sacrifices	-sacrifices pagan gods = demons
@@ -857,11 +857,11 @@ Satan’s first step was to fabricate his own religions. He did this with the he
 ### Heroes of Old, Men of Renown
 
 > [!quote]+ 
->*When men began to increase in number on the earth and daughters were born to them, the sons of God *[angels] *saw that the daughters of men were beautiful, and they married any of them they chose. The Nephilim were on the earth in those days— and also afterward—when the sons of God went to the daughters of men and had children by them. They were the heroes of old, men of renown.” [[Tapestry/Bible/Genesis/Genesis 6_1-2,4\|Genesis 6:1-2,4]]*  #bible-verse 
+>*When men began to increase in number on the earth and daughters were born to them, the sons of God *[angels] *saw that the daughters of men were beautiful, and they married any of them they chose. The Nephilim were on the earth in those days— and also afterward—when the sons of God went to the daughters of men and had children by them. They were the heroes of old, men of renown.” [[Genesis 6_1-2,4\|Genesis 6:1-2,4]]*  #bible-verse 
 
-It is a tough pill to swallow, but the first of many. Angels can appear as humans ([[Tapestry/Bible/Hebrews/Hebrews 13_2\|Heb. 13:2]]). Fallen angels can as well. This could have been through the physical manifestation of demons in a human-like form, or the “possessed” state (for a lack of a better term) of a human with a demon inside of him. Either case, the rights of this kind of manifestation came from the rituals and practices of pagan religions. We know that this includes human and animal sacrifices, sexual immorality, spells, incantations, potions, curses, and oaths / vows / covenants of evil. #bible-verse #angel #demon #religion #broken-covenant #defilement #witchcraft 
+It is a tough pill to swallow, but the first of many. Angels can appear as humans ([[Hebrews 13_2\|Heb. 13:2]]). Fallen angels can as well. This could have been through the physical manifestation of demons in a human-like form, or the “possessed” state (for a lack of a better term) of a human with a demon inside of him. Either case, the rights of this kind of manifestation came from the rituals and practices of pagan religions. We know that this includes human and animal sacrifices, sexual immorality, spells, incantations, potions, curses, and oaths / vows / covenants of evil. #bible-verse #angel #demon #religion #broken-covenant #defilement #witchcraft 
 
-Once these had been performed, the demons have obtained allegiance from those humans and are empowered from the gifts and calling of God, which are irrevocable ([[Tapestry/Bible/Romans/Romans 11_29\|Rom. 11:29]]). The ability to create, choose, and judge as God does was used against them for demonic purposes, elevating the pagan religions with power. The enemy then used this to get willing and involuntary sex partners to create children that were perversions of God’s original design. #bible-verse #demon #religion 
+Once these had been performed, the demons have obtained allegiance from those humans and are empowered from the gifts and calling of God, which are irrevocable ([[Romans 11_29\|Rom. 11:29]]). The ability to create, choose, and judge as God does was used against them for demonic purposes, elevating the pagan religions with power. The enemy then used this to get willing and involuntary sex partners to create children that were perversions of God’s original design. #bible-verse #demon #religion 
 
 The women were targeted so that the offspring would be born into power (men of renown) and with military authority (heroes of old). In other words, government. This way they can bring the pagan religion to the masses en force, whether the recipients are voluntary or not. Entire cultures of civilization were overrun this way. It got so bad that the Lord had to destroy every living creature on the planet, except Noah, his family, and the animals that God brought into the ark.  #covenants #gifts #calling #god #authority 
 
@@ -878,11 +878,11 @@ The women were targeted so that the offspring would be born into power (men of r
 ### Solomon
 
 > [!quote]+ 
->*“King Solomon, however, loved many foreign women besides Pharaoh's daughter—Moabites, Ammonites, Edomites, Sidonians and Hittites. They were from nations about which the LORD had told the Israelites, ‘You must not intermarry with them, because they will surely turn your hearts after their gods.’ Nevertheless, Solomon held fast to them in love. He had seven hundred wives of royal birth and three hundred concubines, and his wives led him astray. As Solomon grew old, his wives turned his heart after other gods, and his heart was not fully devoted to the LORD his God, as the heart of David his father had been. He followed Ashtoreth the goddess of the Sidonians, and Molech the detestable god of the Ammonites. So Solomon did evil in the eyes of the LORD; he did not follow the LORD completely, as David his father had done.” [[Tapestry/Bible/1 Kings/1 Kings 11_1-6\|1 Kings 11:1-6]]* #bible-verse
+>*“King Solomon, however, loved many foreign women besides Pharaoh's daughter—Moabites, Ammonites, Edomites, Sidonians and Hittites. They were from nations about which the LORD had told the Israelites, ‘You must not intermarry with them, because they will surely turn your hearts after their gods.’ Nevertheless, Solomon held fast to them in love. He had seven hundred wives of royal birth and three hundred concubines, and his wives led him astray. As Solomon grew old, his wives turned his heart after other gods, and his heart was not fully devoted to the LORD his God, as the heart of David his father had been. He followed Ashtoreth the goddess of the Sidonians, and Molech the detestable god of the Ammonites. So Solomon did evil in the eyes of the LORD; he did not follow the LORD completely, as David his father had done.” [[1 Kings 11_1-6\|1 Kings 11:1-6]]* #bible-verse
 
-Solomon was a mighty man of God. He wrote the book of Proverbs (in addition to Ecclesiastes, the Song of Solomon, and two Psalms), which many regard as a central repository for daily wisdom in the bible. This is not surprising given Solomon’s request of wisdom ([[Tapestry/Bible/1 Kings/1 Kings 3_9\|1 Kings 3:9]]), and the Lord’s reaction of being pleased with the choice he made. Unquestionably, Solomon is one of the good guys. His descendants include our Lord Jesus. #bible-verse
+Solomon was a mighty man of God. He wrote the book of Proverbs (in addition to Ecclesiastes, the Song of Solomon, and two Psalms), which many regard as a central repository for daily wisdom in the bible. This is not surprising given Solomon’s request of wisdom ([[1 Kings 3_9\|1 Kings 3:9]]), and the Lord’s reaction of being pleased with the choice he made. Unquestionably, Solomon is one of the good guys. His descendants include our Lord Jesus. #bible-verse
 
-Yet Solomon’s legacy was greatly tainted. His lust for women was his undoing. This generational sin against [[Tapestry/Bible/Deuteronomy/Deuteronomy 17_17\|Deut. 17:17]] came from David, but it was Solomon whose heart was led astray to other gods, causing him to break his covenant with the Lord ([[Tapestry/Bible/1 Kings/1 Kings 9_6-7\|1 Kings 9:6-7]]). When this happened, Solomon released evil to the people of God for many generations. There are only a handful of examples of Solomon’s descendants who as rulers of the divided kingdom did what was pleasing in the sight of the Lord. #bible-verse #wisdom #lust #generational-sins #heart  
+Yet Solomon’s legacy was greatly tainted. His lust for women was his undoing. This generational sin against [[Deuteronomy 17_17\|Deut. 17:17]] came from David, but it was Solomon whose heart was led astray to other gods, causing him to break his covenant with the Lord ([[1 Kings 9_6-7\|1 Kings 9:6-7]]). When this happened, Solomon released evil to the people of God for many generations. There are only a handful of examples of Solomon’s descendants who as rulers of the divided kingdom did what was pleasing in the sight of the Lord. #bible-verse #wisdom #lust #generational-sins #heart  
 
 The results of this are shocking. The breaking of the covenant of the Lord by his chosen people and their rulers opened up much in the spirit realm for the kingdom of darkness. God’s people were sent into Babylonian captivity, where they were stripped of all that they had been given by God as a blessing, and all that
 
@@ -902,7 +902,7 @@ It is also interesting to note that technology (human self sufficiency through e
 
 Conversely, the middle ages or the “Age of Faith” reflecting the era following the nationalization of Christianity in Rome during the 300’s A.D. was far less advanced. During this 1,000 to 1,300 year period civilization moved out of the cities and into more rural areas where church leaders took over the role of education. Math and science were replaced with biblical studies (imagine that!). Of course, the church was plagued by shortcomings such as the intermingling of Christian and pagan practices, yet it seemed that society was far less concerned about short-term convenience and more interested in eternity. Go figure.
 
-To be fair to Solomon, the Israelites had history of falling away from the Lord even after His immense blessings had enriched their lives. After the death of Joshua and after that generation had all died, the Israelites began worshipping the baals and the ashtoreths ([[Tapestry/Bible/Judges/Judges 2_3\|Judges 2:3]]). These demonic religions were known for their practices of animal and sometimes human sacrifices, homosexuality, and prostitution. This is a fair warning to us all of the constant effort that demons put towards distracting men and women of God from passing on the Truth of the Lord to their children. #bible-verse  #faith #church #religions #demons #truth #sons-and-daughters 
+To be fair to Solomon, the Israelites had history of falling away from the Lord even after His immense blessings had enriched their lives. After the death of Joshua and after that generation had all died, the Israelites began worshipping the baals and the ashtoreths ([[Judges 2_3\|Judges 2:3]]). These demonic religions were known for their practices of animal and sometimes human sacrifices, homosexuality, and prostitution. This is a fair warning to us all of the constant effort that demons put towards distracting men and women of God from passing on the Truth of the Lord to their children. #bible-verse  #faith #church #religions #demons #truth #sons-and-daughters 
 
 ### Abomination
 
@@ -937,16 +937,16 @@ Today, many movies have discussed the idea of the ancient civilizations such as 
 ---
 
 > [!quote]+ 
->*“As for you, you were dead in your transgressions and sins, in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient.” [[Tapestry/Bible/Ephesians/Ephesians 2_1-2\|Ephesians 2:1-2]]* #bible-verse 
+>*“As for you, you were dead in your transgressions and sins, in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient.” [[Ephesians 2_1-2\|Ephesians 2:1-2]]* #bible-verse 
 
-Satan’s kingdom is not outer space, it is of the air. The universe is an endless expanse of galaxies, solar systems, planets, and moon, all created for the purpose of lighting the earth, governing the day and the night, and to separate light from darkness ([[Tapestry/Bible/Genesis/Genesis 1_16-17\|Gen. 1:16-17]]). The stars were set in the sky for us. They do not belong to the kingdom of darkness. We are bringing the redemption of the Lord to all of creation. Every last bit. #bible-verse 
+Satan’s kingdom is not outer space, it is of the air. The universe is an endless expanse of galaxies, solar systems, planets, and moon, all created for the purpose of lighting the earth, governing the day and the night, and to separate light from darkness ([[Genesis 1_16-17\|Gen. 1:16-17]]). The stars were set in the sky for us. They do not belong to the kingdom of darkness. We are bringing the redemption of the Lord to all of creation. Every last bit. #bible-verse 
 
  #blood #gods #satan #darkness #kingdom #redemption #god 
 
 ### End Times
 
 > [!quote]+ 
->*“As it was in the days of Noah, so it will be at the coming of the Son of Man.” [[Tapestry/Bible/Matthew/Matthew 24_37\|Matthew 24:37]]* #bible-verse 
+>*“As it was in the days of Noah, so it will be at the coming of the Son of Man.” [[Matthew 24_37\|Matthew 24:37]]* #bible-verse 
 (Greek: wsper (hoce’-per) or, just as / exactly as)  #greek
 
 The end times are now. Satan is working full-time to shut down the victory of Jesus at the cross and to establish his kingdom forever. His plans are truly diabolical. Exactly as it was in the days of Noah, so will it be at the coming of Jesus. What was it like in the days of Noah? Fallen angels were appearing as humans and / or possessing humans and having children with them. These children infiltrated governments and brought their demonic witchcraft into the lives of the citizens, voluntarily or not. So is the plan today. #satan #jesus #kingdom #angels #demons #witchcraft 
@@ -966,7 +966,7 @@ When we see these things happening around us, we must remember our authority as 
 I’ve read the end of the book. We win this war. All that is left is for us to wake up, walk in our true identities as sons and daughters of the King, and live out our birthrights / calling / purpose / destiny to the fullest of our abilities. That is, to yield to Christ within us by always responding to the Lord’s call with the answer “yes.” He called us to love. We manifest that when we forgive as Jesus did. #authority #royal-priest #sin #forgive #blood #jesus #accuser #testimony #revelation #angels #demons #god #identity #sons-and-daughters #birthright #calling #purpose #love 
 
 > [!quote]+ 
->*“For then there will be great distress, unequaled from the beginning of the world until now—and never to be equaled again. If those days had not been cut short, no one would survive, but for the sake of the elect those days will be shortened.” [[Tapestry/Bible/Matthew/Matthew 24_21-22\|Matthew 24:21-22]]*  #bible-verse
+>*“For then there will be great distress, unequaled from the beginning of the world until now—and never to be equaled again. If those days had not been cut short, no one would survive, but for the sake of the elect those days will be shortened.” [[Matthew 24_21-22\|Matthew 24:21-22]]*  #bible-verse
 
 
 ### The Bad Guys
@@ -1002,9 +1002,9 @@ It is time for the men and women of God to defeat evil by rejecting the lies and
 ##### Two Scenarios
 
 > [!quote]+ 
->*“But suppose that servant is wicked and says to himself, 'My master is staying away a long time,' and he then begins to beat his fellow servants and to eat and drink with drunkards. The master of that servant will come on a day when he does not expect him and at an hour he is not aware of.”* [[Tapestry/Bible/Matthew/Matthew 24_48-50\|Matthew 24:48-50]]* #bible-verse
+>*“But suppose that servant is wicked and says to himself, 'My master is staying away a long time,' and he then begins to beat his fellow servants and to eat and drink with drunkards. The master of that servant will come on a day when he does not expect him and at an hour he is not aware of.”* [[Matthew 24_48-50\|Matthew 24:48-50]]* #bible-verse
 
-There are two scenarios for the Kingdom of God. The first is a bailout. The Christians fail and the enemy dominates the earth. To establish His Kingdom, Jesus returns in a rescue mission to free His fallen citizens and chain the enemy. The virgins let their lamps go out ([[Tapestry/Bible/Matthew/Matthew 25_7-8\|Matthew 25:7-8]]). In this horrific scene, billions of people are lost to the fires of hell and the few Christians that survive do not get the privilege of seeing their true identity and 
+There are two scenarios for the Kingdom of God. The first is a bailout. The Christians fail and the enemy dominates the earth. To establish His Kingdom, Jesus returns in a rescue mission to free His fallen citizens and chain the enemy. The virgins let their lamps go out ([[Matthew 25_7-8\|Matthew 25:7-8]]). In this horrific scene, billions of people are lost to the fires of hell and the few Christians that survive do not get the privilege of seeing their true identity and 
 
 ---
 <p style="text-align:center;">
@@ -1018,14 +1018,14 @@ There are two scenarios for the Kingdom of God. The first is a bailout. The Chri
 
 calling manifest and be released. We never get to do what we were created to do. #bible-verse  #jesus #kingdom #rescue 
 
-In the second scenario, we bring love to the peoples of the earth and fully defeat the demonic hordes, placing them under our feet. We neutralize all power that evil uses to tempt people towards the irrational choice of death and thereby establish our upper hand. What do we do with the remaining people that have not chosen Christ as their savior? Do we strip them of their choices, freedom, or judgments? No. We love them as we love ourselves. We demonstrate to them that the banqueting table of the Lord is sweet, while sin is bitter to the taste. The virgin’s lamps were burning when the bridegroom came for them ([[Tapestry/Bible/Matthew/Matthew 25_10\|Matt. 25:10]]). #bible-verse #love #evil #choice #freedom #judgment #bride #groom
+In the second scenario, we bring love to the peoples of the earth and fully defeat the demonic hordes, placing them under our feet. We neutralize all power that evil uses to tempt people towards the irrational choice of death and thereby establish our upper hand. What do we do with the remaining people that have not chosen Christ as their savior? Do we strip them of their choices, freedom, or judgments? No. We love them as we love ourselves. We demonstrate to them that the banqueting table of the Lord is sweet, while sin is bitter to the taste. The virgin’s lamps were burning when the bridegroom came for them ([[Matthew 25_10\|Matt. 25:10]]). #bible-verse #love #evil #choice #freedom #judgment #bride #groom
 
 There is a massive gap between these two scenarios. In the second, more preferable one, we get the Bride ready for her Groom. The Kingdom is established and Jesus can come to a far different Earth than in the first scenario. We can set up His throne, and welcome Him here saying, “Jesus, this is your seat over here. You see the one with your Name on it, ‘JESUS’ in big letters? That is the one. Have a seat and rule Your Kingdom. It is ready for You!” #bride #groom #kingdom #jesus
 
 I like that scenario. That is the one I choose. We will accomplish this by Terraforming the Earth. When the Lord reveals the hidden sins in the Light of His Presence and we forgive the trespassers and cast down the accuser, we have the ability to humble the enemy under our feet and ready the Kingdom of God on Earth. That is our calling, and that is exactly what we intend to do. #terraforming #hidden #sin #light #jesus #forgiveness #accuser #calling 
 
 > [!quote]+ 
->*“Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time? It will be good for that servant whose master finds him doing so when he returns.” [[Tapestry/Bible/Matthew/Matthew 24_45-46\|Matthew 24:45-46]]* #bible-verse
+>*“Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time? It will be good for that servant whose master finds him doing so when he returns.” [[Matthew 24_45-46\|Matthew 24:45-46]]* #bible-verse
  
 
 ---

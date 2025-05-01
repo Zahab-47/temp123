@@ -721,9 +721,9 @@
 ### Introduction
 
 > [!quote]+
-> *“I tell you the truth, anyone who has faith in me will do what I have been doing. He will do even greater things than these, because I am going to the Father.” [[Tapestry/Bible/John/John 14_12\|John 14:12]]* #bible-verse 
+> *“I tell you the truth, anyone who has faith in me will do what I have been doing. He will do even greater things than these, because I am going to the Father.” [[John 14_12\|John 14:12]]* #bible-verse 
 > 
-> *“We do, however, speak a message of wisdom among the mature, but not the wisdom of this age or of the rulers of this age, who are coming to nothing. No, we speak of God's secret wisdom, a wisdom that has been hidden and that God destined for our glory before time began.” [[Tapestry/Bible/1 Corinthians/1 Corinthians 2_6-7\|1 Corinthians 2:6-7]]* #bible-verse
+> *“We do, however, speak a message of wisdom among the mature, but not the wisdom of this age or of the rulers of this age, who are coming to nothing. No, we speak of God's secret wisdom, a wisdom that has been hidden and that God destined for our glory before time began.” [[1 Corinthians 2_6-7\|1 Corinthians 2:6-7]]* #bible-verse
 
 This is a very exciting time that we live in. All of creation has been groaning for this time since the beginning. Our forefathers dreamed of doing what we will do. This is the generation that seeks the face of God and will stand in the Holy Place of His Presence. In this generation, we do not love our lives even unto death. Like all previous generations, we have been irrevocably called by God, but unlike all other generations, we have answered “yes” and then done what was asked of us. #expectant #relationship #activation #maturity 
 
