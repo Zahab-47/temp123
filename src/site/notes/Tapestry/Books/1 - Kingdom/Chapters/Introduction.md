@@ -22,7 +22,7 @@
 ##### Table of Contents
 
 
->[!example]- ###### [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 0 - "What is Terraforming?"#What is Terraforming?\|What is Terraforming?]]
+>[!example]- ###### [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 0 - What is Terraforming?#What is Terraforming?\|What is Terraforming?]]
 
 >[!example]- ###### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|Introduction]]
 
@@ -710,7 +710,7 @@
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 0 - "What is Terraforming?"#What is Terraforming?\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1 Creation\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 0 - What is Terraforming?#What is Terraforming?\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1 Creation\|Next ►]] 
 
 ---
 
@@ -753,4 +753,4 @@ Here is the exciting part. If the Lord sends us to prepare for Him, doesn’t th
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 0 - "What is Terraforming?"#What is Terraforming?\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1 Creation\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 0 - What is Terraforming?#What is Terraforming?\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1 Creation\|Next ►]] 

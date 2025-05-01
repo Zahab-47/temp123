@@ -6,7 +6,7 @@
 ##### Table of Contents
 
 
->[!example] ###### [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 0 - "What is Terraforming?"#What is Terraforming?\|What is Terraforming?]]
+>[!example] ###### [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 0 - What is Terraforming?#What is Terraforming?\|What is Terraforming?]]
 
 >[!example] ###### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|Introduction]]
 
