@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/books/1-kingdom/navigator/kingdom-table-of-contents-1/","tags":["book/terraforming/kingdom"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents 1/","tags":["book/terraforming/kingdom"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 

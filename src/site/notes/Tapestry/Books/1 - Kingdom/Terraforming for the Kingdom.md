@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/books/1-kingdom/terraforming-for-the-kingdom/","tags":["book/terraforming/kingdom","complete-book"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom/","tags":["book/terraforming/kingdom","complete-book"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 

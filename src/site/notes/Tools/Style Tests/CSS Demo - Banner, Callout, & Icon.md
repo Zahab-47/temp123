@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tools/style-tests/css-demo-banner-callout-and-icon/"}
+{"dg-publish":true,"permalink":"/Tools/Style Tests/CSS Demo - Banner, Callout, & Icon/"}
 ---
 
 ![[patterned-september-18-2020-blog-featured-image.jpg##bannerimg]]
@@ -18,7 +18,7 @@
 
 ### How to Use
 
-https://github.com/KuiyueRO/Obsidian-Miner/blob/main/md/MinerBanner.md#how-to-use
+https://github.com/KuiyueRO/Obsidian-Miner/blob/main/md/MinerBanner#how-to-use
 
 ```
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/books/4-res-toration-raw-text/","tags":["book/terraforming/kingdom","complete-book"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Books/4 - RESToration (Raw Text)/","tags":["book/terraforming/kingdom","complete-book"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 

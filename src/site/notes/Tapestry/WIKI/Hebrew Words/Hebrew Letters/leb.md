@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/wiki/hebrew-words/hebrew-letters/leb/","title":"leb","tags":["hebrew/word","covenants/names"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/WIKI/Hebrew Words/Hebrew Letters/leb/","title":"leb","tags":["hebrew/word","covenants/names"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 

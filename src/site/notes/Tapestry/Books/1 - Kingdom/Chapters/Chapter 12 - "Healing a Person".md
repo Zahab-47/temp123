@@ -32,7 +32,6 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
 >
 
-> &nbsp;
 >
 >[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Love Defined\|Love Defined]]
 >
@@ -62,7 +61,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Chapter 2: The Kingdom\|Chapter 2: The Kingdom]]
 >
 
-> &nbsp;
+> 
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Responsible\|Responsible]]
 >
@@ -88,7 +87,7 @@
 
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 3: Definitions\|Chapter 3: Definitions]]
 >
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#His Presence\|His Presence]]
 >
@@ -117,7 +116,7 @@
 
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 4: The Light of Jesus\|Chapter 4: The Light of Jesus]]
 >
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Revelation\|Revelation]]
 >
@@ -149,7 +148,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 5: The Blood of Jesus\|Chapter 5: The Blood of Jesus]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Sin\|Sin]]
 >
@@ -178,7 +177,6 @@
 
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 6: Fully Forgiving\|Chapter 6: Fully Forgiving]]
 >
-> &nbsp;
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Forgiving Anyone\|Forgiving Anyone]]
 >
@@ -200,7 +198,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 7: The Authority of Jesus\|Chapter 7: The Authority of Jesus]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Strongholds of Darkness\|Strongholds of Darkness]]
 >
@@ -226,7 +224,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 8: Upper Hand\|Chapter 8: Upper Hand]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Legal Matters\|Legal Matters]]
 >
@@ -252,7 +250,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 9: Deliverance\|Chapter 9: Deliverance]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Character\|Character]]
 >
@@ -290,7 +288,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 10: Adulthood\|Chapter 10: Adulthood]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Two Houses\|Two Houses]]
 >
@@ -316,7 +314,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 11: The Commission\|Chapter 11: The Commission]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Three Types of Authority\|Three Types of Authority]]
 >
@@ -338,7 +336,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 12: Healing a Person\|Chapter 12: Healing a Person]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Kinsman-Redeemers\|Kinsman-Redeemers]]
 >
@@ -360,7 +358,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 13: The Final Frontier\|Chapter 13: The Final Frontier]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Predestination\|Predestination]]
 >
@@ -390,7 +388,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 14: Bread Crumbs\|Chapter 14: Bread Crumbs]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Hebrew\|Hebrew]]
 >
@@ -412,7 +410,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 15: The Last Battle\|Chapter 15: The Last Battle]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Splinter Souls\|Splinter Souls]]
 >
@@ -446,7 +444,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 16: His Image\|Chapter 16: His Image]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Stephen\|Stephen]]
 >
@@ -464,7 +462,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 17: One New Man\|Chapter 17: One New Man]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Brothers\|Brothers]]
 >
@@ -482,7 +480,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 18: Dismantling\|Chapter 18: Dismantling]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Land\|Land]]
 >
@@ -536,7 +534,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 19: Restoring Land\|Chapter 19: Restoring Land]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Defilement\|Defilement]]
 >
@@ -565,7 +563,7 @@
 
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 20: Inheritance\|Chapter 20: Inheritance]]
 >
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Calling\|Calling]]
 >
@@ -595,7 +593,6 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Epilogue: The Diabolical Plans of Diablo\|Epilogue: The Diabolical Plans of Diablo]]
 >
 
-> &nbsp;
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#The Rules\|The Rules]]
 >
@@ -645,7 +642,7 @@
 >[!example]- ######     [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Appendix: Terraforming Applied\|Appendix: Terraforming Applied]]
 >
 
-> &nbsp;
+
 >
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Sample Prayer: Person\|Sample Prayer: Person]]
 >

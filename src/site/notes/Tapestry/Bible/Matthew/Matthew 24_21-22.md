@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/bible/matthew/matthew-24-21-22/","title":"Matthew 24:21-22","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Bible/Matthew/Matthew 24_21-22/","title":"Matthew 24:21-22","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
 ---
 
 For then there will be great distress, unequaled from the beginning of the world until now and never to be equaled again.

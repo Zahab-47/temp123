@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/constellations/living-water-aquarius/","title":"Living Water (Aquarius)","tags":["covenants/constellations","mazzarot"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Constellations/Living Water (Aquarius)/","title":"Living Water (Aquarius)","tags":["covenants/constellations","mazzarot"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

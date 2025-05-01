@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/hub-pages/hub-colors/","tags":["hub"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Hub Pages/HUB - COLORS/","tags":["hub"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 

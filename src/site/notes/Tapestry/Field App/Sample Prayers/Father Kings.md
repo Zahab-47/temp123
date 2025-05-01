@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/sample-prayers/father-kings/","title":"Father Kings","tags":["application/prayers","prayers"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Sample Prayers/Father Kings/","title":"Father Kings","tags":["application/prayers","prayers"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 

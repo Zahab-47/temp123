@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tapestry/field-app/sample-prayers/prayer-for-forgiveness/","title":"Prayer for Forgiveness","tags":["application/prayers"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Field App/Sample Prayers/Prayer for Forgiveness/","title":"Prayer for Forgiveness","tags":["application/prayers"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 > [!infobox-center] 
