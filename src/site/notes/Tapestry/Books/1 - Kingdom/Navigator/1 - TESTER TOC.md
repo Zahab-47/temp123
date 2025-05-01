@@ -12,10 +12,11 @@
 
 >[!example]- ###### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|Introduction]]
 
->[!example]+ ####     [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
+>[!example]+ 
 >
+>#### [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
 >
->[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Love Defined\|Love Defined]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Love Defined\|Chapter 1 - "Creation"#Love Defined]]
 >[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Offspring Defined\|Offspring Defined]]
 >[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Heaven and Hell\|Heaven and Hell]]
 >[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Fallibility\|Fallibility]]
