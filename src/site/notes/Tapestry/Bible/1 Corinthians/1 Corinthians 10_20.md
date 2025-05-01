@@ -1,8 +1,0 @@
----
-{"dg-publish":true,"permalink":"/Tapestry/Bible/1 Corinthians/1 Corinthians 10_20/","title":"1 Corinthians 10:20","hide":true,"tags":["bible-verse","bible-verse"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true}
----
-
-No, but the sacrifices of pagans are offered to demons, not to God, and I do not want you to be participants with demons.
-
----
-*New International Version (NIV)*
