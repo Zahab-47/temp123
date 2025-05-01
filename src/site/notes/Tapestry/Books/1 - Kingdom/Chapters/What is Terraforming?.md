@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Chapters/What is Terraforming?/","title":"What is Terraforming?","tags":["book-chapter"],"dgHomeLink":true,"dgEnableSearch":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Chapters/What is Terraforming?/"}
 ---
 
 
