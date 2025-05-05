@@ -26,7 +26,7 @@
 ##### Table of Contents
 
 
->[!example]- ###### [[Tapestry/Books/1 - Kingdom/Chapters/TESTING THIS#What is Terraforming?\|What is Terraforming?]]
+>[!example]- ###### [[Tapestry/Books/1 - Kingdom/Chapters/What is Terraforming#What is Terraforming?\|What is Terraforming?]]
 
 >[!example]- ###### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|Introduction]]
 
