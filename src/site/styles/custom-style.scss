@@ -31,3 +31,24 @@ h2::before, h3::before, h4::before, h5::before, h6::before {
 .collapsed::before {
   transform: rotate(90deg);
 }
+
+/* QUOTE CALLOUT FORMATTING */
+
+/* Remove the quote callout box title */
+.callout[data-callout=quote] .callout-title,
+.callout[data-callout=cite] .callout-title {
+  display: none;
+}
+
+/* Center and italicize the text in the quote callout box */
+.callout[data-callout=quote] .callout-content,
+.callout[data-callout=cite] .callout-content {
+  text-align: center;
+  font-style: italic;
+}
+
+/* Make background transparent for quote callout box */
+.callout[data-callout=quote],
+.callout[data-callout=cite], {
+  background-color: transparent;
+}
