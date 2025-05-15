@@ -1,4 +1,7 @@
 /* make all headings clickable and show a ▶ toggle */
+
+/* 
+
 h2, h3, h4, h5, h6 {
   position: relative;
   cursor: pointer;
@@ -10,7 +13,13 @@ h2::before, h3::before, h4::before, h5::before, h6::before {
   transition: transform 0.2s ease;
 }
 
+*/
+
+
 /* rotated toggle when collapsed */
+
+/*
 .collapsed::before {
   transform: rotate(90deg);
 }
+*/
