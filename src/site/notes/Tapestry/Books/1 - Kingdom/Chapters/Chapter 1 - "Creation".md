@@ -14,13 +14,15 @@
 
 [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"\|Chapter 1 - "Creation"]]
 [[Chapter 1: "Creation"\|Chapter 1: "Creation"]]
+[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"\|Chapter 2 - "The Kingdom"]]
+[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Listeners Who Learn\|Chapter 2 - "The Kingdom"#Listeners Who Learn]]
 
 --- 
 > [!quote]+
 > ##### [[HUB - Blue Flame Library\|All Books]]
 >
 > ##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents\|Table of Contents]]
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                          [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Chapter 2: The Kingdom\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Chapter 2: The Kingdom\|Next ►]] 
 
 ---
 
