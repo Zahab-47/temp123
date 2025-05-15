@@ -12,7 +12,7 @@
 >[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Savior\|Savior]] 
 
 --- 
-> [!quote]+
+> [!quote]
 > ##### [[HUB - Blue Flame Library\|All Books]]
 >
 > ##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents\|Table of Contents]]
@@ -166,8 +166,8 @@ A final point to make is that there are problems that arise from choosing to cre
 - 19 -
   
 </p> 
-{ #p19}
 
+/^p19
 
 ---
 
@@ -191,8 +191,6 @@ Just as we are capable with effort to comprehend the concept of “never ending,
 - 20 -
 
 </p> 
-{ #p20}
-
 
 ---
 
@@ -214,8 +212,6 @@ We are created singular, that is one person. In this state, we find ourselves we
 - 21 -
 
 </p> 
-{ #p21}
-
 
 ---
 
@@ -226,7 +222,7 @@ We are created singular, that is one person. In this state, we find ourselves we
 
 All of this presented our need for a savior. God knew that we needed a change in nature to be able to meet the qualifications of love. Therefore, He elevated us up to His level by sending His only Son into the world to live as one of us and die innocent. His blood brought about the ultimate change in condition: Redemption. We have become worthy of being called the Lover and Loved of God through the fullness of Christ within us who is our righteousness and makes us Holy and Blameless in the eyes of our Father. #blood-of-Jesus #forgiveness #redemption #restoration 
 
-> [!quote]+ 
+> [!quote]+
 >*“And if anyone does not have the Spirit of Christ, he does not belong to Christ. But if Christ is in you, your body is dead because of sin, yet your spirit is alive because of righteousness.” [[Romans 8_9b-10 \| Romans 8:9b-10]]* #bible-verse #change #spirit-of-God #redemption 
 
 The author of life loved us so much that He died so we could be free and have real life. We were created in His image so we could be called His sons and daughters and not His slaves. But that meant our having the freedom to choose Love or not-love. This is required for Love to be fulfilled, but hard for the Author of Life because He must watch as we make choices that harm ourselves and his other children. Jesus died for us so we could become the worthy Lover and Loved of God. Now with His Light, Blood, and Authority, we are able to live as His children, bringing the gospel of Jesus Christ and the Will of the Father to earth as it is in Heaven. There is much to do. While we’ve been distracted with other things, the evil one has infested the earth with darkness. #jesus #heaven #love #not-love #sons-and-daughters #relationship #inheritance #distraction #evil-one 
@@ -236,9 +232,9 @@ The author of life loved us so much that He died so we could be free and have re
 - 22 -
 
 </p> 
-{ #p22}
-
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                                   [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]] 
+
+---
