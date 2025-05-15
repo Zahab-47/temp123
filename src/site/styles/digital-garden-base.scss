@@ -24,6 +24,8 @@ img {
     line-height: 1.5;
     margin-top: 90px;
     position: relative;
+    text-align: justify;
+    text-justify: auto;
 
     @media (max-width: 800px) {
         margin-top: 75px;
