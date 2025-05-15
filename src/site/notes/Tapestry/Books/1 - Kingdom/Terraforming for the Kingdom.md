@@ -792,7 +792,7 @@ As royal priests, we are preparing creation (people, places, things) for His [[G
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents#Table of Contents\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Chapter 1: Creation\|Next ►]]
+##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents#Table of Contents\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapter 1 Creation#Chapter 1: Creation\|Next ►]]
 
 
 </div></div>
