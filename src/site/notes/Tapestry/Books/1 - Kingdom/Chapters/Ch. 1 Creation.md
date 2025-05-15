@@ -13,9 +13,9 @@
 
 --- 
 > [!quote]
-> ##### [[HUB - Blue Flame Library\|All Books]]
+> ###### [[HUB - Blue Flame Library\|All Books]]
 >
-> ##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents\|Table of Contents]]
+> ###### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents\|Table of Contents]]
 
 ---
 ##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                                   [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]] 
@@ -32,12 +32,17 @@ His next step was to choose a plot. But for some reason he found himself with wr
 
 One day he realized that he was extremely lonely. After several months alone, he was starving for any kind of human contact. Yet day after day, there were no signs of rescuers to be seen. Eventually, his need for love became unbearable and he decided that action was required. With the objective of curing loneliness, the author realized that a book about robots would be fun, but would not provide the love that he desperately needed. He was not yet a father, so he decided that his story would be a fictional
 
+<br>
+
 ---
 <p style="text-align:center;">
 - 13 -
 
 </p>
+
 ---
+
+<br>
 
 account of his children that he believed would be born once he was rescued and got married.
 
@@ -49,12 +54,17 @@ When the author woke up he cried with joy. Eric and Tiana were like real childre
 
 He decided to create other people to build the story. He gave them each a friend and a guard that watched over them day and night. He put them in a town where they could interact with many different people in countless scenarios that would demonstrate the strength of their character. They were very popular around town. Everyone knew their names and appreciated what loving children they were.  Whenever the
 
+<br>
+
 ---
 <p style="text-align:center;">
 - 14 -
 
 </p>
+
 ---
+
+<br>
 
 author introduced someone new in his book, they would appear in his dreams that night behaving just as he wrote them out to be.
 
@@ -66,12 +76,17 @@ The author woke up in a cold sweat. He was very angry. It was beyond his reckoni
 
 That night the author dreamed that he organized the rescue party with Eric at the helm. They were staffed with 1,000 soldiers, every food supply, weapon, and resource needed to survive months of searching if needed. But finding her wasn’t the problem. The army came back after only a few weeks. Eric rode up to his dad with the report of what they found.
 
+<br>
+
 ---
 <p style="text-align:center;">
 - 15 -
 
 </p>
+
 ---
+
+<br>
 
 *“Tiana’s guard took her to the mountains in the north. The trail was hot and we found them quickly. But in the days while they traveled, her guard gave her an extract from a plant growing in the fields. It intoxicated her to keep her from struggling. She has become addicted to the substance and it has changed her personality drastically. She refused to come back with us and is threatening to kill herself if we come back.”*
 
@@ -83,12 +98,17 @@ The author lunged towards the guard with a hidden dagger exposed as it was plung
 
 The author woke up. Two men were shaking him to see if he was alive. It was a ship! They had found him and were able to take him home.  He thanked them whole heartily, rode the ship
 
+<br>
+
 ---
 <p style="text-align:center;">
 - 16 -
 
 </p>
+
 ---
+
+<br>
 
 home, and went on to publish his book. He never dreamed of Eric and Tiana again. But the book was a big hit. It became a bestseller on both sides of the ocean. He titled it, “Creation.” The author got married and had two kids. A boy named Eric and a girl named Tiana. They both bore a striking resemblance to their daddy.
 
@@ -104,12 +124,17 @@ The tough one is “never beginning.” No matter how you twist and turn, that o
 
 Imagine that you are God and it is now before creation was created. Who is God and why would you create in the first place? “God is love,” but what does that mean? We know that God defined “love” in this world as selfless affection, and “affection “ is defined as a fond or tender feeling towards somebody or something. A friend of mine used to say, “Love is having both empathy and common goals.”  In both examples,
 
+<br>
+
 ---
 <p style="text-align:center;">
 - 17 -
 
 </p>
+
 ---
+
+<br>
 
 love is a **relationship** between two or more things, and so we have a problem. You are God, and God is love, but there is only you. You are alone. Remember, this is before creation. So, whom or what do you love? #love #relationship 
 
@@ -117,18 +142,25 @@ We see that a requirement for “love” to exist is that there are at least two
 
 The mind of God is to fully define love by creating those that love Him back ([[Matthew 22_37\|Matt. 22:37]]), and those that do not love Him back. It is also to *become the relationship *of love between the two or more beings that He created ( [[Matthew 22_39\|Matt. 22:39]], [[Matthew 18_20 \| Matt. 18:20]]). This is the reason for creation. Love is made complete in the creation, and God is love, so God has chosen to complete Himself through creation. We see this in marriage especially where “two are made one.” What a glorious role and purpose that we have!!! God has created us to complete himself. Some will love him back, others will not. Tested love is made perfect, and this is the purpose of creation, to have perfect love. #love #heart-of-God #blueprint #relationship #bible-verse #purpose #destiny 
 
+<br>
+
 ### Offspring Defined
 
 To complete “love,” God knew that His creation must be far more than the mechanical construction of machines and robots. First, His creation needed to be organic. That is, complex, precious, unique, and irreplaceable. This is the opposite of a machine, which can be replicated by design. We are not ever the same over time. We grow in body, soul, and spirit from the day we are born to the day we die. God chose to make each human being one of a kind. There will never be another ‘you.’ You are very special. This is an important attribute in creating something capable of perfecting love. #freedom #choice #love 
 
 Second, God’s creation needed to have “choice,” or the freedom to choose.  God had no interest in creating robots that were
 
+<br>
+
 ---
 <p style="text-align:center;">
 - 18 -
 
 </p>
+
 ---
+
+<br>
 
 “preprogrammed” to love Him. He wanted His creation to choose to love Him. Freedom is another requirement for love to exist. Fond and tender feelings for another do not come from captivity, but in the freedom to choose from multiple options – and then choosing the one that is the best. #choice #love #freedom #relationship #heart-of-God 
 
@@ -143,14 +175,21 @@ The second way God handled the size issue was to create many small children that
 
 A final point to make is that there are problems that arise from choosing to create children. Six or seven billion people made in God’s image, with freedom of choice, is a dangerous thing. There are many implications that had to be dealt with. It takes a mighty God to keep the planet from imploding. All of this points
 
+<br>
+
 ---
 <p style="text-align:center;">
 - 19 -
 
 </p>
+
 ---
 
+<br>
+
 to the requirement of our fallibility and our need for a savior. It pains me to hear people say that they cannot believe in a God that would “allow children to suffer.” If only they understood that it pains God too. He does not want them to suffer, but allows humans to have their free choices so Love can be fully defined. #love #freewill #choice #heart-of-God 
+
+<br>
 
 #### Heaven and Hell
 
@@ -165,12 +204,17 @@ For good and evil to exist without chaos, there had to be consequence, implicati
 
 Just as we are capable with effort to comprehend the concept of “never ending,” so too are we able to grasp “Heaven.” The idea of incomprehensible peace, joy, happiness, and above all love is like thinking of winning the lottery. We dream of Heaven with 
 
+<br>
+
 ---
 <p style="text-align:center;">
 - 20 -
 
 </p>
+
 ---
+
+<br>
 
 ear-to-ear grins. The more we get to know our God, the more we want to spend all of our time with Him. Heaven is the culmination of creation: God the Lover and us the Loved. #heaven #love #heart-of-God #creation #never-ending 
 
@@ -179,18 +223,25 @@ ear-to-ear grins. The more we get to know our God, the more we want to spend all
 
 Along the lines of “never beginning,” the horrors of hell are beyond any nightmare we’ve ever encountered. The idea of being alone, in pain, suffering with unquenchable thirst is enough to make anyone tremble. Hell is real. It is the ultimate detriment that results from choosing “not love.” We are free to make whatever choice we want to, and we receive the consequence of those choices just the same. #not-love #never-beginning #choice 
 
+<br>
+
 #### Fallibility
 
 God created human beings in His image, but we are not exact replications of Him. We were made to depend upon Him for everything and to love Him back. The choice of Adam and Eve resulted in the door opening for those that will not love Him. But we are not quick to judge. We have all sinned ([[Romans 3_23\| Rom. 3:23]]) and the Lord said that “*the cowardly, the unbelieving, the vile, the murderers, the sexually immoral, those who practice magic arts, the idolaters and all liars—their place will be in the fiery lake of burning sulfur*” ([[Revelation 21_8\|Rev. 21:8]]). Knowing this, we realize just how desperately we need Jesus. #bible-verse #not-love #defilement #sin #choice #witchcraft 
 
 We are created singular, that is one person. In this state, we find ourselves weak when it comes to our identity. We are created in His image, but we have found that behaving that way is a different story. When Adam and Eve bit into that apple, the evil one obtained the ultimate legal right, one that we were incapable of stripping him of. We received the knowledge of good and evil, thus empowering our ability to choose many times over what it was. But this also put us in the position of realizing our weakness: we were not capable of choosing good as God does. #evil-one #legal-right #choice 
 
+<br>
+
 ---
 <p style="text-align:center;">
 - 21 -
 
 </p> 
+
 ---
+
+<br>
 
 #### Savior
 
@@ -210,9 +261,11 @@ The author of life loved us so much that He died so we could be free and have re
 - 22 -
 
 </p> 
+
 ---
 
 <br>
+
 ##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                                   [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]] 
 
 ---
