@@ -3,7 +3,7 @@
 ---
 
 
-> [!quote] 
+> [!example] 
 >##### Chapter 1: "Creation"
 >[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Chapter 1 Creation\|Chapter Start]]
 [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Love Defined\|Love Defined]]
