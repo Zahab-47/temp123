@@ -44,21 +44,20 @@ a.tag {
 
 /* EXAMPLE CALLOUT FORMATTING */
 
-/* Remove the quote callout box title */
+/* Remove the Example callout box title */
 .callout[data-callout=example] .callout-title {
   display: none;
 }
 
-/* Center and italicize the text in the quote callout box */
+/* Center and italicize the text in the Example callout box */
 .callout[data-callout=example] .callout-title,
 .callout[data-callout=example] .callout-content {
   text-align: center;
-  font-style: bold;
+  font-weight: 550;
   font-size: 18px;
 }
 
-/* Make background transparent for quote callout box */
-.callout[data-callout=example] .callout-title, 
-.callout[data-callout=example] .callout-content {
+/* Make background transparent for Example callout box */
+.callout[data-callout=example] {
   background-color: transparent;
 }
