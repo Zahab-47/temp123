@@ -14,25 +14,25 @@
 
 >[!example]+ 
 >
-> #### [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
+> #### [[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
 >
->[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Love Defined\|Chapter 1 - "Creation"#Love Defined]]
->[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Offspring Defined\|Offspring Defined]]
->[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Heaven and Hell\|Heaven and Hell]]
->[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Fallibility\|Fallibility]]
->[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Savior\|Savior]]
+>[[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Love Defined\|Chapter 1 - "Creation"#Love Defined]]
+>[[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Offspring Defined\|Offspring Defined]]
+>[[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Heaven and Hell\|Heaven and Hell]]
+>[[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Fallibility\|Fallibility]]
+>[[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Savior\|Savior]]
 
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
+##### [[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
 
 
 |                                                                 |     |                                                  |
 | --------------------------------------------------------------- | --- | ------------------------------------------------ |
-| [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Love Defined\|Love Defined]]           |     | [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Love Defined\|17]]      |
-| [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Offspring Defined\|Offspring Defined]] |     | [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Offspring Defined\|18]] |
-| [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Heaven and Hell\|Heaven and Hell]]     |     | [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Heaven and Hell\|20]]   |
-| [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Fallibility\|Fallibility]]             |     | [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Fallibility\|21]] |
-| [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Savior\|Savior]]                       |     | [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Savior\|22]]      |
-[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Love Defined\|Love Defined]]    |    17
+| [[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Love Defined\|Love Defined]]           |     | [[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Love Defined\|17]]      |
+| [[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Offspring Defined\|Offspring Defined]] |     | [[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Offspring Defined\|18]] |
+| [[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Heaven and Hell\|Heaven and Hell]]     |     | [[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Heaven and Hell\|20]]   |
+| [[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Fallibility\|Fallibility]]             |     | [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Fallibility\|21]] |
+| [[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Savior\|Savior]]                       |     | [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Savior\|22]]      |
+[[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Love Defined\|Love Defined]]    |    17
 
 |     |     |
 | --- | --- |

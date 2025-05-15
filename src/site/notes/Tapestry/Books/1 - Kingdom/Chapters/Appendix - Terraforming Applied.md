@@ -27,7 +27,7 @@
 >[!quote]
 >###### [[Tapestry/Books/1 - Kingdom/Chapters/What is Terraforming#What is Terraforming?\|What is Terraforming?]]
 >###### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|Introduction]]
->###### [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
+>###### [[Tapestry/Books/1 - Kingdom/Chapter 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
  
 
 >
