@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation/","title":"Chapter 1 - \"Creation\"","tags":["book-chapter"],"dgHomeLink":true,"dgEnableSearch":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation/","title":"Chapter 1 - \"Creation\"","tags":["book-chapter"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 
@@ -17,7 +17,7 @@
 > ##### [[HUB - Blue Flame Library\|All Books]]
 >
 > ##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents\|Table of Contents]]
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                               [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]] 
 
 ---
 

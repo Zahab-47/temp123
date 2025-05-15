@@ -29,7 +29,7 @@
 >[!quote]
 >###### [[Tapestry/Books/1 - Kingdom/Chapters/What is Terraforming#What is Terraforming?\|What is Terraforming?]]
 >###### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|Introduction]]
->###### [[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
+>###### [[Ch. 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
  
 
 >
@@ -701,7 +701,7 @@
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents#Table of Contents\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Chapter 1: Creation\|Next ►]]
+##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents#Table of Contents\|◄ Prev]]                                                                                                                                           [[Ch. 1 - "Creation"#Chapter 1: Creation\|Next ►]]
 
 ---
 
@@ -731,4 +731,4 @@ As royal priests, we are preparing creation (people, places, things) for His [[G
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents#Table of Contents\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Chapter 1: Creation\|Next ►]]
+##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents#Table of Contents\|◄ Prev]]                                                                                                                                           [[Ch. 1 - "Creation"#Chapter 1: Creation\|Next ►]]
