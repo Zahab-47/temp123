@@ -41,3 +41,22 @@ a.tag {
 .callout[data-callout=cite], {
   background-color: transparent;
 }
+
+/* EXAMPLE CALLOUT FORMATTING */
+
+/* Remove the quote callout box title */
+.callout[data-callout=example] .callout-title {
+  display: none;
+}
+
+/* Center and italicize the text in the quote callout box */
+.callout[data-callout=example] .callout-title {
+  text-align: center;
+  font-style: bold;
+  font-size: 18px;
+}
+
+/* Make background transparent for quote callout box */
+.callout[data-callout=example] .callout-title {
+  background-color: transparent;
+}
