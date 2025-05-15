@@ -50,7 +50,7 @@ a.tag {
 }
 
 /* Center and italicize the text in the quote callout box */
-.callout[data-callout=example] .callout-title {
+.callout[data-callout=example] .callout-title,
 .callout[data-callout=example] .callout-content {
   text-align: center;
   font-style: bold;
@@ -58,7 +58,7 @@ a.tag {
 }
 
 /* Make background transparent for quote callout box */
-.callout[data-callout=example] .callout-title {
+.callout[data-callout=example] .callout-title, 
 .callout[data-callout=example] .callout-content {
   background-color: transparent;
 }
