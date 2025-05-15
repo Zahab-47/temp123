@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Ch 1 \"Creation\"/","title":"Chapter 1 - \"Creation\"","tags":["book-chapter"],"dgHomeLink":true,"dgEnableSearch":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Ch. 1 - Creation/","title":"Chapter 1 - \"Creation\"","tags":["book-chapter"],"dgHomeLink":true,"dgEnableSearch":true,"dgShowToc":true}
 ---
 
 
@@ -12,7 +12,7 @@
 [[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Fallibility\|Fallibility]]
 [[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Savior\|Savior]] 
 
-[[Tapestry/Books/1 - Kingdom/Ch 1 "Creation"\|Ch 1 "Creation"]]
+[[Ch. 1 \- Creation\|Ch. 1 \- Creation]]
 [[Chapter 1: "Creation"\|Chapter 1: "Creation"]]
 [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"\|Chapter 2 - "The Kingdom"]]
 [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Listeners Who Learn\|Chapter 2 - "The Kingdom"#Listeners Who Learn]]

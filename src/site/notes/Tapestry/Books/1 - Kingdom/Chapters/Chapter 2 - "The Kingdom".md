@@ -32,7 +32,7 @@
 >[!quote]
 >###### [[Tapestry/Books/1 - Kingdom/Chapters/What is Terraforming#What is Terraforming?\|What is Terraforming?]]
 >###### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|Introduction]]
->###### [[Tapestry/Books/1 - Kingdom/Ch. 1 "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
+>###### [[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Chapter 1: Creation\|Chapter 1: Creation]]
  
 
 >
@@ -704,7 +704,7 @@
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Ch. 1 "Creation"#Chapter 1 Creation\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 3 - "Definitions"#Chapter 3: Definitions\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Chapter 1 Creation\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 3 - "Definitions"#Chapter 3: Definitions\|Next ►]] 
 
 ---
 
@@ -845,4 +845,4 @@ Our hearts have changed. His priorities are now ours. It is with great honor tha
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Ch. 1 "Creation"#Chapter 1 Creation\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 3 - "Definitions"#Chapter 3: Definitions\|Next ►]]  
+##### [[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Chapter 1 Creation\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 3 - "Definitions"#Chapter 3: Definitions\|Next ►]]  

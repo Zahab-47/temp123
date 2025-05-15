@@ -5,12 +5,12 @@
 
 > [!quote] 
 >##### Chapter 1: "Creation"
->[[Tapestry/Books/1 - Kingdom/Ch. 1 "Creation"#Chapter 1 Creation\|Chapter Start]]
+>[[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Chapter 1 Creation\|Chapter Start]]
 [[Chapter 1: "Creation"#Love Defined\|Chapter 1: "Creation"#Love Defined]]
-[[Tapestry/Books/1 - Kingdom/Ch. 1 "Creation"#Offspring Defined\|Offspring Defined]]
-[[Tapestry/Books/1 - Kingdom/Ch. 1 "Creation"#Heaven and Hell\|Heaven and Hell]]
-[[Tapestry/Books/1 - Kingdom/Ch. 1 "Creation"#Fallibility\|Fallibility]]
-[[Tapestry/Books/1 - Kingdom/Ch. 1 "Creation"#Savior\|Savior]] 
+[[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Offspring Defined\|Offspring Defined]]
+[[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Heaven and Hell\|Heaven and Hell]]
+[[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Fallibility\|Fallibility]]
+[[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Savior\|Savior]] 
 
 [[Tapestry/Books/1 - Kingdom/Ch 1 Creation\|Ch 1 Creation]]
 [[Chapter 1: "Creation"\|Chapter 1: "Creation"]]
