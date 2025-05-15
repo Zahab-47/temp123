@@ -6,17 +6,21 @@
 > [!quote] 
 >##### Chapter 1: "Creation"
 >[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Chapter 1 Creation\|Chapter Start]]
-[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Love Defined\|Chapter 1 - "Creation"#Love Defined]]
+[[Chapter 1: "Creation"#Love Defined\|Chapter 1: "Creation"#Love Defined]]
 [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Offspring Defined\|Offspring Defined]]
 [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Heaven and Hell\|Heaven and Hell]]
 [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Fallibility\|Fallibility]]
 [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"#Savior\|Savior]] 
+
+[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 1 - "Creation"\|Chapter 1 - "Creation"]]
+[[Chapter 1: "Creation"\|Chapter 1: "Creation"]]
+
 --- 
 > [!quote]+
 > ##### [[HUB - Blue Flame Library\|All Books]]
 >
 > ##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents\|Table of Contents]]
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                                              [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Chapter 2: The Kingdom\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                          [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Chapter 2: The Kingdom\|Next ►]] 
 
 ---
 
