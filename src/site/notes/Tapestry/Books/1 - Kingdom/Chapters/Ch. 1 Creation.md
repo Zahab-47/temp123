@@ -35,6 +35,8 @@ One day he realized that he was extremely lonely. After several months alone, he
 ---
 <p style="text-align:center;">
 - 13 -
+
+</p>
 ---
 
 account of his children that he believed would be born once he was rescued and got married.
@@ -50,6 +52,8 @@ He decided to create other people to build the story. He gave them each a friend
 ---
 <p style="text-align:center;">
 - 14 -
+
+</p>
 ---
 
 author introduced someone new in his book, they would appear in his dreams that night behaving just as he wrote them out to be.
@@ -65,6 +69,8 @@ That night the author dreamed that he organized the rescue party with Eric at th
 ---
 <p style="text-align:center;">
 - 15 -
+
+</p>
 ---
 
 *“Tiana’s guard took her to the mountains in the north. The trail was hot and we found them quickly. But in the days while they traveled, her guard gave her an extract from a plant growing in the fields. It intoxicated her to keep her from struggling. She has become addicted to the substance and it has changed her personality drastically. She refused to come back with us and is threatening to kill herself if we come back.”*
@@ -80,6 +86,8 @@ The author woke up. Two men were shaking him to see if he was alive. It was a sh
 ---
 <p style="text-align:center;">
 - 16 -
+
+</p>
 ---
 
 home, and went on to publish his book. He never dreamed of Eric and Tiana again. But the book was a big hit. It became a bestseller on both sides of the ocean. He titled it, “Creation.” The author got married and had two kids. A boy named Eric and a girl named Tiana. They both bore a striking resemblance to their daddy.
@@ -99,6 +107,8 @@ Imagine that you are God and it is now before creation was created. Who is God a
 ---
 <p style="text-align:center;">
 - 17 -
+
+</p>
 ---
 
 love is a **relationship** between two or more things, and so we have a problem. You are God, and God is love, but there is only you. You are alone. Remember, this is before creation. So, whom or what do you love? #love #relationship 
@@ -116,6 +126,8 @@ Second, God’s creation needed to have “choice,” or the freedom to choose. 
 ---
 <p style="text-align:center;">
 - 18 -
+
+</p>
 ---
 
 “preprogrammed” to love Him. He wanted His creation to choose to love Him. Freedom is another requirement for love to exist. Fond and tender feelings for another do not come from captivity, but in the freedom to choose from multiple options – and then choosing the one that is the best. #choice #love #freedom #relationship #heart-of-God 
@@ -134,6 +146,8 @@ A final point to make is that there are problems that arise from choosing to cre
 ---
 <p style="text-align:center;">
 - 19 -
+
+</p>
 ---
 
 to the requirement of our fallibility and our need for a savior. It pains me to hear people say that they cannot believe in a God that would “allow children to suffer.” If only they understood that it pains God too. He does not want them to suffer, but allows humans to have their free choices so Love can be fully defined. #love #freewill #choice #heart-of-God 
@@ -154,6 +168,8 @@ Just as we are capable with effort to comprehend the concept of “never ending,
 ---
 <p style="text-align:center;">
 - 20 -
+
+</p>
 ---
 
 ear-to-ear grins. The more we get to know our God, the more we want to spend all of our time with Him. Heaven is the culmination of creation: God the Lover and us the Loved. #heaven #love #heart-of-God #creation #never-ending 
@@ -188,12 +204,14 @@ All of this presented our need for a savior. God knew that we needed a change in
 
 The author of life loved us so much that He died so we could be free and have real life. We were created in His image so we could be called His sons and daughters and not His slaves. But that meant our having the freedom to choose Love or not-love. This is required for Love to be fulfilled, but hard for the Author of Life because He must watch as we make choices that harm ourselves and his other children. Jesus died for us so we could become the worthy Lover and Loved of God. Now with His Light, Blood, and Authority, we are able to live as His children, bringing the gospel of Jesus Christ and the Will of the Father to earth as it is in Heaven. There is much to do. While we’ve been distracted with other things, the evil one has infested the earth with darkness. #jesus #heaven #love #not-love #sons-and-daughters #relationship #inheritance #distraction #evil-one 
 <br>
+
 ---
 <p style="text-align:center;">
 - 22 -
 
 </p> 
 ---
+
 <br>
 ##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                                   [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]] 
 
