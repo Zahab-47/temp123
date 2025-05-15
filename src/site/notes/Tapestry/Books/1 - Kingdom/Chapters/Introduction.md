@@ -46,7 +46,7 @@
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Savior\|22]]
 
 
->[!example]- ######     [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Chapter 2: The Kingdom\|Chapter 2: The Kingdom]]
+>[!example]- ######     [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Chapter 2: The Kingdom]]
 >
 
 > 

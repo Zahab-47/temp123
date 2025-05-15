@@ -44,7 +44,7 @@
 >[[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Savior\|22]]
 
 
->[!example]- ######     [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Chapter 2: The Kingdom\|Chapter 2: The Kingdom]]
+>[!example]- ######     [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Chapter 2: The Kingdom]]
 >
 
 > 
@@ -699,7 +699,7 @@
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Epilogue - "The Diabolical Plans of Diablo"#Epilogue: The Diabolical Plans of Diablo\|◄ Prev]]                                                                                                                                           [[Cessor Journeys - Table of Contents\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Epilogue_The Diabolical Plans of Diablo#Epilogue: The Diabolical Plans of Diablo\|◄ Prev]]                                                                                                                                           [[Cessor Journeys - Table of Contents\|Next ►]] 
 
 ---
 
@@ -1288,4 +1288,4 @@ ways for us to set boundaries around behavior and methods of accountability so m
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Epilogue - "The Diabolical Plans of Diablo"#Epilogue: The Diabolical Plans of Diablo\|◄ Prev]]                                                                                                                                           [[Cessor Journeys - Table of Contents\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Epilogue_The Diabolical Plans of Diablo#Epilogue: The Diabolical Plans of Diablo\|◄ Prev]]                                                                                                                                           [[Cessor Journeys - Table of Contents\|Next ►]] 

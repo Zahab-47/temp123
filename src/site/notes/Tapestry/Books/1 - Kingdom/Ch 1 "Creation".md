@@ -14,15 +14,15 @@
 
 [[Tapestry/Books/1 - Kingdom/Ch 1 "Creation"\|Ch 1 "Creation"]]
 [[Chapter 1: "Creation"\|Chapter 1: "Creation"]]
-[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"\|Chapter 2 - "The Kingdom"]]
-[[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Listeners Who Learn\|Chapter 2 - "The Kingdom"#Listeners Who Learn]]
+[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom\|Ch. 2 The Kingdom]]
+[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Listeners Who Learn\|Ch. 2 The Kingdom#Listeners Who Learn]]
 
 --- 
 > [!quote]+
 > ##### [[HUB - Blue Flame Library\|All Books]]
 >
 > ##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents\|Table of Contents]]
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Chapter 2: The Kingdom\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]] 
 
 ---
 
@@ -243,4 +243,4 @@ The author of life loved us so much that He died so we could be free and have re
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Chapter 2: The Kingdom\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]] 

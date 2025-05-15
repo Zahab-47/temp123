@@ -597,4 +597,4 @@ ways for us to set boundaries around behavior and methods of accountability so m
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Epilogue - "The Diabolical Plans of Diablo"\|◄ Prev]]                                                                                                                                           [[Cessor Journeys - Table of Contents\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Epilogue_The Diabolical Plans of Diablo\|◄ Prev]]                                                                                                                                           [[Cessor Journeys - Table of Contents\|Next ►]] 

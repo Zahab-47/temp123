@@ -8,7 +8,7 @@
 
 [[Tapestry/Books/1 - Kingdom/Chapters/What is Terraforming\|What is Terraforming]]
 
-[[Tapestry/Books/1 - Kingdom/Chapters/Foreword - What is Terraforming?\|Foreword - What is Terraforming?]]
+[[Tapestry/Books/1 - Kingdom/Chapters/Foreword_What is Terraforming?\|Foreword_What is Terraforming?]]
 
 >[!example]- ###### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|Introduction]]
 
@@ -62,7 +62,7 @@
 
 
 
->[!example]- ######     [[Tapestry/Books/1 - Kingdom/Chapters/Chapter 2 - "The Kingdom"#Chapter 2: The Kingdom\|Chapter 2: The Kingdom]]
+>[!example]- ######     [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Chapter 2: The Kingdom]]
 >
 
 > &nbsp;

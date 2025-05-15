@@ -1,21 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Ch. 1 - \"Creation\"/","title":"Chapter 1 - \"Creation\"","tags":["book-chapter"],"dgHomeLink":true,"dgEnableSearch":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation/","title":"Chapter 1 - \"Creation\"","tags":["book-chapter"],"dgHomeLink":true,"dgEnableSearch":true,"dgShowToc":true}
 ---
 
 
 > [!quote] 
 >##### Chapter 1: "Creation"
->[[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Chapter 1 Creation\|Chapter Start]]
-[[Chapter 1: "Creation"#Love Defined\|Chapter 1: "Creation"#Love Defined]]
-[[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Offspring Defined\|Offspring Defined]]
-[[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Heaven and Hell\|Heaven and Hell]]
-[[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Fallibility\|Fallibility]]
-[[Tapestry/Books/1 - Kingdom/Ch. 1 - "Creation"#Savior\|Savior]] 
-
-[[Ch. 1 \- \"Creation\"\|Ch. 1 \- \"Creation\"]]
-[[Chapter 1: "Creation"\|Chapter 1: "Creation"]]
-[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom\|Ch. 2 The Kingdom]]
-[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Listeners Who Learn\|Ch. 2 The Kingdom#Listeners Who Learn]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Chapter 1 Creation\|Chapter Start]]
+[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Love Defined\|Love Defined]]
+[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Offspring Defined\|Offspring Defined]]
+[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Heaven and Hell\|Heaven and Hell]]
+[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Fallibility\|Fallibility]]
+[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Savior\|Savior]] 
 
 --- 
 > [!quote]+
