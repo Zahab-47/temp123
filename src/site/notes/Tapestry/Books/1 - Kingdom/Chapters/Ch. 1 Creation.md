@@ -5,11 +5,11 @@
 
 > [!example] 
 >###### Sections
-[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Love Defined\|Love Defined]]
-[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Offspring Defined\|Offspring Defined]]
-[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Heaven and Hell\|Heaven and Hell]]
-[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Fallibility\|Fallibility]]
-[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Savior\|Savior]] 
+>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Love Defined\|Love Defined]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Offspring Defined\|Offspring Defined]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Heaven and Hell\|Heaven and Hell]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Fallibility\|Fallibility]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Savior\|Savior]] 
 
 --- 
 > [!quote]+
@@ -21,7 +21,9 @@
 ##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                                   [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]] 
 
 ---
+
 <br>
+
 ### Chapter 1: Creation 
 
 An author of books was the sole survivor of a shipwreck. He drifted for days on wooden planks before reaching dry land. The island that he found was perfect for sustaining life, it had freshwater, fruit trees, and the raw materials for shelter. But soon he found himself bored to tears. As an author, he realized that he could write his next book right there on the island and it would be ready to go for publishing as soon as he was rescued. Although drenched, his backpack had survived the wreck. The pencils worked fine, but his pads of paper took days to dry out before he could get started. #authority
