@@ -64,29 +64,6 @@ a.tag {
 
 /* PREV/NEXT Navigation for Digital Garden static site */
 
-/* 1. base reset */
-.markdown-preview-view .callout {
-  display: block;
-  margin: 1rem 0;
-}
-
-/* 2. any callout that has a callout immediately after it,
-      and that following callout, become half-width inline blocks */
-.markdown-preview-view .callout:has(+ .callout),
-.markdown-preview-view .callout + .callout {
-  display: inline-block !important;
-  vertical-align: top;
-  width: calc(50% - 0.5rem) !important;
-  margin: 0 0.5rem 1rem 0 !important;
-}
-
-/* 3. a third consecutive callout (or more) reverts to full width */
-.markdown-preview-view .callout + .callout + .callout {
-  display: block !important;
-  width: 100% !important;
-  margin: 1rem 0 0 !important;
-}
-
 /* make a two-column grid for callouts */
 .callout-grid {
   display: grid;
