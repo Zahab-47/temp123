@@ -71,6 +71,10 @@ a.tag {
   margin: 1rem 0;
 }
 
+.markdown-preview-view .callout-grid .callout-content {
+   display: none;
+}
+
 /* 2. reset any default callout margins, allow flex-fill */
 .markdown-preview-view .callout-grid .callout {
   margin: 0;
@@ -91,11 +95,6 @@ a.tag {
    line-height: unset;
    padding: 1em;
 }
-
-.markdown-preview-view .callout-grid > .callout.nav > .callout-body > .callout-content {
-     display: none;
-}
-
 
 /* 3. hide nav-type icon/title badge */
 .markdown-preview-view .callout.nav .callout-icon,
