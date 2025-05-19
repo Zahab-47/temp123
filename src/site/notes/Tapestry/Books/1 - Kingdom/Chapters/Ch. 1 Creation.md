@@ -22,9 +22,22 @@
 
 ---
 
-<br>
+<div class="prev-next-container">
 
-### Chapter 1: Creation 
+> [!prev]
+> [[Previous Note Title\|Previous Note Title]]
+
+> [!next]
+> [[Next Note Title\|Next Note Title]]
+
+</div>
+
+<div class="prev-next-container">
+  <a href="[[Previous Note Title\|Previous Note Title]]" class="prev-link">Prev</a>
+  <a href="[[Next Note Title\|Next Note Title]]" class="next-link">Next</a>
+</div>
+
+## Chapter 1: Creation 
 
 An author of books was the sole survivor of a shipwreck. He drifted for days on wooden planks before reaching dry land. The island that he found was perfect for sustaining life, it had freshwater, fruit trees, and the raw materials for shelter. But soon he found himself bored to tears. As an author, he realized that he could write his next book right there on the island and it would be ready to go for publishing as soon as he was rescued. Although drenched, his backpack had survived the wreck. The pencils worked fine, but his pads of paper took days to dry out before he could get started. #authority
 
@@ -113,8 +126,7 @@ The author woke up. Two men were shaking him to see if he was alive. It was a sh
 home, and went on to publish his book. He never dreamed of Eric and Tiana again. But the book was a big hit. It became a bestseller on both sides of the ocean. He titled it, “Creation.” The author got married and had two kids. A boy named Eric and a girl named Tiana. They both bore a striking resemblance to their daddy.
 
 > [!quote]+
-> *“You killed the author of life, but God raised him from the dead. We are witnesses of this.*”  
->*[[Acts 3_15\|Acts 3:15]]* #bible-verse
+> *“You killed the author of life, but God raised him from the dead. We are witnesses of this.*”  *[[Acts 3_15\|Acts 3:15]]* #bible-verse
 
 ### Love Defined
 
