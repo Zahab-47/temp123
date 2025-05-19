@@ -92,6 +92,11 @@ a.tag {
    padding: 1em;
 }
 
+.markdown-preview-view .callout-grid > .callout.nav > .callout-body > .callout-content {
+     display: none;
+}
+
+
 /* 3. hide nav-type icon/title badge */
 .markdown-preview-view .callout.nav .callout-icon,
 .markdown-preview-view .callout.nav .callout-title {
