@@ -99,3 +99,27 @@ a.tag {
 .callout-grid .callout {
   margin: 0;
 }
+
+/* snippets/nav-buttons.css */
+.markdown-preview-view .callout.nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+.markdown-preview-view .callout.nav > p {
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+}
+.markdown-preview-view .callout.nav a {
+  display: block;
+  padding: 0.6rem;
+  text-align: center;
+  border-radius: 4px;
+  border: 1px solid var(--callout-border);
+  background: var(--callout-background);
+  color: var(--text-normal);
+  text-decoration: none;
+}
+.markdown-preview-view .callout.nav .callout-title { display: none; }
