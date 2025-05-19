@@ -18,11 +18,6 @@
 > ###### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents\|Table of Contents]]
 
 ---
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                                   [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]] 
-
----
-
----
 
 <div class="callout-grid">
 
@@ -31,8 +26,6 @@
 > [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]]
 
 </div>
-
-
 
 ---
 
