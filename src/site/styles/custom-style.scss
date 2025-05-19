@@ -64,47 +64,48 @@ a.tag {
 
 /* PREV/NEXT Navigation for Digital Garden static site */
 
-/* 1. grid container */
+/* 1. horizontal layout + gap + vertical spacing */
 .markdown-preview-view .callout-grid {
   display: flex;
   gap: 0.5rem;
   margin: 1rem 0;
 }
 
-/* 2. each nav callout fills equally */
-.markdown-preview-view .callout-grid .callout.nav {
-  position: relative;
-  padding: 1em;               /* your desired padding */
+/* 2. reset any default callout margins, allow flex-fill */
+.markdown-preview-view .callout-grid .callout {
   margin: 0;
+  position: relative;
   flex: 1 1 0;
   min-height: 3em;
+  padding: 1em;                     /* your desired padding */
   text-align: center;
   background-color: var(--background-secondary);
 }
 
-/* 3. hide default icon and title badge */
-.markdown-preview-view .callout-grid .callout.nav .callout-icon,
-.markdown-preview-view .callout-grid .callout.nav .callout-title {
+/* 3. hide nav-type icon/title badge */
+.markdown-preview-view .callout.nav .callout-icon,
+.markdown-preview-view .callout.nav .callout-title {
   display: none;
 }
 
-/* 4. let the generated <a> fill the whole box */
-.markdown-preview-view .callout-grid .callout.nav > a {
+/* 4. full-box clickable: let Obsidian’s generated <a> fill it */
+.markdown-preview-view .callout.nav > a {
   position: absolute;
   inset: 0;
   display: flex;
   align-items: center;
   justify-content: center;
   color: var(--text-normal);
-  text-decoration: none;      /* no underline */
+  text-decoration: none;
   cursor: pointer;
 }
 
-/* 5. no underline on hover/focus */
-.markdown-preview-view .callout-grid .callout.nav > a:hover,
-.markdown-preview-view .callout-grid .callout.nav > a:focus {
+/* 5. ensure no underline on hover/focus */
+.markdown-preview-view .callout.nav > a:hover,
+.markdown-preview-view .callout.nav > a:focus {
   text-decoration: none;
 }
+
 
 
 
