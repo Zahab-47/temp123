@@ -22,21 +22,12 @@
 
 ---
 
-<div class="prev-next-container">
+> [!NOTE]  
+> This is my first callout.
 
-> [!prev]
-> [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]
+> [!TIP]  
+> Here’s the second one, right after it.
 
-> [!next]
-> [[Next Note Title\|Next Note Title]]
-
-<div style="display: none;" class="prev-next-navigation">
-
-[[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]
-
-[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]]
-
-</div>
 
 ## Chapter 1: Creation 
 
