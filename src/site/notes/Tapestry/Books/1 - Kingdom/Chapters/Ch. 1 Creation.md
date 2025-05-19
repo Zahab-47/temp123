@@ -28,6 +28,15 @@
 > [!TIP]  
 > Here’s the second one, right after it.
 
+<div class="callout-grid">
+  <aside class="callout note">
+    <p><strong>Note</strong><br>This is my first callout.</p>
+  </aside>
+  <aside class="callout tip">
+    <p><strong>Tip</strong><br>Here’s the second one, right after it.</p>
+  </aside>
+</div>
+
 
 ## Chapter 1: Creation 
 
