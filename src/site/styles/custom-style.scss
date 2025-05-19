@@ -1,4 +1,4 @@
-   /* Remove all tag elements */
+ive   /* Remove all tag elements */
 
 a.tag {
    display: none;
@@ -101,16 +101,22 @@ a.tag {
   display: none;
 }
 
+/* make sure the callout itself is positioned */
+.markdown-preview-view .callout.nav {
+  position: relative;
+}
+
 /* 4. full-box clickable: let Obsidian’s generated <a> fill it */
-.markdown-preview-view .callout.nav > a {
+.markdown-preview-view .callout.nav a {
   position: absolute;
   inset: 0;
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
   color: var(--text-normal);
   text-decoration: none;
   cursor: pointer;
+  z-index: 1;
 }
 
 /* 5. ensure no underline on hover/focus */
