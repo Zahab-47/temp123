@@ -37,10 +37,12 @@
   </aside>
 </div>
 
+{% raw %}
 <div style="display:flex;justify-content:space-between;align-items:center;gap:0.5rem;">
 <a href="[[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]" style="flex:1;text-align:center;padding:0.6rem;border:1px solid var(--callout-border);border-radius:4px;text-decoration:none;color:var(--text-normal);background:var(--callout-background);">← Prev</a>
 <a href="[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]]" style="flex:1;text-align:center;padding:0.6rem;border:1px solid var(--callout-border);border-radius:4px;text-decoration:none;color:var(--text-normal);background:var(--callout-background);">Next →</a>
 </div>
+{% endraw %}
 
 
 
