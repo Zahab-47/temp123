@@ -107,7 +107,7 @@ a.tag {
 }
 
 /* 4. full-box clickable: let Obsidian’s generated <a> fill it */
-.markdown-preview-view .callout.nav a {
+.markdown-preview-view .callout.nav > a {
   position: absolute;
   inset: 0;
   display: block;
