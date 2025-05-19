@@ -64,47 +64,53 @@ a.tag {
 
 /* PREV/NEXT Navigation for Digital Garden static site */
 
-/* reset default vertical spacing inside each callout */
+/* reset any default callout margins */
 .callout-grid .callout {
   margin: 0;
 }
 
-/* arrange the two buttons side by side */
+/* lay out the two callouts in a row */
 .markdown-preview-view .callout-grid {
   display: flex;
-  justify-content: space-between;
   gap: 0.5rem;
   margin: 1rem 0;
 }
 
-/* make the callout wrapper position relative,
-   so its child <a> can fill the whole box */
+/* allow each callout to grow/fill equally */
 .markdown-preview-view .callout.nav {
   position: relative;
-  padding: 0;   /* link itself will provide padding */
+  padding: 0;
   margin: 0;
-  flex: 1;
+  flex: 1 1 0;
+  min-width: 0;
 }
 
-/* let the <a> cover the entire callout area */
+/* make the <a> fill the callout, style it, and remove underlines */
 .markdown-preview-view .callout.nav > a {
   position: absolute;
-  inset: 0;                         /* top/right/bottom/left = 0 */
+  inset: 0;  
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 0.6rem;
-  text-decoration: none;
   border: 1px solid var(--callout-border);
+  border-radius: 4px;
   background: var(--callout-background);
   color: var(--text-normal);
-  border-radius: 4px;
+  text-decoration: none;       /* no underline */
   cursor: pointer;
 }
 
-/* hide any default callout title badge */
+/* also prevent underlines on hover/focus */
+.markdown-preview-view .callout.nav > a:hover,
+.markdown-preview-view .callout.nav > a:focus {
+  text-decoration: none;
+}
+
+/* hide the default callout-title badge */
 .markdown-preview-view .callout.nav .callout-title {
   display: none;
 }
+
 
 
