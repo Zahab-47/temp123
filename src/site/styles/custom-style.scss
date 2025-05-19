@@ -86,3 +86,16 @@ a.tag {
   width: 100% !important;
   margin: 1rem 0 0 !important;
 }
+
+/* make a two-column grid for callouts */
+.callout-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+/* reset the default vertical spacing inside each callout */
+.callout-grid .callout {
+  margin: 0;
+}
