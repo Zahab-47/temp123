@@ -61,3 +61,128 @@ a.tag {
 .callout[data-callout=example] {
   background-color: transparent;
 }
+
+/* PREV/NEXT Navigation for Digital Garden static site */
+
+.prev-next-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 2rem 0;
+  border-top: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 1rem 0;
+}
+
+.prev-next-container a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #7b6cd9; /* Purple similar to your example */
+  font-size: 1.2rem;
+  transition: color 0.2s ease;
+  font-weight: 500;
+}
+
+.prev-next-container a:hover {
+  color: #5a4cb7; /* Slightly darker on hover */
+  text-decoration: underline;
+}
+
+.prev-link {
+  margin-right: auto;
+}
+
+.prev-link::before {
+  content: "◀";
+  margin-right: 0.5rem;
+}
+
+.next-link {
+  margin-left: auto;
+}
+
+.next-link::after {
+  content: "▶";
+  margin-left: 0.5rem;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .prev-next-container {
+    padding: 0.8rem 0;
+  }
+  
+  .prev-next-container a {
+    font-size: 1rem;
+  }
+}
+
+/* Very small screens */
+@media (max-width: 480px) {
+  .prev-next-container {
+    padding: 0.5rem 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .prev-next-container a {
+    font-size: 0.9rem;
+  }
+  
+  /* On very small screens, stack them if needed */
+  @media (max-width: 350px) {
+    .prev-next-container {
+      flex-direction: column;
+    }
+    
+    .prev-link {
+      margin-right: 0;
+      margin-bottom: 0.5rem;
+    }
+    
+    .next-link {
+      margin-left: 0;
+    }
+  }
+}
+
+/* END PREV/NEXT LINK */
+
+/* Additional CSS for callout-based navigation */
+.callout[data-callout="prev"], 
+.callout[data-callout="next"] {
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.callout[data-callout="prev"] .callout-title,
+.callout[data-callout="next"] .callout-title {
+  display: none;
+}
+
+.callout[data-callout="prev"] .callout-content p,
+.callout[data-callout="next"] .callout-content p {
+  margin: 0;
+}
+
+.callout[data-callout="prev"] .callout-content a,
+.callout[data-callout="next"] .callout-content a {
+  color: #7b6cd9;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.callout[data-callout="prev"] .callout-content a::before {
+  content: "◀";
+  margin-right: 0.5rem;
+}
+
+.callout[data-callout="next"] .callout-content a::after {
+  content: "▶";
+  margin-left: 0.5rem;
+}
