@@ -101,50 +101,28 @@ a.tag {
   display: none;
 }
 
-/* Make the entire callout clickable */
+/* Make the nav callouts clickable with CSS only */
 .markdown-preview-view .callout-grid .callout[data-callout="nav"] {
-  cursor: pointer;
-  position: relative;
+  padding: 0; /* Remove padding to prevent issues */
 }
 
-/* This ensures the link covers the entire callout area */
-.markdown-preview-view .callout-grid .callout[data-callout="nav"]::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-/* This forwards the click to the actual link */
-.markdown-preview-view .callout-grid .callout[data-callout="nav"] {
-  pointer-events: none;
-}
-
+/* Style the link to fill the entire callout */
 .markdown-preview-view .callout-grid .callout[data-callout="nav"] .internal-link {
-  pointer-events: auto;
-  position: absolute;
-  top: 0;
-  left: 0;
+  display: block;
   width: 100%;
   height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 10;
+  padding: 1em; /* Add padding to the link instead */
+  box-sizing: border-box;
 }
 
-/* This prevents the text from disappearing */
+/* Ensure the title container doesn't interfere */
+.markdown-preview-view .callout-grid .callout[data-callout="nav"] .callout-title {
+  height: 100%;
+  padding: 0;
+}
+
 .markdown-preview-view .callout-grid .callout[data-callout="nav"] .callout-title-inner {
-  position: relative;
-  z-index: 20;
-  pointer-events: none;
-}
-
-/* Hover effect */
-.markdown-preview-view .callout-grid .callout[data-callout="nav"]:hover {
-  background-color: var(--background-primary-alt);
+  height: 100%;
 }
 
 
