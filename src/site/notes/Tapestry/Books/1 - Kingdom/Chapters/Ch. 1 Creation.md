@@ -25,19 +25,13 @@
 ---
 
 <div class="callout-grid">
-  <a
-    class="callout nav previous-button"
-    href="Introduction#Introduction"
-  >
-    ◄ Prev
-  </a>
-  <a
-    class="callout nav next-button"
-    href="Ch. 2 The Kingdom#Chapter 2: The Kingdom"
-  >
-    Next ►
-  </a>
+
+> [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]
+
+> [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]]
+
 </div>
+
 
 
 ---
