@@ -30,10 +30,10 @@
 
 <div class="callout-grid">
   <aside class="callout note">
-    <p><center>[[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]</center></p>
+    <p>[[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]</p>
   </aside>
   <aside class="callout tip">
-    <p><center>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]]</center></p>
+    <p style="text-align:right;">[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]]</p>
   </aside>
 </div>
 
