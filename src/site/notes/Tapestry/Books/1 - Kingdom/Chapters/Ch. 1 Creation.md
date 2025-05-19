@@ -22,25 +22,25 @@
 
 ---
 
-> [!NOTE]  
-> This is my first callout.
-
-> [!TIP]  
-> Here’s the second one, right after it.
+---
 
 <div class="callout-grid">
-  <aside class="callout note">
-    <p>[[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]</p>
-  </aside>
-  <aside class="callout tip">
-    <p style="text-align:right;">[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]]</p>
-  </aside>
+  <a
+    class="callout nav previous-button"
+    href="Introduction#Introduction"
+  >
+    ◄ Prev
+  </a>
+  <a
+    class="callout nav next-button"
+    href="Ch. 2 The Kingdom#Chapter 2: The Kingdom"
+  >
+    Next ►
+  </a>
 </div>
 
-> [!NAV]
-> [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]
-> [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]]
 
+---
 
 
 ## Chapter 1: Creation 
