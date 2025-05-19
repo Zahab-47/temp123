@@ -83,6 +83,7 @@ a.tag {
   position: relative;
   padding: 0;   /* link itself will provide padding */
   margin: 0;
+  flex: 1;
 }
 
 /* let the <a> cover the entire callout area */
