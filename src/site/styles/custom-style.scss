@@ -157,3 +157,25 @@ a.tag {
   padding: 1rem 0;
   overflow: hidden; /* Contain the floats */
 }
+
+/* 1. Reset all callouts to block-level with a bit of vertical spacing */
+.markdown-preview-view .callout {
+  display: block;
+  margin: 1rem 0;
+}
+
+/* 2. When a callout is immediately followed by another, make them two columns */
+.markdown-preview-view .callout + .callout {
+  display: inline-block !important;
+  vertical-align: top;
+  width: calc(50% - 0.5rem) !important;
+  margin: 0 0 1rem 1rem !important;
+}
+
+/* 3. If there’s a third callout in a row, force it back to full width */
+.markdown-preview-view .callout + .callout + .callout {
+  display: block !important;
+  width: 100% !important;
+  margin: 1rem 0 0 !important;
+}
+
