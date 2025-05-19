@@ -64,39 +64,46 @@ a.tag {
 
 /* PREV/NEXT Navigation for Digital Garden static site */
 
-/* make a two-column grid for callouts */
-.callout-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1rem;
-  margin: 1rem 0;
-}
-
-/* reset the default vertical spacing inside each callout */
+/* reset default vertical spacing inside each callout */
 .callout-grid .callout {
   margin: 0;
 }
 
-/* snippets/nav-buttons.css */
-.markdown-preview-view .callout.nav {
+/* arrange the two buttons side by side */
+.markdown-preview-view .callout-grid {
   display: flex;
   justify-content: space-between;
   gap: 0.5rem;
   margin: 1rem 0;
 }
-.markdown-preview-view .callout.nav > p {
-  flex: 1;
-  min-width: 0;
+
+/* make the callout wrapper position relative,
+   so its child <a> can fill the whole box */
+.markdown-preview-view .callout.nav {
+  position: relative;
+  padding: 0;   /* link itself will provide padding */
   margin: 0;
 }
-.markdown-preview-view .callout.nav a {
-  display: block;
+
+/* let the <a> cover the entire callout area */
+.markdown-preview-view .callout.nav > a {
+  position: absolute;
+  inset: 0;                         /* top/right/bottom/left = 0 */
+  display: flex;
+  align-items: center;
+  justify-content: center;
   padding: 0.6rem;
-  text-align: center;
-  border-radius: 4px;
+  text-decoration: none;
   border: 1px solid var(--callout-border);
   background: var(--callout-background);
   color: var(--text-normal);
-  text-decoration: none;
+  border-radius: 4px;
+  cursor: pointer;
 }
-.markdown-preview-view .callout.nav .callout-title { display: none; }
+
+/* hide any default callout title badge */
+.markdown-preview-view .callout.nav .callout-title {
+  display: none;
+}
+
+
