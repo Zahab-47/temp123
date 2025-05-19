@@ -33,8 +33,11 @@
 </div>
 
 <div class="prev-next-container">
+
   <a href="[[Previous Note Title\|Previous Note Title]]" class="prev-link">Prev</a>
+  
   <a href="[[Next Note Title\|Next Note Title]]" class="next-link">Next</a>
+  
 </div>
 
 ## Chapter 1: Creation 
