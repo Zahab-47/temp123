@@ -64,6 +64,7 @@ a.tag {
 
 /* PREV/NEXT Navigation for Digital Garden static site */
 
+/* Updated CSS for the fix */
 .prev-next-container {
   display: flex;
   justify-content: space-between;
@@ -75,18 +76,21 @@ a.tag {
   padding: 1rem 0;
 }
 
-.prev-next-container a {
+.prev-link, .next-link {
   display: flex;
   align-items: center;
+}
+
+.prev-link a, .next-link a {
   text-decoration: none;
-  color: #7b6cd9; /* Purple similar to your example */
+  color: #7b6cd9;
   font-size: 1.2rem;
   transition: color 0.2s ease;
   font-weight: 500;
 }
 
-.prev-next-container a:hover {
-  color: #5a4cb7; /* Slightly darker on hover */
+.prev-link a:hover, .next-link a:hover {
+  color: #5a4cb7;
   text-decoration: underline;
 }
 
@@ -97,6 +101,7 @@ a.tag {
 .prev-link::before {
   content: "◀";
   margin-right: 0.5rem;
+  color: #7b6cd9;
 }
 
 .next-link {
@@ -106,6 +111,7 @@ a.tag {
 .next-link::after {
   content: "▶";
   margin-left: 0.5rem;
+  color: #7b6cd9;
 }
 
 /* Mobile responsiveness */
