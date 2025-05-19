@@ -108,3 +108,52 @@ a.tag {
 }
 
 /* END PREV/NEXT LINK */
+
+/* Navigation using callouts */
+.callout[data-callout="prev-nav"],
+.callout[data-callout="next-nav"] {
+  display: inline-block;
+  width: 45%;
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.callout[data-callout="prev-nav"] {
+  float: left;
+  text-align: left;
+}
+
+.callout[data-callout="next-nav"] {
+  float: right;
+  text-align: right;
+}
+
+.callout[data-callout="prev-nav"] .callout-title,
+.callout[data-callout="next-nav"] .callout-title {
+  display: none;
+}
+
+.callout[data-callout="prev-nav"] a,
+.callout[data-callout="next-nav"] a {
+  color: #7b6cd9;
+  font-size: 1.2rem;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* Add a clearfix to ensure container height is maintained */
+.callout[data-callout="next-nav"] + * {
+  clear: both;
+}
+
+/* Container for the navigation */
+.prev-next-container {
+  width: 100%;
+  margin: 2rem 0;
+  border-top: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 1rem 0;
+  overflow: hidden; /* Contain the floats */
+}
