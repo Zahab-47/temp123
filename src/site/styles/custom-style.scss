@@ -82,6 +82,16 @@ a.tag {
   background-color: var(--background-secondary);
 }
 
+.callout-icon {
+   display: none;
+}
+
+.callout-title {
+   display: block;
+   line-height: unset;
+   padding: 1em;
+}
+
 /* 3. hide nav-type icon/title badge */
 .markdown-preview-view .callout.nav .callout-icon,
 .markdown-preview-view .callout.nav .callout-title {
