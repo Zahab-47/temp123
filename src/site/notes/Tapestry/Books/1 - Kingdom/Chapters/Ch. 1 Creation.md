@@ -25,19 +25,17 @@
 <div class="prev-next-container">
 
 > [!prev]
-> [[Previous Note Title\|Previous Note Title]]
+> [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]
 
 > [!next]
 > [[Next Note Title\|Next Note Title]]
 
-</div>
+<div style="display: none;" class="prev-next-navigation">
 
-<div class="prev-next-container">
+[[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]
 
-  <a href="[[Previous Note Title\|Previous Note Title]]" class="prev-link">Prev</a>
-  
-  <a href="[[Next Note Title\|Next Note Title]]" class="next-link">Next</a>
-  
+[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]]
+
 </div>
 
 ## Chapter 1: Creation 
