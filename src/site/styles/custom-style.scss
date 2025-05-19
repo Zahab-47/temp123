@@ -79,10 +79,13 @@ a.tag {
 /* allow each callout to grow/fill equally */
 .markdown-preview-view .callout.nav {
   position: relative;
-  padding: 0;
+  padding: 1em;
   margin: 0;
   flex: 1 1 0;
-  min-width: 0;
+  min-height: 3em;
+  text-align: center;
+  text-decoration: none;
+  background-color: var(--background-secondary);
 }
 
 /* make the <a> fill the callout, style it, and remove underlines */
