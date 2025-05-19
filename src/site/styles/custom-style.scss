@@ -102,28 +102,33 @@ a.tag {
 }
 
 /* make sure the callout itself is positioned */
-.markdown-preview-view .callout.nav {
+/* 1. make sure the nav callout is a positioning context */
+.callout.nav {
   position: relative;
 }
 
-/* 4. full-box clickable: let Obsidian’s generated <a> fill it */
-.markdown-preview-view .callout.nav > a {
+/* 2. stretch every link inside it to cover the full box */
+.callout.nav a {
   position: absolute;
-  inset: 0;
-  display: block;
+  top: 0; 
+  right: 0; 
+  bottom: 0; 
+  left: 0;
+  display: flex;               /* for centering text */
   align-items: center;
   justify-content: center;
-  color: var(--text-normal);
   text-decoration: none;
+  color: inherit;
   cursor: pointer;
   z-index: 1;
 }
 
-/* 5. ensure no underline on hover/focus */
-.markdown-preview-view .callout.nav > a:hover,
-.markdown-preview-view .callout.nav > a:focus {
-  text-decoration: none;
+/* 3. send all other children behind it so clicks pass through */
+.callout.nav > *:not(a) {
+  pointer-events: none;
+  z-index: 0;
 }
+
 
 
 
