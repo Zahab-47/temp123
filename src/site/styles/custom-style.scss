@@ -64,118 +64,25 @@ a.tag {
 
 /* PREV/NEXT Navigation for Digital Garden static site */
 
-/* Pure Markdown Navigation Fix */
-.prev-next-navigation {
-  display: flex !important; /* Override the display:none from the div */
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  margin: 2rem 0;
-  border-top: 1px solid #e0e0e0;
-  border-bottom: 1px solid #e0e0e0;
-  padding: 1rem 0;
-}
-
-.prev-next-navigation p {
-  margin: 0;
-  padding: 0;
-}
-
-.prev-next-navigation a {
-  color: #7b6cd9;
-  font-size: 1.2rem;
-  text-decoration: none;
-  font-weight: 500;
-  transition: color 0.2s ease;
-}
-
-.prev-next-navigation a:hover {
-  color: #5a4cb7;
-  text-decoration: underline;
-}
-
-/* Mobile responsiveness */
-@media (max-width: 768px) {
-  .prev-next-navigation a {
-    font-size: 1rem;
-  }
-}
-
-@media (max-width: 480px) {
-  .prev-next-navigation a {
-    font-size: 0.9rem;
-  }
-}
-
-/* END PREV/NEXT LINK */
-
-/* Navigation using callouts */
-.callout[data-callout="prev-nav"],
-.callout[data-callout="next-nav"] {
-  display: inline-block;
-  width: 45%;
-  background: transparent;
-  border: none;
-  padding: 0;
-  margin: 0;
-}
-
-.callout[data-callout="prev-nav"] {
-  float: left;
-  text-align: left;
-}
-
-.callout[data-callout="next-nav"] {
-  float: right;
-  text-align: right;
-}
-
-.callout[data-callout="prev-nav"] .callout-title,
-.callout[data-callout="next-nav"] .callout-title {
-  display: none;
-}
-
-.callout[data-callout="prev-nav"] a,
-.callout[data-callout="next-nav"] a {
-  color: #7b6cd9;
-  font-size: 1.2rem;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-/* Add a clearfix to ensure container height is maintained */
-.callout[data-callout="next-nav"] + * {
-  clear: both;
-}
-
-/* Container for the navigation */
-.prev-next-container {
-  width: 100%;
-  margin: 2rem 0;
-  border-top: 1px solid #e0e0e0;
-  border-bottom: 1px solid #e0e0e0;
-  padding: 1rem 0;
-  overflow: hidden; /* Contain the floats */
-}
-
-/* 1. Reset all callouts to block-level with a bit of vertical spacing */
+/* 1. base reset */
 .markdown-preview-view .callout {
   display: block;
   margin: 1rem 0;
 }
 
-/* 2. When a callout is immediately followed by another, make them two columns */
+/* 2. any callout that has a callout immediately after it,
+      and that following callout, become half-width inline blocks */
+.markdown-preview-view .callout:has(+ .callout),
 .markdown-preview-view .callout + .callout {
   display: inline-block !important;
   vertical-align: top;
   width: calc(50% - 0.5rem) !important;
-  margin: 0 0 1rem 1rem !important;
+  margin: 0 0.5rem 1rem 0 !important;
 }
 
-/* 3. If there’s a third callout in a row, force it back to full width */
+/* 3. a third consecutive callout (or more) reverts to full width */
 .markdown-preview-view .callout + .callout + .callout {
   display: block !important;
   width: 100% !important;
   margin: 1rem 0 0 !important;
 }
-
