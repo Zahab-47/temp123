@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Chapters/Ch. 17 One New Man/","title":"Chapter 17 - \"One New Man\"","tags":["book-chapter"],"dgHomeLink":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/Tapestry/Books/1 - Kingdom/Chapters/Ch. 16 His Image/","title":"Chapter 16 - \"His Image\"","tags":["book-chapter"],"dgHomeLink":true,"dgEnableSearch":true}
 ---
 
 
@@ -21,15 +21,15 @@
 
 <div class="callout-grid">
 
-> [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 16 His Image#Chapter 16: His Image\|◄ Prev]]
+> [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 15 The Last Battle#Chapter 15: The Last Battle\|◄ Prev]]
 
-> [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 18 Dismantling#Chapter 18: Dismantling\|Next ►]]
+> [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 17 One New Man#Chapter 17: One New Man\|Next ►]]
 
 </div>
 
 ---
 
-## Chapter 17: One New Man
+## Chapter 16: His Image
 
 > [!quote]+ 
 >*“His purpose was to create in himself one new man out of the two *[Jew and Gentile]*, thus making peace, and in this one body to reconcile both of them to God through the cross, by which he put to death their hostility.”* [[Ephesians 2_15b-16\|Ephesians 2:15b-16]]*  #bible-verse 
@@ -131,5 +131,4 @@ When the people of God are set free from captivity of the kingdom of darkness th
 
 ---
 
-
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 16 His Image#Chapter 16: His Image\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 18 Dismantling#Chapter 18: Dismantling\|Next ►]] 
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 15 The Last Battle#Chapter 15: The Last Battle\|◄ Prev]]                                                                                                                                           [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 17 One New Man#Chapter 17: One New Man\|Next ►]] 

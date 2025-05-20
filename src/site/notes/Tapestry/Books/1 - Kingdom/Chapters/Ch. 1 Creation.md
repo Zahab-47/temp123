@@ -15,7 +15,7 @@
 > [!quote]
 > ###### [[HUB - Blue Flame Library\|All Books]]
 >
-> ###### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom - Table of Contents\|Table of Contents]]
+> ###### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom_Table of Contents\|Table of Contents]]
 
 ---
 
@@ -271,6 +271,12 @@ The author of life loved us so much that He died so we could be free and have re
 
 <br>
 
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]                                                                                                                   [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]] 
+<div class="callout-grid">
+
+> [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|◄ Prev]]
+
+> [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 2 The Kingdom#Chapter 2: The Kingdom\|Next ►]]
+
+</div>
 
 ---

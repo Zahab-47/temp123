@@ -6,7 +6,7 @@
 ## Table of Contents
 
 
-[[Tapestry/Books/1 - Kingdom/Chapters/What is Terraforming\|What is Terraforming]]
+[[Tapestry/Books/1 - Kingdom/Chapters/Summary_What is Terraforming\|Summary_What is Terraforming]]
 
 [[Tapestry/Books/1 - Kingdom/Chapters/Foreword_What is Terraforming?\|Foreword_What is Terraforming?]]
 

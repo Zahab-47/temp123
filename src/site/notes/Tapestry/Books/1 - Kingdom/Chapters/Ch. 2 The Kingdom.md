@@ -3,6 +3,32 @@
 ---
 
 
+> [!example] 
+>###### Sections
+>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Love Defined\|Love Defined]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Offspring Defined\|Offspring Defined]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Heaven and Hell\|Heaven and Hell]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Fallibility\|Fallibility]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Savior\|Savior]] 
+
+--- 
+> [!quote]
+> ###### [[HUB - Blue Flame Library\|All Books]]
+>
+> ###### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom_Table of Contents\|Table of Contents]]
+
+---
+
+<div class="callout-grid">
+
+> [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Chapter 1 Creation\|◄ Prev]]
+
+> [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Chapter 3 Definitions\|Next ►]]
+
+</div>
+
+---
+
 ## Chapter 2: The Kingdom
 
 > [!quote]+
