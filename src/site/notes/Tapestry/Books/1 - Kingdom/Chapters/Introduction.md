@@ -6,7 +6,7 @@
 > [!quote]
 > ###### [[HUB - Blue Flame Library\|All Books]]
 >
-> ###### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom_Table of Contents\|Table of Contents]]
+> ###### [[Tapestry/Books/1 - Kingdom/Chapters/Kingdom_Table of Contents\|Table of Contents]]
 
 ---
 

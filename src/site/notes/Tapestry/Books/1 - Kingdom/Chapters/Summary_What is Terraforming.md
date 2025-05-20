@@ -8,13 +8,13 @@
 > [!quote]
 > ###### [[HUB - Blue Flame Library\|All Books]]
 >
-> ###### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom_Table of Contents\|Table of Contents]]
+> ###### [[Tapestry/Books/1 - Kingdom/Chapters/Kingdom_Table of Contents\|Table of Contents]]
 
 ---
 
 <div class="callout-grid">
 
-> [!nav] [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom_Table of Contents\|◄ Prev]]
+> [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Kingdom_Table of Contents\|◄ Prev]]
 
 > [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Introduction#Introduction\|Next ►]]
 
@@ -48,4 +48,4 @@ As royal priests, we are preparing creation (people, places, things) for His [[G
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom_Table of Contents#Table of Contents\|◄ Prev]]                                                                                                                                           [[Ch. 1 - "Creation"#Chapter 1: Creation\|Next ►]]
+##### [[Tapestry/Books/1 - Kingdom/Chapters/Kingdom_Table of Contents#Table of Contents\|◄ Prev]]                                                                                                                                           [[Ch. 1 - "Creation"#Chapter 1: Creation\|Next ►]]

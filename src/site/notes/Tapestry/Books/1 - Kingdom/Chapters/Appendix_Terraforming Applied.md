@@ -3,21 +3,21 @@
 ---
 
 
-> [!example] 
->###### Sections
->[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Love Defined\|Love Defined]]
->[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Offspring Defined\|Offspring Defined]]
->[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Heaven and Hell\|Heaven and Hell]]
->[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Fallibility\|Fallibility]]
->[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Savior\|Savior]] 
-
---- 
 > [!quote]
 > ###### [[HUB - Blue Flame Library\|All Books]]
 >
-> ###### [[Tapestry/Books/1 - Kingdom/Navigator/Kingdom_Table of Contents\|Table of Contents]]
+> ###### [[Tapestry/Books/1 - Kingdom/Chapters/Kingdom_Table of Contents\|Table of Contents]]
 
 ---
+
+> [!example] 
+>###### Appendix Contents
+>[[Tapestry/Books/1 - Kingdom/Chapters/Appendix_Terraforming Applied#Appendix Terraforming Applied\|Appendix Start]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Appendix_Terraforming Applied#Sample Prayer: Person, Self\|Sample Prayer: Praying for Yourself]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Appendix_Terraforming Applied#Sample Prayer: Places\|Sample Prayer: Praying for Places]]
+>[[Tapestry/Books/1 - Kingdom/Chapters/Appendix_Terraforming Applied#Sample Prayer: Things\|Sample Prayer: Praying for Things]]
+--- 
+
 
 <div class="callout-grid">
 
@@ -26,8 +26,6 @@
 > [!nav] [[RESTORATION#PLACEHOLDER\|Next ►]]
 
 </div>
-
----
 
 ## Appendix: Terraforming Applied
 
@@ -48,8 +46,6 @@ I am shouting from the mountain tops, begin Terraforming in groups! Join togethe
 - 187 -
 
 </p> 
-{ #p187}
-
 
 ---
 
@@ -66,14 +62,13 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 - 188 -
 
 </p> 
-{ #p188}
-
 
 ---
 
-### Sample Prayer: [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#People\|Person, Self]]
+### Sample Prayer: Person, Self
 
----
+> [!quote]
+> *See [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#People\|Chapter 3: Definitions - People]]*
 
 ##### STEP ONE: The Light of Jesus
 
@@ -94,14 +89,13 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 - 189 -
 
 </p> 
-{ #p189}
-
 
 ---
 
-### Sample Prayer: [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Places\|Places]]
+### Sample Prayer: Places
 
----
+> [!quote]
+> *See [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 ##### STEP ONE: The Light of Jesus
 
@@ -121,14 +115,15 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 - 190 -
 
 </p> 
-{ #p190}
-
 
 ---
 
-### Sample Prayer: [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Things\|Things]]
+### Sample Prayer: Things
 
 ---
+
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Things\|Chapter 3: Definitions - Things]]*
 
 ##### STEP ONE: The Light of Jesus
 
@@ -147,28 +142,36 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 - 191 -
 
 </p> 
-{ #p191}
-
 
 ---
 
-### Sample Prayers - [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 8 Upper Hand\|Chapter 8: Upper Hand]]
+### Sample Prayers: Upper Hand
 
----
+> [!quote]
+> *See [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 8 Upper Hand#Chapter 8: Upper Hand\|Chapter 8: Upper Hand]]*
 
 *Father, I ask You to shine Your Light in my life. I ask You to reveal the hidden sins in the Light of Your Presence. I repent and receive the Blood of Jesus for every time I have fallen short of the Glory of God. The power of my sins is broken. I am purified of all unrighteousness and redeemed of every consequence. I ask You Lord to remember my sins no more. All rights of the evil one to manifest in my life are stripped. No weapon formed against me shall prosper.* #sample-prayer 
 
-#### [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#LEGAL MATTERS\|Legal Disclosure]]
+#### Legal Disclosure
+
+> [!quote]
+> *See [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 8 Upper Hand#Legal Matters\|Ch. 8: Upper Hand - Legal Matters]]*
 
 *I go to the supreme court, the Throne Room of God. Father I recognize that the accuser has been conspiring against me and Your Kingdom. I request a discovery phase. With the Authority You have given us, I demand of the enemy camp that all hidden plans be exposed in the Light of Your Presence. All attempts at deception, division, and destruction whether in progress or in thought only, must be completely disclosed in full detail. I command all evil to lay its plans in the Light where I will be able to see what you are trying to do, and which persons you are trying to tempt into sin before the temptation is delivered. Father, I ask You to bless our prayers of disclosure.* #sample-prayer 
 
-#### [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#NO DISCERNMENT ZONE\|No Discernment Zone]]
+#### No Discernment Zone
+
+> [!quote]
+> *See [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 8 Upper Hand#No Discernment Zone\|Ch. 8: Upper Hand - No Discernment Zone]]*
 
 *I call this place and all places that I go to a “No Discernment Zone” for the enemy camp. Evil cannot see, hear, or in any way obtain information that could be used against me or the Kingdom of God. I say that all human agents of evil lose their rights and abilities of surveillance against me and my family. All technology used to monitor our behavior will supernaturally malfunction if it is attempted to be used against us. Father, I ask You to bless our prayers of protection.* #sample-prayer
 
-#### [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#INCUBATOR OF GRACE\|Incubator of Grace]]
+#### Incubator of Grace
 
-*Father, I recognize that the enemy has a right to torment and afflict Jim. But Lord, You know that we are in the process of bringing him healing that will be accomplished over time, in accordance with Your Will. I ask You Father to cover my brother with an Incubator of Your Grace so Jim is protected from harm while he is in this vulnerable position. I ask You to assign angels that we might post around Jim to cover him and keep him until #sample-prayer
+> [!quote]
+> *See [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 8 Upper Hand#Incubator of Grace\|Ch. 8: Upper Hand - Incubator of Grace]]*
+
+*Father, I recognize that the enemy has a right to torment and afflict Jim. But Lord, You know that we are in the process of bringing him healing that will be accomplished over time, in accordance with Your Will. I ask You Father to cover my brother with an Incubator of Your Grace so Jim is protected from harm while he is in this vulnerable position. I ask You to assign angels that we might post around Jim to cover him and keep him until* #sample-prayer
 
 ---
 
@@ -176,12 +179,10 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 - 192 -
 
 </p> 
-{ #p192}
-
 
 ---
 
-he has received all of the daily bread of healing needed for him to fight on his own. Thank You for loving Your children so much, Lord! We give You the Glory and the Honor always, Amen.* #sample-prayer
+*he has received all of the daily bread of healing needed for him to fight on his own. Thank You for loving Your children so much, Lord! We give You the Glory and the Honor always, Amen.* #sample-prayer
 
 
 ---
@@ -190,8 +191,6 @@ he has received all of the daily bread of healing needed for him to fight on his
 - 193 -
 
 </p> 
-{ #p193}
-
 
 ---
 
@@ -199,18 +198,30 @@ he has received all of the daily bread of healing needed for him to fight on his
 
 ---
 
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
+
 *Father, I ask You to shine Your Light in Jim’s Life to reveal the hidden sins in the Light of Your Presence. I welcome You here Lord Jesus, Lion of the Tribe of Judah to prowl in Jim’s life. To place You Paw Print on his heart. To set Your Will in his life, as he belongs to You. You are God and King. We worship You.* #sample-prayer 
 
 #### [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#HOOKS AND LOOPS\|Velcro]]
+
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 *I forgive Jim for lying. I wash his feet with the Blood of Jesus that the power of lying is broken in his life. He is purified of lying and redeemed of every consequence. I cast down the accuser with the Blood of the Lamb and the word of his testimony. And as the power of lying is broken, the loop of this sin falls off of Jim and the hooks of evil no longer have a place to latch onto in Jim’s life. I ask You Lord to heal Jim of the habit of lying. Jim is free.* #sample-prayer 
 
 #### [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#ELECTRIC ONION\|Electric Onion]]
 
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
+
 *Jim, you’ve been angry at God. If you agree with this, repeat after me:*
 *“Father, I repent of the foundational sin of being angry at God. I repent of blaming You Lord for things that were the result of demonic manifestations from human rebellion. I ask You Lord Jesus to wash my feet with Your own Blood so that the power of “anger at God” is broken. That I would be purified of the unrighteousness and redeemed of every consequence. I ask You Father to remember this sin no more. I cast down the accuser with the Blood of the Lamb and the word of my testimony. I unplug the power supply of this demonic stronghold and call the nucleus neutralized. All other demons using this source for their power in my life have been cut off. I bind the demon of anger and cast it to the feet of Jesus. You may never return.* #sample-prayer 
 
 #### [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 18: Dismantling\|Armor of God]]
+
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 *I forgive all those people who trespassed against my Grandfather by lying about him. I wash their feet with the Blood of Jesus and the generational root of the trespass of lying is broken. Equally, I forgive all those people in my life who have trespassed against me by lying about me. I wash their feet with the Blood of Jesus and the power of lies is broken.  All false accusations, judgments, and opinions about me are washed away.  I also* #sample-prayer 
 
@@ -225,8 +236,6 @@ he has received all of the daily bread of healing needed for him to fight on his
 - 194 -
 
 </p> 
-{ #p194}
-
 
 ---
 
@@ -238,22 +247,27 @@ he has received all of the daily bread of healing needed for him to fight on his
 - 195 -
 
 </p> 
-{ #p195}
-
 
 ---
 
 ### Sample Prayers: [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 9: Deliverance\| Chapter 9: Deliverance (cont.)]]
 
----
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 *Father, I ask You to shine Your Light in Jim’s Life to reveal the hidden sins in the Light of Your Presence. I welcome You here Lord Jesus, Lion of the Tribe of Judah to prowl in Jim’s life. To place Your paw print on his heart. To set Your Will in his life, as he belongs to You. You are God and King. We worship You.*
 
 #### [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#FLUSH THE BUSHES\|Flush the Bushes]]
 
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
+
 *Father, I ask You to purify Jim with Your Fire. I ask You to burn through him with a mighty wind of heat. Raise the temperature in his life Lord that no demon can hide. I ask You to scorch them with Your All Consuming Fire. I sprinkle the Blood of Jesus on Jim so that the power of all sin in his life is broken. He is purified of all unrighteousness and redeemed of every consequence. All rights of the enemy are stripped. I dismantle every demonic cord that keeps them in place.*
 
 #### [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#SADISTIC RITUAL ABUSE (SRA)\| Sadistic Ritual Abuse]]
+
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 (Complex and intricate, Holy Spirit will lead the way)
 
@@ -270,14 +284,15 @@ he has received all of the daily bread of healing needed for him to fight on his
 - 196 -
 
 </p> 
-{ #p196}
-
 
 ---
 
 *with the Blood of the Lamb and the word of our testimony. All demons interfering with the Will of the Father in my life have lost their rights to torment and afflict me. I bind them and cast them to the feet of Jesus, never to return. I give you the glory and honor Lord!* #sample-prayer
 
 #### [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#DIGITAL AUDIO RECORDINGS\|Digital Audio Recordings]]
+
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 *Father, now that all demonic power and influence has been broken, I ask You to heal Jim. I ask You to seek out the damaged places and to mend them to perfection. I ask You to apply the Balm of Gilead to Jim’s soul. I ask You to heal his mind, will, and emotions of the habits, instincts, and reflexes that came from years of abuse at the enemy’s hand. While Jim’s soul has grown around the “tumor” within him, it has been distorted, mangled, and even deformed because of the invasion of his being. I ask You to heal and restore him back to the man of God that he was created to be.* #sample-prayer 
 
@@ -287,16 +302,18 @@ he has received all of the daily bread of healing needed for him to fight on his
 - 197 -
 
 </p> 
-{ #p197}
-
 
 ---
 
 ### Sample Prayer: [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 12 Healing a Person\|Chapter 12: Healing a Person]]
 
----
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 #### [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#KINSMAN-REDEEMERS\|Kinsman-Redeemers]]
+
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 ##### STEP ONE: The Light of Jesus
 
@@ -318,8 +335,6 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 - 198 -
 
 </p> 
-{ #p198}
-
 
 ---
 
@@ -333,6 +348,9 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 *Father, I ask You to shine the Light of Jesus in my life. I ask You to flood in like a river into every crack and crevice so that there would be no shadows, no hiding places for the enemy. I ask You to reveal all of the hidden things in the Light of Your Presence. Father, You know what I can handle at one time and what would be too much. I ask You to give me this day my daily bread of revelation through Your Light. I ask You, Holy Spirit to lead me to the Will of the Father so that through the discernment of Your Voice, all of my prayers might be founded in Truth. We give You the glory and honor in all things.”* #prayer #blood  #sample-prayer
 
 #### [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#SOUL TIES\|Soul Ties]]
+
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 *“Father, I repent of having premarital intercourse and ask You to forgive me. As I have been forgiven, I also forgive that person that I had intercourse with. I wash our feet with the Blood of Jesus that the power of fornication is broken. I take my soul back from that person, washed with the Blood of Jesus that I might be whole again. Equally, I give back their soul washed with the Blood of Jesus so that they would be whole again. We are purified of all unrighteousness and redeemed of every consequence. All soul ties outside of the Will of God are broken. We are restored to the man and woman of God that we were created to be. I cast down the accuser with the Blood of the Lamb and the word of our testimony. I ask You Father to remember these sins no more, and that we might remember them no longer as well. In body, soul, and spirit. Amen”* #prayer #soul-tie #sample-prayer
 
@@ -351,8 +369,6 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 - 199 -
 
 </p> 
-{ #p199}
-
 
 ---
 
@@ -366,14 +382,13 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 - 200 -
 
 </p> 
-{ #p200}
-
 
 ---
 
 ### Sample Prayer: [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#HARD HEARTS\|WILL OF A PERSON SET AGAINST TRUTH]]
 
----
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 ##### STEP ONE: The Light of Jesus
 
@@ -393,8 +408,6 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 - 201 -
 
 </p> 
-{ #p201}
-
 
 ---
 
@@ -406,12 +419,13 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 - 202 -
 
 </p> 
-{ #p202}
-
 
 ---
 
 ### Sample Prayer: Self (Adulthood)
+
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 ##### STEP ONE: The Light of Jesus
 
@@ -431,8 +445,6 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 - 203 -
 
 </p> 
-{ #p203}
-
 
 ---
 
@@ -446,12 +458,13 @@ assigned to me to come and fulfill their mission of protection and ministry over
 - 204 -
 
 </p> 
-{ #p204}
-
 
 ---
 
 ### Sample Prayer: Dismantling Defiled Land
+
+> [!quote]
+> *From: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 ##### STEP ONE: The Light of Jesus
 
@@ -473,8 +486,6 @@ assigned to me to come and fulfill their mission of protection and ministry over
 - 205 -
 
 </p> 
-{ #p205}
-
 
 ---
 
@@ -488,12 +499,13 @@ assigned to me to come and fulfill their mission of protection and ministry over
 - 206 -
 
 </p> 
-{ #p206}
-
 
 ---
 
 ### Sample Prayer: Dismantling Heart Wounds
+
+> [!quote]
+> *See: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 ##### STEP ONE: The Light of Jesus
 
@@ -513,12 +525,13 @@ assigned to me to come and fulfill their mission of protection and ministry over
 - 207 -
 
 </p> 
-{ #p207}
-
 
 ---
 
 ### Sample Prayer: Splinter Souls
+
+> [!quote]
+> *See: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 *“Father, Thank You for Your Light that has revealed the hidden root sins in my life. I am Your child, and You have called me a royal priest. I receive that authority this day and freely choose to forgive those parts of my soul that have splintered off through wounding and / or trauma. I sprinkle each one with the Blood of Jesus and the power of <self-pity, despair, anger, self-protection, fear, self-destruction, self-gratification, independence from God> is broken. They are purified of this unrighteousness; they are redeemed of every consequence. And I am restored to the person of God that I was created to be: whole and complete, unified and integrated. I hurl down the accuser with the Blood of the Lamb and the word of my testimony. I welcome back the wounded little boy, the frightened child, the rebellious teenager, the addict, and the adult bully back into my being, fully free of all sin. Thanks be to Jesus Christ, King.”*
 
@@ -532,8 +545,6 @@ assigned to me to come and fulfill their mission of protection and ministry over
 - 208 -
 
 </p> 
-{ #p208}
-
 
 ---
 
@@ -547,12 +558,13 @@ assigned to me to come and fulfill their mission of protection and ministry over
 - 209 -
 
 </p> 
-{ #p209}
-
 
 ---
 
 ### Sample Prayer: Soul Healing
+
+> [!quote]
+> *See: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 #### Soul Armor
 
@@ -575,8 +587,6 @@ assigned to me to come and fulfill their mission of protection and ministry over
 - 210 -
 
 </p> 
-{ #p210}
-
 
 ---
 
@@ -588,12 +598,13 @@ ways for us to set boundaries around behavior and methods of accountability so m
 - 211 -
 
 </p> 
-{ #p211}
-
 
 ---
 
 ### Sample Prayer: Kingdom
+
+> [!quote]
+> *See: [[Tapestry/Books/1 - Kingdom/Chapters/Ch. 3 Definitions#Places\|Chapter 3: Definitions - Places]]*
 
 #### Unity
 
@@ -609,9 +620,13 @@ ways for us to set boundaries around behavior and methods of accountability so m
 - 212 -
 
 </p> 
-{ #p212}
-
 
 ---
 
-##### [[Tapestry/Books/1 - Kingdom/Chapters/Epilogue_The Diabolical Plans of Diablo#Epilogue: The Diabolical Plans of Diablo\|◄ Prev]]                                                                                                                                           [[Cessor Journeys - Table of Contents\|Next ►]] 
+<div class="callout-grid">
+
+> [!nav] [[Tapestry/Books/1 - Kingdom/Chapters/Epilogue_The Diabolical Plans of Diablo#Epilogue: The Diabolical Plans of Diablo\|◄ Prev]]
+
+> [!nav] [[RESTORATION#PLACEHOLDER\|Next ►]]
+
+</div>
