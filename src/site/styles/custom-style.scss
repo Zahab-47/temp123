@@ -5,7 +5,12 @@ a:visited {
   text-decoration: none;
 }
 
+/* PARAGRAPH MARGINS */
 
+p {
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+}
 
 /* REMOVE ALL TAG ELEMENTS */
 
