@@ -27,6 +27,12 @@ a.tag, .editor .cl-hashtag {
   text-align: center;
 }
 
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3 {
+   margin-top: 1em;
+}
+
 /* ALL CALLOUTS FORMATTING */
 
 .callout {
