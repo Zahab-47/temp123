@@ -1,7 +1,8 @@
-/* Prevent iOS Safari from auto-zooming on input focus */
+/* Prevent auto-zooming on input focus */
+
 html {
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust:     100%;
+  -webkit-text-size-adjust: 100% !important;
+  -ms-text-size-adjust:     100% !important;
 }
 
 /* VISITED DON'T CHANGE COLORS */
