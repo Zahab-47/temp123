@@ -5,12 +5,16 @@
 
 > [!example] 
 >
->[[HUB - Blue Flame Library\|All Books]]
+>###### [[HUB - Blue Flame Library\|All Books]]
 >
->[[Tapestry/Books/1 - Kingdom/Chapters/Kingdom_Table of Contents\|Table of Contents]]
+>###### [[Tapestry/Books/1 - Kingdom/Chapters/Kingdom_Table of Contents\|Table of Contents]]
+>
+><br>
 >
 >###### Appendix Contents
 >[[Tapestry/Books/1 - Kingdom/Chapters/Appendix_Terraforming Applied#Appendix Terraforming Applied\|Appendix Start]]
+>
+><br>
 >
 >**SAMPLE PRAYERS**
 >
