@@ -60,7 +60,8 @@ input[type=text], input[type=search], input[type=email], input[type=password], i
 .filetree-sidebar {
   padding: 0 0 0 0;
   left: -3px;
-  width: inherit;
+  width: min-content;
+  min-width: 20em;
   margin: 9px;
   top: 1px;
   height: 98%;
