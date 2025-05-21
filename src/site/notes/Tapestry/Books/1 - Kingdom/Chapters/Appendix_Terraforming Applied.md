@@ -38,14 +38,10 @@ In past chapters of application, I have emphasized the importance of Terraformin
 
 I am shouting from the mountain tops, begin Terraforming in groups! Join together, become accountable to one another. Progress to deeper places in your own heart. Ask the Lord for the authority needed to pray over wider areas. The Lord wants to expand your tent pegs! He wants you to branch out! But for this to happen safely, we are exhorted to assemble as a body. You are a hand.  God wants to attach you to a wrist, elbow, and upper
 
----
-
 <p style="text-align:center;">
 - 187 -
 
 </p> 
-
----
 
 arm. He wants to attach your arm to the torso across town where the legs are headed now. As is another arm that looks just like yours does, but has an opposable function with yours.
 
