@@ -46,9 +46,11 @@ a.tag, .editor .cl-hashtag {
 }
 
 .markdown-rendered h2 {
-    border: outset;
-    border-color: var(--background-alt);
+    border: solid;
+    border-color: var(--background-modifier-cover);
     padding: 15px;
+    background-color: var(--background-secondary);
+    border-radius: 4px;
 }
 
 .markdown-preview-view h3 {
