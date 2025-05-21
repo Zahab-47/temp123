@@ -8,7 +8,7 @@ h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1 {
 
 .navbar {
   padding-left: 1em;
-  width: 105%;
+  width: 102%;
 }
 
 /* SEARCH BOX SETTINGS */
@@ -48,7 +48,7 @@ input[type=text], input[type=search], input[type=email], input[type=password], i
 
 .search-button {
   margin: 10px 40px !important;
-  color: var(--background-modifier-border-focus);
+  color: var(--link-color);
 }
 
 /* FOLDER TREE SETTINGS */
@@ -56,7 +56,7 @@ input[type=text], input[type=search], input[type=email], input[type=password], i
 .filetree-sidebar {
   padding: 0 0 0 0;
   left: -3px;
-  width: 280px;
+  width: inherit;
   margin: 9px;
   top: 1px;
   height: 98%;
@@ -66,7 +66,7 @@ input[type=text], input[type=search], input[type=email], input[type=password], i
 
 @media (max-width: 800px) {
     .filetree-sidebar .search-button {
-              margin: 11px 15px 4px 15px !important;
+              margin: 15px 60px 7px 60px !important;
     }
 }
 
@@ -191,7 +191,7 @@ a.tag, .editor .cl-hashtag {
 .callout[data-callout=cite] .callout-content {
   text-align: center;
   font-style: italic;
-  font-size: 1em;
+  font-size: 16px;
 }
 
 /* Make background transparent for quote callout box */
@@ -214,7 +214,7 @@ a.tag, .editor .cl-hashtag {
 .callout[data-callout=example] .callout-content {
   text-align: center;
   font-weight: 550;
-  font-size: 1em;
+  font-size: 85%;
 }
 
 /* Make background transparent for Example callout box */
