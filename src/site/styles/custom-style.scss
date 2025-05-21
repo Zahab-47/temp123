@@ -21,7 +21,7 @@ a.tag, .editor .cl-hashtag {
 
 .markdown-rendered hr {
    border-top: .1em solid;
-   border-color: var(--background-alt);
+   border-color: var(--background-modifier);
    margin-top: 1.3em;
    margin-bottom: 1.3em;
 }
@@ -48,7 +48,7 @@ a.tag, .editor .cl-hashtag {
 .markdown-rendered h2 {
     border: outset;
     border-color: var(--background-alt);
-    margin: 15px;
+    padding: 15px;
 }
 
 .markdown-preview-view h3 {
