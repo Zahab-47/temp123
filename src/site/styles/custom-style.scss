@@ -4,6 +4,10 @@ a.tag {
    display: none;
 }
 
+a.tag, .editor .cl-hashtag {
+   display: none;
+}
+
    /* Center all Markdown headers */
 
 .markdown-preview-view h1,
