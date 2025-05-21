@@ -42,8 +42,6 @@ In past chapters of application, I have emphasized the importance of Terraformin
 
 I am shouting from the mountain tops, begin Terraforming in groups! Join together, become accountable to one another. Progress to deeper places in your own heart. Ask the Lord for the authority needed to pray over wider areas. The Lord wants to expand your tent pegs! He wants you to branch out! But for this to happen safely, we are exhorted to assemble as a body. You are a hand.  God wants to attach you to a wrist, elbow, and upper
 
-<br>
-
 ---
 
 <p style="text-align:center;">
@@ -53,12 +51,10 @@ I am shouting from the mountain tops, begin Terraforming in groups! Join togethe
 
 ---
 
-<br>
-
 arm. He wants to attach your arm to the torso across town where the legs are headed now. As is another arm that looks just like yours does, but has an opposable function with yours.
 
 The Lord commands a blessing when we are unified (Psalm 133). When we begin to see groups of adult sons and daughters of God gather together in holiness to pray over the land, their cities, their region, and their countries we will see the planet change. Jesus was on his own. He was the prototype. We are called to do everything that He did in unity. We then will truly become the body of Christ. Multiple children of God that fit together perfectly to make up one new man in Christ. We are literally to become Jesus on earth when this happens. The time is now. Think of it as a square dance. Step one is to find your partner... #terraforming #heart #heart-of-God #invitation #rescue #adult-season #sons-and-daughters #pray #jesus 
-<br>
+
 
 ---
 
@@ -85,7 +81,7 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 ##### STEP THREE: The Authority of Jesus
 
 *“All conspiracies of evil are thwarted. No weapon formed against me shall prosper. I ask you Lord to come, All Consuming Fire, to burn any deposits left by the evil one away: any seeds, implantations, or fruit that there would be no trace of evil in my life. I call all portals, doors, or gates off-limits to the enemy camp. Father, I enforce all angelic assignments that You have given me. I receive all guardian and ministering angels that You have sent to me and the messages they carry. I choose to enter Your Presence with clean hands and a pure heart by the Blood of Jesus. I receive all miracles of provision, healing, deliverance, and freedom that You have for me today. Amen.”* #prayer #authority #jesus #sample-prayer
-<br>
+
 
 ---
 
@@ -225,7 +221,7 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 
 *I forgive all those people who trespassed against my Grandfather by lying about him. I wash their feet with the Blood of Jesus and the generational root of the trespass of lying is broken. Equally, I forgive all those people in my life who have trespassed against me by lying about me. I wash their feet with the Blood of Jesus and the power of lies is broken.  All false accusations, judgments, and opinions about me are washed away.  I also* #sample-prayer 
 
-<br>
+
 
 > [!info]- Editor's Note: 
 > This sample prayer refers to content from [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 18: Dismantling\|Chapter 18: Dismantling]]. Because it is printed this way in the physical copy of *Kingdom*, we will keep the prayer here until future editions. 
@@ -273,7 +269,7 @@ The Lord commands a blessing when we are unified (Psalm 133). When we begin to s
 
 *Jim, you were the victim here. If you agree, repeat after me. Heavenly Father, I forgive these people that hurt me.	I wash their feet with the Blood of Jesus and the power of their trespasses are broken. Every curse spoken against me is broken. All defilement: bloodshed, broken covenant, idolatry, and sexual immorality is washed away.	All lies, theft, betrayals, abandonment, and rejection is broken and washed away. All vows, oaths, and covenants of evil are dissolved. Everything that I witnessed, participated in, or consumed is void of power, broken, and washed away. All witchcraft: rituals, rites, spells, incantations, divination, hexes, potions, sorcery, candle magic, voodoo / voodoo dolls, shaman, and every human or animal sacrifice is dismantled, unraveled, undone, and rendered powerless. We are purified of this unrighteousness and redeemed of every consequence. We are restored to the men and women of God that we were created to be. I ask You Father to remember these sins no more. And just as You have remembered them no more, I ask that I would remember the pain no more. All pain in my body down to the cellular level is erased. All pain in my soul: mind, will, and emotions, is washed away.	And my wounded spirit is completely healed. I cast down the accuser* #sample-prayer 
 
-<br>
+
 
 > [!info]- Editors Note:
 > This sample prayer includes content from [[Tapestry/Books/1 - Kingdom/Terraforming for the Kingdom#Chapter 12: Healing a Person\|Chapter 12: Healing a Person]]. Because it is printed this way in the physical copy of *Kingdom*, we will keep the prayer here until future editions. 
@@ -358,7 +354,7 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 
 *Father I repent on behalf of the culture that I was born in, grew up in, have participated in, and currently live in. I ask You to forgive us in this City and to wash our feet with Your own Blood so that the power of pagan festivals is broken. All defilement is washed away. All curses are broken and all vows, oaths, or covenants of evil proclaimed during this time of the year are dissolved. All witchcraft is dismantled, unraveled, undone, and rendered powerless. We are purified of all unrighteousness and redeemed of every consequence, and so I call this time of year purified and redeemed as well. We are restored to the men and women of God that we were created to be. I ask You Lord to remember our sins no more. All rights of the evil one to manifest*
 
-<br>
+
 
 > [!info]- Editor's Note:
 > This prayer may not be directly referencing a specific section in the book. #to-do

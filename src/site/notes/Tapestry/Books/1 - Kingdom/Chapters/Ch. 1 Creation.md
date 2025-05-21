@@ -164,8 +164,6 @@ A final point to make is that there are problems that arise from choosing to cre
 
 to the requirement of our fallibility and our need for a savior. It pains me to hear people say that they cannot believe in a God that would “allow children to suffer.” If only they understood that it pains God too. He does not want them to suffer, but allows humans to have their free choices so Love can be fully defined. #love #freewill #choice #heart-of-God 
 
-
-
 #### Heaven and Hell
 
 To have love, there must be choice. But what are we choosing between? The simple answer is love and “not love,” which has been referred to by many as “good and evil.” God created good and evil, but did not force it upon us. We were allowed to choose even this very path and whether we would go down it or not. Adam and Eve made that choice on our behalf, but it was one that we all would have made as well. #choice #good-and-evil #not-love 
