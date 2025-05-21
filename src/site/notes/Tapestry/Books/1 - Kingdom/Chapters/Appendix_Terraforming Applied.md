@@ -8,8 +8,6 @@
 >
 > ###### [[Tapestry/Books/1 - Kingdom/Chapters/Kingdom_Table of Contents\|Table of Contents]]
 
----
-
 > [!example] 
 >###### Appendix Contents
 >[[Tapestry/Books/1 - Kingdom/Chapters/Appendix_Terraforming Applied#Appendix Terraforming Applied\|Appendix Start]]
