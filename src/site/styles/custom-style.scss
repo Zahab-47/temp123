@@ -8,6 +8,12 @@ a.tag, .editor .cl-hashtag {
    display: none;
 }
 
+/* Separator line attributes */
+
+.markdown-rendered hr {
+   border-top: .1em solid;
+}
+
    /* Center all Markdown headers */
 
 .markdown-preview-view h1,
