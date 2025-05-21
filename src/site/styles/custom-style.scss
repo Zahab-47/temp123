@@ -31,6 +31,36 @@ input[type=text], input[type=search], input[type=email], input[type=password], i
   width: 600px;
 }
 
+.search-button {
+  margin: 10px 40px !important;
+}
+
+/* FOLDER TREE SETTINGS */
+
+.filetree-sidebar {
+  padding: 0 0 0 0;
+  left: -3px;
+  width: 280px;
+  margin: 9px;
+  top: 1px;
+  height: 98%;
+  border-radius: 8px;
+  overflow-z: hidden;
+}
+
+@media (max-width: 800px) {
+    .filetree-sidebar .search-button {
+              margin: 11px 15px 4px 15px !important;
+}
+
+.foldername-wrapper {
+  font-size: .9em;
+}
+
+.filename {
+  font-size: .9em;
+}
+
 /* REMOVE NAV TIPS FROM SEARCH BOX FOOTER */
 
 .search-box-footer {
