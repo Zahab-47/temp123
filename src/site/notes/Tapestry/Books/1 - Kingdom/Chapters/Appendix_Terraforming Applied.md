@@ -9,12 +9,15 @@
 >
 >###### [[Tapestry/Books/1 - Kingdom/Chapters/Kingdom_Table of Contents\|Table of Contents]]
 >
-><br>
+
+> [!example] 
 >
->###### Appendix Contents
+>###### Appendix Sections
 >[[Tapestry/Books/1 - Kingdom/Chapters/Appendix_Terraforming Applied#Appendix Terraforming Applied\|Appendix Start]]
 >
-><br>
+
+> [!example] 
+>
 >
 >**SAMPLE PRAYERS**
 >
