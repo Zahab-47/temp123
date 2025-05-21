@@ -1,5 +1,13 @@
 #search-results .searchresult {
   font-size: .7rem;
+  padding: 0px;
+  background-color: none;
+}
+
+.search-link {
+    display: block;
+    margin-bottom: 0px;
+    font-size: 1rem;
 }
 
 /* Prevent auto-zooming on input focus */
