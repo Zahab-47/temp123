@@ -4,20 +4,23 @@
 
 
 > [!example] 
->###### Sections
+>
+>[[HUB - Blue Flame Library\|All Books]]
+>
+>[[Tapestry/Books/1 - Kingdom/Chapters/Kingdom_Table of Contents\|Table of Contents]]
+>
+
+> [!example] 
+>
+>###### Chapter Contents
+>[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation\|Chapter Start]]
+>
 >[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Love Defined\|Love Defined]]
 >[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Offspring Defined\|Offspring Defined]]
 >[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Heaven and Hell\|Heaven and Hell]]
 >[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Fallibility\|Fallibility]]
 >[[Tapestry/Books/1 - Kingdom/Chapters/Ch. 1 Creation#Savior\|Savior]] 
-
---- 
-> [!quote]
-> ###### [[HUB - Blue Flame Library\|All Books]]
 >
-> ###### [[Tapestry/Books/1 - Kingdom/Chapters/Kingdom_Table of Contents\|Table of Contents]]
-
----
 
 <div class="callout-grid">
 
