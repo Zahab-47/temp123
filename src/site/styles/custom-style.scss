@@ -1,3 +1,18 @@
+/* NAV BAR SETTINGS */
+
+h1, .markdown-rendered h1, .HyperMD-header-1, .HyperMD-list-line .cm-header-1 {
+  font-size: 1.9em !important;
+  font-family: serif;
+  font-weight: normal;
+}
+
+.navbar {
+  padding-left: 1em;
+  width: 105%;
+}
+
+/* SEARCH BOX SETTINGS */
+
 #search-results .searchresult {
   font-size: .7rem;
   padding: 0px;
@@ -33,6 +48,7 @@ input[type=text], input[type=search], input[type=email], input[type=password], i
 
 .search-button {
   margin: 10px 40px !important;
+  color: var(--background-modifier-border-focus);
 }
 
 /* FOLDER TREE SETTINGS */
@@ -59,6 +75,10 @@ input[type=text], input[type=search], input[type=email], input[type=password], i
 
 .filename {
   font-size: .9em;
+}
+
+svg.lucide.lucide-sticky-note.svg-icon {
+    display: none;
 }
 
 /* REMOVE NAV TIPS FROM SEARCH BOX FOOTER */
