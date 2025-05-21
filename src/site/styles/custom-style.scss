@@ -24,7 +24,7 @@ a.tag, .editor .cl-hashtag {
    margin-bottom: 1.3em;
 }
 
-/* Center all Markdown headers */
+/* MARKDOWN HEADERS CUSTOM */
 
 .markdown-preview-view h1,
 .markdown-preview-view h2,
@@ -39,6 +39,12 @@ a.tag, .editor .cl-hashtag {
 .markdown-preview-view h2,
 .markdown-preview-view h3 {
    margin-top: 1em;
+}
+
+.markdown-rendered h2 {
+    border: outset;
+    border-color: var(--background-alt);
+    margin: 15px;
 }
 
 /* ALL CALLOUTS FORMATTING */
