@@ -9,7 +9,7 @@
 >
 >[[Tapestry/Books/1 - Kingdom/Chapters/Kingdom_Table of Contents\|Table of Contents]]
 >
-
+---
 > [!example] 
 >
 >###### Chapter Contents
