@@ -1,4 +1,4 @@
-ive   /* Remove all tag elements */
+/* Remove all tag elements */
 
 a.tag {
    display: none;
@@ -16,7 +16,7 @@ a.tag, .editor .cl-hashtag {
    margin: 1em;
 }
 
-   /* Center all Markdown headers */
+/* Center all Markdown headers */
 
 .markdown-preview-view h1,
 .markdown-preview-view h2,
@@ -27,16 +27,21 @@ a.tag, .editor .cl-hashtag {
   text-align: center;
 }
 
-/* rotated toggle when collapsed */
-.collapsed::before {
-  transform: rotate(90deg);
-}
-
 /* ALL CALLOUTS FORMATTING */
 
 .callout {
    margin: 0em;
-   paddaing: 0em;
+   padding: 0em;
+}
+
+.callout-icon {
+   display: none;
+}
+
+.callout-title {
+   display: block;
+   line-height: unset;
+   padding: 1em;
 }
 
 /* QUOTE CALLOUT FORMATTING */
@@ -102,16 +107,6 @@ a.tag, .editor .cl-hashtag {
   min-height: 3em;
   text-align: center;
   background-color: var(--background-secondary);
-}
-
-.callout-icon {
-   display: none;
-}
-
-.callout-title {
-   display: block;
-   line-height: unset;
-   padding: 1em;
 }
 
 /* 3. hide nav-type icon/title badge */
