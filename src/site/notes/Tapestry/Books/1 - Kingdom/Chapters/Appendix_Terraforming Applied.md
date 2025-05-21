@@ -29,8 +29,6 @@
 
 </div>
 
----
-
 ## Appendix: Terraforming Applied
 
 > [!quote]+
@@ -335,8 +333,6 @@ Repeat starting at STEP TWO for each generation, listening to the Holy Spirit fo
 ---
 
 ### Sample Prayer: Concerning Blood
-
----
 
 > [!info]- Editor's Note:
 > This page may be referencing multiple chapters and sections in the book.
