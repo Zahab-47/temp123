@@ -8,10 +8,12 @@ a.tag, .editor .cl-hashtag {
    display: none;
 }
 
-/* Separator line attributes */
+/* Separator border line attributes */
 
 .markdown-rendered hr {
    border-top: .1em solid;
+   border-color: var(--hr-color);
+   margin: 1em;
 }
 
    /* Center all Markdown headers */
@@ -28,6 +30,13 @@ a.tag, .editor .cl-hashtag {
 /* rotated toggle when collapsed */
 .collapsed::before {
   transform: rotate(90deg);
+}
+
+/* ALL CALLOUTS FORMATTING */
+
+.callout {
+   margin: 0em;
+   paddaing: 0em;
 }
 
 /* QUOTE CALLOUT FORMATTING */
