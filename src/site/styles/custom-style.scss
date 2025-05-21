@@ -10,6 +10,20 @@
     font-size: 1rem;
 }
 
+.search-box {
+  padding: 0px;
+  transform: translateY(75px);
+  max-width: 90%;
+  border-radius: 12px;
+  width: 600px;
+}
+
+/* REMOVE NAV TIPS FROM SEARCH BOX FOOTER */
+
+.search-box-footer {
+  display: none
+}
+
 /* Prevent auto-zooming on input focus */
 
 html {
