@@ -51,6 +51,10 @@ input[type=text], input[type=search], input[type=email], input[type=password], i
   color: var(--link-color);
 }
 
+.span.search-keys {
+  margin-left: .4em;
+}
+
 /* FOLDER TREE SETTINGS */
 
 .filetree-sidebar {
